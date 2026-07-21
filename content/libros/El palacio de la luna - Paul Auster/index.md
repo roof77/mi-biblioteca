@@ -1,0 +1,97 @@
+---
+title: El palacio de la luna
+tags:
+- Ficción
+- EEUU
+- Contemporaneo
+- Novela
+- Literatura
+- Clásico
+- Siglo XX
+- Ficción Literaria
+autores:
+- Paul Auster
+cover:
+  image: cover.jpg
+  alt: Portada de El palacio de la luna
+date: '2013-10-01'
+libro:
+  id: 72165
+  titulo: El palacio de la luna
+  url: https://www.goodreads.com/book/show/72165.El_palacio_de_la_luna
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1455403318i/72165.jpg
+  sinopsis: Marco Stanley Fogg está a las puertas de la edad adulta cuando los astronautas ponen el pie en la luna. Hijo de
+    padre desconocido, fue educado por el excéntrico tío Victor, que tocaba el clarinete en orquestas de mala muerte. En los
+    albores de la era lunar, muerto su tío, Marco va cayendo progresivamente en la indigencia, la soledad y una suerte de
+    tranquila locura de matices dostoievskianos, hasta que la bella Kitty Wu lo rescata. Marco empieza entonces a trabajar
+    para un viejo pintor paralítico y escribe su biografía, que éste quiere legar a su hijo, al que no llegó a conocer. Tras
+    un largo periplo que lo lleva hasta el Oeste y bajo el influjo de la omnipresente luna, Marco descubrirá los misterios
+    de su origen y la identidad de su progenitor.
+autor:
+  nombre: Paul Auster
+  rol: Author
+  seguidores: 12381
+  obras: 236
+  url: https://www.goodreads.com/author/show/296961.Paul_Auster
+  bio: <b>Paul Auster</b> was the bestselling author of <i>4 3 2 1</i>, <i>Bloodbath Nation</i>, <i>Baumgartner</i>, <i>The
+    Book of Illusions</i>, and The New York Trilogy, among many other works. In 2006 he was awarded the Prince of Asturias
+    Prize for Literature. Among his other honors are the Prix Médicis Étranger for <i>Leviathan</i>, the Independent Spirit
+    Award for the screenplay of <i>Smoke</i>, and the Premio Napoli for <i>Sunset Park</i>. In 2012, he was the first recipient
+    of the NYC Literary Honors in the category of fiction. He was also a finalist for the International IMPAC Dublin Literary
+    Award (<i>The Book of Illusions</i>), the PEN/Faulkner Award (<i>The Music of Chance</i>), the Edgar Award (<i>City of
+    Glass</i>), and the Man Booker Prize (<i>4 3 2 1</i>). Auster was a member of the American Academy of Arts and Letters
+    and a Commandeur de l’Ordre des Arts et des Lettres. His work has been translated into more than forty languages. He died
+    at age seventy-seven in 2024.<br />
+colaboradores:
+- nombre: Maribel de Juan
+  rol: Translator
+  url: https://www.goodreads.com/author/show/14018.Maribel_de_Juan
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Editorial Anagrama
+  formato: Mass Market Paperback
+  paginas: 310
+  idioma: Spanish; Castilian
+  isbn: '8433914545'
+  isbn13: '9788433914545'
+  publicacion: '2013-10-01'
+  precio_kindle_usd: null
+personajes:
+- Marco Stanley Fogg
+- Uncle Victor
+- Thomas Effing
+- Julian Barber
+- Kitty Wu
+lugares:
+- nombre: New York City, New York
+  pais: United States
+  anno_ficcion: null
+- nombre: Utah
+  pais: United States
+  anno_ficcion: null
+estadisticas:
+  media: 3.98
+  distribucion_estrellas:
+    '5': 9663
+    '4': 12441
+    '3': 6200
+    '2': 1459
+    '1': 393
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- EEUU
+- Contemporaneo
+- Novela
+- Literatura
+- Clásico
+- Siglo XX
+- Ficción Literaria
+---
+
+Marco Stanley Fogg está a las puertas de la edad adulta cuando los astronautas ponen el pie en la luna. Hijo de padre desconocido, fue educado por el excéntrico tío Victor, que tocaba el clarinete en orquestas de mala muerte. En los albores de la era lunar, muerto su tío, Marco va cayendo progresivamente en la indigencia, la soledad y una suerte de tranquila locura de matices dostoievskianos, hasta que la bella Kitty Wu lo rescata. Marco empieza entonces a trabajar para un viejo pintor paralítico y escribe su biografía, que éste quiere legar a su hijo, al que no llegó a conocer. Tras un largo periplo que lo lleva hasta el Oeste y bajo el influjo de la omnipresente luna, Marco descubrirá los misterios de su origen y la identidad de su progenitor.

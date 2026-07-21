@@ -1,0 +1,95 @@
+---
+title: 'El libro de Gloria Fuertes: Antología de poemas y vida'
+tags:
+- Poesía
+- Feminismo
+- Queer
+- Mujeres
+- Literatura hispana
+- Biografía
+- España
+- LGTBIQ+
+autores:
+- Gloria Fuertes
+cover:
+  image: cover.jpg
+  alt: 'Portada de El libro de Gloria Fuertes: Antología de poemas y vida'
+date: '2017-03-01'
+libro:
+  id: 34408608
+  titulo: 'El libro de Gloria Fuertes: Antología de poemas y vida'
+  url: https://www.goodreads.com/book/show/34408608-el-libro-de-gloria-fuertes
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1702743978i/34408608.jpg
+  sinopsis: "Al fin en un mismo libro la vida y la obra de una poeta genial que vio su carrera ensombrecida primero por su\
+    \ género, después por su clase social y finalmente por su fama. \r\n\r\nEdición y textos de Jorge de Cascante.\r\n\r\n\
+    El libro sobre la verdadera Gloria Fuertes:\r\n\r\n– 448 páginas a todo color.\r\n– Más de 300 poemas, varios inéditos.\r\
+    \n– 80 fotos nunca vistas.\r\n– 12 dibujos hechos por Gloria.\r\n– La biografía glorista más completa hasta la fecha.\r\
+    \n– 25 anécdotas sobre su vida repartidas por todo el libro, contando encuentros y desencuentros de la poeta (¡nada de\
+    \ poetisa!).\r\n– Recortes de prensa.\r\n– Páginas de sus cuadernos de notas.\r\n– Flyers e invitaciones a sus lecturas\
+    \ (¡nada de recitales!).\r\n– Objetos preciados —y preciosos— encontrados en su casa de Madrid.\r\n– Un cómic de 16 páginas,\
+    \ obra de Carmen Segovia, que narra una escena de su época como profesora universitaria en Estados Unidos."
+autor:
+  nombre: Gloria Fuertes
+  rol: Author
+  seguidores: 172
+  obras: 168
+  url: https://www.goodreads.com/author/show/55726.Gloria_Fuertes
+  bio: ''
+colaboradores:
+- nombre: Jorge  de Cascante
+  rol: Editor
+  url: https://www.goodreads.com/author/show/7704607.Jorge_de_Cascante
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Blackie Books
+  formato: Hardcover
+  paginas: 448
+  idioma: Spanish; Castilian
+  isbn: '8416290733'
+  isbn13: '9788416290734'
+  publicacion: '2017-03-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4.67
+  distribucion_estrellas:
+    '5': 1196
+    '4': 374
+    '3': 68
+    '2': 10
+    '1': 3
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Poesía
+- Feminismo
+- Queer
+- Mujeres
+- Literatura hispana
+- Biografía
+- España
+- LGTBIQ+
+---
+
+Al fin en un mismo libro la vida y la obra de una poeta genial que vio su carrera ensombrecida primero por su género, después por su clase social y finalmente por su fama. 
+
+Edición y textos de Jorge de Cascante.
+
+El libro sobre la verdadera Gloria Fuertes:
+
+– 448 páginas a todo color.
+– Más de 300 poemas, varios inéditos.
+– 80 fotos nunca vistas.
+– 12 dibujos hechos por Gloria.
+– La biografía glorista más completa hasta la fecha.
+– 25 anécdotas sobre su vida repartidas por todo el libro, contando encuentros y desencuentros de la poeta (¡nada de poetisa!).
+– Recortes de prensa.
+– Páginas de sus cuadernos de notas.
+– Flyers e invitaciones a sus lecturas (¡nada de recitales!).
+– Objetos preciados —y preciosos— encontrados en su casa de Madrid.
+– Un cómic de 16 páginas, obra de Carmen Segovia, que narra una escena de su época como profesora universitaria en Estados Unidos.

@@ -1,0 +1,65 @@
+---
+title: El rumor de los suburbios
+tags: []
+autores:
+- Valentín Ladrero
+cover:
+  image: cover.jpg
+  alt: Portada de El rumor de los suburbios
+date: '2021-12-13'
+libro:
+  id: 60345340
+  titulo: El rumor de los suburbios
+  url: https://www.goodreads.com/book/show/60345340-el-rumor-de-los-suburbios
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1644259101i/60345340.jpg
+  sinopsis: "La relación entre cultura y clase lleva décadas, siglos, alimentando debates y polémicas. En el caso de la música,\
+    \ uno de los fenómenos culturales más masivamente mercantilizados de nuestras sociedades occidentales, esa relación goza\
+    \ de una prolijidad incontestable. Ya sea desde fuertes convergencias con lo mercantil o desde pulsiones contestatarias\
+    \ arraigadas, las gentes que habitan nuestras muchas periferias geográficas y sociales han hecho mil veces suyos los registros\
+    \ de la música. Valentín Ladrero centrará ahí su foco: en músicas paridas en los márgenes, en músicas que a menudo pasaron\
+    \ por confrontar primero estigmas y prejuicios antes de lograr cualquier otro tipo de reconocimiento.\r\n\r\nEsos territorios,\
+    \ en teoría poco proclives a la fortuna, constituirán el contexto de un recorrido delimitado aquí al siglo XX y las primeras\
+    \ décadas del XXI. Una periferia de sotabancos, de chabolas, de calles sin salida, de colmenas de pisos, de parques y\
+    \ descampados, de locales sin ventilación en donde se establecieron hombres y mujeres para quienes la música sería en\
+    \ ocasiones capaz de traer un plato caliente a casa, calmar el dolor y manifestar el inextinguible deseo de escribir su\
+    \ propia historia."
+autor:
+  nombre: Valentín Ladrero
+  rol: Author
+  seguidores: 2
+  obras: 2
+  url: https://www.goodreads.com/author/show/16197868.Valent_n_Ladrero
+  bio: ''
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: LA OVEJA ROJA
+  formato: Paperback
+  paginas: 392
+  idioma: Spanish; Castilian
+  isbn: '8416227454'
+  isbn13: '9788416227457'
+  publicacion: '2021-12-13'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3
+  distribucion_estrellas:
+    '5': 0
+    '4': 0
+    '3': 1
+    '2': 0
+    '1': 0
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos: []
+---
+
+La relación entre cultura y clase lleva décadas, siglos, alimentando debates y polémicas. En el caso de la música, uno de los fenómenos culturales más masivamente mercantilizados de nuestras sociedades occidentales, esa relación goza de una prolijidad incontestable. Ya sea desde fuertes convergencias con lo mercantil o desde pulsiones contestatarias arraigadas, las gentes que habitan nuestras muchas periferias geográficas y sociales han hecho mil veces suyos los registros de la música. Valentín Ladrero centrará ahí su foco: en músicas paridas en los márgenes, en músicas que a menudo pasaron por confrontar primero estigmas y prejuicios antes de lograr cualquier otro tipo de reconocimiento.
+
+Esos territorios, en teoría poco proclives a la fortuna, constituirán el contexto de un recorrido delimitado aquí al siglo XX y las primeras décadas del XXI. Una periferia de sotabancos, de chabolas, de calles sin salida, de colmenas de pisos, de parques y descampados, de locales sin ventilación en donde se establecieron hombres y mujeres para quienes la música sería en ocasiones capaz de traer un plato caliente a casa, calmar el dolor y manifestar el inextinguible deseo de escribir su propia historia.

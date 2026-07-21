@@ -1,0 +1,96 @@
+---
+title: 'El orden y el caos (El señor del tiempo #3)'
+tags:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+- Fantasía épica
+- Alta fantasía
+- Demonios
+- Ciencia ficción
+- Colecciones
+- Novela
+autores:
+- Louise Cooper
+cover:
+  image: cover.jpg
+  alt: 'Portada de El orden y el caos (El señor del tiempo #3)'
+date: '1988-01-01'
+libro:
+  id: 8161602
+  titulo: 'El orden y el caos (El señor del tiempo #3)'
+  url: https://www.goodreads.com/book/show/8161602-el-orden-y-el-caos
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1303245476i/8161602.jpg
+  sinopsis: "Tarod ha ganado su libertad, pero el anillo que contiene su alma ha desaparecido junto con la muchacha que ama.\r\
+    \n\r\nDel mismo modo que un siniestro Warp había arrojado a Cyllan al interior del Castillo, otra de esas sobrenaturales\
+    \ tormentas, legado del Caos, proyectando sus caóticos relámpagos, anunciando la oscuridad y haciendo avanzar sus grandes\
+    \ y pulsátiles franjas de color macilento, la había arrebatado de aquel lugar y de Tarod.\r\n\r\nAun en peligro de caer\
+    \ en manos de sus enemigos, él debía encontrar a Cyllan antes de que lo hiciera el Círculo. Sólo entonces podría cumplir\
+    \ el compromiso que se había impuesto de enfrentarse con los dioses, pues únicamente éstos eran capaces de destruir la\
+    \ piedra y el mal que había en ella.\r\n\r\nPero si el mal le alcanzaba, Tarod se vería obligado a aceptar la verdad de\
+    \ su propia herencia. Una herencia que podía provocar un conflicto titánico de fuerzas ocultas y lanzarle a una búsqueda\
+    \ definitiva de venganza, desestabilizando el equilibrio entre el Orden y el Caos, imprescindible para subsistir."
+autor:
+  nombre: Louise Cooper
+  rol: Author
+  seguidores: 231
+  obras: 157
+  url: https://www.goodreads.com/author/show/13023.Louise_Cooper
+  bio: Louise Cooper was born in Hertfordshire in 1952. She began writing stories when she was at school to entertain her
+    friends. She hated school so much, in fact—spending most lessons clandestinely writing stories—that she persuaded her
+    parents to let her abandon her education at the age of fifteen and has never regretted it.<br /><br />She continued to
+    write and her first full-length novel was published when she was only twenty years old. She moved to London in 1975 and
+    worked in publishing before becoming a full-time writer in 1977. Since then she has become a prolific writer of fantasy,
+    renowned for her bestselling Time Master trilogy. She has published more than eighty fantasy and supernatural novels,
+    both for adults and children. She also wrote occasional short stories for anthologies, and has co-written a comedy play
+    that was produced for her local school.<br /><br />Louise Cooper lived in Cornwall with her husband, Cas Sandall, and
+    their black cat, Simba. She gained a great deal of writing inspiration from the coast and scenery, and her other interests
+    included music, folklore, cooking, gardening and "messing about on the beach." Just to make sure she keeps busy, she was
+    also treasurer of her local Lifeboat station.<br /><br />Louise passed away suddenly from a brain aneurysm on Tuesday,
+    October 20, 2009. She was a wonderful and talented lady and will be greatly missed.
+colaboradores: []
+serie:
+  nombre: Time Master
+  posicion: '3'
+  url: https://www.goodreads.com/series/49484-time-master
+detalles:
+  editorial: Timun Mas
+  formato: Hardcover
+  paginas: 294
+  idioma: Spanish; Castilian
+  isbn: '8477221472'
+  isbn13: '9788477221470'
+  publicacion: '1988-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4.16
+  distribucion_estrellas:
+    '5': 810
+    '4': 667
+    '3': 336
+    '2': 61
+    '1': 15
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+- Fantasía épica
+- Alta fantasía
+- Demonios
+- Ciencia ficción
+- Colecciones
+- Novela
+---
+
+Tarod ha ganado su libertad, pero el anillo que contiene su alma ha desaparecido junto con la muchacha que ama.
+
+Del mismo modo que un siniestro Warp había arrojado a Cyllan al interior del Castillo, otra de esas sobrenaturales tormentas, legado del Caos, proyectando sus caóticos relámpagos, anunciando la oscuridad y haciendo avanzar sus grandes y pulsátiles franjas de color macilento, la había arrebatado de aquel lugar y de Tarod.
+
+Aun en peligro de caer en manos de sus enemigos, él debía encontrar a Cyllan antes de que lo hiciera el Círculo. Sólo entonces podría cumplir el compromiso que se había impuesto de enfrentarse con los dioses, pues únicamente éstos eran capaces de destruir la piedra y el mal que había en ella.
+
+Pero si el mal le alcanzaba, Tarod se vería obligado a aceptar la verdad de su propia herencia. Una herencia que podía provocar un conflicto titánico de fuerzas ocultas y lanzarle a una búsqueda definitiva de venganza, desestabilizando el equilibrio entre el Orden y el Caos, imprescindible para subsistir.

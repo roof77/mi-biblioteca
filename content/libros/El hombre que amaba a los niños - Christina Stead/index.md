@@ -1,0 +1,90 @@
+---
+title: El hombre que amaba a los niños
+tags:
+- Ficción
+- Clásico
+- Australia
+- Literatura
+- Novela
+- Siglo XX
+- Ficción Literaria
+- Mujeres
+- Club de lectura
+autores:
+- Christina Stead
+cover:
+  image: cover.jpg
+  alt: Portada de El hombre que amaba a los niños
+date: '2011-06-01'
+libro:
+  id: 20564788
+  titulo: El hombre que amaba a los niños
+  url: https://www.goodreads.com/book/show/20564788-el-hombre-que-amaba-a-los-ni-os
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1389966872i/20564788.jpg
+  sinopsis: "Sam y Henny Pollit tienen muchos niños, poco dinero y se odian demasiado entre sí.\r\nCuando Sam utiliza, para\
+    \ alimentar la voracidad de su ego, la veneración que sienten sus hijos por él, Henny lo observa con sombría desesperación,\
+    \ consciente de la amarga realidad que subyace a sus locas visiones."
+autor:
+  nombre: Christina Stead
+  rol: Author
+  seguidores: 135
+  obras: 42
+  url: https://www.goodreads.com/author/show/76328.Christina_Stead
+  bio: Christina Stead (1902–1983) was an Australian writer regarded as one of the twentieth century’s master novelists. Stead
+    spent most of her writing life in Europe and the United States, and her varied residences acted as the settings for a
+    number of her novels. She is best known for The Man Who Loved Children (1940), which was praised by author Jonathan Franzen
+    as a “crazy, gorgeous family novel” and “one of the great literary achievements of the twentieth century.” Stead died
+    in her native Australia in 1983.
+colaboradores:
+- nombre: Silvia Barbero
+  rol: Translator
+  url: https://www.goodreads.com/author/show/3422854.Silvia_Barbero
+- nombre: Felipe Benítez Reyes
+  rol: Contributor
+  url: https://www.goodreads.com/author/show/5302688.Felipe_Ben_tez_Reyes
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Pre-Textos
+  formato: Paperback
+  paginas: 720
+  idioma: Spanish; Castilian
+  isbn: '8415297157'
+  isbn13: '9788415297154'
+  publicacion: '2011-06-01'
+  precio_kindle_usd: null
+personajes:
+- Sam Pollit
+- Henny Pollit
+- Louie Pollit
+lugares:
+- nombre: The United States of America
+  pais: null
+  anno_ficcion: null
+estadisticas:
+  media: 3.56
+  distribucion_estrellas:
+    '5': 1347
+    '4': 1350
+    '3': 1067
+    '2': 550
+    '1': 417
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- Clásico
+- Australia
+- Literatura
+- Novela
+- Siglo XX
+- Ficción Literaria
+- Mujeres
+- Club de lectura
+---
+
+Sam y Henny Pollit tienen muchos niños, poco dinero y se odian demasiado entre sí.
+Cuando Sam utiliza, para alimentar la voracidad de su ego, la veneración que sienten sus hijos por él, Henny lo observa con sombría desesperación, consciente de la amarga realidad que subyace a sus locas visiones.

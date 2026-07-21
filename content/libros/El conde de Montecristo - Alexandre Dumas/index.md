@@ -1,0 +1,161 @@
+---
+title: El conde de Montecristo
+tags:
+- Clásico
+- Ficción
+- Ficción histórica
+- Aventuras
+- Literatura
+- Francia
+- Histórico
+- Novela
+- Literatura clásica
+autores:
+- Alexandre Dumas
+cover:
+  image: cover.jpg
+  alt: Portada de El conde de Montecristo
+date: '2017-01-31'
+libro:
+  id: 32332834
+  titulo: El conde de Montecristo
+  url: https://www.goodreads.com/book/show/32332834-el-conde-de-montecristo
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1488217105i/32332834.jpg
+  sinopsis: "Grandes Clásicos Literatura Random House nos brinda esta magnífica edición de una novela de enorme poder de sugestión,\
+    \ a través de la figura del hombre solitario que, tras sobrevivir a una vil traición, regresa para hacer justicia.\r\n\
+    \r\nEl conde de Montecristo es uno de los clásicos más populares de todos los tiempos. Desde su publicación, en 1844,\
+    \ no ha dejado de seducir al gran público con la inolvidable historia de su protagonista.\r\n\r\nEdmond Dantés es un joven\
+    \ marinero, honrado y cándido, que lleva una existencia tranquila. Quiere casarse con la hermosa Mercedes, pero su vida\
+    \ se verá arruinada cuando su mejor amigo, Ferdinand, deseoso de conquistar a su prometida, le traicione vilmente. Condenado\
+    \ a cumplir una condena que no merece en la siniestra prisión del castillo de If, Edmond vivirá una larga pesadilla de\
+    \ trece años. Obsesionado por su inesperado destino, dejará de lado sus convicciones en torno al bien y al mal, y se dedicará\
+    \ a tramar la venganza perfecta.\r\n\r\nHistoria transida de densidad moral y cívica, El conde de Montecristo es, hoy\
+    \ como ayer, una novela amena, iluminadora y fascinante en sus múltiples dimensiones.\r\n\r\nENGLISH DESCRIPTIONThrown\
+    \ in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of\
+    \ a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also\
+    \ to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’\
+    \ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success\
+    \ when it was first serialized in the 1840s.Robin Buss’s lively English translation is complete and unabridged, and remains\
+    \ faithful to the style of Dumas’s original. This edition includes an introduction, explanatory notes and suggestions\
+    \ for further reading."
+autor:
+  nombre: Alexandre Dumas
+  rol: Author
+  seguidores: 12916
+  obras: 6600
+  url: https://www.goodreads.com/author/show/4785.Alexandre_Dumas
+  bio: <i>This note regards <b>Alexandre Dumas, père</b>, the father of Alexandre Dumas, fils (son). For the son, see <a href="https://www.goodreads.com/author/show/3186713.Alexandre_Dumas_fils"
+    title="Alexandre Dumas fils" rel="nofollow noopener">Alexandre Dumas fils</a>.</i><br /><br />Alexandre Dumas père, born
+    Alexandre Dumas Davy de la Pailleterie, was a towering figure of 19th-century French literature whose historical novels
+    and adventure tales earned global renown. Best known for The Three Musketeers, The Count of Monte Cristo, and other swashbuckling
+    epics, Dumas crafted stories filled with daring heroes, dramatic twists, and vivid historical backdrops. His works, often
+    serialized and immensely popular with the public, helped shape the modern adventure genre and remain enduring staples
+    of world literature.<br />Dumas was the son of Thomas-Alexandre Dumas, a celebrated general in Revolutionary France and
+    the highest-ranking man of African descent in a European army at the time. His father’s early death left the family in
+    poverty, but Dumas’s upbringing was nonetheless marked by strong personal ambition and a deep admiration for his father’s
+    achievements. He moved to Paris as a young man and began his literary career writing for the theatre, quickly rising to
+    prominence in the Romantic movement with successful plays like Henri III et sa cour and Antony.<br />In the 1840s, Dumas
+    turned increasingly toward prose fiction, particularly serialized novels, which reached vast audiences through French
+    newspapers. His collaboration with <a href="https://www.goodreads.com/author/show/3141704._Auguste_Maquet" title=" Auguste
+    Maquet" rel="nofollow noopener"> Auguste Maquet</a>, a skilled plotter and historian, proved fruitful. While Maquet drafted
+    outlines and conducted research, Dumas infused the narratives with flair, dialogue, and color. The result was a string
+    of literary triumphs, including The Three Musketeers and The Count of Monte Cristo, both published in 1844. These novels
+    exemplified Dumas’s flair for suspenseful pacing, memorable characters, and grand themes of justice, loyalty, and revenge.<br
+    />The D’Artagnan Romances—The Three Musketeers, Twenty Years After, and The Vicomte of Bragelonne—cemented his fame. They
+    follow the adventures of the titular Gascon hero and his comrades Athos, Porthos, and Aramis, blending historical fact
+    and fiction into richly imagined narratives. The Count of Monte Cristo offered a darker, more introspective tale of betrayal
+    and retribution, with intricate plotting and a deeply philosophical core.<br />Dumas was also active in journalism and
+    theater. He founded the Théâtre Historique in Paris, which staged dramatizations of his own novels. A prolific and energetic
+    writer, he is estimated to have written or co-written over 100,000 pages of fiction, plays, memoirs, travel books, and
+    essays. He also had a strong interest in food and published a massive culinary encyclopedia, Le Grand Dictionnaire de
+    cuisine, filled with recipes, anecdotes, and reflections on gastronomy.<br />Despite his enormous success, Dumas was frequently
+    plagued by financial troubles. He led a lavish lifestyle, building the ornate Château de Monte-Cristo near Paris, employing
+    large staffs, and supporting many friends and relatives. His generosity and appetite for life often outpaced his income,
+    leading to mounting debts. Still, his creative drive rarely waned.<br />Dumas’s mixed-race background was a source of
+    both pride and tension in his life. He was outspoken about his heritage and used his platform to address race and injustice.
+    In his novel Georges, he explored issues of colonialism and identity through a Creole protagonist. Though he encountered
+    racism, he refused to be silenced, famously replying to a racial insult by pointing to his ancestry and achievements with
+    dignity and wit.<br />Later in life, Dumas continued writing and traveling, spending time in Belgium, Italy, and Russia.
+    He supported nationalist causes, particularly Italian unification, and even founded a newspaper to advocate for <a href="https://www.goodreads.com/author/show/655290._Giuseppe_Garibaldi"
+    title=" Giuseppe Garibaldi" rel="nofollow noopener"> Giuseppe Garibaldi</a>. Though his popularity waned somewhat in his
+    final years, his literary legacy grew steadily. He wrote in a style that was accessible, entertaining, and emotionally
+    reso
+colaboradores: []
+serie:
+  nombre: Le Comte de Monte-Cristo / The Count of Monte Cristo
+  posicion: ''
+  url: https://www.goodreads.com/series/410851-le-comte-de-monte-cristo-the-count-of-monte-cristo
+detalles:
+  editorial: Penguin Clásicos
+  formato: Mass Market Paperback
+  paginas: 1176
+  idioma: Spanish; Castilian
+  isbn: '8491052429'
+  isbn13: '9788491052425'
+  publicacion: '2017-01-31'
+  precio_kindle_usd: null
+personajes:
+- Edmond Dantès
+- Abbé Faria
+- Giovanni Bertuccio
+- Luigi Vampa
+- Haydée
+- Mercédès Mondego
+- Fernand Mondego
+- Albert de Morcerf
+- Baron Danglars
+- Gérard de Villefort
+- Valentine de Villefort
+- Noirtier de Villefort
+- Héloïse de Villefort
+- Pierre Morrel
+- Maximilien Morrel
+- Franz d'Épinay
+- Eugénie Danglars
+- Hermine Danglars
+- Benedetto
+- Gaspar Kadrus
+- Ali Pasha of Ioannina
+- Vassiliki Kontaxi
+lugares:
+- nombre: Marseille
+  pais: France
+  anno_ficcion: 1815
+- nombre: Paris
+  pais: France
+  anno_ficcion: 1840
+- nombre: France
+  pais: null
+  anno_ficcion: null
+estadisticas:
+  media: 4.33
+  distribucion_estrellas:
+    '5': 591395
+    '4': 300749
+    '3': 129470
+    '2': 31230
+    '1': 14258
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Clásico
+- Ficción
+- Ficción histórica
+- Aventuras
+- Literatura
+- Francia
+- Histórico
+- Novela
+- Literatura clásica
+---
+
+Grandes Clásicos Literatura Random House nos brinda esta magnífica edición de una novela de enorme poder de sugestión, a través de la figura del hombre solitario que, tras sobrevivir a una vil traición, regresa para hacer justicia.
+
+El conde de Montecristo es uno de los clásicos más populares de todos los tiempos. Desde su publicación, en 1844, no ha dejado de seducir al gran público con la inolvidable historia de su protagonista.
+
+Edmond Dantés es un joven marinero, honrado y cándido, que lleva una existencia tranquila. Quiere casarse con la hermosa Mercedes, pero su vida se verá arruinada cuando su mejor amigo, Ferdinand, deseoso de conquistar a su prometida, le traicione vilmente. Condenado a cumplir una condena que no merece en la siniestra prisión del castillo de If, Edmond vivirá una larga pesadilla de trece años. Obsesionado por su inesperado destino, dejará de lado sus convicciones en torno al bien y al mal, y se dedicará a tramar la venganza perfecta.
+
+Historia transida de densidad moral y cívica, El conde de Montecristo es, hoy como ayer, una novela amena, iluminadora y fascinante en sus múltiples dimensiones.
+
+ENGLISH DESCRIPTIONThrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.Robin Buss’s lively English translation is complete and unabridged, and remains faithful to the style of Dumas’s original. This edition includes an introduction, explanatory notes and suggestions for further reading.

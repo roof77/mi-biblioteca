@@ -1,0 +1,62 @@
+---
+title: El duende del hogar
+tags: []
+autores:
+- Teffi
+cover:
+  image: cover.jpg
+  alt: Portada de El duende del hogar
+date: '2010-09-01'
+libro:
+  id: 21529805
+  titulo: El duende del hogar
+  url: https://www.goodreads.com/book/show/21529805-el-duende-del-hogar
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1395521787i/21529805.jpg
+  sinopsis: "En un mundo gris de enfrentamientos políticos, apartamentos comunales, burócratas sombríos, y una estructura\
+    \ social arcaica, los personajes de Teffi nos conmueven con sus adversidades y sus absurdos sueños de grandeza. \r\nEn\
+    \ sus viñetas satíricas, Teffi retrató con una dulzura incomparable al hombre medio de la Rusia justamente anterior a\
+    \ la revolución. Su mirada aguda da vida a unos personajes herederos de Molière y de Gógol, cuyas esperanzas se dan de\
+    \ bruces contra la desangelada realidad política y social de una Rusia que ya no existe, pero cuyos ecos nos llegan hasta\
+    \ la Rusia de hoy día."
+autor:
+  nombre: Teffi
+  rol: Author
+  seguidores: 77
+  obras: 112
+  url: https://www.goodreads.com/author/show/10270319.Teffi
+  bio: 'Teffi (<a href="https://www.goodreads.com/author/show/6582873._____" title="Тэффи" rel="nofollow noopener">Тэффи</a>)
+    was a Russian humorist writer. Teffi is a pseudonym. Her real name was Nadezhda Alexandrovna Lokhvitskaya (Надежда Александровна
+    Лoхвицкая); after her marriage Buchinskaya (Бучинская). Together with Arkady Averchenko she was one of the most prominent
+    authors of the Satiricon magazine. '
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Nevsky Prospects
+  formato: Paperback
+  paginas: 180
+  idioma: Spanish; Castilian
+  isbn: '8493746665'
+  isbn13: '9788493746667'
+  publicacion: '2010-09-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.53
+  distribucion_estrellas:
+    '5': 8
+    '4': 6
+    '3': 15
+    '2': 1
+    '1': 2
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos: []
+---
+
+En un mundo gris de enfrentamientos políticos, apartamentos comunales, burócratas sombríos, y una estructura social arcaica, los personajes de Teffi nos conmueven con sus adversidades y sus absurdos sueños de grandeza. 
+En sus viñetas satíricas, Teffi retrató con una dulzura incomparable al hombre medio de la Rusia justamente anterior a la revolución. Su mirada aguda da vida a unos personajes herederos de Molière y de Gógol, cuyas esperanzas se dan de bruces contra la desangelada realidad política y social de una Rusia que ya no existe, pero cuyos ecos nos llegan hasta la Rusia de hoy día.
