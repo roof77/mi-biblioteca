@@ -1,0 +1,88 @@
+---
+title: Como en otro mundo
+tags:
+- Ficción
+- Contemporaneo
+- Novela
+- Ficción Literaria
+- Club de lectura
+- Literatura
+- Ficción adulta
+- EEUU
+- Adultos
+- Colegio
+autores:
+- Russell Banks
+cover:
+  image: cover.jpg
+  alt: Portada de Como en otro mundo
+date: '1994-02-01'
+libro:
+  id: 378636
+  titulo: Como en otro mundo
+  url: https://www.goodreads.com/book/show/378636.Como_en_otro_mundo
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1544534388i/378636.jpg
+  sinopsis: Un autobús escolar de una pequeña ciudad del estado de Nueva York sufre un absurdo accidente en el que mueren
+    varios niños. Y ya nada volverá a ser lo mismo en la apacible comunidad que ha perdido a algunos de sus hijos, una parte
+    de su futuro. El autor nos sumerge en los entresijos de esta tragedia que corroe hasta sus cimientos la vida ciudadana,
+    nos acerca a la vida cotidiana de hombres y mujeres que se preguntan, perplejos y dolidos, por qué ocurren cosas así,
+    mientras tratan de sobreponerse y seguir viviendo.
+autor:
+  nombre: Russell Banks
+  rol: Author
+  seguidores: 1042
+  obras: 106
+  url: https://www.goodreads.com/author/show/15128.Russell_Banks
+  bio: Russell Banks was a member of the International Parliament of Writers and a member of the American Academy of Arts
+    and Letters. His work has been translated into twenty languages and has received numerous international prizes and awards.
+    He has written fiction, and more recently, non-fiction, with <i>Dreaming up America.</i> His main works include the novels
+    <i>Continental Drift, Rule of the Bone, Cloudsplitter, The Sweet Hereafter,</i> and <i>Affliction.</i> The latter two
+    novels were each made into feature films in 1997.
+colaboradores:
+- nombre: Benito Gómez Ibáñez
+  rol: Translator
+  url: https://www.goodreads.com/author/show/4678432.Benito_G_mez_Ib_ez
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Editorial Anagrama
+  formato: Hardcover
+  paginas: 207
+  idioma: Spanish; Castilian
+  isbn: '8433906488'
+  isbn13: '9788433906489'
+  publicacion: '1994-02-01'
+  precio_kindle_usd: null
+personajes:
+- Dolores Driscoll
+- Nichole Smythe Burnell
+- Mitchell Stephens, Esquire
+- Billy Ansel (Sweet Hereafter)
+lugares: []
+estadisticas:
+  media: 3.87
+  distribucion_estrellas:
+    '5': 2630
+    '4': 4635
+    '3': 2510
+    '2': 520
+    '1': 143
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- Contemporaneo
+- Novela
+- Ficción Literaria
+- Club de lectura
+- Literatura
+- Ficción adulta
+- EEUU
+- Adultos
+- Colegio
+---
+
+Un autobús escolar de una pequeña ciudad del estado de Nueva York sufre un absurdo accidente en el que mueren varios niños. Y ya nada volverá a ser lo mismo en la apacible comunidad que ha perdido a algunos de sus hijos, una parte de su futuro. El autor nos sumerge en los entresijos de esta tragedia que corroe hasta sus cimientos la vida ciudadana, nos acerca a la vida cotidiana de hombres y mujeres que se preguntan, perplejos y dolidos, por qué ocurren cosas así, mientras tratan de sobreponerse y seguir viviendo.

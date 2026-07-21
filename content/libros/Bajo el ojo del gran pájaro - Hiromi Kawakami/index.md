@@ -1,0 +1,96 @@
+---
+title: Bajo el ojo del gran pájaro
+tags:
+- Ficción
+- Ciencia ficción
+- Japón
+- Relatos
+- Distopía
+- Literatura japanesa
+- Ficción especulativa
+- Ficción Literaria
+- Ásia
+autores:
+- Hiromi Kawakami
+cover:
+  image: cover.jpg
+  alt: Portada de Bajo el ojo del gran pájaro
+date: '2026-04-30'
+libro:
+  id: 246992737
+  titulo: Bajo el ojo del gran pájaro
+  url: https://www.goodreads.com/book/show/246992737-bajo-el-ojo-del-gran-p-jaro
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1769163375i/246992737.jpg
+  sinopsis: "En un futuro lejano, los humanos están al borde de la extinción y se han establecido por todo el planeta en pequeñas\
+    \ tribus bajo la observación y el cuidado de \"Madres\". Algunos niños nacen en fábricas a partir de células de conejos\
+    \ y delfines; otros viven obteniendo nutrientes del agua y la luz, como las plantas. La supervivencia de la raza depende\
+    \ del mestizaje de estos y otros seres extraterrestres, pero no es seguro que la conexión, el amor, la reproducción y\
+    \ la evolución persistan entre los habitantes de este nuevo mundo en crisis.\r\n\r\nDesarrollándose a lo largo de catorce\
+    \ episodios interconectados que abarcan eones geológicos, a la vez técnicos y pastorales, tristes y utópicos, Bajo el\
+    \ ojo del gran Pájaro presenta una visión asombrosa del fin de nuestra especie tal como la conocemos."
+autor:
+  nombre: Hiromi Kawakami
+  rol: Author
+  seguidores: 3800
+  obras: 117
+  url: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+  bio: Kawakami Hiromi (<a href="https://www.goodreads.com/author/show/13531353.____" title="川上弘美" rel="nofollow noopener">川上弘美</a>
+    <i>Kawakami Hiromi</i>) born April 1, 1958, is a Japanese writer known for her off-beat fiction.<br /><br />Born in Tokyo,
+    Kawakami graduated from Ochanomizu Women's College in 1980. She made her debut as "Yamada Hiromi" in NW-SF No. 16, edited
+    by Yamano Koichi and Yamada Kazuko, in 1980 with the story <i>So-shimoku</i> ("Diptera"), and also helped edit some early
+    issues of NW-SF in the 1970s. She reinvented herself as a writer and wrote her first book, a collection of short stories
+    entitled <i>God</i> (<i>Kamisama</i>) published in 1994. Her novel <i>The Teacher's Briefcase</i> (<i>Sensei no kaban</i>)
+    is a love story between a woman in her thirties and a man in his sixties. She is also known as a literary critic and a
+    provocative essayist.<br /><br />(from Wikipedia)
+colaboradores:
+- nombre: Yoko Ogihara
+  rol: Traductora
+  url: https://www.goodreads.com/author/show/4080512.Yoko_Ogihara
+- nombre: Fernando Cordobés
+  rol: Traductor
+  url: https://www.goodreads.com/author/show/4080513.Fernando_Cordob_s
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Alfaguara
+  formato: Paperback
+  paginas: 280
+  idioma: Spanish; Castilian
+  isbn: null
+  isbn13: null
+  publicacion: '2026-04-30'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.72
+  distribucion_estrellas:
+    '5': 1709
+    '4': 3327
+    '3': 2378
+    '2': 637
+    '1': 121
+premios:
+  ganados: []
+  nominaciones:
+  - nombre: International Booker Prize
+    categoria: Shortlist
+    anno: 2025
+    resultado: NOMINEE
+generos_traducidos:
+- Ficción
+- Ciencia ficción
+- Japón
+- Relatos
+- Distopía
+- Literatura japanesa
+- Ficción especulativa
+- Ficción Literaria
+- Ásia
+---
+
+En un futuro lejano, los humanos están al borde de la extinción y se han establecido por todo el planeta en pequeñas tribus bajo la observación y el cuidado de "Madres". Algunos niños nacen en fábricas a partir de células de conejos y delfines; otros viven obteniendo nutrientes del agua y la luz, como las plantas. La supervivencia de la raza depende del mestizaje de estos y otros seres extraterrestres, pero no es seguro que la conexión, el amor, la reproducción y la evolución persistan entre los habitantes de este nuevo mundo en crisis.
+
+Desarrollándose a lo largo de catorce episodios interconectados que abarcan eones geológicos, a la vez técnicos y pastorales, tristes y utópicos, Bajo el ojo del gran Pájaro presenta una visión asombrosa del fin de nuestra especie tal como la conocemos.

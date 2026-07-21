@@ -1,0 +1,84 @@
+---
+title: Calvin y Hobbes para principiantes
+tags:
+- Comics
+- Humor
+- Novela gráfica
+- Ficción
+- Niños
+- Comedia
+- Clásico
+- Tiras
+autores:
+- Bill Watterson
+cover:
+  image: cover.jpg
+  alt: Portada de Calvin y Hobbes para principiantes
+date: '2001-04-01'
+libro:
+  id: 10807224
+  titulo: Calvin y Hobbes para principiantes
+  url: https://www.goodreads.com/book/show/10807224-calvin-y-hobbes-para-principiantes
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1307560198i/10807224.jpg
+  sinopsis: "Ediciones B relanza, con nuevo diseño de cubierta, una de las colecciones más emblemáticas del cómic mundial,\
+    \ Calvin y Hobbes. En julio se edita el N.º 7 de la serie creada por Bill Watterson. Calvin y Hobbes relata, en clave\
+    \ de humor, las aventuras de Calvin (un niño de seis años) y Hobbes (su tigre de peluche). \r\n\r\nEl cómic tiene numerosos\
+    \ ejemplos de niños, más o menos terribles, en su historia. Algunos han marcado toda una época y, aún hoy, gozan de una\
+    \ gran popularidad como Carlitos o Mafalda. Calvin es el moderno heredero de todos ellos y una de las criaturas más terribles\
+    \ que ha dado el cómic. El contrapunto a la ingenuidad bobalicona de Carlitos y a la nobleza de Mafalda. Calvin es egoísta,\
+    \ contestón, maleducado y odia la escuela por encima de todas las cosas."
+autor:
+  nombre: Bill Watterson
+  rol: Author
+  seguidores: 4953
+  obras: 418
+  url: https://www.goodreads.com/author/show/13778.Bill_Watterson
+  bio: 'Bill Watterson (born William Boyd Watterson II) is an American cartoonist, and the author of the comic strip "Calvin
+    and Hobbes". His career as a syndicated cartoonist ran from 1985 to 1995; he stopped drawing "Calvin and Hobbes" at the
+    end of 1995 with a short statement to newspaper editors and his fans that he felt he had achieved all he could in the
+    comic strip medium. During the early years of his career he produced several drawings and additional contributions for
+    "Target: The Political Cartoon Quarterly". Watterson is known for his views on licensing and comic syndication, as well
+    as for his reclusive nature.'
+colaboradores: []
+serie:
+  nombre: Calvin and Hobbes
+  posicion: 1-2
+  url: https://www.goodreads.com/series/58116-calvin-and-hobbes
+detalles:
+  editorial: Ediciones B
+  formato: Hardcover
+  paginas: 255
+  idioma: Spanish; Castilian
+  isbn: '8466650008'
+  isbn13: '9788466650007'
+  publicacion: '2001-04-01'
+  precio_kindle_usd: null
+personajes:
+- Calvin
+- Hobbes
+lugares: []
+estadisticas:
+  media: 4.65
+  distribucion_estrellas:
+    '5': 93486
+    '4': 21333
+    '3': 6749
+    '2': 1355
+    '1': 1165
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Comics
+- Humor
+- Novela gráfica
+- Ficción
+- Niños
+- Comedia
+- Clásico
+- Tiras
+---
+
+Ediciones B relanza, con nuevo diseño de cubierta, una de las colecciones más emblemáticas del cómic mundial, Calvin y Hobbes. En julio se edita el N.º 7 de la serie creada por Bill Watterson. Calvin y Hobbes relata, en clave de humor, las aventuras de Calvin (un niño de seis años) y Hobbes (su tigre de peluche). 
+
+El cómic tiene numerosos ejemplos de niños, más o menos terribles, en su historia. Algunos han marcado toda una época y, aún hoy, gozan de una gran popularidad como Carlitos o Mafalda. Calvin es el moderno heredero de todos ellos y una de las criaturas más terribles que ha dado el cómic. El contrapunto a la ingenuidad bobalicona de Carlitos y a la nobleza de Mafalda. Calvin es egoísta, contestón, maleducado y odia la escuela por encima de todas las cosas.

@@ -1,0 +1,97 @@
+---
+title: 'Cuentos de los mitos de Cthulhu 2: El legado'
+tags:
+- Terror
+autores:
+- Francisco Torres Oliver
+cover:
+  image: cover.jpg
+  alt: 'Portada de Cuentos de los mitos de Cthulhu 2: El legado'
+date: '2007-01-01'
+libro:
+  id: 35884873
+  titulo: 'Cuentos de los mitos de Cthulhu 2: El legado'
+  url: https://www.goodreads.com/book/show/35884873-cuentos-de-los-mitos-de-cthulhu-2
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1501520172i/35884873.jpg
+  sinopsis: "H.P. Lovecraft (sumo sacerdote de los Mitos de Cthulhu) se sentía un extraño en su Providence natal y en el tiempo\
+    \ que le había tocado vivir; en la ficción de Cthulhu HPL extrapola ese sentimiento al hombre moderno en el cosmos: una\
+    \ entidad extraña, perdida, a la deriva, que oscila en el borde de un abismo espantoso. El relato La llamada de Cthulhu\
+    \ (Weird Tales, 1928) de H.P. Lovecraft, presentaba el hallazgo de un ser inmemorial e indescriptible, llegado hace eones\
+    \ a la Tierra desde el espacio exterior, que yacía dormido en el fondo del océano. La sugestión de un cosmos hostil poblado\
+    \ por deidades amorales y abominables que reinan en los negros vórtices del caos sedujo a un grupo de escritores de terror\
+    \ y ciencia ficción amigos de Lovecraft, y les impulsó a continuar o completar con sus relatos la atractiva idea esbozada\
+    \ por aquella historia, configurando con el tiempo todos estos relatos una especie de espantosa mitología, los Mitos de\
+    \ Cthulhu, abierta a nuevas inclusiones y homenajes.\r\n\r\nTras la publicación en el número anterior de esta colección\
+    \ de Cuentos de los Mitos de Cthulhu. Los orígenes, el presente volumen, Cuentos de los Mitos de Cthulhu. El legado, reúne\
+    \ los relatos lovecraftianos (ya publicados en Cthulhu, una celebración de los mitos, en la colección Gótica) de una generación\
+    \ de escritores de terror y ciencia ficción heredera del «Círculo de Lovecraft», los pioneros de los Mitos, como Fritz\
+    \ Leiber (El terror de las profundidades), Brian Lumley (Suben con Surtsey), Ramsey Campbell (Edición fría), Colin Wilson\
+    \ (El regreso de los lloigor) y Stephen King (Jerusalem’s Lot), entre otros."
+autor:
+  nombre: Francisco Torres Oliver
+  rol: Editor
+  seguidores: 9
+  obras: 106
+  url: https://www.goodreads.com/author/show/29072.Francisco_Torres_Oliver
+  bio: ''
+colaboradores:
+- nombre: Brian Lumley
+  rol: Author
+  url: https://www.goodreads.com/author/show/20602.Brian_Lumley
+- nombre: Richard A. Lupoff
+  rol: Author
+  url: https://www.goodreads.com/author/show/10088.Richard_A_Lupoff
+- nombre: Karl Edward Wagner
+  rol: Author
+  url: https://www.goodreads.com/author/show/88014.Karl_Edward_Wagner
+- nombre: Philip José Farmer
+  rol: Author
+  url: https://www.goodreads.com/author/show/10089.Philip_Jos_Farmer
+- nombre: Fritz Leiber
+  rol: Author
+  url: https://www.goodreads.com/author/show/23001.Fritz_Leiber
+- nombre: Joanna Russ
+  rol: Author
+  url: https://www.goodreads.com/author/show/52310.Joanna_Russ
+- nombre: Colin Wilson
+  rol: Author
+  url: https://www.goodreads.com/author/show/9016.Colin_Wilson
+- nombre: Ramsey Campbell
+  rol: Author
+  url: https://www.goodreads.com/author/show/18253.Ramsey_Campbell
+- nombre: Stephen  King
+  rol: Author
+  url: https://www.goodreads.com/author/show/3389.Stephen_King
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Valdemar
+  formato: Paperback
+  paginas: 514
+  idioma: Spanish; Castilian
+  isbn: '8477025754'
+  isbn13: '9788477025757'
+  publicacion: '2007-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.79
+  distribucion_estrellas:
+    '5': 10
+    '4': 14
+    '3': 11
+    '2': 2
+    '1': 1
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Terror
+---
+
+H.P. Lovecraft (sumo sacerdote de los Mitos de Cthulhu) se sentía un extraño en su Providence natal y en el tiempo que le había tocado vivir; en la ficción de Cthulhu HPL extrapola ese sentimiento al hombre moderno en el cosmos: una entidad extraña, perdida, a la deriva, que oscila en el borde de un abismo espantoso. El relato La llamada de Cthulhu (Weird Tales, 1928) de H.P. Lovecraft, presentaba el hallazgo de un ser inmemorial e indescriptible, llegado hace eones a la Tierra desde el espacio exterior, que yacía dormido en el fondo del océano. La sugestión de un cosmos hostil poblado por deidades amorales y abominables que reinan en los negros vórtices del caos sedujo a un grupo de escritores de terror y ciencia ficción amigos de Lovecraft, y les impulsó a continuar o completar con sus relatos la atractiva idea esbozada por aquella historia, configurando con el tiempo todos estos relatos una especie de espantosa mitología, los Mitos de Cthulhu, abierta a nuevas inclusiones y homenajes.
+
+Tras la publicación en el número anterior de esta colección de Cuentos de los Mitos de Cthulhu. Los orígenes, el presente volumen, Cuentos de los Mitos de Cthulhu. El legado, reúne los relatos lovecraftianos (ya publicados en Cthulhu, una celebración de los mitos, en la colección Gótica) de una generación de escritores de terror y ciencia ficción heredera del «Círculo de Lovecraft», los pioneros de los Mitos, como Fritz Leiber (El terror de las profundidades), Brian Lumley (Suben con Surtsey), Ramsey Campbell (Edición fría), Colin Wilson (El regreso de los lloigor) y Stephen King (Jerusalem’s Lot), entre otros.
