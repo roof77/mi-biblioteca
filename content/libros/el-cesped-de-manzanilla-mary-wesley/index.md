@@ -1,0 +1,115 @@
+---
+title: El césped de manzanilla
+tags:
+- Ficción
+- Ficción histórica
+- Histórico
+- Segunda guerra mundial
+- Literatura británica
+- Guerra
+- Siglo XX
+- Clásico
+- Novela
+- Club de lectura
+autores:
+- Mary Wesley
+colaboradores:
+- Catalina Martínez Muñoz
+editoriales:
+- Alba editorial
+colaboradores_detalle:
+- nombre: Catalina Martínez Muñoz
+  rol: translator
+  url: https://www.goodreads.com/author/show/2983463.Catalina_Mart_nez_Mu_oz
+cover:
+  image: cover.jpg
+  alt: Portada de El césped de manzanilla
+date: '2022-01-01'
+libro:
+  id: 60713677
+  titulo: El césped de manzanilla
+  url: https://www.goodreads.com/book/show/60713677-el-c-sped-de-manzanilla
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1648549003i/60713677.jpg
+  sinopsis: "Agosto de 1939. En la casa familiar de Cornualles se juntan como todos los veranos los cinco primos Cuthbertson:\
+    \ el mayor, Oliver, acaba de volver, herido, de la Guerra Civil española; la menor, Sophy, tiene diez años y está locamente\
+    \ enamorada de él. La guerra los separa y los marca para siempre. Cuarenta y cinco años después, se reúnen en un funeral.\
+    \ Un vertiginoso carrusel de amantes, exclusivos o compartidos, gira en torno a la muerte y al horror, a las casas destruidas\
+    \ y a la Inglaterra poblada de antisemitas y filonazis, pero se impone a todo con un insaciable e insolente vitalismo.\r\
+    \n\r\nThe Camomile Lawn (1984)"
+autor:
+  nombre: Mary Wesley
+  rol: Author
+  seguidores: 187
+  obras: 71
+  url: https://www.goodreads.com/author/show/87093.Mary_Wesley
+  bio: 'Mary Wesley, CBE was an English novelist. She reportedly worked in MI5 during World War II. During her career, she
+    became one of Britain''s most successful novelists, selling three million copies of her books, including 10 best-sellers
+    in the last 20 years of her life.<br /><br />She wrote three children''s books, Speaking Terms and The Sixth Seal (both
+    1969) and Haphazard House (1983), before publishing adult fiction. Since her first adult novel was published only in 1983,
+    when she was 71, she may be regarded as a late bloomer. The publication of Jumping the Queue in 1983 was the beginning
+    of an intensely creative period of Wesley''s life. From 1982 to 1991, she wrote and delivered seven novels. While she
+    aged from 70 to 79 she still showed the focus and drive of a young person.<br />Her best known book, The Camomile Lawn,
+    set on the Roseland Peninsula in Cornwall, was turned into a television series, and is an account of the intertwining
+    lives of three families in rural England during World War II. After The Camomile Lawn (1984) came Harnessing Peacocks
+    (1985 and as TV film in 1992), The Vacillations of Poppy Carew (1986 and filmed in 1995), Not That Sort of Girl (1987),
+    Second Fiddle (1988), A Sensible Life (1990), A Dubious Legacy (1993), An Imaginative Experience (1994) and Part of the
+    Furniture (1997). A book about the West Country with photographer Kim Sayer, Part of the Scenery, was published in 2001.
+    Asked why she had stopped writing fiction at the age of 84, she replied: "If you haven''t got anything to say, don''t
+    say it.<br /><br />From <a href="http://en.wikipedia.org/wiki/Mary_Wesley" rel="nofollow noopener">Mary Wesley</a>'
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Alba editorial
+  formato: Paperback
+  paginas: 464
+  idioma: English
+  isbn: '8490658706'
+  isbn13: '9788490658703'
+  publicacion: '2022-01-01'
+  precio_kindle_usd: null
+personajes:
+- Oliver
+- Calypso
+- Polly
+- Walter
+- Aunt Helena
+- Uncle Richard Cuthbertso
+lugares:
+- nombre: Cornwall, England
+  pais: null
+  anno_ficcion: null
+- nombre: London, England
+  pais: null
+  anno_ficcion: null
+- nombre: England
+  pais: null
+  anno_ficcion: 1939
+estadisticas:
+  media: 3.86
+  distribucion_estrellas:
+    '5': 1595
+    '4': 2046
+    '3': 1314
+    '2': 340
+    '1': 117
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- Ficción histórica
+- Histórico
+- Segunda guerra mundial
+- Literatura británica
+- Guerra
+- Siglo XX
+- Clásico
+- Novela
+- Club de lectura
+---
+
+Agosto de 1939. En la casa familiar de Cornualles se juntan como todos los veranos los cinco primos Cuthbertson: el mayor, Oliver, acaba de volver, herido, de la Guerra Civil española; la menor, Sophy, tiene diez años y está locamente enamorada de él. La guerra los separa y los marca para siempre. Cuarenta y cinco años después, se reúnen en un funeral. Un vertiginoso carrusel de amantes, exclusivos o compartidos, gira en torno a la muerte y al horror, a las casas destruidas y a la Inglaterra poblada de antisemitas y filonazis, pero se impone a todo con un insaciable e insolente vitalismo.
+
+The Camomile Lawn (1984)

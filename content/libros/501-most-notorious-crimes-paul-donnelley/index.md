@@ -1,0 +1,94 @@
+---
+title: 501 Most Notorious Crimes
+tags:
+- Crime real
+- No Ficción
+- Crimen
+- Historia
+- Referencia
+- Biografía
+- Asesinos en serie
+autores:
+- Paul Donnelley
+editoriales:
+- Bounty Books
+cover:
+  image: cover.jpg
+  alt: Portada de 501 Most Notorious Crimes
+date: '2009-01-01'
+libro:
+  id: 7697357
+  titulo: 501 Most Notorious Crimes
+  url: https://www.goodreads.com/book/show/7697357-501-most-notorious-crimes
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1348722775i/7697357.jpg
+  sinopsis: In "501 Most Notorious Crimes", the reader will find a fascinating line-up of notorious crooks, criminals, villains
+    and thieves, from the mysterious disappearance of Lord Lucan, the assassination of JFK to the treason committed by Guy
+    Fawkes. This book provides a fascinating insight into the world's most notorious crimes.
+autor:
+  nombre: Paul Donnelley
+  rol: Author
+  seguidores: 17
+  obras: 39
+  url: https://www.goodreads.com/author/show/73700.Paul_Donnelley
+  bio: 'Aged 15, I wrote a quiz for the late Jeremy Beadle on the London radio station LBC. Two years later, I was the biggest
+    outside contributor to the best-selling Hunter Davies''s Bigger Book of British Lists.<br /><br />My own first book -
+    50 Fantastic Hits - was published when I was 24. I have since written more than 20 books, often with a showbusiness theme.
+    I am the author of biographies of Julia Roberts (2003) and Judy Garland (2007); a history of television scandal (TV Babylon
+    in 1997); four editions of a best-selling encyclopaedia of film stars Fade to Black (2000, 2003, 2005, 2010); a guide
+    to the films of Marilyn Monroe (2000); Essex Murders (2007), a book about homicide in that county for which I also took
+    many of the photographs; Assassins and Assassinations (2008), a look at 25 of the most notorious plots; The Arsenal Companion
+    (2008), 501 Most Notorious Crimes (2009); Arsenal Day-By-Day (2009); Cricket Day-By-Day (2009) and Firsts, Lasts &amp;
+    Onlys Football, Firsts, Lasts &amp; Onlys Cricket and Firsts, Lasts &amp; Onlys Golf.<br /><br />Firsts, Lasts &amp; Onlys
+    is a registered trademark of Paul Donnelley.<br /><br />I have contributed to the following books: Hunter Davies''s Bigger
+    Book of British Lists (1982); Poison Pen The Unauthorised Biography of Kitty Kelley by George Carpozi Jr (1992); Clinton
+    Confidential The Climb To Power - The Unauthorised Biography of Bill and Hillary Clinton by George Carpozi Jr (1995);
+    Tom Jones: Close Up by Lucy Ellis and Bryony Sutherland (2000); The Pocket Essential Marx Brothers by Mark Bego (2001)
+    and White Slave: The Autobiography by Marco Pierre White and James Steen (2006).<br /><br />In the mid-1980s I wrote many
+    of the questions for the television quiz show Pass the Buck (hosted by George Layton for Thames Television). I also wrote
+    a number of unbroadcast shows - you could say I have been involved with more pilots than a kamikaze squadron. Of the shows
+    that did make the air, I wrote for Jeremy Beadle''s Today''s the Day (TV-am), Today''s the Day (BBC), Ultra Quiz (TVS)
+    and University Challenge (Granada for BBC).<br /><br />I was the editor of Crime Stories, Man About Town and M-Zone. I
+    have worked for several magazines and newspapers including The Sunday Telegraph, The Daily Telegraph, The Sun, Daily Mail
+    (where for two years I was stand-in editor on the gossip column Wicked Whispers), OK! (where I was a columnist for three
+    years), Sunday Express, Punch (where I was a reporter-feature writer and occasional stand-in deputy editor), Idols, Maxim,
+    For Women, Video World, Hotel &amp; Caterer, City AM (where I was the chief sub editor), thelondonpaper and, most recently
+    Master Detective where I write "Paul Donnelley''s Murder Month", a column on criminal history.<br /><br />I am a member
+    of the National Union of Journalists and the Society of Authors<br /><br />I live in a book-lined flat in Essex and am
+    presently at work on a number of non-fiction books. '
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Bounty Books
+  formato: Hardcover
+  paginas: 544
+  idioma: English
+  isbn: '0753717670'
+  isbn13: '9780753717677'
+  publicacion: '2009-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4
+  distribucion_estrellas:
+    '5': 132
+    '4': 178
+    '3': 76
+    '2': 21
+    '1': 5
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Crime real
+- No Ficción
+- Crimen
+- Historia
+- Referencia
+- Biografía
+- Asesinos en serie
+---
+
+In "501 Most Notorious Crimes", the reader will find a fascinating line-up of notorious crooks, criminals, villains and thieves, from the mysterious disappearance of Lord Lucan, the assassination of JFK to the treason committed by Guy Fawkes. This book provides a fascinating insight into the world's most notorious crimes.

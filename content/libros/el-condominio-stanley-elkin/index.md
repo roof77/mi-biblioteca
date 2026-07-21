@@ -1,0 +1,71 @@
+---
+title: El condominio
+tags:
+- Ficción
+autores:
+- Stanley Elkin
+colaboradores:
+- Montse Meneses Vilar
+editoriales:
+- La Fuga Ediciones
+colaboradores_detalle:
+- nombre: Montse Meneses Vilar
+  rol: translator
+  url: https://www.goodreads.com/author/show/7076899.Montse_Meneses_Vilar
+cover:
+  image: cover.jpg
+  alt: Portada de El condominio
+date: '2015-05-01'
+libro:
+  id: 25720480
+  titulo: El condominio
+  url: https://www.goodreads.com/book/show/25720480-el-condominio
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1544002742i/25720480.jpg
+  sinopsis: CONDOMINIO
+autor:
+  nombre: Stanley Elkin
+  rol: Author
+  seguidores: 131
+  obras: 53
+  url: https://www.goodreads.com/author/show/95659.Stanley_Elkin
+  bio: Stanley Lawrence Elkin was a Jewish American novelist, short story writer, and essayist. His extravagant, satirical
+    fiction revolves around American consumerism, popular culture, and male-female relationships.<br /><br />During his career,
+    Elkin published ten novels, two volumes of novellas, two books of short stories, a collection of essays, and one (unproduced)
+    screenplay. Elkin's work revolves about American pop culture, which it portrays in innumerable darkly comic variations.
+    Characters take full precedence over plot. <br /><br />His language throughout is extravagant and exuberant, baroque and
+    flowery, taking fantastic flight from his characters' endless patter. "He was like a jazz artist who would go off on riffs,"
+    said critic William Gass. In a review of George Mills, Ralph B. Sipper wrote, "Elkin's trademark is to tightrope his way
+    from comedy to tragedy with hardly a slip." <br /><br />About the influence of ethnicity on his work Elkin said he admired
+    most "the writers who are stylists, Jewish or not. Bellow is a stylist, and he is Jewish. William Gass is a stylist, and
+    he is not Jewish. What I go for in my work is language."
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: La Fuga Ediciones
+  formato: Paperback
+  paginas: 158
+  idioma: Spanish; Castilian
+  isbn: '8494309633'
+  isbn13: '9788494309632'
+  publicacion: '2015-05-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.68
+  distribucion_estrellas:
+    '5': 12
+    '4': 13
+    '3': 14
+    '2': 3
+    '1': 2
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+---
+
+CONDOMINIO

@@ -1,0 +1,92 @@
+---
+title: De qué hablamos cuando hablamos de amor
+tags:
+- Relatos
+- Ficción
+- Clásico
+- Literatura
+- EEUU
+- Ficción Literaria
+- Contemporaneo
+- Romance
+- Siglo XX
+autores:
+- Raymond Carver
+colaboradores:
+- Jesús Zulaika Goicoechea
+editoriales:
+- Anagrama
+colaboradores_detalle:
+- nombre: Jesús Zulaika Goicoechea
+  rol: Translator
+  url: https://www.goodreads.com/author/show/22860098.Jes_s_Zulaika_Goicoechea
+cover:
+  image: cover.jpg
+  alt: Portada de De qué hablamos cuando hablamos de amor
+date: '2018-05-01'
+libro:
+  id: 1257079
+  titulo: De qué hablamos cuando hablamos de amor
+  url: https://www.goodreads.com/book/show/1257079.De_qu_hablamos_cuando_hablamos_de_amor
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1534170742i/1257079.jpg
+  sinopsis: Aquí están la atmósfera y los personajes de un autor que dominó indiscutiblemente el panorama literario norteamericano
+    de los años ochenta del siglo XX. Parejas que se despedazan, compañeros que parten desesperadamente a la aventura, hijos
+    que intentan comunicarse con sus padres, un universo injusto, violento, tenso, a veces irrisorio.
+autor:
+  nombre: Raymond Carver
+  rol: Author
+  seguidores: 5242
+  obras: 364
+  url: https://www.goodreads.com/author/show/7363.Raymond_Carver
+  bio: Carver was born into a poverty-stricken family at the tail-end of the Depression. He married at 19, started a series
+    of menial jobs and his own career of 'full-time drinking as a serious pursuit', a career that would eventually kill him.
+    Constantly struggling to support his wife and family, Carver enrolled in a writing programme under author John Gardner
+    in 1958. He saw this opportunity as a turning point.<br /> <br />Rejecting the more experimental fiction of the 60s and
+    70s, he pioneered a precisionist realism reinventing the American short story during the eighties, heading the line of
+    so-called 'dirty realists' or 'K-mart realists'. Set in trailer parks and shopping malls, they are stories of banal lives
+    that turn on a seemingly insignificant detail. Carver writes with meticulous economy, suddenly bringing a life into focus
+    in a similar way to the paintings of Edward Hopper. As well as being a master of the short story, he was an accomplished
+    poet publishing several highly acclaimed volumes.<br /> <br />After the 'line of demarcation' in Carver's life - 2 June
+    1977, the day he stopped drinking - his stories become increasingly more redemptive and expansive. Alcohol had eventually
+    shattered his health, his work and his family - his first marriage effectively ending in 1978. He finally married his
+    long-term parter Tess Gallagher (they met ten years earlier at a writers' conference in Dallas) in Reno, Nevada, less
+    than two months before he eventually lost his fight with cancer.
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Anagrama
+  formato: Mass Market Paperback
+  paginas: 160
+  idioma: Spanish; Castilian
+  isbn: '8433920669'
+  isbn13: '9788433920669'
+  publicacion: '2018-05-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.99
+  distribucion_estrellas:
+    '5': 28891
+    '4': 30195
+    '3': 15857
+    '2': 4570
+    '1': 1453
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Relatos
+- Ficción
+- Clásico
+- Literatura
+- EEUU
+- Ficción Literaria
+- Contemporaneo
+- Romance
+- Siglo XX
+---
+
+Aquí están la atmósfera y los personajes de un autor que dominó indiscutiblemente el panorama literario norteamericano de los años ochenta del siglo XX. Parejas que se despedazan, compañeros que parten desesperadamente a la aventura, hijos que intentan comunicarse con sus padres, un universo injusto, violento, tenso, a veces irrisorio.

@@ -5,24 +5,28 @@
   PaperMod llama a este partial justo despues del cuerpo del articulo
   (la sinopsis) y antes del pie con las tags. Al tener el mismo nombre que
   el partial "en blanco" del tema, este lo sustituye automaticamente.
+
+  Requiere estas taxonomias en hugo.toml:
+    [taxonomies]
+      tag = "tags"
+      autor = "autores"
+      traductor = "traductores"
+      colaborador = "colaboradores"
+      serie = "series"
+      editorial = "editoriales"
 */ -}}
 {{- with .Params }}
 {{- $autor := .autor }}
-{{- $colaboradores := .colaboradores }}
+{{- $colaboradoresDetalle := .colaboradores_detalle }}
 {{- $serie := .serie }}
 {{- $detalles := .detalles }}
 {{- $premios := .premios }}
 
-{{- $traductores := slice }}
-{{- $otrosColaboradores := slice }}
-{{- range $colaboradores }}
-  {{- $rol := .rol | default "" }}
-  {{- if in (lower $rol) "traduc" }}
-    {{- $traductores = $traductores | append . }}
-  {{- else }}
-    {{- $otrosColaboradores = $otrosColaboradores | append . }}
-  {{- end }}
-{{- end }}
+{{- $terminosAutor := $.GetTerms "autores" }}
+{{- $terminosTraductores := $.GetTerms "traductores" }}
+{{- $terminosColaboradores := $.GetTerms "colaboradores" }}
+{{- $terminosSerie := $.GetTerms "series" }}
+{{- $terminosEditorial := $.GetTerms "editoriales" }}
 
 {{- $tienePremios := false }}
 {{- if $premios }}
@@ -38,7 +42,7 @@
   {{- end }}
 {{- end }}
 
-{{- if or $autor $traductores $otrosColaboradores $serie $tieneEditorialOPaginas $tienePremios }}
+{{- if or $autor $terminosTraductores $colaboradoresDetalle $serie $tieneEditorialOPaginas $tienePremios }}
 <div class="ficha-libro">
   <p class="ficha-libro__eyebrow">Ficha del libro</p>
   <dl class="ficha-libro__lista">
@@ -47,10 +51,7 @@
       {{- with .nombre }}
         {{- $nombreAutor := . }}
         {{- $terminoAutor := "" }}
-        {{- $terminosAutor := $.GetTerms "autores" }}
-        {{- if $terminosAutor }}
-          {{- $terminoAutor = index $terminosAutor 0 }}
-        {{- end }}
+        {{- if $terminosAutor }}{{ $terminoAutor = index $terminosAutor 0 }}{{ end }}
     <div class="ficha-libro__fila">
       <dt>Autor</dt>
       <dd>
@@ -64,34 +65,64 @@
       {{- end }}
     {{- end }}
 
-    {{- if $traductores }}
+    {{- if $terminosTraductores }}
     <div class="ficha-libro__fila">
-      <dt>{{ if gt (len $traductores) 1 }}Traductores{{ else }}Traductor{{ end }}</dt>
-      <dd>{{ range $i, $t := $traductores }}{{ if $i }}, {{ end }}{{ $t.nombre }}{{ end }}</dd>
+      <dt>{{ if gt (len $terminosTraductores) 1 }}Traductores{{ else }}Traductor{{ end }}</dt>
+      <dd>{{ range $i, $t := $terminosTraductores }}{{ if $i }}, {{ end }}<a href="{{ $t.Permalink }}">{{ $t.Title }}</a>{{ end }}</dd>
     </div>
     {{- end }}
 
-    {{- if $otrosColaboradores }}
+    {{- if $colaboradoresDetalle }}
     <div class="ficha-libro__fila">
       <dt>Colaboradores</dt>
-      <dd>{{ range $i, $c := $otrosColaboradores }}{{ if $i }}, {{ end }}{{ $c.nombre }}{{ with $c.rol }} ({{ . }}){{ end }}{{ end }}</dd>
+      <dd>
+        {{- range $i, $c := $colaboradoresDetalle }}{{ if $i }}, {{ end }}
+          {{- $terminoC := "" }}
+          {{- range $terminosColaboradores }}{{ if eq .Title $c.nombre }}{{ $terminoC = . }}{{ end }}{{ end }}
+          {{- if $terminoC -}}
+          <a href="{{ $terminoC.Permalink }}">{{ $c.nombre }}</a>
+          {{- else -}}
+          {{ $c.nombre }}
+          {{- end -}}
+          {{- with $c.rol }} ({{ . }}){{ end -}}
+        {{- end }}
+      </dd>
     </div>
     {{- end }}
 
     {{- with $serie }}
       {{- with .nombre }}
+        {{- $nombreSerie := . }}
+        {{- $terminoSerie := "" }}
+        {{- if $terminosSerie }}{{ $terminoSerie = index $terminosSerie 0 }}{{ end }}
     <div class="ficha-libro__fila">
       <dt>Serie</dt>
-      <dd>{{ . }}{{ with $serie.posicion }} (nº {{ . }}){{ end }}</dd>
+      <dd>
+        {{- if $terminoSerie -}}
+        <a href="{{ $terminoSerie.Permalink }}">{{ $nombreSerie }}</a>
+        {{- else -}}
+        {{ $nombreSerie }}
+        {{- end -}}
+        {{- with $serie.posicion }} (nº {{ . }}){{ end -}}
+      </dd>
     </div>
       {{- end }}
     {{- end }}
 
     {{- with $detalles }}
       {{- with .editorial }}
+        {{- $nombreEditorial := . }}
+        {{- $terminoEditorial := "" }}
+        {{- if $terminosEditorial }}{{ $terminoEditorial = index $terminosEditorial 0 }}{{ end }}
     <div class="ficha-libro__fila">
       <dt>Editorial</dt>
-      <dd>{{ . }}</dd>
+      <dd>
+        {{- if $terminoEditorial -}}
+        <a href="{{ $terminoEditorial.Permalink }}">{{ $nombreEditorial }}</a>
+        {{- else -}}
+        {{ $nombreEditorial }}
+        {{- end -}}
+      </dd>
     </div>
       {{- end }}
       {{- with .paginas }}

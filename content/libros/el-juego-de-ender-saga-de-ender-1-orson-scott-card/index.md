@@ -1,0 +1,146 @@
+---
+title: 'El Juego de Ender (Saga de Ender, #1)'
+tags:
+- Ciencia ficción
+- Ficción
+- Jovenes adultos
+- Fantasía
+- Clásico
+- Ciencia Ficción
+- Distopía
+- Club de lectura
+- Guerra
+autores:
+- Orson Scott Card
+colaboradores:
+- José María Rodelgo
+- Antonio Sánchez Fernández
+series:
+- Ender's Saga
+editoriales:
+- Círculo de Lectores
+colaboradores_detalle:
+- nombre: José María Rodelgo
+  rol: translator
+  url: https://www.goodreads.com/author/show/3354655.Jos_Mar_a_Rodelgo
+- nombre: Antonio Sánchez Fernández
+  rol: translator
+  url: https://www.goodreads.com/author/show/3354656.Antonio_S_nchez_Fern_ndez
+cover:
+  image: cover.jpg
+  alt: 'Portada de El Juego de Ender (Saga de Ender, #1)'
+date: '1989-01-01'
+libro:
+  id: 7673572
+  titulo: 'El Juego de Ender (Saga de Ender, #1)'
+  url: https://www.goodreads.com/book/show/7673572-el-juego-de-ender
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1265019128i/7673572.jpg
+  sinopsis: Ender es el tercero de tres hermanos que han sido seleccionados por la Flota Internacional como posibles estrategas
+    para la guerra contra los insectores. Desde el inicio de su educación, Ender es observado para calibrar sus posibilidades,
+    y finalmente es invitado a ingresar en la Escuela de Batalla a la edad de seis años. En la Escuela recibirá una despiadada
+    instrucción con vistas a prepararle para el papel más importante de la lucha, que él desconoce. Deslumbra a sus compañeros
+    y profesores con sus habilidades en los juegos de guerra y con su nueva concepción de las peleas en gravedad cero. Es
+    ascendido a la Escuela de Alto Mando para recibir las enseñanzas del mayor estratega de la historia, Mazer Rackham, con
+    el que practica en simulaciones de más alto nivel. Finalmente descubre... pero eso deberán averiguarlo los lectores por
+    su cuenta.
+autor:
+  nombre: Orson Scott Card
+  rol: Author
+  seguidores: 20995
+  obras: 852
+  url: https://www.goodreads.com/author/show/589.Orson_Scott_Card
+  bio: Orson Scott Card is an American writer known best for his science fiction works. He is (as of 2023) the only person
+    to have won a Hugo Award and a Nebula Award in consecutive years, winning both awards for his novel Ender's Game (1985)
+    and its sequel Speaker for the Dead (1986). A feature film adaptation of Ender's Game, which Card co-produced, was released
+    in 2013. Card also wrote the Locus Fantasy Award-winning series The Tales of Alvin Maker (1987–2003).<br />Card's fiction
+    often features characters with exceptional gifts who make difficult choices with high stakes. Card has also written political,
+    religious, and social commentary in his columns and other writing; his opposition to homosexuality has provoked public
+    criticism.<br />Card, who is a great-great-grandson of <a href="https://www.goodreads.com/author/show/575321._Brigham_Young"
+    title=" Brigham Young" rel="nofollow noopener"> Brigham Young</a>, was born in Richland, Washington, and grew up in Utah
+    and California. While he was a student at Brigham Young University (BYU), his plays were performed on stage. He served
+    in Brazil as a missionary for the Church of Jesus Christ of Latter-day Saints (LDS Church) and headed a community theater
+    for two summers. Card had 27 short stories published between 1978 and 1979, and he won the John W. Campbell Award for
+    best new writer in 1978. He earned a master's degree in English from the University of Utah in 1981 and wrote novels in
+    science fiction, fantasy, non-fiction, and historical fiction genres starting in 1979. Card continued to write prolifically,
+    and he has published over 50 novels and 45 short stories.<br />Card teaches English at Southern Virginia University; he
+    has written two books on creative writing and serves as a judge in the Writers of the Future contest. He has taught many
+    successful writers at his "literary boot camps". He remains a practicing member of the LDS Church and Mormon fiction writers
+    <a href="https://www.goodreads.com/author/show/941441._Stephenie_Meyer" title=" Stephenie Meyer" rel="nofollow noopener">
+    Stephenie Meyer</a>, <a href="https://www.goodreads.com/author/show/38550._Brandon_Sanderson" title=" Brandon Sanderson"
+    rel="nofollow noopener"> Brandon Sanderson</a>, and <a href="https://www.goodreads.com/author/show/86137._Dave_Wolverton"
+    title=" Dave Wolverton" rel="nofollow noopener"> Dave Wolverton</a> have cited his works as a major influence.
+serie:
+  nombre: Ender's Saga
+  posicion: '1'
+  url: https://www.goodreads.com/series/43963-ender-s-saga
+detalles:
+  editorial: Círculo de Lectores
+  formato: Hardcover
+  paginas: 333
+  idioma: Spanish; Castilian
+  isbn: '8422629712'
+  isbn13: '9788422629719'
+  publicacion: '1989-01-01'
+  precio_kindle_usd: null
+personajes:
+- Dink
+- Bernard
+- Valentine Wiggin
+- Peter Wiggin
+- Mazer Rackham
+- Alai
+- Hyrum Graff
+- Andrew Wiggin
+- Petra Arkanian
+- '"Bean"'
+- Major Anderson
+- Bonzo
+- Major Imbu
+lugares:
+- nombre: Outer Space
+  pais: null
+  anno_ficcion: null
+estadisticas:
+  media: 4.31
+  distribucion_estrellas:
+    '5': 802025
+    '4': 450871
+    '3': 173801
+    '2': 45322
+    '1': 24673
+premios:
+  ganados:
+  - nombre: Hugo Award
+    categoria: Best Novel
+    anno: 1986
+    resultado: WINNER
+  - nombre: Nebula Award
+    categoria: Best Novel
+    anno: 1985
+    resultado: WINNER
+  - nombre: Premio Ignotus
+    categoria: Mejor Cuento Extranjero
+    anno: 1994
+    resultado: WINNER
+  - nombre: Premi Ictineu
+    categoria: Millor novel·la traduïda
+    anno: 2014
+    resultado: WINNER
+  - nombre: Margaret A. Edwards Award
+    categoria: null
+    anno: 2008
+    resultado: WINNER
+  nominaciones: []
+generos_traducidos:
+- Ciencia ficción
+- Ficción
+- Jovenes adultos
+- Fantasía
+- Clásico
+- Ciencia Ficción
+- Distopía
+- Club de lectura
+- Guerra
+---
+
+Ender es el tercero de tres hermanos que han sido seleccionados por la Flota Internacional como posibles estrategas para la guerra contra los insectores. Desde el inicio de su educación, Ender es observado para calibrar sus posibilidades, y finalmente es invitado a ingresar en la Escuela de Batalla a la edad de seis años. En la Escuela recibirá una despiadada instrucción con vistas a prepararle para el papel más importante de la lucha, que él desconoce. Deslumbra a sus compañeros y profesores con sus habilidades en los juegos de guerra y con su nueva concepción de las peleas en gravedad cero. Es ascendido a la Escuela de Alto Mando para recibir las enseñanzas del mayor estratega de la historia, Mazer Rackham, con el que practica en simulaciones de más alto nivel. Finalmente descubre... pero eso deberán averiguarlo los lectores por su cuenta.

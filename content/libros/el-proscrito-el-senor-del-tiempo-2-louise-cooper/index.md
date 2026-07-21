@@ -1,0 +1,97 @@
+---
+title: 'El proscrito (El Señor del Tiempo #2)'
+tags:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+- Fantasía épica
+- Alta fantasía
+- Fantasía heroica
+- Colecciones
+- Novela
+- Fantasía oscura
+autores:
+- Louise Cooper
+series:
+- Time Master
+editoriales:
+- Timun Mas
+cover:
+  image: cover.jpg
+  alt: 'Portada de El proscrito (El Señor del Tiempo #2)'
+date: '1988-01-01'
+libro:
+  id: 8139852
+  titulo: 'El proscrito (El Señor del Tiempo #2)'
+  url: https://www.goodreads.com/book/show/8139852-el-proscrito
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1303244979i/8139852.jpg
+  sinopsis: "Para huir del terrible destino al que el Círculo lo había condenado. Tarod logra detener el Péndulo que rige\
+    \ el ineludible fluir del Tiempo. Y el tiempo deja de existir. Tarod prisionero en un limbo sin ayer ni mañana, vive resignándose\
+    \ a su inmortalidad... cuan un Warp, la terrible tempestad desencadenada por las fuerzas del Caos, arrastra a dos seres\
+    \ Humanos. Un hombre y una mujer, hasta el Castillo dela Península de la Estrella.\r\n\r\nElla es Cyllan, una humilde\
+    \ boyera dotada de poderes parapsicológicos, y por la que Tarod sentirá un amor intenso y puro.\r\n\r\nÉl, Drachea, el\
+    \ presuntuosos heredero del Margrave de la provincia de Shu.\r\n\r\nEncerrados los tres en el Castillo, provocarán nuevos\
+    \ y terribles acontecimientos hasta lograr que el tiempo reemprenda su lento e inexorable camino."
+autor:
+  nombre: Louise Cooper
+  rol: Author
+  seguidores: 231
+  obras: 157
+  url: https://www.goodreads.com/author/show/13023.Louise_Cooper
+  bio: Louise Cooper was born in Hertfordshire in 1952. She began writing stories when she was at school to entertain her
+    friends. She hated school so much, in fact—spending most lessons clandestinely writing stories—that she persuaded her
+    parents to let her abandon her education at the age of fifteen and has never regretted it.<br /><br />She continued to
+    write and her first full-length novel was published when she was only twenty years old. She moved to London in 1975 and
+    worked in publishing before becoming a full-time writer in 1977. Since then she has become a prolific writer of fantasy,
+    renowned for her bestselling Time Master trilogy. She has published more than eighty fantasy and supernatural novels,
+    both for adults and children. She also wrote occasional short stories for anthologies, and has co-written a comedy play
+    that was produced for her local school.<br /><br />Louise Cooper lived in Cornwall with her husband, Cas Sandall, and
+    their black cat, Simba. She gained a great deal of writing inspiration from the coast and scenery, and her other interests
+    included music, folklore, cooking, gardening and "messing about on the beach." Just to make sure she keeps busy, she was
+    also treasurer of her local Lifeboat station.<br /><br />Louise passed away suddenly from a brain aneurysm on Tuesday,
+    October 20, 2009. She was a wonderful and talented lady and will be greatly missed.
+serie:
+  nombre: Time Master
+  posicion: '2'
+  url: https://www.goodreads.com/series/49484-time-master
+detalles:
+  editorial: Timun Mas
+  formato: Hardcover
+  paginas: 354
+  idioma: Spanish; Castilian
+  isbn: '8477221464'
+  isbn13: '9788477221463'
+  publicacion: '1988-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4.08
+  distribucion_estrellas:
+    '5': 700
+    '4': 702
+    '3': 347
+    '2': 72
+    '1': 22
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+- Fantasía épica
+- Alta fantasía
+- Fantasía heroica
+- Colecciones
+- Novela
+- Fantasía oscura
+---
+
+Para huir del terrible destino al que el Círculo lo había condenado. Tarod logra detener el Péndulo que rige el ineludible fluir del Tiempo. Y el tiempo deja de existir. Tarod prisionero en un limbo sin ayer ni mañana, vive resignándose a su inmortalidad... cuan un Warp, la terrible tempestad desencadenada por las fuerzas del Caos, arrastra a dos seres Humanos. Un hombre y una mujer, hasta el Castillo dela Península de la Estrella.
+
+Ella es Cyllan, una humilde boyera dotada de poderes parapsicológicos, y por la que Tarod sentirá un amor intenso y puro.
+
+Él, Drachea, el presuntuosos heredero del Margrave de la provincia de Shu.
+
+Encerrados los tres en el Castillo, provocarán nuevos y terribles acontecimientos hasta lograr que el tiempo reemprenda su lento e inexorable camino.

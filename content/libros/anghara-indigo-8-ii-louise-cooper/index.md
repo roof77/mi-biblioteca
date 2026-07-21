@@ -1,0 +1,81 @@
+---
+title: 'Anghara (Indigo #8) II'
+tags:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+autores:
+- Louise Cooper
+series:
+- Indigo
+editoriales:
+- Timun Mas (Grupo Ceac)
+cover:
+  image: cover.jpg
+  alt: 'Portada de Anghara (Indigo #8) II'
+date: '1994-01-01'
+libro:
+  id: 13250330
+  titulo: 'Anghara (Indigo #8) II'
+  url: https://www.goodreads.com/book/show/13250330-anghara
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1324133051i/13250330.jpg
+  sinopsis: "Parece como si la larga búsqueda de Índigo estuviera a punto de finalizar. Seis enfrentamientos han quedado atrás,\
+    \ y la muchacha regresa por fin a casa. \r\nRegresa como una extraña, sin familia ni amigos, pero tiene la seguridad de\
+    \ que alguien la espera... y de que muy pronto se reunirá con su amor, Fenran. Sin embargo, el barco que la transporta\
+    \ naufraga, y, rescatada inconsciente del mar, Índigo despierta sin memoria. Fenran y sus sueños se han perdido en el\
+    \ olvido; incluso su fiel Grimya ha desaparecido de su recuerdo. Así pues, cuando un compañero de navegación afirma que\
+    \ están prometidos, ¿por qué tendría que desconfiar de él?\r\nA meos que pueda recordar su pasado, la misión de Índigo\
+    \ se vendrá abajo. Pero ¿se atreverá a mirar en el espejo de su propia mente para encontrar al último demonio?"
+autor:
+  nombre: Louise Cooper
+  rol: Author
+  seguidores: 231
+  obras: 157
+  url: https://www.goodreads.com/author/show/13023.Louise_Cooper
+  bio: Louise Cooper was born in Hertfordshire in 1952. She began writing stories when she was at school to entertain her
+    friends. She hated school so much, in fact—spending most lessons clandestinely writing stories—that she persuaded her
+    parents to let her abandon her education at the age of fifteen and has never regretted it.<br /><br />She continued to
+    write and her first full-length novel was published when she was only twenty years old. She moved to London in 1975 and
+    worked in publishing before becoming a full-time writer in 1977. Since then she has become a prolific writer of fantasy,
+    renowned for her bestselling Time Master trilogy. She has published more than eighty fantasy and supernatural novels,
+    both for adults and children. She also wrote occasional short stories for anthologies, and has co-written a comedy play
+    that was produced for her local school.<br /><br />Louise Cooper lived in Cornwall with her husband, Cas Sandall, and
+    their black cat, Simba. She gained a great deal of writing inspiration from the coast and scenery, and her other interests
+    included music, folklore, cooking, gardening and "messing about on the beach." Just to make sure she keeps busy, she was
+    also treasurer of her local Lifeboat station.<br /><br />Louise passed away suddenly from a brain aneurysm on Tuesday,
+    October 20, 2009. She was a wonderful and talented lady and will be greatly missed.
+serie:
+  nombre: Indigo
+  posicion: '8'
+  url: https://www.goodreads.com/series/41030-indigo
+detalles:
+  editorial: Timun Mas (Grupo Ceac)
+  formato: Hardcover
+  paginas: 383
+  idioma: Spanish; Castilian
+  isbn: '8477225222'
+  isbn13: '9788477225225'
+  publicacion: '1994-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.82
+  distribucion_estrellas:
+    '5': 103
+    '4': 117
+    '3': 81
+    '2': 32
+    '1': 6
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Fantasía
+- Ficción
+- Ciencia Ficción
+---
+
+Parece como si la larga búsqueda de Índigo estuviera a punto de finalizar. Seis enfrentamientos han quedado atrás, y la muchacha regresa por fin a casa. 
+Regresa como una extraña, sin familia ni amigos, pero tiene la seguridad de que alguien la espera... y de que muy pronto se reunirá con su amor, Fenran. Sin embargo, el barco que la transporta naufraga, y, rescatada inconsciente del mar, Índigo despierta sin memoria. Fenran y sus sueños se han perdido en el olvido; incluso su fiel Grimya ha desaparecido de su recuerdo. Así pues, cuando un compañero de navegación afirma que están prometidos, ¿por qué tendría que desconfiar de él?
+A meos que pueda recordar su pasado, la misión de Índigo se vendrá abajo. Pero ¿se atreverá a mirar en el espejo de su propia mente para encontrar al último demonio?

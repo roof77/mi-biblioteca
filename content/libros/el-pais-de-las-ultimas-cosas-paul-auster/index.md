@@ -1,0 +1,96 @@
+---
+title: El país de las últimas cosas
+tags:
+- Ficción
+- Distopía
+- Ciencia ficción
+- Novela
+- EEUU
+- Postapocalíptico
+- Literatura
+- Contemporaneo
+- Ficción Literaria
+autores:
+- Paul Auster
+colaboradores:
+- María Eugenia Giocchini Suárez
+editoriales:
+- Editorial Anagrama
+colaboradores_detalle:
+- nombre: María Eugenia Giocchini Suárez
+  rol: Translator
+  url: https://www.goodreads.com/author/show/33576757.Mar_a_Eugenia_Giocchini_Su_rez
+cover:
+  image: cover.jpg
+  alt: Portada de El país de las últimas cosas
+date: '2006-04-18'
+libro:
+  id: 71517
+  titulo: El país de las últimas cosas
+  url: https://www.goodreads.com/book/show/71517.El_pa_s_de_las_ltimas_cosas
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347453928i/71517.jpg
+  sinopsis: 'Anna Blume cuenta en una carta a su novio, enviada desde una ciudad sin nombre, lo que sucede en el país de las
+    ultimas cosas. Anna esta allí para buscar a su hermano William, y describe una tierra en la que la búsqueda de la muerte
+    ha reemplazado a los avatares y negocios de la vida: las clínicas de eutanasia y los clubes para el asesinato florecen,
+    mientras que los atletas y corredores no se detienen hasta caer literalmente muertos de cansancio, y los saltadores se
+    arrojan de los tejados. Pero Anna intentará sobrevivir en ese país devastado, donde todo lo que existe es posiblemente
+    el último ejemplar de su especie.'
+autor:
+  nombre: Paul Auster
+  rol: Author
+  seguidores: 12381
+  obras: 236
+  url: https://www.goodreads.com/author/show/296961.Paul_Auster
+  bio: <b>Paul Auster</b> was the bestselling author of <i>4 3 2 1</i>, <i>Bloodbath Nation</i>, <i>Baumgartner</i>, <i>The
+    Book of Illusions</i>, and The New York Trilogy, among many other works. In 2006 he was awarded the Prince of Asturias
+    Prize for Literature. Among his other honors are the Prix Médicis Étranger for <i>Leviathan</i>, the Independent Spirit
+    Award for the screenplay of <i>Smoke</i>, and the Premio Napoli for <i>Sunset Park</i>. In 2012, he was the first recipient
+    of the NYC Literary Honors in the category of fiction. He was also a finalist for the International IMPAC Dublin Literary
+    Award (<i>The Book of Illusions</i>), the PEN/Faulkner Award (<i>The Music of Chance</i>), the Edgar Award (<i>City of
+    Glass</i>), and the Man Booker Prize (<i>4 3 2 1</i>). Auster was a member of the American Academy of Arts and Letters
+    and a Commandeur de l’Ordre des Arts et des Lettres. His work has been translated into more than forty languages. He died
+    at age seventy-seven in 2024.<br />
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Editorial Anagrama
+  formato: Mass Market Paperback
+  paginas: 205
+  idioma: Spanish; Castilian
+  isbn: '8433920987'
+  isbn13: '9788433920980'
+  publicacion: '2006-04-18'
+  precio_kindle_usd: null
+personajes:
+- Anna Blume
+- Anne Blume
+- Samuel Farr
+- Victoria Woburn
+- Boris Stepanovich
+lugares: []
+estadisticas:
+  media: 3.9
+  distribucion_estrellas:
+    '5': 4657
+    '4': 6926
+    '3': 3867
+    '2': 867
+    '1': 216
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- Distopía
+- Ciencia ficción
+- Novela
+- EEUU
+- Postapocalíptico
+- Literatura
+- Contemporaneo
+- Ficción Literaria
+---
+
+Anna Blume cuenta en una carta a su novio, enviada desde una ciudad sin nombre, lo que sucede en el país de las ultimas cosas. Anna esta allí para buscar a su hermano William, y describe una tierra en la que la búsqueda de la muerte ha reemplazado a los avatares y negocios de la vida: las clínicas de eutanasia y los clubes para el asesinato florecen, mientras que los atletas y corredores no se detienen hasta caer literalmente muertos de cansancio, y los saltadores se arrojan de los tejados. Pero Anna intentará sobrevivir en ese país devastado, donde todo lo que existe es posiblemente el último ejemplar de su especie.

@@ -1,0 +1,84 @@
+---
+title: 'El mirlo en el crepúsculo (Blackbird, #4)'
+tags:
+- Fantasía
+autores:
+- Freda Warrington
+series:
+- Blackbird
+editoriales:
+- Timun Mas
+cover:
+  image: cover.jpg
+  alt: 'Portada de El mirlo en el crepúsculo (Blackbird, #4)'
+date: '1991-01-01'
+libro:
+  id: 60217803
+  titulo: 'El mirlo en el crepúsculo (Blackbird, #4)'
+  url: https://www.goodreads.com/book/show/60217803-el-mirlo-en-el-crep-sculo
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699188611i/60217803.jpg
+  sinopsis: Fourth in the "Blackbird" series, this book continues the epic saga of Emperor Xaedrek. At the end the evil serpent
+    has been defeated again, but Emperor Xaedrek is determined to keep the evil spirit alive, in order to harness the power
+    for himself.
+autor:
+  nombre: Freda Warrington
+  rol: Author
+  seguidores: 330
+  obras: 52
+  url: https://www.goodreads.com/author/show/96767.Freda_Warrington
+  bio: Freda Warrington is an award-winning British author, known for her epic fantasy, vampire and supernatural novels.<br
+    /><br />“The Blood Wine books are addictive, thrilling reads that are impossible to put down and they definitely deserve
+    more attention” – Worldhopping.net<br /><br />Her earliest novels, the Blackbird series, were written and published in
+    the 1980s. In the intervening years she has seen numerous novels of epic fantasy, supernatural and contemporary fantasy,
+    vampires, dark romance, horror and alternative history published. <br /><br />Her novel ELFLAND won the Romantic Times
+    BEST FANTASY NOVEL Award in 2009, while her 1997 Dracula sequel DRACULA THE UNDEAD won the Dracula Society's BEST GOTHIC
+    NOVEL Award.<br /><br />Four of her novels (Dark Cathedral, Pagan Moon, Dracula the Undead, and The Amber Citadel) have
+    been nominated or shortlisted for the British Fantasy Society's Best Novel award. The American Library Association placed
+    MIDSUMMER NIGHT in its Top Ten for 2010. <br /><br />Recently Titan Book reissued her popular romantic-gothic Blood Wine
+    vampire series set in the 1920s - A Taste of Blood Wine, A Dance in Blood Velvet and The Dark Blood of Poppies - along
+    with a brand new novel, The Dark Arts of Blood. In 2017, Telos Publishing will publish her first short story collection,
+    NIGHTS OF BLOOD WINE, featuring fifteen lush dark tales - ten set in her Blood Wine world, and five others of gothic weirdness.<br
+    /><br />In 2003, Simon &amp; Schuster published The Court of the Midnight King, an alternative history/ fantasy retelling
+    of the story of King Richard III. To celebrate all the events surrounding the discovery of Richard III's remains in Leicester,
+    The Court of the Midnight King is now available on Kindle and in paperback format. Most of her backlist titles, including
+    the Blackbird series, Dracula the Undead, Dark Cathedral and Pagan Moon, can already be found on Kindle or will be available
+    in the next few months.<br /><br />Warrington has also seen numerous short stories published in anthologies and magazines.
+    For further information, visit her website <a href="http://www.fredawarrington.com" rel="nofollow noopener">Freda Warrington</a><br
+    /><br />Born in Leicester, Warrington grew up in the Charnwood Forest area of Leicestershire. After completing high school,
+    she trained at Loughborough College of Art and Design and worked in medical illustration and graphic design for some years.
+    She eventually moved to full-time writing, and also still enjoys design, photography, art, jewellery-making and other
+    crafts, travelling and conventions. <br /><br /><b>Series:</b><br />* <a href="http://www.goodreads.com/series/52052-jewelfire"
+    rel="nofollow noopener">Jewelfire</a><br />* <a href="http://www.goodreads.com/series/52053-dark-cathedral" rel="nofollow
+    noopener">Dark Cathedral</a><br />* <a href="http://www.goodreads.com/series/52054-aetherial-tales" rel="nofollow noopener">Aetherial
+    Tales</a><br />* <a href="http://www.goodreads.com/series/52055-blackbird" rel="nofollow noopener">Blackbird</a><br />
+serie:
+  nombre: Blackbird
+  posicion: '4'
+  url: https://www.goodreads.com/series/52055-blackbird
+detalles:
+  editorial: Timun Mas
+  formato: Hardcover
+  paginas: 432
+  idioma: Spanish; Castilian
+  isbn: '8477225559'
+  isbn13: '9788477225553'
+  publicacion: '1991-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.87
+  distribucion_estrellas:
+    '5': 24
+    '4': 35
+    '3': 19
+    '2': 8
+    '1': 0
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Fantasía
+---
+
+Fourth in the "Blackbird" series, this book continues the epic saga of Emperor Xaedrek. At the end the evil serpent has been defeated again, but Emperor Xaedrek is determined to keep the evil spirit alive, in order to harness the power for himself.

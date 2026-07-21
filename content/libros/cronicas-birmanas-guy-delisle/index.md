@@ -1,0 +1,94 @@
+---
+title: Crónicas birmanas
+tags:
+- Novela gráfica
+- Comics
+- No Ficción
+- Viajes
+- Memorias
+- Ásia
+- Biografía
+- Canada
+autores:
+- Guy Delisle
+editoriales:
+- Astiberri
+cover:
+  image: cover.jpg
+  alt: Portada de Crónicas birmanas
+date: '2008-07-01'
+libro:
+  id: 7701371
+  titulo: Crónicas birmanas
+  url: https://www.goodreads.com/book/show/7701371-cr-nicas-birmanas
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1265472597i/7701371.jpg
+  sinopsis: "Tras Shenzhen y Pyongyang, Guy Delisle cuenta en Crónicas Birmanas su vida cotidiana en Rangún. Acompañando a\
+    \ su pareja, miembro de Médicos Sin Fronteras, durante un año en Birmania, Guy Delisle regresa con un documental gráfico\
+    \ apasionante. Testigo curioso y de mirada aguzada, el autor mezcla su propia historia con la del país. Con una buena\
+    \ dosis de ironía confronta sus insignificantes preocupaciones de occidental con las dificultades que atraviesan los habitantes\
+    \ de un país pobre bajo el yugo de una dictadura militar.\r\n\r\nTras la aparente tranquilidad de las calles de Rangún\
+    \ despuntan las injusticias y carencias impuestas por la junta militar, los efectos de la censura, las zonas prohibidas,\
+    \ los rumores, la desinformación y el miedo permanente. A través del relato de Delisle se puede apreciar mejor la realidad\
+    \ de la pequeña comunidad internacional que trabaja para las ONG y las tremendas dificultades que encuentra para llevar\
+    \ a cabo su misión. Un retrato emotivo y comprometido de Birmania.\r\n\r\n\"Delisle se convierte en el espectador irónico\
+    \ de un país extraño e inesperado, entremezclando la trivialidad de la vida cotidiana de un expatriado y la realidad de\
+    \ un régimen de hierro\". Liberation"
+autor:
+  nombre: Guy Delisle
+  rol: Author
+  seguidores: 1861
+  obras: 41
+  url: https://www.goodreads.com/author/show/46027.Guy_Delisle
+  bio: Born in Quebec, Canada, Guy Delisle studied animation at Sheridan College. Delisle has worked for numerous animation
+    studios around the world, including CinéGroupe in Montreal.<br /><br />Drawing from his experience at animation studios
+    in China and North Korea, Delisle's graphic novels <i>Shenzen</i> and <i>Pyongyang</i> depict these two countries from
+    a Westerner's perspective. A third graphic novel, <i>Chroniques Birmanes</i>, recounts his time spent in Myanmar with
+    his wife, a Médecins Sans Frontières administrator.
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Astiberri
+  formato: Paperback
+  paginas: 272
+  idioma: Spanish; Castilian
+  isbn: '8496815668'
+  isbn13: '9788496815667'
+  publicacion: '2008-07-01'
+  precio_kindle_usd: null
+personajes: []
+lugares:
+- nombre: Myanmar
+  pais: null
+  anno_ficcion: null
+- nombre: Burma
+  pais: null
+  anno_ficcion: null
+estadisticas:
+  media: 4.01
+  distribucion_estrellas:
+    '5': 4348
+    '4': 6397
+    '3': 3044
+    '2': 441
+    '1': 107
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Novela gráfica
+- Comics
+- No Ficción
+- Viajes
+- Memorias
+- Ásia
+- Biografía
+- Canada
+---
+
+Tras Shenzhen y Pyongyang, Guy Delisle cuenta en Crónicas Birmanas su vida cotidiana en Rangún. Acompañando a su pareja, miembro de Médicos Sin Fronteras, durante un año en Birmania, Guy Delisle regresa con un documental gráfico apasionante. Testigo curioso y de mirada aguzada, el autor mezcla su propia historia con la del país. Con una buena dosis de ironía confronta sus insignificantes preocupaciones de occidental con las dificultades que atraviesan los habitantes de un país pobre bajo el yugo de una dictadura militar.
+
+Tras la aparente tranquilidad de las calles de Rangún despuntan las injusticias y carencias impuestas por la junta militar, los efectos de la censura, las zonas prohibidas, los rumores, la desinformación y el miedo permanente. A través del relato de Delisle se puede apreciar mejor la realidad de la pequeña comunidad internacional que trabaja para las ONG y las tremendas dificultades que encuentra para llevar a cabo su misión. Un retrato emotivo y comprometido de Birmania.
+
+"Delisle se convierte en el espectador irónico de un país extraño e inesperado, entremezclando la trivialidad de la vida cotidiana de un expatriado y la realidad de un régimen de hierro". Liberation

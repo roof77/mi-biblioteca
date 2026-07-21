@@ -1,0 +1,119 @@
+---
+title: Crónicas de Clovis
+tags:
+- Relatos
+- Ficción
+- Clásico
+- Humor
+- Literatura británica
+- Literatura
+- Siglo XX
+- Sátira
+- Comedia
+autores:
+- Saki
+colaboradores:
+- Manuel Ortuño Aleu
+editoriales:
+- Valdemar
+colaboradores_detalle:
+- nombre: Manuel Ortuño Aleu
+  rol: Translator
+  url: https://www.goodreads.com/author/show/5371498.Manuel_Ortu_o_Aleu
+cover:
+  image: cover.jpg
+  alt: Portada de Crónicas de Clovis
+date: '2008-11-01'
+libro:
+  id: 13174609
+  titulo: Crónicas de Clovis
+  url: https://www.goodreads.com/book/show/13174609-cr-nicas-de-clovis
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1504460307i/13174609.jpg
+  sinopsis: "Macabro, ácido, ingenioso, satírico, elocuente, humorístico, inteligente... todos estos adjetivos pueden aplicarse\
+    \ a Saki y a su obra. Quienes hayan disfrutado de la lectura de Animales y más que animales recordarán sin duda a Clovis,\
+    \ uno de los héroes decadentes y escépticos –cuya lengua epigramática le haría digno de figurar en cualquier obra de Oscar\
+    \ Wilde– de los que se vale Saki para zarandear y mortificar a la sociedad eduardiana de su tiempo.\r\n\r\nEn las Crónicas\
+    \ de Clovis el lector encontrará todos los elementos que caracterizan la obra de Saki, desde lo puramente macabro al humor\
+    \ más disparatado, sazonado con diálogos ingeniosos y personajes tan absurdos que sólo pueden ser británicos. Todos los\
+    \ cuentos de Saki son un ejemplo de brevedad y eficacia; un cuchillo lanzado al lector, ya sea para provocar su risa o\
+    \ moverle al espanto. No es extraño que entre sus discípulos se encuentren Tom Sharpe y Roald Dahl. «Si empiezas un relato\
+    \ de Saki, lo terminarás. Cuando lo hayas terminado, querrás empezar otro; y cuando los hayas leído todos, jamás los olvidarás»,\
+    \ decía Tom Sharpe. Y en palabras de Borges: «Con una suerte de pudor, Saki da un tono de trivialidad a relatos cuya íntima\
+    \ trama es amarga y cruel. Esa delicadeza, esa levedad, esa ausencia de énfasis puede recordar las deliciosas comedias\
+    \ de Wilde»."
+autor:
+  nombre: Saki
+  rol: Author
+  seguidores: 602
+  obras: 1843
+  url: https://www.goodreads.com/author/show/6076026.Saki
+  bio: "British writer Hector Hugh Munro under pen name Saki published his witty and sometimes bitter short stories in collections,\
+    \ such as <i>\n  <a href=\"https://www.goodreads.com/book/show/937219.The_Chronicles_of_Clovis\" title=\"The Chronicles\
+    \ of Clovis\" rel=\"nofollow noopener\">The Chronicles of Clovis</a>\n</i> (1911).<br /><br />His sometimes macabre satirized\
+    \ Edwardian society and culture. People consider him a master and often compare him to <a href=\"https://www.goodreads.com/author/show/8993.William_Sydney_Porter\"\
+    \ title=\"William Sydney Porter\" rel=\"nofollow noopener\">William Sydney Porter</a> and <a href=\"https://www.goodreads.com/author/show/24956.Dorothy_Rothschild_Parker\"\
+    \ title=\"Dorothy Rothschild Parker\" rel=\"nofollow noopener\">Dorothy Rothschild Parker</a>. His tales feature delicately\
+    \ drawn characters and finely judged narratives. \"<a href=\"https://www.goodreads.com/book/show/23475666.The_Open_Window\"\
+    \ title=\"The Open Window\" rel=\"nofollow noopener\">The Open Window</a>,\" perhaps his most famous, closes with the\
+    \ line, \"Romance at short notice was her specialty,\" which thus entered the lexicon. Newspapers first and then several\
+    \ volumes published him as the custom of the time. <br /><br />His works include<br />* a full-length play, <i>\n  <a\
+    \ href=\"https://www.goodreads.com/book/show/32995897.The_Watched_Pot\" title=\"The Watched Pot\" rel=\"nofollow noopener\"\
+    >The Watched Pot</a>\n</i>, in collaboration with <a href=\"https://www.goodreads.com/author/show/3465549.Charles_Maude\"\
+    \ title=\"Charles Maude\" rel=\"nofollow noopener\">Charles Maude</a>; <br />* two one-act plays; <br />* a historical\
+    \ study, <i>\n  <a href=\"https://www.goodreads.com/book/show/40510221.The_Rise_of_the_Russian_Empire\" title=\"The Rise\
+    \ of the Russian Empire\" rel=\"nofollow noopener\">The Rise of the Russian Empire</a>\n</i>, the only book under his\
+    \ own name; <br />* a short novel, <i>\n  <a href=\"https://www.goodreads.com/book/show/242913.The_Unbearable_Bassington\"\
+    \ title=\"The Unbearable Bassington\" rel=\"nofollow noopener\">The Unbearable Bassington</a>\n</i>; <br />* the episodic\
+    \ <i>\n  <a href=\"https://www.goodreads.com/book/show/7192311.The_Westminster_Alice\" title=\"The Westminster Alice\"\
+    \ rel=\"nofollow noopener\">The Westminster Alice</a>\n</i>, a parliamentary parody of <i>\n  <a href=\"https://www.goodreads.com/book/show/24213.Alice_in_Wonderland\"\
+    \ title=\"Alice in Wonderland\" rel=\"nofollow noopener\">Alice in Wonderland</a>\n</i>; <br />* and <i>\n  <a href=\"\
+    https://www.goodreads.com/book/show/40510748.When_William_Came__A_Story_of_London_under_the_Hohenzollerns\" title=\"When\
+    \ William Came: A Story of London under the Hohenzollerns\" rel=\"nofollow noopener\">When William Came: A Story of London\
+    \ under the Hohenzollerns</a>\n</i>, an early alternate history. <br /><br /><a href=\"https://www.goodreads.com/author/show/3565.Oscar_Wilde\"\
+    \ title=\"Oscar Wilde\" rel=\"nofollow noopener\">Oscar Wilde</a>, <a href=\"https://www.goodreads.com/author/show/8164.Lewis_Carroll\"\
+    \ title=\"Lewis Carroll\" rel=\"nofollow noopener\">Lewis Carroll</a>, and <a href=\"https://www.goodreads.com/author/show/19963570.Joseph_Rudyard_Kipling\"\
+    \ title=\"Joseph Rudyard Kipling\" rel=\"nofollow noopener\">Joseph Rudyard Kipling</a>, influenced Munro, who in turn\
+    \ influenced <a href=\"https://www.goodreads.com/author/show/81466.A__A__Milne\" title=\"A. A. Milne\" rel=\"nofollow\
+    \ noopener\">A. A. Milne</a>, and <a href=\"https://www.goodreads.com/author/show/7963.Pelham_Grenville_Wodehouse\" title=\"\
+    Pelham Grenville Wodehouse\" rel=\"nofollow noopener\">Pelham Grenville Wodehouse</a>. "
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Valdemar
+  formato: Paperback
+  paginas: 336
+  idioma: Spanish; Castilian
+  isbn: '8477026173'
+  isbn13: '9788477026174'
+  publicacion: '2008-11-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4.07
+  distribucion_estrellas:
+    '5': 344
+    '4': 361
+    '3': 164
+    '2': 40
+    '1': 11
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Relatos
+- Ficción
+- Clásico
+- Humor
+- Literatura británica
+- Literatura
+- Siglo XX
+- Sátira
+- Comedia
+---
+
+Macabro, ácido, ingenioso, satírico, elocuente, humorístico, inteligente... todos estos adjetivos pueden aplicarse a Saki y a su obra. Quienes hayan disfrutado de la lectura de Animales y más que animales recordarán sin duda a Clovis, uno de los héroes decadentes y escépticos –cuya lengua epigramática le haría digno de figurar en cualquier obra de Oscar Wilde– de los que se vale Saki para zarandear y mortificar a la sociedad eduardiana de su tiempo.
+
+En las Crónicas de Clovis el lector encontrará todos los elementos que caracterizan la obra de Saki, desde lo puramente macabro al humor más disparatado, sazonado con diálogos ingeniosos y personajes tan absurdos que sólo pueden ser británicos. Todos los cuentos de Saki son un ejemplo de brevedad y eficacia; un cuchillo lanzado al lector, ya sea para provocar su risa o moverle al espanto. No es extraño que entre sus discípulos se encuentren Tom Sharpe y Roald Dahl. «Si empiezas un relato de Saki, lo terminarás. Cuando lo hayas terminado, querrás empezar otro; y cuando los hayas leído todos, jamás los olvidarás», decía Tom Sharpe. Y en palabras de Borges: «Con una suerte de pudor, Saki da un tono de trivialidad a relatos cuya íntima trama es amarga y cruel. Esa delicadeza, esa levedad, esa ausencia de énfasis puede recordar las deliciosas comedias de Wilde».

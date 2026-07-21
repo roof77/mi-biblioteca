@@ -1,0 +1,121 @@
+---
+title: Del amor y otros demonios
+tags:
+- Ficción
+- Clásico
+- Realismo mágico
+- Ficción histórica
+- Romance
+- Literatura
+- Latino américa
+- Novela
+- Literatura hispana
+- Literatura latinoamericana
+autores:
+- Gabriel García Márquez
+editoriales:
+- DEBOLSILLO CONTEMPORANEA
+cover:
+  image: cover.jpg
+  alt: Portada de Del amor y otros demonios
+date: '2003-01-28'
+libro:
+  id: 859848
+  titulo: Del amor y otros demonios
+  url: https://www.goodreads.com/book/show/859848.Del_amor_y_otros_demonios
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1554259737i/859848.jpg
+  sinopsis: 'El 26 de octubre de 1949 el reportero Gabriel García Márquez fue enviado al antiguo convento de Santa Clara,
+    que iba a ser demolido para edificar sobre él un hotel de cinco estrellas, a presenciar el vaciado de las criptas funerarias
+    y a cubrir la noticia. Se exhumaron los restos de un virrey del Perú y su amante secreta, un obispo, varias abadesas,
+    un bachiller de artes y una marquesa. Pero la sorpresa saltó al destapar la tercera hornacina del altar mayor: se desparramó
+    una cabellera de color cobre, de veintidós metros y once centímetros de largo, perteneciente a una niña. En la lápida
+    apenas se leía el nombre: Sierva María de Todos los Ángeles. «Mi abuela me contaba de niño la leyenda de una marquesita
+    de doce años cuya cabellera le arrastraba como una cola de novia, que había muerto del mal de rabia por el mordisco de
+    un perro, y era venerada en los pueblos del Caribe por sus muchos milagros. La idea de que esa tumba pudiera ser la suya
+    fue mi noticia de aquel día y el origen de este libro.»'
+autor:
+  nombre: Gabriel García Márquez
+  rol: Author
+  seguidores: 42443
+  obras: 991
+  url: https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez
+  bio: '<b>Gabriel José de la Concordia Garcí­a Márquez</b> was a Colombian novelist, short-story writer, screenwriter and
+    journalist. Garcí­a Márquez, familiarly known as "Gabo" in his native country, was considered one of the most significant
+    authors of the 20th century. In 1982, he was awarded the Nobel Prize in Literature.<br /><br />He studied at the University
+    of Bogotá and later worked as a reporter for the Colombian newspaper <i>El Espectador</i> and as a foreign correspondent
+    in Rome, Paris, Barcelona, Caracas, and New York. He wrote many acclaimed non-fiction works and short stories, but is
+    best-known for his novels, such as <i>One Hundred Years of Solitude</i> (1967) and <i>Love in the Time of Cholera</i>
+    (1985). His works have achieved significant critical acclaim and widespread commercial success, most notably for popularizing
+    a literary style labeled as magical realism, which uses magical elements and events in order to explain real experiences.
+    Some of his works are set in a fictional village called Macondo, and most of them express the theme of solitude.<br /><br
+    />Having previously written shorter fiction and screenplays, García Márquez sequestered himself away in his Mexico City
+    home for an extended period of time to complete his novel <i>Cien años de soledad</i>, or <i>One Hundred Years of Solitude</i>,
+    published in 1967. The author drew international acclaim for the work, which ultimately sold tens of millions of copies
+    worldwide. García Márquez is credited with helping introduce an array of readers to magical realism, a genre that combines
+    more conventional storytelling forms with vivid, layers of fantasy.<br /><br />Another one of his novels, <i>El amor en
+    los tiempos del cólera</i> (1985), or <i>Love in the Time of Cholera</i>, drew a large global audience as well. The work
+    was partially based on his parents'' courtship and was adapted into a 2007 film starring Javier Bardem. García Márquez
+    wrote seven novels during his life, with additional titles that include <i>El general en su laberinto</i> (1989), or <i>The
+    General in His Labyrinth</i>, and <i>Del amor y otros demonios</i> (1994), or <i>Of Love and Other Demons</i>.<br /><br
+    />(Arabic: <a href="https://www.goodreads.com/author/show/5029628._" rel="nofollow noopener">جابرييل جارسيا ماركيز</a>)
+    (Hebrew: <a href="https://www.goodreads.com/author/show/7091051._" rel="nofollow noopener">גבריאל גארסיה מרקס</a>) (Ukrainian:
+    <a href="https://www.goodreads.com/author/show/14544328.______________________" title="Ґабріель Ґарсія Маркес" rel="nofollow
+    noopener">Ґабріель Ґарсія Маркес</a>) (Belarussian: <a href="https://www.goodreads.com/author/show/43500299.______________________"
+    title="Габрыель Гарсія Маркес" rel="nofollow noopener">Габрыель Гарсія Маркес</a>) (Russian: <a href="https://www.goodreads.com/author/show/8327668.______________________"
+    title="Габриэль Гарсия Маркес" rel="nofollow noopener">Габриэль Гарсия Маркес</a>)'
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: DEBOLSILLO CONTEMPORANEA
+  formato: Pocket Book
+  paginas: 176
+  idioma: Spanish; Castilian
+  isbn: '8497592425'
+  isbn13: '9788497592420'
+  publicacion: '2003-01-28'
+  precio_kindle_usd: null
+personajes:
+- Sierva María de Todos los Ángeles
+- Cayetano Delaura
+- don Ygnacio de Alfaro y Dueña
+- Bernarda Cabrera
+- Abrenuncio de Sa Pereira Cao
+- Dulce Olivia
+- Martina Laborde
+- don Toribio de Cáceres y Virtudes
+- Josefa Miranda
+- Dominga de Adviento
+lugares:
+- nombre: Colombia
+  pais: null
+  anno_ficcion: null
+- nombre: Cartagena
+  pais: Colombia
+  anno_ficcion: null
+estadisticas:
+  media: 3.95
+  distribucion_estrellas:
+    '5': 27679
+    '4': 35975
+    '3': 20566
+    '2': 4327
+    '1': 1066
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Ficción
+- Clásico
+- Realismo mágico
+- Ficción histórica
+- Romance
+- Literatura
+- Latino américa
+- Novela
+- Literatura hispana
+- Literatura latinoamericana
+---
+
+El 26 de octubre de 1949 el reportero Gabriel García Márquez fue enviado al antiguo convento de Santa Clara, que iba a ser demolido para edificar sobre él un hotel de cinco estrellas, a presenciar el vaciado de las criptas funerarias y a cubrir la noticia. Se exhumaron los restos de un virrey del Perú y su amante secreta, un obispo, varias abadesas, un bachiller de artes y una marquesa. Pero la sorpresa saltó al destapar la tercera hornacina del altar mayor: se desparramó una cabellera de color cobre, de veintidós metros y once centímetros de largo, perteneciente a una niña. En la lápida apenas se leía el nombre: Sierva María de Todos los Ángeles. «Mi abuela me contaba de niño la leyenda de una marquesita de doce años cuya cabellera le arrastraba como una cola de novia, que había muerto del mal de rabia por el mordisco de un perro, y era venerada en los pueblos del Caribe por sus muchos milagros. La idea de que esa tumba pudiera ser la suya fue mi noticia de aquel día y el origen de este libro.»

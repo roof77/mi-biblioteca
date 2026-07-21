@@ -9,6 +9,10 @@ buildExpired = false
 [taxonomies]
   tag = "tags"
   autor = "autores"
+  traductor = "traductores"
+  colaborador = "colaboradores"
+  serie = "series"
+  editorial = "editoriales"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
