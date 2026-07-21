@@ -1,5 +1,5 @@
 ---
-title: El talento de Ripley
+title: A pleno sol
 tags:
 - Ficción
 - Clásico
@@ -14,24 +14,23 @@ autores:
 - Patricia Highsmith
 cover:
   image: cover.jpg
-  alt: Portada de El talento de Ripley
-date: '2008-09-01'
+  alt: Portada de A pleno sol
+date: '1989-01-01'
 libro:
-  id: 2767975
-  titulo: El talento de Ripley
-  url: https://www.goodreads.com/book/show/2767975-el-talento-de-ripley
-  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1419959401i/2767975.jpg
-  sinopsis: 'En El talento de Mr. Ripley, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje:
-    el inquietante y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela
-    policíaca y la novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso
-    análisis psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie
-    de que regrese al hogar. Tom acepta el encargo ''de paso pone tierra por medio a posibles problemas policiales'' y encuentra
-    a Dickie y a su amiga Marga, con quienes establece una relación que progresivamente irá enturbiándose hasta que desemboca
-    en el crimen y el engaño.'
+  id: 25866152
+  titulo: A pleno sol
+  url: https://www.goodreads.com/book/show/25866152-a-pleno-sol
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1436277707i/25866152.jpg
+  sinopsis: 'En A pleno sol, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje: el inquietante
+    y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela policíaca y la
+    novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso análisis
+    psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie de que
+    regrese al hogar. Tom acepta el encargo –de paso pone tierra por medio a posibles problemas policiales– y encuentra a
+    Dickie y a su amiga Marga, con quienes establece una turbia relación que desemboca en el crimen y el engaño.'
 autor:
   nombre: Patricia Highsmith
   rol: Author
-  seguidores: 5247
+  seguidores: 5248
   obras: 486
   url: https://www.goodreads.com/author/show/7622.Patricia_Highsmith
   bio: "Patricia Highsmith (19 January 1921 – 4 February 1995) was an American novelist who is known mainly for her psychological\
@@ -62,22 +61,19 @@ autor:
     \ Dostoevsky, Conrad, Kafka, Gide, and Camus.\" <br /><br />She died of leukemia in Locarno, Switzerland on 4 February\
     \ 1995 and her last novel, <i>Small g: A Summer Idyll</i>, was published posthumously a month later. (Gerry Wolstenholme,\
     \ July 2010)."
-colaboradores:
-- nombre: Jordi Beltrán
-  rol: Translator
-  url: https://www.goodreads.com/author/show/3097620.Jordi_Beltr_n
+colaboradores: []
 serie:
   nombre: Ripley
   posicion: '1'
   url: https://www.goodreads.com/series/43329-ripley
 detalles:
-  editorial: Editorial Anagrama
-  formato: Mass Market Paperback
-  paginas: 328
+  editorial: Anagrama
+  formato: Paperback
+  paginas: 286
   idioma: Spanish; Castilian
-  isbn: '8433920049'
-  isbn13: '9788433920041'
-  publicacion: '2008-09-01'
+  isbn: null
+  isbn13: null
+  publicacion: '1989-01-01'
   precio_kindle_usd: null
 personajes:
 - Tom Ripley
@@ -106,11 +102,11 @@ lugares:
 estadisticas:
   media: 3.96
   distribucion_estrellas:
-    '5': 37143
-    '4': 55130
-    '3': 26566
-    '2': 5329
-    '1': 1772
+    '5': 37156
+    '4': 55161
+    '3': 26570
+    '2': 5332
+    '1': 1773
 premios:
   ganados:
   - nombre: Grand Prix de Littérature Policière
@@ -134,4 +130,4 @@ generos_traducidos:
 - Novela
 ---
 
-En El talento de Mr. Ripley, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje: el inquietante y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela policíaca y la novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso análisis psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie de que regrese al hogar. Tom acepta el encargo 'de paso pone tierra por medio a posibles problemas policiales' y encuentra a Dickie y a su amiga Marga, con quienes establece una relación que progresivamente irá enturbiándose hasta que desemboca en el crimen y el engaño.
+En A pleno sol, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje: el inquietante y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela policíaca y la novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso análisis psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie de que regrese al hogar. Tom acepta el encargo –de paso pone tierra por medio a posibles problemas policiales– y encuentra a Dickie y a su amiga Marga, con quienes establece una turbia relación que desemboca en el crimen y el engaño.
