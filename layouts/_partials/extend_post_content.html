@@ -1,0 +1,124 @@
+{{- /*
+  Coloca este fichero en: layouts/_partials/extend_post_content.html
+  (en la RAIZ de tu proyecto Hugo, no dentro de themes/PaperMod)
+
+  PaperMod llama a este partial justo despues del cuerpo del articulo
+  (la sinopsis) y antes del pie con las tags. Al tener el mismo nombre que
+  el partial "en blanco" del tema, este lo sustituye automaticamente.
+*/ -}}
+{{- with .Params }}
+{{- $autor := .autor }}
+{{- $colaboradores := .colaboradores }}
+{{- $serie := .serie }}
+{{- $detalles := .detalles }}
+{{- $premios := .premios }}
+
+{{- $traductores := slice }}
+{{- $otrosColaboradores := slice }}
+{{- range $colaboradores }}
+  {{- $rol := .rol | default "" }}
+  {{- if in (lower $rol) "traduc" }}
+    {{- $traductores = $traductores | append . }}
+  {{- else }}
+    {{- $otrosColaboradores = $otrosColaboradores | append . }}
+  {{- end }}
+{{- end }}
+
+{{- $tienePremios := false }}
+{{- if $premios }}
+  {{- if or $premios.ganados $premios.nominaciones }}
+    {{- $tienePremios = true }}
+  {{- end }}
+{{- end }}
+
+{{- $tieneEditorialOPaginas := false }}
+{{- if $detalles }}
+  {{- if or $detalles.editorial $detalles.paginas }}
+    {{- $tieneEditorialOPaginas = true }}
+  {{- end }}
+{{- end }}
+
+{{- if or $autor $traductores $otrosColaboradores $serie $tieneEditorialOPaginas $tienePremios }}
+<div class="ficha-libro">
+  <p class="ficha-libro__eyebrow">Ficha del libro</p>
+  <dl class="ficha-libro__lista">
+
+    {{- with $autor }}
+      {{- with .nombre }}
+        {{- $nombreAutor := . }}
+        {{- $terminoAutor := "" }}
+        {{- $terminosAutor := $.GetTerms "autores" }}
+        {{- if $terminosAutor }}
+          {{- $terminoAutor = index $terminosAutor 0 }}
+        {{- end }}
+    <div class="ficha-libro__fila">
+      <dt>Autor</dt>
+      <dd>
+        {{- if $terminoAutor -}}
+        <a href="{{ $terminoAutor.Permalink }}">{{ $nombreAutor }}</a>
+        {{- else -}}
+        {{ $nombreAutor }}
+        {{- end -}}
+      </dd>
+    </div>
+      {{- end }}
+    {{- end }}
+
+    {{- if $traductores }}
+    <div class="ficha-libro__fila">
+      <dt>{{ if gt (len $traductores) 1 }}Traductores{{ else }}Traductor{{ end }}</dt>
+      <dd>{{ range $i, $t := $traductores }}{{ if $i }}, {{ end }}{{ $t.nombre }}{{ end }}</dd>
+    </div>
+    {{- end }}
+
+    {{- if $otrosColaboradores }}
+    <div class="ficha-libro__fila">
+      <dt>Colaboradores</dt>
+      <dd>{{ range $i, $c := $otrosColaboradores }}{{ if $i }}, {{ end }}{{ $c.nombre }}{{ with $c.rol }} ({{ . }}){{ end }}{{ end }}</dd>
+    </div>
+    {{- end }}
+
+    {{- with $serie }}
+      {{- with .nombre }}
+    <div class="ficha-libro__fila">
+      <dt>Serie</dt>
+      <dd>{{ . }}{{ with $serie.posicion }} (nº {{ . }}){{ end }}</dd>
+    </div>
+      {{- end }}
+    {{- end }}
+
+    {{- with $detalles }}
+      {{- with .editorial }}
+    <div class="ficha-libro__fila">
+      <dt>Editorial</dt>
+      <dd>{{ . }}</dd>
+    </div>
+      {{- end }}
+      {{- with .paginas }}
+    <div class="ficha-libro__fila">
+      <dt>Páginas</dt>
+      <dd>{{ . }}</dd>
+    </div>
+      {{- end }}
+    {{- end }}
+
+    {{- if $tienePremios }}
+    <div class="ficha-libro__fila ficha-libro__fila--premios">
+      <dt>Premios</dt>
+      <dd>
+        <ul class="ficha-libro__premios">
+          {{- range $premios.ganados }}
+          <li><span class="ficha-libro__premio-tag ficha-libro__premio-tag--ganado">Ganador</span> {{ .nombre }}{{ with .categoria }} · {{ . }}{{ end }}{{ with .anno }} ({{ . }}){{ end }}</li>
+          {{- end }}
+          {{- range $premios.nominaciones }}
+          <li><span class="ficha-libro__premio-tag">Nominado</span> {{ .nombre }}{{ with .categoria }} · {{ . }}{{ end }}{{ with .anno }} ({{ . }}){{ end }}</li>
+          {{- end }}
+        </ul>
+      </dd>
+    </div>
+    {{- end }}
+
+  </dl>
+</div>
+{{- end }}
+{{- end }}

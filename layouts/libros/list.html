@@ -1,0 +1,86 @@
+{{- /*
+  Coloca este fichero en: layouts/libros/list.html
+  (en la RAIZ de tu proyecto Hugo, no dentro de themes/PaperMod)
+
+  Sustituye el listado tipo blog de PaperMod SOLO para la seccion "libros"
+  (la pagina /libros/) por una cuadricula de tarjetas con portada pequeña,
+  titulo, autor y nota media.
+*/ -}}
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description | markdownify }}</div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="post-content md-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+{{- $paginator := .Paginate $pages }}
+
+{{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") }}
+{{- if hugo.IsExtended }}
+  {{- $processableFormats = $processableFormats | append "webp" }}
+{{- end }}
+
+<div class="libros-grid">
+  {{- range $paginator.Pages }}
+    {{- $imgSrc := "" }}
+    {{- $coverParam := .Params.cover }}
+    {{- if $coverParam }}
+      {{- $img := (.Resources.ByType "image").GetMatch (printf "*%s*" $coverParam.image) }}
+      {{- if $img }}
+        {{- if in $processableFormats $img.MediaType.SubType }}
+          {{- $imgSrc = ($img.Resize "320x").RelPermalink }}
+        {{- else }}
+          {{- $imgSrc = $img.RelPermalink }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+    <a class="libro-card" href="{{ .Permalink }}">
+      <div class="libro-card__portada">
+        {{- if $imgSrc }}
+        <img src="{{ $imgSrc }}" loading="lazy" alt="Portada de {{ .Title }}">
+        {{- else }}
+        <div class="libro-card__sin-portada">{{ .Title }}</div>
+        {{- end }}
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">{{ .Title }}</p>
+        {{- with .Params.autor.nombre }}
+        <p class="libro-card__autor">{{ . }}</p>
+        {{- end }}
+        {{- with .Params.estadisticas.media }}
+        <p class="libro-card__nota">★ {{ . }}</p>
+        {{- end }}
+      </div>
+    </a>
+  {{- end }}
+</div>
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« {{ i18n "prev_page" }}</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{ i18n "next_page" }} »</a>
+    {{- end }}
+  </nav>
+</footer>
+{{- end }}
+
+{{- end }}{{/* end main */}}

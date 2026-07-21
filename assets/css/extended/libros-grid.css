@@ -1,0 +1,96 @@
+/*
+  Coloca este fichero en: assets/css/extended/libros-grid.css
+  (en la RAIZ de tu proyecto Hugo, no dentro de themes/PaperMod)
+
+  Estilo del listado /libros/ en tarjetas con portada pequeña,
+  usado junto con layouts/libros/list.html
+*/
+
+.libros-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 26px 16px;
+  margin: var(--content-gap) 0 var(--gap);
+}
+
+.libro-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  max-width: 150px;
+  justify-self: start;
+}
+
+.libro-card__portada {
+  position: relative;
+  aspect-ratio: 2 / 3;
+  width: 100%;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--code-bg);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.libro-card:hover .libro-card__portada {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16), 0 8px 18px rgba(0, 0, 0, 0.12);
+}
+
+.libro-card__portada img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.libro-card__sin-portada {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 1.3;
+  color: var(--secondary);
+  background: var(--code-bg);
+}
+
+.libro-card__info {
+  margin-top: 8px;
+}
+
+.libro-card__titulo {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.3;
+  font-weight: 600;
+  color: var(--primary);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.libro-card__autor {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--secondary);
+}
+
+.libro-card__nota {
+  margin: 4px 0 0;
+  font-size: 11px;
+  color: var(--ficha-accent, var(--secondary));
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+@media (max-width: 480px) {
+  .libros-grid {
+    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+    gap: 18px 10px;
+  }
+}

@@ -1,0 +1,37 @@
+baseURL = "https://roof77.github.io/mi-biblioteca/"
+title = "Mi biblioteca"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[taxonomies]
+  tag = "tags"
+  autor = "autores"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = false
+  mainSections = ["libros"]
+
+[[menu.main]]
+  name = "Libros"
+  url = "/libros/"
+  weight = 10
+
+[[menu.main]]
+  name = "Etiquetas"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "Buscar"
+  url = "/search/"
+  weight = 30

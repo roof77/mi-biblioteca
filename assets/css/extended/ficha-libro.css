@@ -1,0 +1,124 @@
+/*
+  Coloca este fichero en: assets/css/extended/ficha-libro.css
+  (en la RAIZ de tu proyecto Hugo, no dentro de themes/PaperMod)
+
+  PaperMod incluye automaticamente cualquier .css que pongas en
+  assets/css/extended/, asi que no hay que tocar ninguna plantilla mas.
+*/
+
+:root {
+  --ficha-accent: #4b3f72;
+  --ficha-accent-soft: rgba(75, 63, 114, 0.08);
+}
+:root[data-theme="dark"] {
+  --ficha-accent: #b8a9e8;
+  --ficha-accent-soft: rgba(184, 169, 232, 0.12);
+}
+
+.ficha-libro {
+  position: relative;
+  margin: calc(var(--content-gap) * 1.4) 0;
+  padding: 28px 28px 22px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  border-left: 3px solid var(--ficha-accent);
+}
+
+.ficha-libro::before,
+.ficha-libro::after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--theme);
+  border: 1px solid var(--border);
+}
+.ficha-libro::before { left: 14px; }
+.ficha-libro::after { left: 30px; }
+
+.ficha-libro__eyebrow {
+  margin: 0 0 14px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ficha-accent);
+}
+
+.ficha-libro__lista {
+  margin: 0;
+}
+
+.ficha-libro__fila {
+  display: grid;
+  grid-template-columns: 128px 1fr;
+  gap: 6px 18px;
+  padding: 10px 0;
+  border-top: 1px dashed var(--border);
+}
+.ficha-libro__fila:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.ficha-libro__fila dt {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--secondary);
+  align-self: start;
+}
+
+.ficha-libro__fila dd {
+  margin: 0;
+  color: var(--content);
+  line-height: 1.5;
+}
+
+.ficha-libro__fila dd a {
+  color: var(--content);
+  text-decoration: none;
+  border-bottom: 1px solid var(--ficha-accent);
+}
+.ficha-libro__fila dd a:hover {
+  color: var(--ficha-accent);
+}
+
+.ficha-libro__premios {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ficha-libro__premio-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--ficha-accent-soft);
+  color: var(--ficha-accent);
+  margin-right: 6px;
+}
+.ficha-libro__premio-tag--ganado {
+  background: var(--ficha-accent);
+  color: var(--entry);
+}
+
+@media (max-width: 480px) {
+  .ficha-libro__fila {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+  .ficha-libro__fila dt {
+    margin-top: 6px;
+  }
+}
