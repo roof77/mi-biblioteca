@@ -1,0 +1,58 @@
+---
+title: A propósito de Cora
+tags: []
+autores:
+- David Narganes Robas
+cover:
+  image: cover.jpg
+  alt: Portada de A propósito de Cora
+date: '2022-01-01'
+libro:
+  id: 60747120
+  titulo: A propósito de Cora
+  url: https://www.goodreads.com/book/show/60747120-a-prop-sito-de-cora
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1649059836i/60747120.jpg
+  sinopsis: A propósito de Cora es un relato en el que se muestran historias y personajes cuya conexión es un beso robado
+    a la joven Cora en la Plaza Mayor de Ática, una pequeña capital de provincia, circunstancia que provoca funestas consecuencias
+    para ella. La acción de la historia se desarrolla a finales de los años sesenta y comienzos de los setenta del pasado
+    siglo, marco histórico en el que se retratan los comportamientos hipócritas y mediocres de una sociedad rígida y mezquina,
+    lastrada por la despreocupación, la desigualdad y las tradiciones machistas que ponen en peligro la dignidad, la integridad
+    e incluso la vida de los personajes menos dotados por la fortuna.
+autor:
+  nombre: David Narganes Robas
+  rol: Author
+  seguidores: 0
+  obras: 7
+  url: https://www.goodreads.com/author/show/22180342.David_Narganes_Robas
+  bio: ''
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: de la luna libros
+  formato: Paperback
+  paginas: 83
+  idioma: Spanish; Castilian
+  isbn: '8492847794'
+  isbn13: '9788492847792'
+  publicacion: '2022-01-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 0
+  distribucion_estrellas:
+    '5': 0
+    '4': 0
+    '3': 0
+    '2': 0
+    '1': 0
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos: []
+---
+
+A propósito de Cora es un relato en el que se muestran historias y personajes cuya conexión es un beso robado a la joven Cora en la Plaza Mayor de Ática, una pequeña capital de provincia, circunstancia que provoca funestas consecuencias para ella. La acción de la historia se desarrolla a finales de los años sesenta y comienzos de los setenta del pasado siglo, marco histórico en el que se retratan los comportamientos hipócritas y mediocres de una sociedad rígida y mezquina, lastrada por la despreocupación, la desigualdad y las tradiciones machistas que ponen en peligro la dignidad, la integridad e incluso la vida de los personajes menos dotados por la fortuna.
