@@ -1,0 +1,78 @@
+---
+title: Acércate
+tags:
+- Terror
+- Ficción
+- Thriller
+- Paranormal
+- Misterio
+- Novella
+- Adultos
+- Fantasía
+autores:
+- Sara Gran
+cover:
+  image: cover.jpg
+  alt: Portada de Acércate
+date: '2023-05-03'
+libro:
+  id: 152047655
+  titulo: Acércate
+  url: https://www.goodreads.com/book/show/152047655-ac-rcate
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683693611i/152047655.jpg
+  sinopsis: "Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos:\
+    \ una propuesta dirigida a su jefe es sustituida por otra llena de insultos obscenos, unos extraños golpeteos no cesan\
+    \ de oírse en su casa, siente la necesidad de volver a fumar y termina quemando «accidentalmente» a su marido con un cigarro\
+    \ y por las noches sueña con una bella mujer de afilados dientes a la orilla de un mar rojo como la sangre. Amanda siente\
+    \ que su vida ha perdido el equilibrio y está deslizándose por una curva peligrosa, pero no termina de entender por qué.\
+    \ \r\n\r\nNo sabe si está poseída por un demonio o perdiendo la cabeza. En un rincón de su mente no cesa de preguntarse\
+    \ si en realidad no está disfrutando con todo lo que le sucede y eso la aterroriza aún más."
+autor:
+  nombre: Sara Gran
+  rol: Author
+  seguidores: 2091
+  obras: 17
+  url: https://www.goodreads.com/author/show/50690.Sara_Gran
+  bio: 'Sara Gran''s most recent book is LITTLE MYSTERIES, available from Dreamland Books on 2/11/25. She is the author of
+    7 1/2 previous novels, a screenwriter, and a publisher. '
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: La Biblioteca de Carfax
+  formato: Paperback
+  paginas: 224
+  idioma: Spanish; Castilian
+  isbn: '8412564022'
+  isbn13: '9788412564020'
+  publicacion: '2023-05-03'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.65
+  distribucion_estrellas:
+    '5': 10847
+    '4': 21433
+    '3': 16831
+    '2': 4798
+    '1': 1299
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Terror
+- Ficción
+- Thriller
+- Paranormal
+- Misterio
+- Novella
+- Adultos
+- Fantasía
+---
+
+Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos: una propuesta dirigida a su jefe es sustituida por otra llena de insultos obscenos, unos extraños golpeteos no cesan de oírse en su casa, siente la necesidad de volver a fumar y termina quemando «accidentalmente» a su marido con un cigarro y por las noches sueña con una bella mujer de afilados dientes a la orilla de un mar rojo como la sangre. Amanda siente que su vida ha perdido el equilibrio y está deslizándose por una curva peligrosa, pero no termina de entender por qué. 
+
+No sabe si está poseída por un demonio o perdiendo la cabeza. En un rincón de su mente no cesa de preguntarse si en realidad no está disfrutando con todo lo que le sucede y eso la aterroriza aún más.

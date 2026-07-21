@@ -1,0 +1,97 @@
+---
+title: 'Adulting: How to Become a Grown-up in 468 Easy(ish) Steps'
+tags:
+- No Ficción
+- Autoayuda
+- Humor
+- Adultos
+- Desarrollo personal
+- Referencia
+- Psicología
+- Cómo
+- Memorias
+autores:
+- Kelly Williams Brown
+cover:
+  image: cover.jpg
+  alt: 'Portada de Adulting: How to Become a Grown-up in 468 Easy(ish) Steps'
+date: '2013-05-07'
+libro:
+  id: 15791144
+  titulo: 'Adulting: How to Become a Grown-up in 468 Easy(ish) Steps'
+  url: https://www.goodreads.com/book/show/15791144-adulting
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1352437033i/15791144.jpg
+  sinopsis: "If you graduated from college but still feel like a student . . . if you wear a business suit to job interviews\
+    \ but pajamas to the grocery store . . . if you have your own apartment but no idea how to cook or clean . . . it's OK.\
+    \ But it doesn't have to be this way.Just because you don't feel like an adult doesn't mean you can't act like one. And\
+    \ it all begins with this funny, wise, and useful book. Based on Kelly Williams Brown's popular blog, ADULTING makes the\
+    \ scary, confusing \"real world\" approachable, manageable-and even conquerable. This guide will help you to navigate\
+    \ the stormy Sea of Adulthood so that you may find safe harbor in Not Running Out of Toilet Paper Bay, and along the way\
+    \ you will learn:\r\nWhat to check for when renting a new apartment-Not just the nearby bars, but the faucets and stove,\
+    \ among other things.\r\nWhen a busy person can find time to learn more about the world- It involves the intersection\
+    \ of NPR and hair-straightening.\r\nHow to avoid hooking up with anyone in your office -- Imagine your coworkers having\
+    \ plastic, featureless doll crotches. It helps.\r\nThe secret to finding a mechanic you love-Or, more realistically, one\
+    \ that will not rob you blind.\r\nFrom breaking up with frenemies to fixing your toilet, this way fun comprehensive handbook\
+    \ is the answer for aspiring grown-ups of all ages.\r\n\r\nNew York Times Bestseller."
+autor:
+  nombre: Kelly Williams Brown
+  rol: Author
+  seguidores: 279
+  obras: 4
+  url: https://www.goodreads.com/author/show/6457379.Kelly_Williams_Brown
+  bio: ''
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Grand Central Publishing
+  formato: Paperback
+  paginas: 273
+  idioma: English
+  isbn: '1455516902'
+  isbn13: '9781455516902'
+  publicacion: '2013-05-07'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.7
+  distribucion_estrellas:
+    '5': 3654
+    '4': 5069
+    '3': 4083
+    '2': 1281
+    '1': 455
+premios:
+  ganados: []
+  nominaciones:
+  - nombre: Goodreads Choice Award
+    categoria: Humor
+    anno: 2013
+    resultado: NOMINEE
+  - nombre: Readers' Favorite Humor
+    categoria: null
+    anno: 2013
+    resultado: NOMINEE
+generos_traducidos:
+- No Ficción
+- Autoayuda
+- Humor
+- Adultos
+- Desarrollo personal
+- Referencia
+- Psicología
+- Cómo
+- Memorias
+---
+
+If you graduated from college but still feel like a student . . . if you wear a business suit to job interviews but pajamas to the grocery store . . . if you have your own apartment but no idea how to cook or clean . . . it's OK. But it doesn't have to be this way.Just because you don't feel like an adult doesn't mean you can't act like one. And it all begins with this funny, wise, and useful book. Based on Kelly Williams Brown's popular blog, ADULTING makes the scary, confusing "real world" approachable, manageable-and even conquerable. This guide will help you to navigate the stormy Sea of Adulthood so that you may find safe harbor in Not Running Out of Toilet Paper Bay, and along the way you will learn:
+What to check for when renting a new apartment-Not just the nearby bars, but the faucets and stove, among other things.
+When a busy person can find time to learn more about the world- It involves the intersection of NPR and hair-straightening.
+How to avoid hooking up with anyone in your office -- Imagine your coworkers having plastic, featureless doll crotches. It helps.
+The secret to finding a mechanic you love-Or, more realistically, one that will not rob you blind.
+From breaking up with frenemies to fixing your toilet, this way fun comprehensive handbook is the answer for aspiring grown-ups of all ages.
+
+New York Times Bestseller.
