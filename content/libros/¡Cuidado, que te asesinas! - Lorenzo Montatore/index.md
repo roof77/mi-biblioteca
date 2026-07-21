@@ -1,0 +1,81 @@
+---
+title: ¡Cuidado, que te asesinas!
+tags:
+- Comics
+- Ficción
+autores:
+- Lorenzo Montatore
+cover:
+  image: cover.jpg
+  alt: Portada de ¡Cuidado, que te asesinas!
+date: '2018-02-22'
+libro:
+  id: 38937406
+  titulo: ¡Cuidado, que te asesinas!
+  url: https://www.goodreads.com/book/show/38937406-cuidado-que-te-asesinas
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1520197365i/38937406.jpg
+  sinopsis: "Centramina sufre el bloqueo del escritor, el temita de la página en blanco, un asunto espantoso que sólo presenta\
+    \ un arreglo: bajarse a la noche.\r\n\r\nCon el invertebrado Optalidón como escudero, nuestra protagonista emprenderá\
+    \ un viaje psíquico en busca de la palabra cegadora. Juntos vivirán una lujuriosa aventura de barrio en la que se dejarán\
+    \ empapar por los caldos de la existencia y le plantarán cara al destino, que por su parte se presentará inoportuno o\
+    \ premeditado, puntual o diferido, benévolo o puede que infame.\r\n\r\nEl diagnóstico, en cualquier caso, será siempre\
+    \ la vida misma. El bicarbonato para mitigarla, el presente inmediato.\r\n\r\nEl ahora.\r\n\r\nEl ya.\r\n\r\nLorenzo Montatore\
+    \ nació en Madrid en 1983 y reside en Barcelona, desde donde se ha ido foguenado como ilustrador y autor de historietas\
+    \ en opúsculos autoeditados, en fazines como OHG! y VOOH! o en la revista Voltio. En 2016 alcanzó proyección como autor\
+    \ de La muerte y Román Tesoro (De Havilland), un caldero de ideas propias y referencias bien asimiladas donde tradición\
+    \ y vanguardia emergían como aleación novísima y radiante. Por aquella obra fue nominado como autor revelación en el Salón\
+    \ Internacional del Cómic de Barcelona y mereció el Gran Premio en los Golden Globos de 2017. Es también parte contratante\
+    \ del colectivo Panoli Creaciones, que ofrece lecturas y sorpresas gráficas al margen de la industria editorial.\r\n\r\
+    \nUna movida considerable."
+autor:
+  nombre: Lorenzo Montatore
+  rol: Author
+  seguidores: 5
+  obras: 21
+  url: https://www.goodreads.com/author/show/15076007.Lorenzo_Montatore
+  bio: ''
+colaboradores: []
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: La Cúpula
+  formato: Paperback
+  paginas: 104
+  idioma: Spanish; Castilian
+  isbn: '8416400946'
+  isbn13: '9788416400942'
+  publicacion: '2018-02-22'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 3.85
+  distribucion_estrellas:
+    '5': 9
+    '4': 14
+    '3': 8
+    '2': 3
+    '1': 0
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Comics
+- Ficción
+---
+
+Centramina sufre el bloqueo del escritor, el temita de la página en blanco, un asunto espantoso que sólo presenta un arreglo: bajarse a la noche.
+
+Con el invertebrado Optalidón como escudero, nuestra protagonista emprenderá un viaje psíquico en busca de la palabra cegadora. Juntos vivirán una lujuriosa aventura de barrio en la que se dejarán empapar por los caldos de la existencia y le plantarán cara al destino, que por su parte se presentará inoportuno o premeditado, puntual o diferido, benévolo o puede que infame.
+
+El diagnóstico, en cualquier caso, será siempre la vida misma. El bicarbonato para mitigarla, el presente inmediato.
+
+El ahora.
+
+El ya.
+
+Lorenzo Montatore nació en Madrid en 1983 y reside en Barcelona, desde donde se ha ido foguenado como ilustrador y autor de historietas en opúsculos autoeditados, en fazines como OHG! y VOOH! o en la revista Voltio. En 2016 alcanzó proyección como autor de La muerte y Román Tesoro (De Havilland), un caldero de ideas propias y referencias bien asimiladas donde tradición y vanguardia emergían como aleación novísima y radiante. Por aquella obra fue nominado como autor revelación en el Salón Internacional del Cómic de Barcelona y mereció el Gran Premio en los Golden Globos de 2017. Es también parte contratante del colectivo Panoli Creaciones, que ofrece lecturas y sorpresas gráficas al margen de la industria editorial.
+
+Una movida considerable.
