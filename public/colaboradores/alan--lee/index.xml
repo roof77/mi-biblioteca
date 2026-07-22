@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alan  Lee on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/alan--lee/</link>
+    <description>Recent content in Alan  Lee on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/alan--lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Señor de los Anillos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-anillos-j-r-r-tolkien/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-anillos-j-r-r-tolkien/</guid>
+      <description>&lt;p&gt;En la adormecida e idílica Comarca, un joven hobbit recibe un encargo: custodiar el Anillo Único y emprender el viaje para su destrucción en las Grietas del Destino. Consciente de la importancia de su misión, Frodo abandona la Comarca e inicia el camino hacia Mordor con la compañía inesperada de Sam, Pippin y Merry. Pero sólo con la ayuda de Aragorn conseguirán vencer a los Jinetes Negros y alcanzar el refugio de la Casa de Elrond en Rivendel. Contiene cincuenta ilustraciones en color, encargadas especialmente al artista Alan Lee para conmemorar el centenario de J.R.R. Tolkien. Incluye además los mapas y apéndices de Tolkien y un índice de canciones, nombres de los personajes, lugares y cosas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La caída de Gondolin (Middle-Earth Universe)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/</guid>
+      <description>&lt;p&gt;En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo. Por un lado está Morgoth, el mal más absoluto, que está al mando de un enorme poder militar que controla desde su fortaleza en Angband. En su oposición está Ulmo, el segundo Vala más poderoso. Trabaja secretamente en la Tierra Media para apoyar a los Noldor, el grupo de elfos entre los que se contaban Húrin y Túrin Turambar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

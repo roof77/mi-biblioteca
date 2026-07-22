@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Colección Universo DC on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/colecci%C3%B3n-universo-dc/</link>
+    <description>Recent content in Colección Universo DC on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Apr 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/colecci%C3%B3n-universo-dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Universo DC: Hitman Nº 1</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-1-garth-ennis/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-1-garth-ennis/</guid>
+      <description>&lt;p&gt;Contiene The Demon v3 Annual #2, The Batman Chronicles #4, Hitman #1-17 y Hitman Annual #1 USA&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

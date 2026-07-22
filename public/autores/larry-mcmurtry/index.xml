@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Larry McMurtry on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/larry-mcmurtry/</link>
+    <description>Recent content in Larry McMurtry on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/larry-mcmurtry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La última película (La última película, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-ultima-pelicula-la-ultima-pelicula-1-larry-mcmurtry/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-ultima-pelicula-la-ultima-pelicula-1-larry-mcmurtry/</guid>
+      <description>&lt;p&gt;“A veces Sonny se sentía como si fuera el único ser humano del pueblo. Era una desagradable sensación que solía experimentar por la mañana temprano cuando las calles estaban completamente vacías, como cierta mañana de sábado de noviembre.”&lt;/p&gt;
+&lt;p&gt;Son los años cincuenta y estamos en Thalia, una pequeña ciudad de Texas. Sonny, Jacy y Duane son tres adolescentes insatisfechos y aburridos, espectadores de sus propias vidas en una provincia encerrada en sí misma. Todo es un sueño inmóvil que se desarrolla entre un viejo cine, un salón de billar y un café abierto toda la noche.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Círculo Rojo Editorial on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/c%C3%ADrculo-rojo-editorial/</link>
+    <description>Recent content in Círculo Rojo Editorial on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/c%C3%ADrculo-rojo-editorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cáceres 5050. La judía de la quebrada</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/caceres-5050-la-judia-de-la-quebrada-david-narganes-robas/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/caceres-5050-la-judia-de-la-quebrada-david-narganes-robas/</guid>
+      <description>&lt;p&gt;Es una novela coral que se desarrolla en plena Edad Media. Daniel vuelve a Casseres a hacerse cargo de la herencia de su padre, muerto poco tiempo antes. El reencuentro con Alba, su amor del pasado, y con Abraham, un viejo mago que la protege, le hacen replantearse su vida. Una extraña enfermedad que asola la ciudad le permite descubrir el misterio que envuelve a los viejos amores imposibles de Abraham y María, plagados de elementos mágicos y de sacrificios necesarios&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

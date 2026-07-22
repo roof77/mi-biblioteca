@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Black Swan on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/black-swan/</link>
+    <description>Recent content in Black Swan on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/black-swan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Made in America</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/made-in-america-bill-bryson/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/made-in-america-bill-bryson/</guid>
+      <description>&lt;p&gt;This book turns away from the highways and byways of middle America for a fast, exhilarating ride along the Route 66 of American language and popular culture.&lt;/p&gt;
+&lt;p&gt;Exploding much of America&amp;rsquo;s self-created self-image, Bryson de-mythologises his native land - explaining how a dusty desert hamlet with neither woods nor holly became Hollywood, how the Wild West wasn&amp;rsquo;t won, why Americans say &amp;ldquo;lootenant&amp;rdquo; and &amp;ldquo;Toosday&amp;rdquo;, how Americans were eating junk food long before the word itself was cooked up - as well as exposing the true origins of the G-string, the original $64,000 question and Dr Kellogg of cornflakes fame.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

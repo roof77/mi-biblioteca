@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Valentín Ladrero on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/valent%C3%ADn-ladrero/</link>
+    <description>Recent content in Valentín Ladrero on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/valent%C3%ADn-ladrero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El rumor de los suburbios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-rumor-de-los-suburbios-valentin-ladrero/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-rumor-de-los-suburbios-valentin-ladrero/</guid>
+      <description>&lt;p&gt;La relación entre cultura y clase lleva décadas, siglos, alimentando debates y polémicas. En el caso de la música, uno de los fenómenos culturales más masivamente mercantilizados de nuestras sociedades occidentales, esa relación goza de una prolijidad incontestable. Ya sea desde fuertes convergencias con lo mercantil o desde pulsiones contestatarias arraigadas, las gentes que habitan nuestras muchas periferias geográficas y sociales han hecho mil veces suyos los registros de la música. Valentín Ladrero centrará ahí su foco: en músicas paridas en los márgenes, en músicas que a menudo pasaron por confrontar primero estigmas y prejuicios antes de lograr cualquier otro tipo de reconocimiento.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

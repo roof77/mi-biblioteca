@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ivan Doig on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/ivan-doig/</link>
+    <description>Recent content in Ivan Doig on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 May 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/ivan-doig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una temporada para silbar</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-temporada-para-silbar-ivan-doig/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-temporada-para-silbar-ivan-doig/</guid>
+      <description>&lt;p&gt;“No cocina, pero tampoco muerde”. Así comienza el anuncio en el que Rose Llewellyn, una viuda de “buenas costumbres y disposición excepcional”, se ofrece en el otoño de 1909 como ama de llaves; la frase capta de inmediato la atención de Oliver Milliron, un viudo con tres hijos y poca maña en las tareas domésticas, que la contrata para poner un poco de orden en su casa de Marias Coulee, Montana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

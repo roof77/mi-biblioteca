@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/narrativa-completa-vol-i-h-p-lovecraft/cover.jpg" alt="Portada de Narrativa completa (vol. I)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Narrativa completa (vol. I)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Edición de Juan Antonio Molina Foix. Traducción de Juan Antonio Molina Foix, Francisco Torres Oliver y José María Nebreda
+Howard Phillips Lovecraft (1890-1937) fue un ave nocturna y un cazador de sueños. Nació en Providence (Nueva Inglaterra), donde vivió la mayor parte de su corta vida, que dedicó a contemplar las estrellas, leer con avidez cuanto caía en sus manos y, sobre todo, escribir (poesía, ensayo, relatos y una ingente correspondencia). Al refugiarse en su hermético mundo onírico, Lovecraft se embarcó en un viaje sin retorno hacia una nueva dimensión: el miedo cósmico, el «terror de los espacios infinitos», que estremecía a Pascal. Como Poe, Lovecraft abandona definitivamente las invenciones mágicas o legendarias de los góticos: el castillo encantado, los fantasmas, vampiros y brujas, y las sustituye por una nueva mitología fantástica en la que ya no hay Dios ni Diablo, ni seres sobrenaturales, tan sólo híbridos semihumanos y seres extraterrestres o extradimensionales. Y el miedo se convirtió en horror cósmico. A través del sueño y el vuelo de la fantasía H.P.L. compensó su escasa movilidad física y viajó más lejos que nadie. Este primer volumen de su narrativa completa abarca la producción literaria de H.P. Lovecraft entre 1905 y 1926. Influido desde sus comienzos por Edgar Allan Poe, en relatos como “La tumba”, “El extraño” o “Aire frío”, entre 1917 y 1921 escribió casi una veintena de relatos oníricos inspirados en otro de sus grandes maestros: Lord Dunsany. Cuentos de este periodo son “Dagon”, “Polaris”, “La ciudad sin nombre” o “La búsqueda en sueños de la ignota Kadath”. Así mismo, en esta primera etapa de su carrera vio la luz “La llamada de Cthulhu” (1926), pieza básica y fundacional de los Mitos de Cthulhu, subgénero lovecraftiano que cuenta con ilustres precursores, como Arthur Machen o Algernon Blackwood, así como numerosos continuadores, especialmente los escritores que integran el llamado «Círculo de Lovecraft».
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2005-01-01 00:00:00 +0000 UTC'>January 1, 2005</span></footer>
+  <a class="entry-link" aria-label="post link to Narrativa completa (vol. I)" href="http://localhost:1313/mi-biblioteca/libros/narrativa-completa-vol-i-h-p-lovecraft/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-princesa-caballero-2-de-3-coleccion-clasicos-manga-la-princesa-caballero-2-osamu-tezuka/cover.jpg" alt="Portada de La Princesa Caballero, 2 de 3 (Colección Clásicos Manga: La Princesa Caballero, #2)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La Princesa Caballero, 2 de 3 (Colección Clásicos Manga: La Princesa Caballero, #2)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Siguiendo con su recuperación de lo mejor de Tezuka, presentamos una de sus más recordadas creaciones, que además fue una piedra angular en uno de los géneros clave de la historieta japonesa, el shôjo manga: Ribon no Kishi, literalmente “el caballero del lazo”, pero más conocida entre nosotros como Choppy y la Princesa o La Princesa Caballero.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-11-30 00:00:00 +0000 UTC'>November 30, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to La Princesa Caballero, 2 de 3 (Colección Clásicos Manga: La Princesa Caballero, #2)" href="http://localhost:1313/mi-biblioteca/libros/la-princesa-caballero-2-de-3-coleccion-clasicos-manga-la-princesa-caballero-2-osamu-tezuka/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/cover.jpg" alt="Portada de Moravagine">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Moravagine
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>«¿Cómo puedo convencer a los escépticos de que fui deslumbrado por Moravagine? ¿Cómo explicar cuando uno sabe inmediatamente y sin dudar que algo le gusta?» HENRY MILLER
+Moravagine es más que un personaje. Es una fuerza de la naturaleza violenta y terrible. Liberado del manicomio por su iluminado psiquiatra, juntos viajan por el mundo protagonizando experiencias fascinantes. Una novela de acción que revela como ninguna las claves de la mentalidad del siglo xx. «Es el miedo quien te atenaza, el miedo a los hombres de acción, al desorden. Pero todo no es más que desorden, querido. ¿Por qué quieres tú poner un orden? ¿Qué orden? No existe la verdad. No hay más que la acción efímera, la acción antagonista. La vida.»
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-11-01 00:00:00 +0000 UTC'>November 1, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to Moravagine" href="http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-fortaleza-de-la-soledad-jonathan-lethem/cover.jpg" alt="Portada de La fortaleza de la soledad">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La fortaleza de la soledad
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La fortaleza de la soledad cuenta la historia de Dylan Ebdus. Ebdus llega a Boreum Hill, Brooklyn, durante la primera mitad de los setenta; un niño blanco de una familia de hippies que se establecen con el beneplácito de la fundadora de la comunidad blanca local. La madre de Dylan, Rachel, una mujer bohemia y pronta a llegar a las manos, abandona poco después a su marido Abraham, un quijotesco pintor que lleva toda su vida haciendo una película con sus pinturas abstractas y que sobrevive pintando portadas para ediciones de ciencia ficción de bolsillo. Las peripecias de Dylan para sobrevivir a lo largo de toda su educación secundaria en un barrio de negros, así como sus días de ser apalizado simplemente por el dinero de su almuerzo parecen llegar a su fin cuando conoce a su hermano espiritual Mingus Rude, un negro que le introduce en otros mundos.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-10-31 00:00:00 +0000 UTC'>October 31, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to La fortaleza de la soledad" href="http://localhost:1313/mi-biblioteca/libros/la-fortaleza-de-la-soledad-jonathan-lethem/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-princesa-caballero-1-de-3-coleccion-clasicos-manga-la-princesa-caballero-1-osamu-tezuka/cover.jpg" alt="Portada de La Princesa Caballero, 1 de 3 (Colección Clásicos Manga: La Princesa Caballero, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La Princesa Caballero, 1 de 3 (Colección Clásicos Manga: La Princesa Caballero, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Siguiendo con su recuperación de lo mejor de Tezuka, presentamos una de sus más recordadas creaciones, que además fue una piedra angular en uno de los géneros clave de la historieta japonesa, el shôjo manga: Ribon no Kishi, literalmente “el caballero del lazo”, pero más conocida entre nosotros como Choppy y la Princesa o La Princesa Caballero.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-09-30 00:00:00 +0000 UTC'>September 30, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to La Princesa Caballero, 1 de 3 (Colección Clásicos Manga: La Princesa Caballero, #1)" href="http://localhost:1313/mi-biblioteca/libros/la-princesa-caballero-1-de-3-coleccion-clasicos-manga-la-princesa-caballero-1-osamu-tezuka/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/malos-suenos-felices-pesadillas-2-various/cover.jpg" alt="Portada de Malos sueños. Felices Pesadillas 2">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Malos sueños. Felices Pesadillas 2
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Con la edición de Felices Pesadillas (número 200 de esta colección)
+Valdemar marcó un hito en nuestro país en cuanto a las antologías de literatura fantástica y de terror se refiere. «He leído en mi vida muchas docenas de antologías de cuentos de terror, pero me atrevo a decir que ésta las supera a todas, tanto por su generosa amplitud como por el tino de su selección», escribió Fernando Savater, verdadero fan del género. Mil páginas saturadas de los temas clásicos de los cuentos de terror: la muerte, los fantasmas, el diablo, los vampiros, los zombis, los sabios locos, la venganza, la fatalidad…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-06-01 00:00:00 +0000 UTC'>June 1, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to Malos sueños. Felices Pesadillas 2" href="http://localhost:1313/mi-biblioteca/libros/malos-suenos-felices-pesadillas-2-various/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-nacimiento-de-los-estados-unidos-1763-1816-isaac-asimov/cover.jpg" alt="Portada de El Nacimiento De Los Estados Unidos, 1763-1816">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El Nacimiento De Los Estados Unidos, 1763-1816
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La serie informalmente titulada HISTORIA UNIVERSAL ASIMOV reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la humanidad. EL NACIMIENTO DE LOS ESTADOS UNIDOS (1763-1816), segundo de los cuatro volúmenes dedicados específicamente al norte del continente am
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-05-10 00:00:00 +0000 UTC'>May 10, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to El Nacimiento De Los Estados Unidos, 1763-1816" href="http://localhost:1313/mi-biblioteca/libros/el-nacimiento-de-los-estados-unidos-1763-1816-isaac-asimov/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-flaqueza-del-bolchevique-lorenzo-silva/cover.jpg" alt="Portada de La flaqueza del bolchevique">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La flaqueza del bolchevique
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El protagonista y narrador de esta historia se empotra contra el descapotable de una irritante ejecutiva en lunes a las ocho de la mañana. Ciertamente, él se distrajo un poco, pero ella no tenía por qué frenar en seco ni, desde luego, escupirle todos los insultos del diccionario. Por ello, y para hacer soportables las tardes de aquel bochornoso verano, decide dedicarse &#34; al acecho y aniquilación moral de Sonsoles&#34;. La flaqueza del bolchevique sería una novela absolutamente cómica si no fuera por el carácter inquietante que adquiere a medida que se complican las argucias del protagonista. Una historia a caballo entre la comedia, la intriga y el melodrama.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-05-10 00:00:00 +0000 UTC'>May 10, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to La flaqueza del bolchevique" href="http://localhost:1313/mi-biblioteca/libros/la-flaqueza-del-bolchevique-lorenzo-silva/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-orden-del-fenix-harry-potter-5-j-k-rowling/cover.jpg" alt="Portada de Harry Potter y la Orden del Fénix (Harry Potter, #5)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harry Potter y la Orden del Fénix (Harry Potter, #5)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Las tediosas vacaciones de verano en casa de sus tíos todavía no han acabado y Harry se encuentra más inquieto que nunca. Apenas ha tenido noticias de Ron y Hermione, y presiente que algo extraño está sucediendo en Hogwarts. En efecto, cuando por fin comienza otro curso en el famoso colegio de magia y hechicería, sus temores se vuelven realidad. El Ministerio de Magia niega que Voldemort haya regresado y ha iniciado una campaña de desprestigio contra Harry y Dumbledore, para lo cual ha asignado a la horrible profesora Dolores Umbridge la tarea de vigilar todos sus movimientos. Así pues, además de sentirse solo e incomprendido, Harry sospecha que Voldemort puede adivinar sus pensamientos, e intuye que el temible mago trata de apoderarse de un objeto secreto que le permitiría recuperar su poder destructivo.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-02-01 00:00:00 +0000 UTC'>February 1, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to Harry Potter y la Orden del Fénix (Harry Potter, #5)" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-orden-del-fenix-harry-potter-5-j-k-rowling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/guardias-guardias-mundodisco-8-terry-pratchett/cover.jpg" alt="Portada de ¡Guardias! ¡Guardias! (Mundodisco, #8)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¡Guardias! ¡Guardias! (Mundodisco, #8)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos, la mendicidad y la prostitución para tenerlos controlados. El Gremio de Asesinos y el de Ladrones reciben una cuota de asesinatos y robos ‘razonables’, y el sistema funciona con normalidad. Excepto para la Guardia Nocturna, que se ha visto reducida a tres hombres: el capitán Sam Vimes, el sargento Colon y el cabo Nobby Nobbs. La institución está degradada y envilecida. Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a su hijo adoptivo Zanahoria a ingresar en la Guardia para que se haga un hombre. Zanahoria mide dos metros, es simple y muy fuerte, y cree que todos somos capaces de llevarnos bien. Además, se ha estudiado las leyes de la ciudad. Zanahoria es capaz de revitalizar la Guardia, que debe descubrir quién anda detrás de las misteriosas apariciones de un dragón, que tienen como fin la restauración de la monarquía en la ciudad. Para ello contarán con la ayuda inestimable de lady Sybil Ramkin, una aristócrata experta en dragones de pantano.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2004-01-07 00:00:00 +0000 UTC'>January 7, 2004</span></footer>
+  <a class="entry-link" aria-label="post link to ¡Guardias! ¡Guardias! (Mundodisco, #8)" href="http://localhost:1313/mi-biblioteca/libros/guardias-guardias-mundodisco-8-terry-pratchett/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/48/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/50/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

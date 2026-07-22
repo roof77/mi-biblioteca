@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Library of America on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/library-of-america/</link>
+    <description>Recent content in Library of America on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/library-of-america/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viajes con Charley en busca de Estados Unidos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/viajes-con-charley-en-busca-de-estados-unidos-john-steinbeck/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/viajes-con-charley-en-busca-de-estados-unidos-john-steinbeck/</guid>
+      <description>&lt;p&gt;«Mi plan era claro, conciso y razonable, creo yo. He viajado por diversas partes del mundo durante muchos años. En Estados Unidos vivo en Nueva York, o me voy a Chicago o a San Francisco. Pero Nueva York no es más los Estados Unidos de lo que París es Francia o Londres es Inglaterra. Así que descubrí que no conocía mi propio país. Yo, un escritor estadounidense, que escribía sobre Estados Unidos, estaba trabajando de memoria, y la memoria es, en el mejor de los casos, un depósito defectuoso y deformado. No había oído el habla del país, ni olido la hierba ni los árboles ni las alcantarillas, ni visto sus cerros ni sus aguas, ni su color ni la calidad de su luz. Sabía de los cambios sólo por los libros y los periódicos. Pero, aparte de eso, llevaba veinticinco años sin sentir el país.»&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

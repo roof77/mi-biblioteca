@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pippi Långstrump on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/pippi-l%C3%A5ngstrump/</link>
+    <description>Recent content in Pippi Långstrump on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/pippi-l%C3%A5ngstrump/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pippi Calzaslargas: Todas las historias</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/pippi-calzaslargas-todas-las-historias-astrid-lindgren/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/pippi-calzaslargas-todas-las-historias-astrid-lindgren/</guid>
+      <description>&lt;p&gt;Pippi Calzaslargas es la niña que todos querríamos ser: vive sin obligaciones, en una casa enorme, con un caballo y un mono. Dedica todo su tiempo a dar rienda suelta a su desbordante imaginación.&lt;/p&gt;
+&lt;p&gt;Aunque le encanta vivir sola, ha abierto las puertas de su casa a millones de lectores, con los que sigue compartiendo un montón de aventuras inolvidables. Porque Pippi, como sus historias, no envejece.&lt;/p&gt;
+&lt;p&gt;Edición especial 70 aniversario, con prólogo de Ellen Duthie.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

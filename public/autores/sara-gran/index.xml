@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sara Gran on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/sara-gran/</link>
+    <description>Recent content in Sara Gran on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/sara-gran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acércate</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/acercate-sara-gran/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/acercate-sara-gran/</guid>
+      <description>&lt;p&gt;Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos: una propuesta dirigida a su jefe es sustituida por otra llena de insultos obscenos, unos extraños golpeteos no cesan de oírse en su casa, siente la necesidad de volver a fumar y termina quemando «accidentalmente» a su marido con un cigarro y por las noches sueña con una bella mujer de afilados dientes a la orilla de un mar rojo como la sangre. Amanda siente que su vida ha perdido el equilibrio y está deslizándose por una curva peligrosa, pero no termina de entender por qué.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Planeta on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/planeta/</link>
+    <description>Recent content in Planeta on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/planeta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un mundo helado</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/un-mundo-helado-naomi-novik/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/un-mundo-helado-naomi-novik/</guid>
+      <description>&lt;p&gt;La familia de Miryem se halla al borde de la pobreza, hasta que ella se hace cargo de la situación y no tarda en ganarse la reputación de ser capaz de convertir la plata en oro.&lt;/p&gt;
+&lt;p&gt;Cuando el rey de los staryk, unas criaturas hechas de hielo que amenazan con llevarse el verano para siempre, se entera de tal hazaña le impone una tarea que parece imposible y que hará que Miryem descubra que tiene poderes. Tejerá una telaraña en la que quedarán atrapadas una joven campesina, Wanda, e Irina, la desdichada hija de un noble local que pretende casarla con el joven y apuesto zar Mirnatius.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La historia secreta de Twin Peaks</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-de-twin-peaks-mark-frost/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-de-twin-peaks-mark-frost/</guid>
+      <description>&lt;p&gt;Directamente de las manos del co-creador de la serie «Twin Peaks», uno de los mayores logros de la televisión moderna, nos llega una novela que no sólo profundiza en los misterios de esta excéntrica localidad, enriqueciendo la original, sino que preparara a los lectores para su inminente
+tercera temporada.
+Con el descubrimiento del cuerpo asesinado de Laura Palmer en la costa de Twin Peaks arrancaba uno de los mayores fenómenos populares de las últimas décadas. Ante los ojos del agente del FBI Dale Cooper se abrieron entonces todo tipo de secretos inimaginables que se escondían bajo la aparente normalidad de la comunidad y, junto a él, millones de fans en todo el mundo se iniciaron en el inimitable trabajo de David Lynch y Mark Frost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Un cuento oscuro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/un-cuento-oscuro-naomi-novik/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/un-cuento-oscuro-naomi-novik/</guid>
+      <description>&lt;p&gt;Agnieszka tiene un don: es capaz de romper, manchar o perder cualquier cosa que lleve puesta en cuestión de segundos. Vive en el valle con su familia y es feliz en su pequeño y asilvestrado hogar. Pero la maligna y retorcida presencia del Bosque se cierne desde hace años sobre todos ellos. Para protegerse, el pueblo confía en el poder de un misterioso mago conocido como el Dragón, el único capaz de controlar con su magia el poder del Bosque. A cambio de protección, pide una sola cosa: cada diez años podrá escoger a una chica y se la llevará a su torre, un destino casi tan terrible como caer presa del Bosque.
+El día de la elección se acerca y Agnieszka tiene miedo. Sabe —de hecho todo el mundo sabe— que el Dragón escogerá a Kasia, la más bonita, la más valiente de todas las aspirantes. Y, también, la mejor amiga de Agnieszka. Pero cuando el Dragón llega, para sorpresa de todos, no es a Kasia a quien señala…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wicked: Memorias de una bruja mala (Los años malvados, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/wicked-memorias-de-una-bruja-mala-los-anos-malvados-1-gregory-maguire/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/wicked-memorias-de-una-bruja-mala-los-anos-malvados-1-gregory-maguire/</guid>
+      <description>&lt;p&gt;En un pueblo de pescadores de Munchkinland nace Elphaba, un bebé de piel verde y dientes de tiburón con los que arranca los dedos a la comadrona. Elphaba crecerá para convertirse en la Malvada Bruja del Oeste, una persona ingeniosa, irritable y poco comprendida que pone en tela de juicio todas nuestras nociones preconcebidas sobre la naturaleza del bien y del mal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Julio Camba on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/julio-camba/</link>
+    <description>Recent content in Julio Camba on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/julio-camba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El gran libro de los perros: Los mejores relatos, ensayos y poemas de la literatura canina universal</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-gran-libro-de-los-perros-los-mejores-relatos-ensayos-y-poemas-de-la-literatura-canina-universal-jorge-de-cascante/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-gran-libro-de-los-perros-los-mejores-relatos-ensayos-y-poemas-de-la-literatura-canina-universal-jorge-de-cascante/</guid>
+      <description>&lt;p&gt;«El Gran Libro de los Perros» es la referencia número 100 de la colección Blackie Books de ensayo y novela. Un homenaje a la literatura canina y a dos perros en particular: Blackie y Lino, a quien debemos la existencia de esta editorial. Este volumen recoge setenta y seis piezas largas y doscientas citas perrunas, cada una de un autor o autora distinto, y de todo tipo de pelaje literario: de Virginia Wolf a Neil Gaiman, Lord Dunsany, Anaïs Nin, Donald Barthelme, Beatrix Potter, Jean-Claude Carrière, Joy Williams, Valle Inclán, Grace Paley, Liv Ullmann, Saul Bellow, Nancy Mitford, Antonio Machado, Doris Lessing, Tobias Wolff, Alejandra Pizarnik, Mark Strand y muchísimos más nombres.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

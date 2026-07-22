@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guerra Civil Española on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/guerra-civil-espa%C3%B1ola/</link>
+    <description>Recent content in Guerra Civil Española on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/guerra-civil-espa%C3%B1ola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luna de lobos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/luna-de-lobos-julio-llamazares/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/luna-de-lobos-julio-llamazares/</guid>
+      <description>&lt;p&gt;Recién acabada la guerra civil, un pequeño grupo de combatientes republicanos huye de las fuerzas nacionales y de la guardia Civil y se refugia en las cumbres heladas de las montañas.&lt;/p&gt;
+&lt;p&gt;Se dedican primero a la resistencia armada y luego al bandolerismo. Los años van pasando, pero el miedo, el instinto de supervivencia de quien se siente siempre acosado, la soledad impuesta injustamente,la incontrolable violencia que nace a flor de piel permanecen.  Sólo queda la esperanza de que un golpe del destino les permita cruzar la frontera, acceder a una libertad que les arranque de su interior esa fría nieve que les recuerda día tras día que han perdido su lugar en el mundo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

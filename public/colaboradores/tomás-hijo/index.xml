@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tomás Hijo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/tom%C3%A1s-hijo/</link>
+    <description>Recent content in Tomás Hijo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/tom%C3%A1s-hijo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La noche de los maniquís</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-noche-de-los-maniquis-stephen-graham-jones/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-noche-de-los-maniquis-stephen-graham-jones/</guid>
+      <description>&lt;p&gt;Un grupo de amigos deciden gastarle una broma a otra de sus amigas que acaba de empezar a trabajar en unos cines. La broma no sale bien y se desata una matanza.&lt;/p&gt;
+&lt;p&gt;Sawyer, Tim, JR, Danielle y Shanna son amigos de aventuras desde hace muchos años. Y Manny. El maniquí que encontraron un verano y que los acompañó en sus bromas y juegos hasta que lo dejaron abandonado por ahí, no saben muy bien por qué.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

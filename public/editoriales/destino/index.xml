@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Destino on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/destino/</link>
+    <description>Recent content in Destino on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 May 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/destino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La flaqueza del bolchevique</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-flaqueza-del-bolchevique-lorenzo-silva/</link>
+      <pubDate>Mon, 10 May 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-flaqueza-del-bolchevique-lorenzo-silva/</guid>
+      <description>&lt;p&gt;El protagonista y narrador de esta historia se empotra contra el descapotable de una irritante ejecutiva en lunes a las ocho de la mañana. Ciertamente, él se distrajo un poco, pero ella no tenía por qué frenar en seco ni, desde luego, escupirle todos los insultos del diccionario. Por ello, y para hacer soportables las tardes de aquel bochornoso verano, decide dedicarse &amp;quot; al acecho y aniquilación moral de Sonsoles&amp;quot;. La flaqueza del bolchevique sería una novela absolutamente cómica si no fuera por el carácter inquietante que adquiere a medida que se complican las argucias del protagonista. Una historia a caballo entre la comedia, la intriga y el melodrama.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

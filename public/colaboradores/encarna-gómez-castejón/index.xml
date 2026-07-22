@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Encarna Gómez Castejón on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/encarna-g%C3%B3mez-castej%C3%B3n/</link>
+    <description>Recent content in Encarna Gómez Castejón on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/encarna-g%C3%B3mez-castej%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las partículas elementales</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-particulas-elementales-michel-houellebecq/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-particulas-elementales-michel-houellebecq/</guid>
+      <description>&lt;p&gt;Una visión feroz y sarcástica del presente a través de dos hermanastros cuarentones, Michel, un investigador en biología que vive como un monje, ha renunciado al sexo y sólo pasea para ir al supermercado, y Bruno, profesor de literatura, consumidor de pornografía, misógino, racista y virtuoso del resentimiento. Una novela demoledora sobre una generación derrotada de la mano del más contundente escritor francés vivo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

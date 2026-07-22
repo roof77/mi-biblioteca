@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Vinegar Works on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-vinegar-works/</link>
+    <description>Recent content in The Vinegar Works on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-vinegar-works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los pequeños macabros</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-pequenos-macabros-edward-gorey/</link>
+      <pubDate>Fri, 05 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-pequenos-macabros-edward-gorey/</guid>
+      <description>&lt;p&gt;Un recorrido macabro por el abecedario más siniestro que puedas imaginar. No hay momento para la compasión, pero si te gusta el humor negro, ¡este es tu libro!
+Veintiséis desgarradoras muertes, veintiséis formas de desaparecer del mundo, todas ellas en la más estricta soledad. Defunciones por error, aburrimiento, atropellos, fenómenos naturales, niños devorados, alcoholizados, golpeados…
+Sin duda, suena terrible, pero si estas tragedias son contadas y dibujadas por Edward Gorey, entonces el drama cobra un sentido distinto. ¿Te atreves a comprobarlo?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

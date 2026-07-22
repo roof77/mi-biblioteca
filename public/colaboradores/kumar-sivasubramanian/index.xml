@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kumar Sivasubramanian on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/kumar-sivasubramanian/</link>
+    <description>Recent content in Kumar Sivasubramanian on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Apr 2003 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/kumar-sivasubramanian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metropolis</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/metropolis-osamu-tezuka/</link>
+      <pubDate>Tue, 22 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/metropolis-osamu-tezuka/</guid>
+      <description>&lt;p&gt;From Osamu Tezuka, creator of Astro Boy, comes Metropolis, the legendary 1949 graphic novel that inspired the animate fame that floor audiences and critics alike. In the not-so-far-off future, a beautiful, artificially created girl — unaware of her non-human background :— searches for non-existant parents she believes must exist, wandering alone in a world populated by humans and by the slave driven robots who serve them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

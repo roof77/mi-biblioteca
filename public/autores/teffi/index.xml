@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teffi on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/teffi/</link>
+    <description>Recent content in Teffi on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/teffi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El duende del hogar</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-duende-del-hogar-teffi/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-duende-del-hogar-teffi/</guid>
+      <description>&lt;p&gt;En un mundo gris de enfrentamientos políticos, apartamentos comunales, burócratas sombríos, y una estructura social arcaica, los personajes de Teffi nos conmueven con sus adversidades y sus absurdos sueños de grandeza.
+En sus viñetas satíricas, Teffi retrató con una dulzura incomparable al hombre medio de la Rusia justamente anterior a la revolución. Su mirada aguda da vida a unos personajes herederos de Molière y de Gógol, cuyas esperanzas se dan de bruces contra la desangelada realidad política y social de una Rusia que ya no existe, pero cuyos ecos nos llegan hasta la Rusia de hoy día.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

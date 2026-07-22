@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roald Dahl on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/roald-dahl/</link>
+    <description>Recent content in Roald Dahl on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 1900 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/roald-dahl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relatos de lo inesperado</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/relatos-de-lo-inesperado-roald-dahl/</link>
+      <pubDate>Mon, 01 Jan 1900 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/relatos-de-lo-inesperado-roald-dahl/</guid>
+      <description>&lt;p&gt;La personalísima obra de Roald Dahl es cada vez más conocida y apreciada en España. Relatos de lo inesperado es quizá su libro más universalmente famoso, en el que demuestra de forma plena la afirmación: «La mente de Roald Dahl es inequívocamente malévola y perversa» (The Washington Post). En efecto, el autor despliega de manera magistral su mortífero ingenio y su macabro sentido del humor a lo largo de estos cuentos, rematados con desenlaces tan imprevistos como certeros. Este libro dio lugar a una célebre serie televisiva cuyos episodios estaban presentados por el propio Roald Dahl.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

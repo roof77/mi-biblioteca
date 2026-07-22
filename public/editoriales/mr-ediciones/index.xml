@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MR Ediciones on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/mr-ediciones/</link>
+    <description>Recent content in MR Ediciones on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/mr-ediciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El artista torturado</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-artista-torturado-joey-goebel/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-artista-torturado-joey-goebel/</guid>
+      <description>&lt;p&gt;Esta es la historia de Vincent Spinetti, talentoso guionista y compositor, narrada por su mánager, Harlan Eiffler, que ha sido contratado por una oscura organización encargada de crear grandes genios a base de torturar a los autores. Harlan consigue que a Vincent le dejen todas sus novias, que su madre le deteste, que su salud se deteriore&amp;hellip; desde la convicción de que sólo el sufrimiento moldea al verdadero artista.
+Inteligente, divertida y conmovedora, &amp;ldquo;El artista torturado&amp;rdquo; revista con ironía la controvertida ¿y obsoleta? teoría de que el arte verdadero sólo puede nacer del sufrimiento.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

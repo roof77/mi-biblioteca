@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Umbriel on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/umbriel/</link>
+    <description>Recent content in Umbriel on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/umbriel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una Educacion Mortal (Escolomancia, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-educacion-mortal-escolomancia-1-naomi-novik/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-educacion-mortal-escolomancia-1-naomi-novik/</guid>
+      <description>&lt;p&gt;Entra en una escuela de magia diferente a cualquiera que hayas conocido antes.
+En ella no hay profesores ni vacaciones, las amistades son pura estrategia y las probabilidades de sobrevivir nunca son las mismas.
+Cuando estás dentro, solo hay dos maneras de salir: o te gradúas o mueres.&lt;/p&gt;
+&lt;p&gt;El Higgins está preparada como nadie para hacer frente a los muchos peligros de la escuela. Puede que no tenga aliados, pero posee una fuerza oscura lo suficientemente poderosa para elevar montañas y aniquilar a millones, por no mencionar que puede destruir fácilmente a los innumerables monstruos que merodean por ella. Solo que, accidentalmente, podría matar también al resto de estudiantes. Así que El está intentando con todas sus fuerzas no usarla… a menos que no tenga elección.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

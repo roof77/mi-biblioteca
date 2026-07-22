@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Barbara Hitchcock on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/barbara-hitchcock/</link>
+    <description>Recent content in Barbara Hitchcock on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/barbara-hitchcock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Polaroid Book: Selections from the Polaroid Collections of Photography</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/the-polaroid-book-selections-from-the-polaroid-collections-of-photography-barbara-hitchcock/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/the-polaroid-book-selections-from-the-polaroid-collections-of-photography-barbara-hitchcock/</guid>
+      <description>&lt;p&gt;Very little verbiage (maybe 15 pgs.), mostly photos. Essays are written in Spanish, Italian, Portuguese. DJ copy written in English. In existence for over 50 years, the Polaroid Corporation&amp;rsquo;s photography collection is a collection of Polaroid images in the world. Begun by Polaroid founder Edwin Land and photographer Ansel Adams, the collection now includes images by hundreds of photographers throughout the world and contains important pieces by artists such as David Hockney, Helmut Newton, Jeanloup Sieff, and Robert Rauschenberg. &amp;lsquo;The Polaroid Book&amp;rsquo;, a survey of this collection, pays tribute to a medium that defies the digital age and remains a favorite among artists for its quirky look and instantly gratifying, one-of-kind images.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

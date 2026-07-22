@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Milena Busquets on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/milena-busquets/</link>
+    <description>Recent content in Milena Busquets on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/milena-busquets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diario de un ama de casa desquiciada</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/diario-de-un-ama-de-casa-desquiciada-sue-kaufman/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/diario-de-un-ama-de-casa-desquiciada-sue-kaufman/</guid>
+      <description>&lt;p&gt;Originally published in 1967, this fun and clever story follows Tina Balser, a sophisticated housewife who lives in Manhattan and seems to have everything—money, two beautiful daughters, and a husband who is a successful lawyer. When Tina begins to suspect that she is going mad, she starts a secret diary as a form of therapy and escape. Through the pages of this diary, her fears and neuroses emerge, as well as her sharp and hilarious observations of herself and those around her, which lead to many changes, including an extramarital fling.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

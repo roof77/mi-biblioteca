@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-caliz-de-fuego-harry-potter-4-j-k-rowling/cover.jpg" alt="Portada de Harry Potter y el cáliz de fuego (Harry Potter, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harry Potter y el cáliz de fuego (Harry Potter, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuarto curso en Hogwarts, la famosa escuela de magia y hechicería. A sus catorce años, a Harry le gustaría ser un joven mago como los demás y dedicarse a aprender nuevos sortilegios, encontrarse con sus amigos Ron y Hermione y asistir con ellos a los Mundiales de quidditch. Sin embargo, al llegar al colegio le espera una gran sorpresa que lo obligará a enfrentarse a los desafíos más temibles de toda su vida. Si logra superarlos, habrá demostrado que ya no es un niño y que está preparado para vivir las nuevas y emocionantes experiencias que el futuro le depara.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2001-03-01 00:00:00 +0000 UTC'>March 1, 2001</span></footer>
+  <a class="entry-link" aria-label="post link to Harry Potter y el cáliz de fuego (Harry Potter, #4)" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-caliz-de-fuego-harry-potter-4-j-k-rowling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-i-guy-gavriel-kay/cover.jpg" alt="Portada de El árbol del verano (The Fionavar Tapestry #1) I">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El árbol del verano (The Fionavar Tapestry #1) I
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Imaginemos que existen mundos alternativos, situados en universos paralelos, los cuales están normalmente desconectados. Sin embargo, en ocasiones, puede producirse una “intersección” entre dos de ellos, lo que permite pasar de un mundo a otro. Y eso es lo que sucede cuando cinco jóvenes canadienses son apartados de sus vidas cotidianas y trasladados a Fionavar, el “primero” y el más perfecto de esos mundos alternativos. Allí rige la magia y sus habitantes se debaten entre la Luz y las Tinieblas. Cuando el poderoso dios maligno Rakoth Maugrim se libera de su milenario encierro bajo la montaña, desata su cólera sobre el reino de Brennin donde generaciones de reyes habían jurado su lealtad a los poderes de la tierra y del cielo sobre las ramas del Árbol de Verano. Es en ese momento cuando los cinco personajes de nuestro mundo empiezan a intervenir en Fionavar. Conducidos por el supremo mago, Manto de Plata, han de intentar poner fin a la guerradesencadenada por Rakoth, conviviendo con los lios alfar, Hijos de la Luz, los svart alfar, Servidores de la Oscuridad, los enanos, los espíritus del bosque y de las aguas y muchos personajes más.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-08-28 00:00:00 +0000 UTC'>August 28, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to El árbol del verano (The Fionavar Tapestry #1) I" href="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-i-guy-gavriel-kay/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-ii-guy-gavriel-kay/cover.jpg" alt="Portada de El árbol del verano (The Fionavar Tapestry #1) II">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El árbol del verano (The Fionavar Tapestry #1) II
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Imaginemos que existen mundos alternativos, situados en universos paralelos, los cuales están normalmente desconectados. Sin embargo, en ocasiones, puede producirse una “intersección” entre dos de ellos, lo que permite pasar de un mundo a otro. Y eso es lo que sucede cuando cinco jóvenes canadienses son apartados de sus vidas cotidianas y trasladados a Fionavar, el “primero” y el más perfecto de esos mundos alternativos. Allí rige la magia y sus habitantes se debaten entre la Luz y las Tinieblas. Cuando el poderoso dios maligno Rakoth Maugrim se libera de su milenario encierro bajo la montaña, desata su cólera sobre el reino de Brennin donde generaciones de reyes habían jurado su lealtad a los poderes de la tierra y del cielo sobre las ramas del Árbol de Verano. Es en ese momento cuando los cinco personajes de nuestro mundo empiezan a intervenir en Fionavar. Conducidos por el supremo mago, Manto de Plata, han de intentar poner fin a la guerradesencadenada por Rakoth, conviviendo con los lios alfar, Hijos de la Luz, los svart alfar, Servidores de la Oscuridad, los enanos, los espíritus del bosque y de las aguas y muchos personajes más.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-08-28 00:00:00 +0000 UTC'>August 28, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to El árbol del verano (The Fionavar Tapestry #1) II" href="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-ii-guy-gavriel-kay/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/cover.jpg" alt="Portada de Watchmen">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Watchmen
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A mediados de los 80, Watchmen revolucionó el concepto del cómic en los Estados Unidos. La obra abrió otros campos a los habituales de la historieta y llegó a todo tipo de lectores conviertiéndose en el primer cómic en ganar el prestigioso premio Hugo. Watchmen es, sin duda, una de las grandes obras maestras de este medio de expresión.
+Esta edición fue la primera en recopilar en castellano la maxiserie original de 12 números en un tomo, con sus correspondientes extras de final de capítulo.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-06-17 00:00:00 +0000 UTC'>June 17, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to Watchmen" href="http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-prisionero-de-azkaban-j-k-rowling/cover.jpg" alt="Portada de Harry Potter y el prisionero de Azkaban">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harry Potter y el prisionero de Azkaban
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Por la cicatriz que lleva en la frente, sabemos que Harry Potter no es un niño como los demás, sino el héroe que venció a lord Voldemort, culpable de la muerte de sus padres. Desde entonces, Harry no tiene más remedio que vivir con sus pesados tíos y su insoportable primo Dudley, todos ellos muggles, o sea, personas no magas. Igual que en las dos primeras partes de la serie —La piedra filosofal y La cámara secreta— Harry aguarda con impaciencia el inicio del tercer curso en el Colegio Hogwarts de Magia y Hechicería. Tras haber cumplido los trece años, solo y lejos de sus amigos de Hogwarts, Harry se pelea con su bigotuda tía Marge, a la que convierte en globo, y debe huir en un autobús mágico. Mientras tanto, de la prisión de Azkaban se ha escapado un terrible villano, Sirius Black, un asesino en serie con poderes mágicos que fue cómplice de lord Voldemort y que parece dispuesto a eliminar a Harry del mapa. Y por si esto fuera poco, Harry deberá enfrentarse también a unos terribles monstruos, los dementores, seres abominables capaces de robarles la felicidad a los magos y de borrar todo recuerdo hermoso de aquellos que osan mirarlos. Lo que ninguno de estos malvados personajes sabe es que Harry, con la ayuda de sus fieles amigos Ron y Hermione, es capaz de todo y mucho más.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-04-01 00:00:00 +0000 UTC'>April 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to Harry Potter y el prisionero de Azkaban" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-prisionero-de-azkaban-j-k-rowling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/a-traves-del-nido-de-ghants-ii-tad-williams/cover.jpg" alt="Portada de A través del nido de Ghants II">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A través del nido de Ghants II
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A novel of vast scope, detail, and complexity, To Green Angel Tower is the momentous tour-de-force finale of a ground-breaking series. Replete with war, deception, adventure, sorcery, and romance, To Green Angel Tower brings to a stunning and surprising conclusion Tad Williams’ monumental tale of a magical conflict which fractures the very fabric of time and space, turning both humans and Sithi against those of their own blood.
+As the evil minions of the undead Sithi Storm King prepare for the kingdom-shattering culmination of their dark sorceries and King Elias is drawn ever deeper into their nightmarish, spell-spun world, the loyal allies of Prince Josua desperately struggle to rally their forces at The Stone of Farewell. And with time running out, the remaining members of the now-devastated League of the Scroll have also gathered there to unravel mysteries from the forgotten past. For if the League can reclaim these age-old secrets of magic long-buried beneath the dusts of time, they may be able to reveal to Josua and his army the only means of striking down the unslayable foe.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-01-01 00:00:00 +0000 UTC'>January 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to A través del nido de Ghants II" href="http://localhost:1313/mi-biblioteca/libros/a-traves-del-nido-de-ghants-ii-tad-williams/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/cover.jpg" alt="Portada de El regreso de Fu-Manchú">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El regreso de Fu-Manchú
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>«Los misterios de Si-Fan» («The Si-Fan Mysteries») [Novela] 1917 Sax Rohmer (traducción de Victoria Simó 2002) «La hija de Fu-Manchú» («Daughter of Fu-Manchu») [Novela] 1931 Sax Rohmer (traducción de Victoria Simó 2000) «La novia de Fu-Manchú» («Fu Manchu’s Bride») [Novela] 1933 Sax Rohmer (traducción de Nicole Chiner 2000)
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-01-01 00:00:00 +0000 UTC'>January 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to El regreso de Fu-Manchú" href="http://localhost:1313/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-torre-del-angel-verde-anoranzas-y-pesares-4-tad-williams/cover.jpg" alt="Portada de La Torre del Ángel Verde (Añoranzas y pesares, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La Torre del Ángel Verde (Añoranzas y pesares, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Mientras los malvados secuaces del Rey de la Tormenta se preparan para llevar a cabo la culminación de sus negras artes de magia y el rey Elías se hunde cada vez más en ese tenebroso mundo de pesadilla, los fieles aliados del príncipe Josua luchan desesperadamente para reunir sus fuerzas. Por su parte, algunos miembros de la desbaratada Alianza del Pergamino se congregan para intentar descubrir misterios de un pasado ya olvidados.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-01-01 00:00:00 +0000 UTC'>January 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to La Torre del Ángel Verde (Añoranzas y pesares, #4)" href="http://localhost:1313/mi-biblioteca/libros/la-torre-del-angel-verde-anoranzas-y-pesares-4-tad-williams/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-1-terry-brooks/cover.jpg" alt="Portada de Los Talismanes de Shannara 1">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los Talismanes de Shannara 1
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Поръченията на друида Аланон привидно са изпълнени. Всички герои са се завърнали в Четирите земи. Но изведнъж Четирите конника на Апокалипсиса обсаждат възстановената крепост Паранор и Уокър Бо. Огромните войски на Федерацията, съюзили се с най-ужасяващите чудовища, напредват към току-що основаното кралство на Елфите и Рен. Главният преследвач Ример Дал заплита сатанинска интрига, за да се добере до светлата магия на Пар. Развихря се последният, решаващ сблъсък с Шадуините, битка със сенките и мрака, с предателството и жестокостта, с отровата, заплашваща да изпепели света.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-01-01 00:00:00 +0000 UTC'>January 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to Los Talismanes de Shannara 1" href="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-1-terry-brooks/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-2-terry-brooks/cover.jpg" alt="Portada de Los Talismanes de Shannara 2">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los Talismanes de Shannara 2
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>»Walker atmete die Luft ein, schloss seine Augen und entschwebte zu einem Ort tief in sich selbst. Krieg ritt jetzt vorbei, ganz scharfe Kanten und Dornen, glitzernde Rüstung und schwarze Höhlungen. Walker ignorierte das Schattenwesen. Schritt für Schritt ging er den Plan durch, den er ersonnen hatte. Dieses Mal würde nichts dem Zufall überlassen bleiben. Er würde erfolgreich sein, oder er würde … «
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2000-01-01 00:00:00 +0000 UTC'>January 1, 2000</span></footer>
+  <a class="entry-link" aria-label="post link to Los Talismanes de Shannara 2" href="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-2-terry-brooks/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/52/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/54/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

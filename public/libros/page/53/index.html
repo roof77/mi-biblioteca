@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Libros | Mi biblioteca</title>
+<meta name="keywords" content="">
+<meta name="description" content="Libros - Mi biblioteca">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/libros/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/libros/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/libros/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span class="active">Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+<header class="page-header"><nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+            <a href="/mi-biblioteca/">Home</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+</nav>
+  <h1>Libros</h1>
+</header>
+
+<div class="libros-grid">
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-caliz-de-fuego-harry-potter-4-j-k-rowling/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/harry-potter-y-el-caliz-de-fuego-harry-potter-4-j-k-rowling/cover_hu_14da21abaf664429.jpg" loading="lazy" alt="Portada de Harry Potter y el cáliz de fuego (Harry Potter, #4)">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">Harry Potter y el cáliz de fuego (Harry Potter, #4)</p>
+        <p class="libro-card__autor">J.K. Rowling</p>
+        <p class="libro-card__nota">★ 4.57</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-i-guy-gavriel-kay/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-i-guy-gavriel-kay/cover_hu_2b155faffbaf2d2d.jpg" loading="lazy" alt="Portada de El árbol del verano (The Fionavar Tapestry #1) I">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">El árbol del verano (The Fionavar Tapestry #1) I</p>
+        <p class="libro-card__autor">Guy Gavriel Kay</p>
+        <p class="libro-card__nota">★ 3.95</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-ii-guy-gavriel-kay/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/el-arbol-del-verano-the-fionavar-tapestry-1-ii-guy-gavriel-kay/cover_hu_a2ed328f4f2a669a.jpg" loading="lazy" alt="Portada de El árbol del verano (The Fionavar Tapestry #1) II">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">El árbol del verano (The Fionavar Tapestry #1) II</p>
+        <p class="libro-card__autor">Guy Gavriel Kay</p>
+        <p class="libro-card__nota">★ 3.95</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/watchmen-alan-moore/cover_hu_4b70c2e6c0091e87.jpg" loading="lazy" alt="Portada de Watchmen">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">Watchmen</p>
+        <p class="libro-card__autor">Alan Moore</p>
+        <p class="libro-card__nota">★ 4.39</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-el-prisionero-de-azkaban-j-k-rowling/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/harry-potter-y-el-prisionero-de-azkaban-j-k-rowling/cover_hu_9c76ec61e885605e.jpg" loading="lazy" alt="Portada de Harry Potter y el prisionero de Azkaban">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">Harry Potter y el prisionero de Azkaban</p>
+        <p class="libro-card__autor">J.K. Rowling</p>
+        <p class="libro-card__nota">★ 4.58</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/a-traves-del-nido-de-ghants-ii-tad-williams/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/a-traves-del-nido-de-ghants-ii-tad-williams/cover_hu_fc613a169473b078.jpg" loading="lazy" alt="Portada de A través del nido de Ghants II">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">A través del nido de Ghants II</p>
+        <p class="libro-card__autor">Tad Williams</p>
+        <p class="libro-card__nota">★ 4.22</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/cover_hu_dcb522d5378eb5cf.jpg" loading="lazy" alt="Portada de El regreso de Fu-Manchú">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">El regreso de Fu-Manchú</p>
+        <p class="libro-card__autor">Sax Rohmer</p>
+        <p class="libro-card__nota">★ 3.61</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/la-torre-del-angel-verde-anoranzas-y-pesares-4-tad-williams/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/la-torre-del-angel-verde-anoranzas-y-pesares-4-tad-williams/cover_hu_df6dae5802b24ec8.jpg" loading="lazy" alt="Portada de La Torre del Ángel Verde (Añoranzas y pesares, #4)">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">La Torre del Ángel Verde (Añoranzas y pesares, #4)</p>
+        <p class="libro-card__autor">Tad Williams</p>
+        <p class="libro-card__nota">★ 4.23</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-1-terry-brooks/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/los-talismanes-de-shannara-1-terry-brooks/cover_hu_5ef97ff8f8c82cd4.jpg" loading="lazy" alt="Portada de Los Talismanes de Shannara 1">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">Los Talismanes de Shannara 1</p>
+        <p class="libro-card__autor">Terry Brooks</p>
+        <p class="libro-card__nota">★ 4.06</p>
+      </div>
+    </a>
+
+    <a class="libro-card" href="http://localhost:1313/mi-biblioteca/libros/los-talismanes-de-shannara-2-terry-brooks/">
+      <div class="libro-card__portada">
+        <img src="/mi-biblioteca/libros/los-talismanes-de-shannara-2-terry-brooks/cover_hu_56dec99dc05c12a7.jpg" loading="lazy" alt="Portada de Los Talismanes de Shannara 2">
+      </div>
+      <div class="libro-card__info">
+        <p class="libro-card__titulo">Los Talismanes de Shannara 2</p>
+        <p class="libro-card__autor">Terry Brooks</p>
+        <p class="libro-card__nota">★ 4.04</p>
+      </div>
+    </a>
+</div>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/libros/page/52/">« Prev</a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/libros/page/54/">Next »</a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

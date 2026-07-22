@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ender&#39;s Saga on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/enders-saga/</link>
+    <description>Recent content in Ender&#39;s Saga on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/enders-saga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Juego de Ender (Saga de Ender, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-juego-de-ender-saga-de-ender-1-orson-scott-card/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-juego-de-ender-saga-de-ender-1-orson-scott-card/</guid>
+      <description>&lt;p&gt;Ender es el tercero de tres hermanos que han sido seleccionados por la Flota Internacional como posibles estrategas para la guerra contra los insectores. Desde el inicio de su educación, Ender es observado para calibrar sus posibilidades, y finalmente es invitado a ingresar en la Escuela de Batalla a la edad de seis años. En la Escuela recibirá una despiadada instrucción con vistas a prepararle para el papel más importante de la lucha, que él desconoce. Deslumbra a sus compañeros y profesores con sus habilidades en los juegos de guerra y con su nueva concepción de las peleas en gravedad cero. Es ascendido a la Escuela de Alto Mando para recibir las enseñanzas del mayor estratega de la historia, Mazer Rackham, con el que practica en simulaciones de más alto nivel. Finalmente descubre&amp;hellip; pero eso deberán averiguarlo los lectores por su cuenta.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

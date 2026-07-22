@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eric LaRocca on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/eric-larocca/</link>
+    <description>Recent content in Eric LaRocca on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/eric-larocca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las cosas han empeorado desde la última vez que hablamos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-cosas-han-empeorado-desde-la-ultima-vez-que-hablamos-eric-larocca/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-cosas-han-empeorado-desde-la-ultima-vez-que-hablamos-eric-larocca/</guid>
+      <description>&lt;p&gt;¿Qué has hecho hoy para merecer tus ojos?&lt;/p&gt;
+&lt;p&gt;Un torbellino de oscuridad se agita en los entresijos de un macabro cortejo entre dos jóvenes solitarias en un chat de internet; una tenebrosidad que amenaza con transformarlas para siempre una vez que finalmente decidan sucumbir a sus deseos más terribles.&lt;/p&gt;
+&lt;p&gt;Una pareja se aísla en una isla remota, en un intento de recuperarse tras la muerte de su hijo adolescente, cuando un misterioso joven llama a su puerta durante una tormenta&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

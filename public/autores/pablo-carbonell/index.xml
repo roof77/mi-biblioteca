@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pablo Carbonell on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/pablo-carbonell/</link>
+    <description>Recent content in Pablo Carbonell on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/pablo-carbonell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El mundo de la tarántula</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-mundo-de-la-tarantula-pablo-carbonell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-mundo-de-la-tarantula-pablo-carbonell/</guid>
+      <description>&lt;p&gt;Los niños mienten mal, pero se emocionan bien.&lt;/p&gt;
+&lt;p&gt;Por eso lo que cuenta Pablo es una verdad emocionante.&lt;/p&gt;
+&lt;p&gt;La verdad de cuando hacía teatro en las plazas.
+Maldormía en las calles.
+Triunfaba con Los Toreros Muertos.
+Entrevistaba a presidentes del gobierno.
+O lidiaba con su familia, una familia muy distinta.
+Y jamás quería irse a dormir.&lt;/p&gt;
+&lt;p&gt;Porque duerme mal.
+Aunque sueña como nadie.&lt;/p&gt;
+&lt;p&gt;Pablo Carbonell, una de las figuras más relevantes del panorama artístico y musical español, aborda su autobiografía con la franqueza y el sentido del humor que lo caracterizan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

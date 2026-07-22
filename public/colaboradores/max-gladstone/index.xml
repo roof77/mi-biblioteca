@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Max Gladstone on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/max-gladstone/</link>
+    <description>Recent content in Max Gladstone on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/max-gladstone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Así se pierde la guerra del tiempo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/asi-se-pierde-la-guerra-del-tiempo-amal-el-mohtar/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/asi-se-pierde-la-guerra-del-tiempo-amal-el-mohtar/</guid>
+      <description>&lt;p&gt;Así se pierde la guerra del tiempo de Max Gladstone y Amal El-Mohtar es una épica historia de amor entre dos agentes rivales en una guerra que se extiende hasta los confines del tiempo y el espacio.&lt;/p&gt;
+&lt;p&gt;Entre las cenizas de un mundo moribundo, Roja encuentra una carta con la inscripción: «Quemar antes de leer. Firmado: Azul».
+Roja y Azul, dos agentes de facciones rivales en una guerra que se extiende más allá de los confines del espacio y el tiempo, inician una correspondencia prohibida. A medida que se mueven por los hilos del tiempo dando forma al pasado para adecuarlo a los intereses de su facción, lo que empezó como un desafío, un intercambio de pullas en el campo de batalla, se va transformando en un peligroso juego que tanto Roja como Azul están decididas a ganar. Porque ahí fuera se está librando una guerra, y alguien tiene que ganar. En eso consisten las guerras, ¿no?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Juan Andrés Pedrero Santos on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/juan-andr%C3%A9s-pedrero-santos/</link>
+    <description>Recent content in Juan Andrés Pedrero Santos on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/juan-andr%C3%A9s-pedrero-santos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El hombre en la encrucijada</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-hombre-en-la-encrucijada-juan-andres-pedrero-santos/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-hombre-en-la-encrucijada-juan-andres-pedrero-santos/</guid>
+      <description>&lt;p&gt;Dicen que de los momentos más dramáticos y terribles que vive una sociedad surgen monstruos que toman forma en las ficciones. Monstruos a los que, muy a menudo, se les atribuye una función terapéutica, capaces como son de estimular con su sola presencia todo tipo de reflexiones en el imaginario colectivo. Reflexiones, quizás, dirigidas en parte a obtener algo bueno de tanto mal. Este libro no es sino un fruto de la influencia de todos esos monstruos. Desde hace poco más de 100 años, el cine no cejó en su empeño de reflejar la realidad; y como no podía ser de otra manera, también ha sido reflejo de lo que provoca pavor en cada época.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

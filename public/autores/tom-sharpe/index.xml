@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tom Sharpe on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/tom-sharpe/</link>
+    <description>Recent content in Tom Sharpe on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/tom-sharpe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una dama en apuros</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-dama-en-apuros-tom-sharpe/</link>
+      <pubDate>Tue, 18 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-dama-en-apuros-tom-sharpe/</guid>
+      <description>&lt;p&gt;Dos fanáticos de las novelas de aventuras, víctimas de la astuta trampa que les tiende un enemigo, emprenden una aventura real: la liberación de una dama que ha sido secuestrada en su castillo del sur de Francia. Y no hay aventura comparable a la de seguirles en su intento de rescate, pues Tom Sharpe vuelve a demostrar aquí que es un maestro en el desarrollo de las más enloquecidas tramas: engaños, choques automovilísticos, persecuciones, tiroteos, apariciones de la policía secreta internacional, confusiones y desastres se van sucediendo en medio de un clima de descontrol absoluto que culmina en el mayor caos imaginable. Una ejemplar sátira de la irracionalidad, en la que quizá sólo se salvan los dos chiflados protagonistas: Glodstone, prototipo de maduro romántico enamorado de una civilización desaparecida que simboliza su adorado Bentley del año 27; y Peregrine, el alumno que entiende peligrosamente al pie de la letra todo lo que dicen y que tiene unas tendencias no menos peligrosas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

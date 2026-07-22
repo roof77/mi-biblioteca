@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Johnny Cash on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/johnny-cash/</link>
+    <description>Recent content in Johnny Cash on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Feb 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/johnny-cash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cash: La autobiografía de Johnny Cash (Memorias) (Spanish Edition)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cash-la-autobiografia-de-johnny-cash-memorias-spanish-edition-johnny-cash/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cash-la-autobiografia-de-johnny-cash-memorias-spanish-edition-johnny-cash/</guid>
+      <description>&lt;p&gt;Johnny Cash offers the reader a personal account from a concrete present—it was originally published in 1997—of experiences, acquaintances, and inhabited spaces. But Cash’s life is not the only one that inhabits these pages; this is also a history of the United States and of its humblest and most forgotten people, the people who make up the bulk of the country music public. A contradictory man and a brilliant artist, Cash welcomes us into his private life through a relaxed monologue that discredits rumors and confesses more truths than are strictly necessary.   Johnny Cash le ofrece al lector un recuento personal desde un presente concreto—este libro fue publicado originalmente en 1997—de las vivencias, las personas y los lugares vividos. Pero la vida de Johnny Cash no es la única que habita estas páginas, sino también la historia de los Estados Unidos  y de su gente más humilde y olvidada, la gente que forma el grueso del público consumidor de música country. Un hombre contradictorio y un enorme artista, Cash nos da la bienvenida a su intimidad en una suerte de relajado monólogo que desmiente rumores y confiesa más verdades de las obligatorias.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

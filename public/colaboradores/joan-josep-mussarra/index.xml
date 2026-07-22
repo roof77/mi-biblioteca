@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joan-Josep Mussarra on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/joan-josep-mussarra/</link>
+    <description>Recent content in Joan-Josep Mussarra on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/joan-josep-mussarra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Badasstronauts: Paletos espaciales</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/badasstronauts-paletos-espaciales-grady-hendrix/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/badasstronauts-paletos-espaciales-grady-hendrix/</guid>
+      <description>&lt;p&gt;Una sátira brillante sobre la exploración espacial y el fracaso estadounidense.&lt;/p&gt;
+&lt;p&gt;Melville, Carolina del Sur, se ha quedado sin dinero, sin empleos, sin esperanza y, ahora, sin astronautas. Para empezar, solo tenía dos, y uno de ellos está atrapado en la abandonada Estación Espacial Internacional después de que su misión saliera mal. Con el presupuesto de la NASA reducido al mínimo, no hay nadie que lo traiga de vuelta, así que todos prefieren ignorar este vergonzoso símbolo del fracaso estadounidense y dejarlo morir. Pero su primo, Walter Reddie, no piensa permitirlo. Borracho de vodka y viviendo en una «granja» donde la única cosecha son coches sobre bloques de cemento, Walter es un fracasado del Programa del Transbordador Espacial, y no va a dejar que su primo muera en el cielo como un perro. Así que empieza a construir un cohete.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Felipe González Vallarino on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/felipe-gonz%C3%A1lez-vallarino/</link>
+    <description>Recent content in Felipe González Vallarino on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/felipe-gonz%C3%A1lez-vallarino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moravagine</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/</guid>
+      <description>&lt;p&gt;«¿Cómo puedo convencer a los escépticos de que fui deslumbrado por Moravagine? ¿Cómo explicar cuando uno sabe inmediatamente y sin dudar que algo le gusta?» HENRY MILLER&lt;/p&gt;
+&lt;p&gt;Moravagine es más que un personaje. Es una fuerza de la naturaleza violenta y terrible. Liberado del manicomio por su iluminado psiquiatra, juntos viajan por el mundo protagonizando experiencias fascinantes. Una novela de acción que revela como ninguna las claves de la mentalidad del siglo xx. «Es el miedo quien te atenaza, el miedo a los hombres de acción, al desorden. Pero todo no es más que desorden, querido. ¿Por qué quieres tú poner un orden? ¿Qué orden? No existe la verdad. No hay más que la acción efímera, la acción antagonista. La vida.»&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

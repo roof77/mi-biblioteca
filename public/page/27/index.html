@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/muerdeme-moore-christopher/cover.jpg" alt="Portada de ¡Muérdeme!">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¡Muérdeme!
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ahora que sus antiguos amos vampiros, Jody y Thomas, están fuera de combate, la joven Abby Normal se ha erigido en Señora Sustituta de la noche San Francisco… Un papel que se le queda un poco grande a esta adolescente gótica salida, aspirante a vampira y fashion victim, sobre todo ahora que la ciudad ha sido invadida por una caterva de gatitos chupasangres que se han propuesto dejar secos a todos los indigentes y prostitutas con los que se cruzan. Menos mal que Steve, su “dulce amor ninja” y Jared, su mejor amigo gay, están ahí para… ¿ayudarla? Abby desvela, a través de su diario, esta historia loca, sangrienta, pero très divertida.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-17 00:00:00 +0000 UTC'>January 17, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to ¡Muérdeme!" href="http://localhost:1313/mi-biblioteca/libros/muerdeme-moore-christopher/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-temor-de-un-hombre-sabio-cronica-del-asesino-de-reyes-2-patrick-rothfuss/cover.jpg" alt="Portada de El temor de un hombre sabio (Crónica del asesino de reyes, #2)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El temor de un hombre sabio (Crónica del asesino de reyes, #2)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El hombre había desaparecido. El mito no. Músico, mendigo, ladrón, estudiante, mago, trotamundos, héroe y asesino, Kvothe había borrado su rastro. Y ni siquiera ahora que le han encontrado, ni siquiera ahora que las tinieblas invaden los rincones del mundo, está dispuesto a regresar. Pero su historia prosigue, la aventura continúa, y Kvothe seguirá contándola para revelar la verdad tras la leyenda.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-03 00:00:00 +0000 UTC'>January 3, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to El temor de un hombre sabio (Crónica del asesino de reyes, #2)" href="http://localhost:1313/mi-biblioteca/libros/el-temor-de-un-hombre-sabio-cronica-del-asesino-de-reyes-2-patrick-rothfuss/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/caceres-5050-la-judia-de-la-quebrada-david-narganes-robas/cover.jpg" alt="Portada de Cáceres 5050. La judía de la quebrada">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cáceres 5050. La judía de la quebrada
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Es una novela coral que se desarrolla en plena Edad Media. Daniel vuelve a Casseres a hacerse cargo de la herencia de su padre, muerto poco tiempo antes. El reencuentro con Alba, su amor del pasado, y con Abraham, un viejo mago que la protege, le hacen replantearse su vida. Una extraña enfermedad que asola la ciudad le permite descubrir el misterio que envuelve a los viejos amores imposibles de Abraham y María, plagados de elementos mágicos y de sacrificios necesarios
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Cáceres 5050. La judía de la quebrada" href="http://localhost:1313/mi-biblioteca/libros/caceres-5050-la-judia-de-la-quebrada-david-narganes-robas/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-ahorcado-y-otros-relatos-de-la-frontera-dorothy-m-johnson/cover.jpg" alt="Portada de El árbol del ahorcado y otros relatos de la Frontera">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El árbol del ahorcado y otros relatos de la Frontera
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras la buena acogida de Indian Country, primer volumen de relatos de Dorothy M. Johnson y número uno de la colección Frontera, el catálogo de la colección se enriquece con esta nueva recopilación de historias de la autora de Montana. Mientras que en Indian Country predominan las historias sobre los indios norteamericanos y sus relaciones con los blancos, en El árbol del ahorcado y otros relatos de la Frontera tienen más presencia las historias que se hacen eco de otros mitos del Far West: forajidos, tahúres, saloons, vaqueros, predicadores, buscadores de oro, etc. Los relatos que componen el presente volumen fueron publicados por vez primera en revistas como Saturday Evening Post, Argosy, Collier’s o Cosmopolitan en los años cincuenta, y, salvo una excepción –La squaw de la manta (1942), un relato de los comienzos de su carrera–, son posteriores a los reunidos en Indian Country. Forman parte de esta recopilación relatos excelentes como La hermana perdida (1956), ganador del prestigioso premio Spur Award, Diario de aventura (1954) o El regalo junto a la carreta. Pero, sin duda, la estrella del volumen es El árbol del ahorcado, por calidad, por extensión y por la repercusión de la adaptación cinematográfica que realizó Delmer Daves en 1959, protagonizada por Gary Cooper, Maria Schell y Karl Malden. Como en Indian Country, son relatos descarnados, en los que todo queda a la vista. Su lenguaje es contundente, irónico y duro, con frases cortas y afiladas, que consiguen evocar un mundo que se fue para siempre.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to El árbol del ahorcado y otros relatos de la Frontera" href="http://localhost:1313/mi-biblioteca/libros/el-arbol-del-ahorcado-y-otros-relatos-de-la-frontera-dorothy-m-johnson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-kenneth-anger/cover.jpg" alt="Portada de Hollywood Babilonia">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Hollywood Babilonia
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>nunca hasta ahora se habia exhibido con tal crudeza la realidad que oculta la espejeante fachada de esta fabrica de suenos. Hollywood babilionia, con su azarosa historia de prohibiciones y pirateria , ha pasado finalmente a ser hoy un ilbro casi lehendario
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Hollywood Babilonia" href="http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-kenneth-anger/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-hija-del-bosque-sieteaguas-1-juliet-marillier/cover.jpg" alt="Portada de La hija del bosque (Sieteaguas, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La hija del bosque (Sieteaguas, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Juliet Mariller escribió una novela inolvidable. Con una prosa colorida y una imaginación desbordante, ha creado un mundo, el reino de Sieteaguas, el último enclave irlandés, que se mantiene al margen de las invasiones de sajones y britanos gracias a la protección de una impenetrable espesura. En esas sombras, afirma la leyenda, vive la dama del Bosque y es ella quien ampara a sus habitantes.
+Pero incluso para una deidad tan benévola y poderosa hay límites: el señor del reino, Lord Colum, viudo y padre de seis hijos, triunfador de mil batallas, pondrá en riesgo sus dominios al casarse con la dama Oonagh, una mujer tan hermosa como malvada, que hechizará a los hijos de su nuevo esposo. Sólo Sorcha, la hija adorada, escapará del maleficio. Será ella quien deba atravesar pruebas y penurias para salvar a sus hermanos, y en su derrotero encontrará el amor. Su travesía no está exenta de peligros, ni de temerarias alianzas políticas con reinos rivales de Sieteaguas, pero siempre es amparada por los favores del destino y por los poderes que su delicadeza y dulzura disimulan.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to La hija del bosque (Sieteaguas, #1)" href="http://localhost:1313/mi-biblioteca/libros/la-hija-del-bosque-sieteaguas-1-juliet-marillier/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-ingenuos-manuel-longares/cover.jpg" alt="Portada de Los ingenuos">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los ingenuos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El universo de la Gran Vía madrileña tiene dos caras:la brillante, repleta de automóviles y engalanada con loscarteles cinematográficos, y la menos floreciente de sus calles laterales donde la vida se presenta activa y bulliciosa pero sinel boato de la avenida principal. En este sector sin brillo, en una gélida portería de la calle Infantas de Madrid, al lado de la Gran Vía, viven los protagonistas de esta novela, una familia compuesta por el matrimonio y dos hijos. En el marco de tres momentos históricos, que funcionan en la novela a la manera de tres actos teatrales, se desenvuelve la acción. En el primer episodio, que ocurre a fines de los años cuarenta, el padre de familia tiene la posibilidad de trabajar en el cine como guionista y eso no le proporciona los beneficios con que soñaba. En el segundo acto, hacia los años sesenta, son los hijos de este matrimonio los que inician su despegue vital, el hijo hereda de su padre la posibilidad de trabajar en una película como actor y la hija sigue los vaivenes de un maestro mayor que ella y antiguo intérprete de teatro clásico del que se ha enamorado. El tercer acto transcurre en el mes de noviembre de 1975, días antes de que muera el Caudillo. En un Madrid desfigurado por la niebla y obsesionado por los sucesivos informes médicos sobre la salud del dictador, en los que se detalla el inexorable desguace a que se somete su cuerpo, la familia de los porteros de la calle Infantas acomete misiones extravagantes. Estas historias y estos personajes comparten una de las cualidades más nobles y también peor valoradas del ser humano: la ingenuidad. El militar Monterde, el cura Expósito, el sibilino Cárdenas, la dogmática Beni, la prostituta Engracia, Trinidad el de los gatos o el afligido tabernero de Baco se presentan en la vida desarmados de estrategias y sufren la destemplada reacción de su entorno. En esta novela inquietante, sentimental y divertida, donde la ilusión es la inseparable compañera del fracaso, unos seres exaltadospor quimeras sin fundamento se niegan a la desesperanza.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Los ingenuos" href="http://localhost:1313/mi-biblioteca/libros/los-ingenuos-manuel-longares/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/omaha-la-gata-bailarina-4-omaha-4-reed-waller/cover.jpg" alt="Portada de Omaha, la gata bailarina 4 ( Omaha, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Omaha, la gata bailarina 4 ( Omaha, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La conclusión de Omaha, 25 años después de su nacimiento. Reed Waller, creador de la saga, ha contado con la ayuda de James Vance, la última pareja de la desaparecida guionista Kate Worley, para culminar la obra que ve la luz en su edición definitiva. Omaha, creada y dibujada por Reed Waller y escrita en su mayor parte por Kate Worley, nace en 1978 inspirada en El gato Fritz de Robert Crumb para retratar a la gente joven de principios de los 80 del siglo pasado, la mafia, la corrupción, el sexo, las discotecas, la fama, la pérdida y la redención; pero es, sobre todo, una historia sobre el amor y la amistad. Y es ahora, 25 años después, cuando concluye la trama tras sufrir varios parones en su realización. En este cuarto y último volumen de la serie Chuck y Omaha vuelven a reunirse tras una dolorosa separación y tratan de organizar una nueva vida juntos. Chuck sigue teniendo problemas para manejarse con la fortuna que ha heredado de su padre y empieza a darse cuenta de las numerosas puertas que abre el olor del dinero. Omaha fue escrita con la estructura de un culebrón melodramático y sexualmente explícito. El guión de Kate Worley recibió numerosas alabanzas por su calidad y su sensibilidad feminista. También desató una considerable controversia debido a su contenido sexual.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Omaha, la gata bailarina 4 ( Omaha, #4)" href="http://localhost:1313/mi-biblioteca/libros/omaha-la-gata-bailarina-4-omaha-4-reed-waller/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/por-que-escribo-felix-romeo/cover.jpg" alt="Portada de Por qué escribo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Por qué escribo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Por qué escribo reúne los artículos de carácter más autobiográfico o personal de Félix Romeo, uno de los escritores más poderosos y singulares de su generación. En sus textos periodísticos Romeo defiende los valores universales de la democracia y critica el relativismo, aparecen el zaragozano que idea proyectos para su ciudad y busca sus propios referentes en el pasado, el polemista que no duda en poner en entredicho libros de autores “intocables”, el paseante de las ciudades del mundo, o el pensador que no necesita cambiar de registro para transitar de las ideas generales a los afectos particulares. Félix Romeo ofrece en estos textos una voz firme y a la vez íntima de la que emanará el resto de su escritura. Por qué escribo se plantea como una pregunta para acabar siendo una afirmación inequívoca de la literatura y de la vida.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Por qué escribo" href="http://localhost:1313/mi-biblioteca/libros/por-que-escribo-felix-romeo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/postpunk-romper-todo-y-empezar-de-nuevo-simon-reynolds/cover.jpg" alt="Portada de PostPunk. Romper todo y empezar de nuevo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">PostPunk. Romper todo y empezar de nuevo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Si bien existen cientos de libros que documentan aquellos años en los que el punk desafió al status quo de la música con su nihilismo de tres acordes y la ética do it yourself, Postpunk. Romper todo y empezar de nuevo es el primero en recuperar a aquellas bandas que supieron ver en las condiciones generadas por el punk la oportunidad para establecer una verdadera ruptura con la tradición y experimentar por fuera de los estrechos parámetros del rock. Entregados a la tarea de profundizar la revolución iniciada por el punk, grupos como PiL, Joy Division, The Fall, The Slits, Devo, The Residents, Throbbing Gristle o Liquid Liquid exploraron territorios previamente desconocidos al incorporar las técnicas de producción del dub y la música disco, las radicales estrategias compositivas del krautrock, la música contemporánea y el free jazz, y el groove y la economía sonora del funk. Pero no solo de música se alimentó el postpunk: Cabaret Voltaire tomó prestado su nombre de Dada; Pere Ubu adoptó el suyo de Alfred Jarry; Gang of Four, inspirado por Brecht y Godard, trató de deconstruir el rock; los letristas absorbieron la ciencia ficción radical de J.G. Ballard, Philip K. Dick y William S. Burroughs; y bandas como The Pop Group o Contortions se inspiraron en el teatro de la crueldad de Artaud para romper las barreras entre el público y el escenario. Al purismo estridente del punk, el postpunk le opuso eclecticismo e hibridez. Y a su tradicionalismo rockero, un imperativo de cambio constante.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to PostPunk. Romper todo y empezar de nuevo" href="http://localhost:1313/mi-biblioteca/libros/postpunk-romper-todo-y-empezar-de-nuevo-simon-reynolds/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/26/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/28/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

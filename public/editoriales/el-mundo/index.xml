@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>El Mundo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/el-mundo/</link>
+    <description>Recent content in El Mundo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/el-mundo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los tipos duros no bailan</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-tipos-duros-no-bailan-norman-mailer/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-tipos-duros-no-bailan-norman-mailer/</guid>
+      <description>&lt;p&gt;Esta brillante novela, tenebrosa y de fuerza sorprendente, narra la historia de Tim Madden, escritor fracasado adicto al bourbon, los cigarrillos y las rubias casquivanas y adineradas en el escenario de arbustos y dunas de Provincetown, cargado de la crudeza y melancolía de la población fuera de temporada. Cuando se cumplen 24 días del abandono de su esposa, Tim Madden amanece con resaca, una acentuada excitación sexual y un nombre del pasado tatuado en rojo en el brazo. Apenas recuerda nada de la noche anterior. De pronto descubre que el asiento del acompañante de su Porsche está empapado de sangre y que, en un bosquecillo cercano, en un rincón semioculto de su escondrijo de marihuana, hay una cabeza rubia cercenada por el cuello.¿Será Madden un asesino? La narración se centra en la violencia física, sexual y emocional mientras asistimos a los esfuerzos de Madden por reconstruir aquella espantosa noche.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

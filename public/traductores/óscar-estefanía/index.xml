@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Óscar Estefanía on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/traductores/%C3%B3scar-estefan%C3%ADa/</link>
+    <description>Recent content in Óscar Estefanía on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2000 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/traductores/%C3%B3scar-estefan%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watchmen</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/</link>
+      <pubDate>Sat, 17 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/</guid>
+      <description>&lt;p&gt;A mediados de los 80, Watchmen revolucionó el concepto del cómic en los Estados Unidos. La obra abrió otros campos a los habituales de la historieta y llegó a todo tipo de lectores conviertiéndose en el primer cómic en ganar el prestigioso premio Hugo. Watchmen es, sin duda, una de las grandes obras maestras de este medio de expresión.&lt;/p&gt;
+&lt;p&gt;Esta edición fue la primera en recopilar en castellano la maxiserie original de 12 números en un tomo, con sus correspondientes extras de final de capítulo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

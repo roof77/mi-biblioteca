@@ -31,11 +31,21 @@ buildExpired = false
   weight = 10
 
 [[menu.main]]
+  name = "Autores"
+  url = "/autores/"
+  weight = 20
+
+[[menu.main]]
+  name = "Editoriales"
+  url = "/editoriales/"
+  weight = 30
+
+[[menu.main]]
   name = "Etiquetas"
   url = "/tags/"
-  weight = 20
+  weight = 40
 
 [[menu.main]]
   name = "Buscar"
   url = "/search/"
-  weight = 30
+  weight = 50

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Owen Wister on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/owen-wister/</link>
+    <description>Recent content in Owen Wister on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/owen-wister/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Virginiano: Un caballero de las llanuras</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-virginiano-un-caballero-de-las-llanuras-owen-wister/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-virginiano-un-caballero-de-las-llanuras-owen-wister/</guid>
+      <description>&lt;p&gt;Historiadores y críticos coinciden en considerar El Virginiano (1902), de Owen Wister, como la gran novela americana iniciadora del western, como la obra fundacional del género. Aunque ya en el siglo XIX podemos encontrar en la literatura norteamericana algunas incursiones en el tema del Oeste de grandes escritores como Mark Twain, Bret Harte u O’Henry, lo cierto es que sus obras aún no habían definido al gran protagonista del género, el cowboy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

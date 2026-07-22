@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Natsume Sōseki on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/natsume-s%C5%8Dseki/</link>
+    <description>Recent content in Natsume Sōseki on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/natsume-s%C5%8Dseki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Botchan</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/botchan-natsume-soseki/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/botchan-natsume-soseki/</guid>
+      <description>&lt;p&gt;Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde hace más de cien años, una de las novelas más celebradas por los lectores de aquel país. Considerada el Huckleberry Finn nipón, y comparada también con El guardián entre el centeno, narra las aventuras de Botchan, un joven tokiota descreído y cínico, alter ego de Soseki, al que mandan como profesor a una escuela rural situada en la remota isla de Shikoku. En su nuevo destino pronto se topará con una serie de insólitos personajes, como el jefe de estudios «Camisarroja» o el «Calabaza», un triste profesor de ciencias de aspecto enfermizo y ánimo sombrío. Pero sobre todo se verá obligado a hacer frente a una auténtica caterva de fieros alumnos asilvestrados, que se consagrarán a hacerle la vida imposible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

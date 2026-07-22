@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shirley Jackson on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/shirley-jackson/</link>
+    <description>Recent content in Shirley Jackson on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/shirley-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hangsaman</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/hangsaman-shirley-jackson/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/hangsaman-shirley-jackson/</guid>
+      <description>&lt;p&gt;Natalie Waite tiene diecisiete años. Nacida en el seno de una familia asfixiante constituida por el padre, escritor mediocre y egocéntrico, y la madre, un ama de casa neurótica, llega el día en que se marcha a estudiar. Es posible que justo antes de irse pasara algo que no quiere o no puede contar. Pronto, ya en la universidad, su vida se transformará en un aterrador juego de espejos. Exploración magistral y perturbadora de la psique de una adolescente atribulada, Hangsaman (1951) se ha descrito como una novela de formación y también como una novela de campus, pero esas definiciones se quedan cortas. Aunque incluye elementos de ambas, además de un toque satírico, las vicisitudes de la protagonista acontecen en el límite con la pesadilla. La narración rezuma ambigüedad. La realidad es esquiva. Tratándose de Shirley Jackson, la oscuridad está siempre al acecho.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La maldición de Hill House</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-maldicion-de-hill-house-shirley-jackson/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-maldicion-de-hill-house-shirley-jackson/</guid>
+      <description>&lt;p&gt;Cuatro personajes llegan a un viejo y laberíntico caserón conocido como Hill House. Son el doctor Montague, un estudioso de lo oculto que busca pruebas de fenómenos psíquicos en casas encantadas, y tres personas a quienes el doctor ha reclutado para llevar a cabo un experimento.&lt;/p&gt;
+&lt;p&gt;A pesar de las reticencias de su familia, Eleanor, una joven algo atormentada y de pasado infeliz, acabará formando parte de la singular comitiva. Los otros son Theodora, con quien Eleanor establece un fuerte vínculo inicial, y Luke, el heredero de la casa. Pronto todos deberán enfrentarse a situaciones que están más allá de su comprensión.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

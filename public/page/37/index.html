@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/warlock-oakley-hall/cover.jpg" alt="Portada de Warlock">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Warlock
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Agosto de 1880. La canícula y la densa neblina desdibujan los contornos de la ciudad fronteriza de Warlock,un lugar huérfano de ley donde el robo, las reyertas y elcrimen están a la orden del día. El puesto de ayudante del sheriff pesa como una maldición sobre quien se atreve a ocuparlo; pocos tienen el valor de intervenir enlas trifulcas entre mineros borrachos y fulleros, y menos aún de enfrentarse a la banda de cuatreros liderada por Abe McQuown. Pero un nuevo pistolero ha llegado a la ciudad. Armado con sus Colt Frontiers de oro, Clay Blaisedell acepta el reto que le ofrece el Comité de Ciudadanos de ser el nuevo comisario de Warlock. Pero tal vez su temple y sus revólveres no sean suficientes para implantar el orden en una ciudad que devora a un hombre cada mañana.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-03-01 00:00:00 +0000 UTC'>March 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to Warlock" href="http://localhost:1313/mi-biblioteca/libros/warlock-oakley-hall/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/501-most-notorious-crimes-paul-donnelley/cover.jpg" alt="Portada de 501 Most Notorious Crimes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">501 Most Notorious Crimes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>In “501 Most Notorious Crimes”, the reader will find a fascinating line-up of notorious crooks, criminals, villains and thieves, from the mysterious disappearance of Lord Lucan, the assassination of JFK to the treason committed by Guy Fawkes. This book provides a fascinating insight into the world’s most notorious crimes.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to 501 Most Notorious Crimes" href="http://localhost:1313/mi-biblioteca/libros/501-most-notorious-crimes-paul-donnelley/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no2-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump (Ultimate Edition) Nº2">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump (Ultimate Edition) Nº2
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca… ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas! Todo es posible en Villa Pingüino.
+Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump (Ultimate Edition) Nº2" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no2-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-vol-04-dr-slump-kanzenban-4-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump Ultimate Edition, Vol. 04 (Dr. Slump Kanzenban, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump Ultimate Edition, Vol. 04 (Dr. Slump Kanzenban, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca… ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas! Todo es posible en Villa Pingüino.
+Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump Ultimate Edition, Vol. 04 (Dr. Slump Kanzenban, #4)" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-vol-04-dr-slump-kanzenban-4-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-fue-jueves-g-k-chesterton/cover.jpg" alt="Portada de El hombre que fue Jueves">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El hombre que fue Jueves
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Perhaps best known to the general public as creator of the “Father Brown” detective stories, G.K. Chesterton (1874-1936) was especially renowned for his wit, rhetorical brilliance and talent for ingenious and revealing paradox. Those qualities are richly brilliant in the present volume, a hilarious, fast-paced tale about a club of anarchists in turn-of-the-century London.
+The story begins when Gabriel Syme, a poet and member of a special group of philosophical policemen, attends a secret meeting of anarchists, whose leaders are named for the days of the week, and all of whom are sworn to destroy the world. Their chief is the mysterious Sunday - huge, boisterous, full of vitality, a wild personage who may be a Chestertonian vision of God or nature or both. When Syme, actually an undercover detective, is unexpectedly elected to fill a vacancy on the anarchists’ Central Council, the plot takes the first of many surprising twists and turns.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to El hombre que fue Jueves" href="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-fue-jueves-g-k-chesterton/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-pudo-reinar-rudyard-kipling/cover.jpg" alt="Portada de El hombre que pudo reinar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El hombre que pudo reinar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El hombre que pudo reinar y otros cuentos reúne cuatro de las mejores historias de Rudyard Kipling pertenecientes a diferentes etapas de su vida creativa: «El hombre que pudo reinar» (1888), obra maestra del relato de aventuras –publicada originalmente en el volumen The Phantom Rickshaw– que dio pie a otra obra maestra, en este caso cinematográfica, con la película de igual título del director norteamericano John Huston; «La historia más bella del mundo» (1891), perteneciente a Many Inventions; «Ellos» (1904), extraída de Traffics and Discoveries; y «El toro que pensaba» (1924), de su última etapa, aparecida en Debts and Credits. La edicíón se completa con una semblanza de Kipling realizada por el escritor Henry James y publicada como introducción a la colección de cuentos El hándicap de la vida (1891), en la que el consagrado autor norteamericano alababa «la prodigiosa facilidad, el temperamento desenvuelto, el talento versátil, el amor por la perspectiva interior» de un jovencísimo Kipling. «Nuestro autor –continuaba James– siempre nos hace acordarnos de que la India es ante todo la tierra del misterio, de la magia irresistible de soles abrasadores, imperios sojuzgados, religiones enigmáticas, guarniciones inseguras y mujeres cubiertas; del calor y el colorido y el peligro y el polvo».
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to El hombre que pudo reinar" href="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-pudo-reinar-rudyard-kipling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/en-grand-central-station-me-sente-y-llore-elizabeth-smart/cover.jpg" alt="Portada de En Grand Central Station me senté y lloré">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">En Grand Central Station me senté y lloré
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Esta novela autobiográfica, publicada por primera vez en 1945, y que muy pronto se convertiría en un verdadero libro de culto al ser traducida a numerosos idiomas, narra con un lenguaje prodigioso, lleno de imágenes tan originales como potentes, la pasión de su autora por un hombre casado del que se enamoraría incluso antes de conocerlo personalmente.
+Este libro influenció en las composiciones de Morrisey, tanto para sus canciones en solitario como para las que escribió en The Smiths; algo claro en títulos como London, What she said, Louder than bombs, Late night, Maudlin Street, por ejemplo
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to En Grand Central Station me senté y lloré" href="http://localhost:1313/mi-biblioteca/libros/en-grand-central-station-me-sente-y-llore-elizabeth-smart/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-sombra-del-asesino-los-mejores-relatos-de-crimen-y-misterio-aparecidos-en-valdemar-daniel-defoe/cover.jpg" alt="Portada de La sombra del asesino: Los mejores relatos de crimen y misterio aparecidos en Valdemar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La sombra del asesino: Los mejores relatos de crimen y misterio aparecidos en Valdemar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras una investigación exhaustiva, el fiscal ha formulado su acusación, ilustrando cada caso y encontrando culpables a los escritores aquí reunidos. Culpables de haber perpetrado las mejores historias policiacas publicadas en Valdemar, y de dar vida a algunos de los detectives más carismáticos de la literatura de misterio (como Auguste Dupin, Sherlock Holmes, el padre Brown, J.G. Reeder o Jules de Grandin). Entre los imputados se encuentran los instigadores del crimen (Defoe, Radcliffe, De Quincey o Le Fanu) planeado por el cabecilla y cerebro de la trama, el señor Edgar Allan Poe, cuyas fechorías han sido llevadas hasta sus últimas consecuencias por diferentes cómplices (Willkie Collins, Conan Doyle, Chesterton, Edgar Wallace, Dickson Carr…). Son muchos los letrados que han defendido casos similares (Dickens, Melville, Stevenson, Conrad o Kipling), y numerosos los condenados con anterioridad por crímenes tan terroríficos (Bram Stoker, Guy de Maupassant, Robert Bloch…), así como los timadores y falsos culpables implicados en este peligroso juego (Mark Twain, Voltaire o Jardiel Poncela). A todos ellos se les acusa de alevosía en la comisión del delito, movidos, no obstante, por el encomiable propósito de obtener el valioso botín que el lector tiene ahora en sus manos. El tribunal ha expuesto los hechos en este voluminoso sumario. Ahora les toca a ustedes decidir, distinguido e implacable jurado, y emitir su veredicto.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to La sombra del asesino: Los mejores relatos de crimen y misterio aparecidos en Valdemar" href="http://localhost:1313/mi-biblioteca/libros/la-sombra-del-asesino-los-mejores-relatos-de-crimen-y-misterio-aparecidos-en-valdemar-daniel-defoe/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-vida-es-buena-si-no-te-rindes-seth/cover.jpg" alt="Portada de La vida es buena si no te rindes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La vida es buena si no te rindes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En La vida es buena si no te rindes, Seth emprende aquí un viaje en busca de sí mismo y del sentido de la vida a través de la obra de Kalo, un historietista olvidado de los años cuarenta y cincuenta a quien descubrió por casualidad en un número antiguo de The New Yorker.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to La vida es buena si no te rindes" href="http://localhost:1313/mi-biblioteca/libros/la-vida-es-buena-si-no-te-rindes-seth/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-hombres-topo-quieren-tus-ojos-y-otros-relatos-sangrientos-de-la-era-dorada-del-pulp-jesus-palacios/cover.jpg" alt="Portada de Los hombres topo quieren tus ojos y otros relatos sangrientos de la Era Dorada del Pulp">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los hombres topo quieren tus ojos y otros relatos sangrientos de la Era Dorada del Pulp
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Hordas de ciegos asesinos dementes que sacan los ojos a sus prisioneros; sacrificios humanos ofrecidos a Satán en lo más recóndito de la América Profunda; sociedades secretas que entierran vivos a quienes se atreven a traicionarlas; cadáveres momificados alimentados con la sangre de víctimas inocentes… Basten estos delirantes esbozos argumentales para definir uno de los subgéneros literarios de la «pulp fiction» de mayor éxito en los años 30, la época dorada de las revistas «pulp» norteamericanas, un estilo conocido como «Weird Menace» («Amenaza Extraña»). Y fueron las revistas denominadas «Shudder Pulps» –una serie de publicaciones de horror y misterio en las que, durante poco más de media década, reinaron la sangre y el sexo, el terror más físico y morboso, la violencia sádica, los argumentos más retorcidos y un delicioso erotismo inevitablemente camp– las encargadas de difundir a los cuatro vientos esta nueva frontera del terror popular.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2009-01-01 00:00:00 +0000 UTC'>January 1, 2009</span></footer>
+  <a class="entry-link" aria-label="post link to Los hombres topo quieren tus ojos y otros relatos sangrientos de la Era Dorada del Pulp" href="http://localhost:1313/mi-biblioteca/libros/los-hombres-topo-quieren-tus-ojos-y-otros-relatos-sangrientos-de-la-era-dorada-del-pulp-jesus-palacios/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/36/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/38/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

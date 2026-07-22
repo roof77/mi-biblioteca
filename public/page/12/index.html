@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-09-15-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump nº 09/15">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump nº 09/15
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-11-12 00:00:00 +0000 UTC'>November 12, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump nº 09/15" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-09-15-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-13-15-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump nº 13/15">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump nº 13/15
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-11-12 00:00:00 +0000 UTC'>November 12, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump nº 13/15" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-13-15-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/material-inflamable-richard-lloyd/cover.jpg" alt="Portada de Material inflamable">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Material inflamable
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Richard Lloyd vivió en carne propia una de las épocas más fértiles y convulsas de la historia del rock. A partir de una serie de recuerdos, traumas, experiencias al límite y pensamientos entre visionarios y delirantes a modo de intensos fogonazos, el mítico guitarrista y fundador del grupo Television da buena cuenta de la gestación de uno de los mejores discos de rock de todos los tiempos: el seminal Marquee Moon (1977), cuyo diálogo-batalla de guitarras con Tom Verlaine marcó un antes y un después en la historia de la música popular. En estas páginas arrebatadas, también se reviven momentos fundamentales de la escena musical de finales de los setenta, como el auge del mítico club neoyorquino CBGB —un antro cuya programación Lloyd animó personalmente y que dio lugar a los primeros conciertos de los Ramones, Blondie, Talking Heads o los propios Television— y encuentros inolvidables con Jimi Hendrix, Keith Moon, Buddy Guy, John Lee Hooker, Keith Richards o Led Zeppelin. Pero Material inflamable es mucho más que una autobiografía musical al uso. Lejos de limitarse a relatar la manida tríada de sexo, drogas y rock and roll, Lloyd también explica su temprana experiencia con la locura y sus durísimos internamientos en los manicomios norteamericanos de los años sesenta, su fascinación por la guitarra como medio de expresión y trascendencia, y un anhelo espiritual sobrecogedor que lo llevó a construir un pensamiento mágico con el que oponerse a lo convencional y anodino. Todo ello conforma unas memorias originalísimas, intensas, directas e hilarantes que evocan en un registro entre la oralidad y la urgencia una vida marcada a fuego por la música.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-11-01 00:00:00 +0000 UTC'>November 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Material inflamable" href="http://localhost:1313/mi-biblioteca/libros/material-inflamable-richard-lloyd/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-anillos-j-r-r-tolkien/cover.jpg" alt="Portada de El Señor de los Anillos">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El Señor de los Anillos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En la adormecida e idílica Comarca, un joven hobbit recibe un encargo: custodiar el Anillo Único y emprender el viaje para su destrucción en las Grietas del Destino. Consciente de la importancia de su misión, Frodo abandona la Comarca e inicia el camino hacia Mordor con la compañía inesperada de Sam, Pippin y Merry. Pero sólo con la ayuda de Aragorn conseguirán vencer a los Jinetes Negros y alcanzar el refugio de la Casa de Elrond en Rivendel. Contiene cincuenta ilustraciones en color, encargadas especialmente al artista Alan Lee para conmemorar el centenario de J.R.R. Tolkien. Incluye además los mapas y apéndices de Tolkien y un índice de canciones, nombres de los personajes, lugares y cosas.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-10-08 00:00:00 +0000 UTC'>October 8, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to El Señor de los Anillos" href="http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-anillos-j-r-r-tolkien/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-maldicion-de-hill-house-shirley-jackson/cover.jpg" alt="Portada de La maldición de Hill House">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La maldición de Hill House
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Cuatro personajes llegan a un viejo y laberíntico caserón conocido como Hill House. Son el doctor Montague, un estudioso de lo oculto que busca pruebas de fenómenos psíquicos en casas encantadas, y tres personas a quienes el doctor ha reclutado para llevar a cabo un experimento.
+A pesar de las reticencias de su familia, Eleanor, una joven algo atormentada y de pasado infeliz, acabará formando parte de la singular comitiva. Los otros son Theodora, con quien Eleanor establece un fuerte vínculo inicial, y Luke, el heredero de la casa. Pronto todos deberán enfrentarse a situaciones que están más allá de su comprensión.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-10-02 00:00:00 +0000 UTC'>October 2, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to La maldición de Hill House" href="http://localhost:1313/mi-biblioteca/libros/la-maldicion-de-hill-house-shirley-jackson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-camino-de-los-reyes-el-archivo-de-las-tormentas-1-brandon-sanderson/cover.jpg" alt="Portada de El camino de los reyes (El archivo de las tormentas, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El camino de los reyes (El archivo de las tormentas, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Una obra maestra tan ambiciosa como fascinante Resultado de más de una década de planificación y construcción de universos, ‘El camino de los reyes’ es el primer tomo de Los Manuscritos de las Tormentas, una saga que constará de diez volúmenes.
+Sanderson es, junto a George R. R. Martin y J. R. R. Tolkien, uno de los autores con mayor presencia en la lista de más vendidos del ‘New York Times’.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-10-01 00:00:00 +0000 UTC'>October 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to El camino de los reyes (El archivo de las tormentas, #1)" href="http://localhost:1313/mi-biblioteca/libros/el-camino-de-los-reyes-el-archivo-de-las-tormentas-1-brandon-sanderson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-14-15-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump nº 14/15">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump nº 14/15
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-09-03 00:00:00 +0000 UTC'>September 3, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump nº 14/15" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-14-15-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1977-1978-snoopy-y-carlitos-14-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1977-1978 (Snoopy y Carlitos, #14)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1977-1978 (Snoopy y Carlitos, #14)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tiras publicadas entre 1977 y 1978 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado&#34;.Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.
+Introducción por Alec Baldwin
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-09-03 00:00:00 +0000 UTC'>September 3, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1977-1978 (Snoopy y Carlitos, #14)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1977-1978-snoopy-y-carlitos-14-charles-m-schulz/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/un-mundo-helado-naomi-novik/cover.jpg" alt="Portada de Un mundo helado">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Un mundo helado
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La familia de Miryem se halla al borde de la pobreza, hasta que ella se hace cargo de la situación y no tarda en ganarse la reputación de ser capaz de convertir la plata en oro.
+Cuando el rey de los staryk, unas criaturas hechas de hielo que amenazan con llevarse el verano para siempre, se entera de tal hazaña le impone una tarea que parece imposible y que hará que Miryem descubra que tiene poderes. Tejerá una telaraña en la que quedarán atrapadas una joven campesina, Wanda, e Irina, la desdichada hija de un noble local que pretende casarla con el joven y apuesto zar Mirnatius.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-09-03 00:00:00 +0000 UTC'>September 3, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Un mundo helado" href="http://localhost:1313/mi-biblioteca/libros/un-mundo-helado-naomi-novik/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/leopardo-negro-lobo-rojo-trilogia-de-la-estrella-oscura-1-marlon-james/cover.jpg" alt="Portada de Leopardo negro, lobo rojo (Trilogía de la estrella oscura, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Leopardo negro, lobo rojo (Trilogía de la estrella oscura, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El Rastreador es conocido por sus habilidades como cazador: «Tiene un buen olfato», se dice de él. Contratado para encontrar a un misterioso niño que ha desaparecido, el Rastreador rompe su propia regla de no trabajar con nadie y se encuentra de pronto como parte de un grupo que debe colaborar y apoyarse para llevar su objetivo a buen puerto. Se trata de un grupo heterogéneo, formado por personajes inusuales, cada uno con sus propios secretos, incluido un hombre capaz de cambiar de forma a su antojo conocido como el Leopardo. Mientras el Rastreador sigue el olor del chico, el grupo se enfrenta a criaturas que intentan que no lleguen a su objetivo. Y mientras luchan para sobrevivir, el Rastreador empieza a preguntarse quién es realmente ese niño, por qué ha estado perdido durante tanto tiempo y por qué todos intentan evitar que sea encontrado. Y algo más importante: ¿quién está contando la verdad en esta historia y quién está mintiendo?
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-09-01 00:00:00 +0000 UTC'>September 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Leopardo negro, lobo rojo (Trilogía de la estrella oscura, #1)" href="http://localhost:1313/mi-biblioteca/libros/leopardo-negro-lobo-rojo-trilogia-de-la-estrella-oscura-1-marlon-james/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/11/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/13/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

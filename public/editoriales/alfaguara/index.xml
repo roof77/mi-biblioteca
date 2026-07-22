@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alfaguara on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/alfaguara/</link>
+    <description>Recent content in Alfaguara on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/alfaguara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo el ojo del gran pájaro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bajo-el-ojo-del-gran-pajaro-hiromi-kawakami/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bajo-el-ojo-del-gran-pajaro-hiromi-kawakami/</guid>
+      <description>&lt;p&gt;En un futuro lejano, los humanos están al borde de la extinción y se han establecido por todo el planeta en pequeñas tribus bajo la observación y el cuidado de &amp;ldquo;Madres&amp;rdquo;. Algunos niños nacen en fábricas a partir de células de conejos y delfines; otros viven obteniendo nutrientes del agua y la luz, como las plantas. La supervivencia de la raza depende del mestizaje de estos y otros seres extraterrestres, pero no es seguro que la conexión, el amor, la reproducción y la evolución persistan entre los habitantes de este nuevo mundo en crisis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cien años de soledad</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cien-anos-de-soledad-gabriel-garcia-marquez/</link>
+      <pubDate>Tue, 06 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cien-anos-de-soledad-gabriel-garcia-marquez/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo&amp;rdquo;. Con estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes de nuestro siglo. Millones de ejemplares de Cien años de Soledad leídos en todas las lenguas y el premio Nobel de Literatura coronando una obra que se había abierto paso &amp;ldquo;boca a boca&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moravagine</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/moravagine-blaise-cendrars/</guid>
+      <description>&lt;p&gt;«¿Cómo puedo convencer a los escépticos de que fui deslumbrado por Moravagine? ¿Cómo explicar cuando uno sabe inmediatamente y sin dudar que algo le gusta?» HENRY MILLER&lt;/p&gt;
+&lt;p&gt;Moravagine es más que un personaje. Es una fuerza de la naturaleza violenta y terrible. Liberado del manicomio por su iluminado psiquiatra, juntos viajan por el mundo protagonizando experiencias fascinantes. Una novela de acción que revela como ninguna las claves de la mentalidad del siglo xx. «Es el miedo quien te atenaza, el miedo a los hombres de acción, al desorden. Pero todo no es más que desorden, querido. ¿Por qué quieres tú poner un orden? ¿Qué orden? No existe la verdad. No hay más que la acción efímera, la acción antagonista. La vida.»&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La camioneta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</guid>
+      <description>&lt;p&gt;Jimmy Rabbitte, Sr. is unemployed, spending his days alone and miserable. When his best friend, Bimbo, also gets laid off, they keep by being miserable together. Things seem to look up when they buy a decrepit fish-and-chip van and go into business, selling cheap grub to the drunk and the hungry&amp;ndash;and keeping one step ahead of the environmental health officers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

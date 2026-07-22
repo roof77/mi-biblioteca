@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-camara-secreta-j-k-rowling/cover.jpg" alt="Portada de Harry Potter y la cámara secreta">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harry Potter y la cámara secreta
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera impaciente en casa de sus insoportables tíos el inicio del segundo curso del Colegio Hogwarts de Magia y Hechicería. Sin embargo, la espera dura poco, pues un elfo aparece en su habitación y le advierte que una amenaza mortal se cierne sobre la escuela. Así pues, Harry no se lo piensa dos veces y, acompañado de Ron, su mejor amigo, se dirige a Hogwarts en un coche volador. Pero ¿puede un aprendiz de mago defender la escuela de los malvados que pretenden destruirla? Sin saber que alguien ha abierto la Cámara de los Secretos, dejando escapar una serie de monstruos peligrosos, Harry y sus amigos Ron y Hermione tendrán que enfrentarse con arañas gigantes, serpientes encantadas, fantasmas enfurecidos y, sobre todo, con la mismísima reencarnación de su más temible adversario.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-10-01 00:00:00 +0000 UTC'>October 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to Harry Potter y la cámara secreta" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-camara-secreta-j-k-rowling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-piedra-filosofal-harry-potter-1-j-k-rowling/cover.jpg" alt="Portada de Harry Potter y la piedra filosofal (Harry Potter, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harry Potter y la piedra filosofal (Harry Potter, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el colegio interno Hogwarts de magia y hechicería. A partir de ese momento, la suerte de Harry da un vuelco espectacular. En esa escuela tan especial aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes. Se convertirá en el campeón escolar de quidditch, especie de fútbol aéreo que se juega montado sobre escobas, y se hará un puñado de buenos amigos… aunque también algunos temibles enemigos. Pero sobre todo, conocerá los secretos que le permitirán cumplir con su destino. Pues, aunque no lo parezca a primera vista, Harry no es un chico común y corriente. ¡Es un verdadero mago!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-03-01 00:00:00 +0000 UTC'>March 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to Harry Potter y la piedra filosofal (Harry Potter, #1)" href="http://localhost:1313/mi-biblioteca/libros/harry-potter-y-la-piedra-filosofal-harry-potter-1-j-k-rowling/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-fin-de-alice-a-m-homes/cover.jpg" alt="Portada de El fin de Alice">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El fin de Alice
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Chappy amaba a los niños, los amaba tanto -especialmente a Alice, una enigmática niña de doce años- y de maneras tan prohibidas, que desde hace veintitrés años está en la cárcel. Vive allí en un infierno de cuerpos maduros y homosexualidad, en una oscura jerarquía de dominación y sometimiento, hasta que un día comienza a recibir las cartas de una joven universitaria que ha vuelto a casa por vacaciones y planea seducir a un niño de doce años, fascinada ella también por la inmadurez, por la terrible y excitante inocencia de la fruta verde. ¿Y quién puede saber de esto más que Chappy? Al comienzo, el recluso y su corresponsal no muestran todas su cartas, en un juego de fingimientos y medias verdades. Pero poco a poco, entre mentiras, trampas y trampantojos, irá surgiendo la atroz verdad del prisionero, que se presenta como un doliente Humbert Humbert, desolada y triste víctima de sus deseos, y también la verdad de su joven corresponsal y cómplice, que ya mira con los ojos perversos de un adulto el territorio de la infancia, pero está ella misma perdida en la desolación del pasaje a la madurez, en la soledad de una tierra de nadie de la sexualidad y de la vida.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-01-01 00:00:00 +0000 UTC'>January 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to El fin de Alice" href="http://localhost:1313/mi-biblioteca/libros/el-fin-de-alice-a-m-homes/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-trono-de-huesos-de-dragon-1-anoranzas-y-pesares-1-1-tad-williams/cover.jpg" alt="Portada de El trono de huesos de dragón 1 (Añoranzas y pesares, #1.1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El trono de huesos de dragón 1 (Añoranzas y pesares, #1.1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El trono de huesos de dragón tenía el aspecto de un extraño altar, rodeado de brillantes y volátiles motas de polvo y franqueado por las estatuas de los seis Reyes Supremos de Hayholt. Los huesos de dragón con los que se había construido eran tan grandes y estaban tan pulidos que relucían pálidamente como piedras bruñidas. El respaldo del trono estaba formado por siete amarillentas costillas, y, suspendido del respaldo del gran trono, colgaba el cráneo y las mandíbulas del dragón Shurakai. Las cuencas de los ojos eran oscuras ventanas rotas y los curvilíneos dientes eran tan grandes como la mano de un hombre. El cráneo del dragón tenía el color de los pergaminos viejos y se apreciaban múltiples hendeduras, pero en él había algo vivo…, algo terrible y maravillosamente vivo.Este primer volumen de la trilogía Añoranzas y Pesares recuerda irremediablemente a Tolkien, pues muchas situaciones guardan cierto paralelismo con El Señor de los Anillos. La historia comienza cuando una gran guerra, alimentada por los oscuros poderes de la brujería, está a punto de estallar en la pacífica tierra de Osten Ard, después de la muerte del Rey Supremo que había aniquilado al terrorífico dragón Shurakai. Sólo un pequeño grupo, la Liga del Pergamino, puede intentar salvar el reino mediante la búsqueda de tres espadas de poder, perdidas hacía mucho tiempo, y que lo enfrentará a enemigos salidos de las peores pesadillas de los creadores de leyendas.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-01-01 00:00:00 +0000 UTC'>January 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to El trono de huesos de dragón 1 (Añoranzas y pesares, #1.1)" href="http://localhost:1313/mi-biblioteca/libros/el-trono-de-huesos-de-dragon-1-anoranzas-y-pesares-1-1-tad-williams/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-trilogia-de-nueva-york-paul-auster/cover.jpg" alt="Portada de La trilogía de Nueva York">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La trilogía de Nueva York
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Barcelona. 23 cm. 295 p. Encuadernación en tapa dura de editorial con sobrecubierta ilustrada. Auster, Paul 1947-. The New York trilogy. Traducción de Maribel de Juan ; prólogo de Juan Bonilla. Traducción New York trilogy .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. 8422679205
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-01-01 00:00:00 +0000 UTC'>January 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to La trilogía de Nueva York" href="http://localhost:1313/mi-biblioteca/libros/la-trilogia-de-nueva-york-paul-auster/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-tipos-duros-no-bailan-norman-mailer/cover.jpg" alt="Portada de Los tipos duros no bailan">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los tipos duros no bailan
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Esta brillante novela, tenebrosa y de fuerza sorprendente, narra la historia de Tim Madden, escritor fracasado adicto al bourbon, los cigarrillos y las rubias casquivanas y adineradas en el escenario de arbustos y dunas de Provincetown, cargado de la crudeza y melancolía de la población fuera de temporada. Cuando se cumplen 24 días del abandono de su esposa, Tim Madden amanece con resaca, una acentuada excitación sexual y un nombre del pasado tatuado en rojo en el brazo. Apenas recuerda nada de la noche anterior. De pronto descubre que el asiento del acompañante de su Porsche está empapado de sangre y que, en un bosquecillo cercano, en un rincón semioculto de su escondrijo de marihuana, hay una cabeza rubia cercenada por el cuello.¿Será Madden un asesino? La narración se centra en la violencia física, sexual y emocional mientras asistimos a los esfuerzos de Madden por reconstruir aquella espantosa noche.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-01-01 00:00:00 +0000 UTC'>January 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to Los tipos duros no bailan" href="http://localhost:1313/mi-biblioteca/libros/los-tipos-duros-no-bailan-norman-mailer/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/plainsong-kent-haruf/cover.jpg" alt="Portada de Plainsong">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Plainsong
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Barcelona. 21 cm. 314 p. Encuadernación en tapa blanda de editorial ilustrada. Colección ‘Boulevard’. Traducción de Agustín Vergara y Cristina Pagès. Traducción Plainsong. Boulevard (Barcelona) .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. 8408034456
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1999-01-01 00:00:00 +0000 UTC'>January 1, 1999</span></footer>
+  <a class="entry-link" aria-label="post link to Plainsong" href="http://localhost:1313/mi-biblioteca/libros/plainsong-kent-haruf/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/cover.jpg" alt="Portada de Lady sings the Blues">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lady sings the Blues
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Cuando Eleanora Holiday, más conocida por Billie, o Lady Day para los amigos, murió en un hospital de Nueva York en 1959, dejaba tras de sí una de las carreras más míticas y deslumbrantes de la historia del jazz. Desde los miserables inicios en Baltimore, los primeros trabajos como criada, el intento de violación a los diez años, la prostitución, la discriminación racial, la drogadicción, los múltiples pleitos y estancias en la cárcel, el engaño por parte de casi todos los hombres que la trataron, su vida aparece jalonada por una serie de episodios que fraguaron su leyenda. Billie Holiday nos cuenta con conmovedora sinceridad en estas memorias —escritas en colaboración con su amigo y pianista William Dufty—, en las que también se revive la más esplendorosa época del jazz en los clubes de Harlem, la radio y los estudios de grabación, las giras maratonianas y las jam-sessions al lado de músicos legendarios como, entre otros, Duke Ellington, Louis Amstrong, Benny Goodman, Count Basie, Lester Young o Artie Shaw.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1998-04-28 00:00:00 +0000 UTC'>April 28, 1998</span></footer>
+  <a class="entry-link" aria-label="post link to Lady sings the Blues" href="http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/made-in-america-bill-bryson/cover.jpg" alt="Portada de Made in America">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Made in America
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>This book turns away from the highways and byways of middle America for a fast, exhilarating ride along the Route 66 of American language and popular culture.
+Exploding much of America’s self-created self-image, Bryson de-mythologises his native land - explaining how a dusty desert hamlet with neither woods nor holly became Hollywood, how the Wild West wasn’t won, why Americans say “lootenant” and “Toosday”, how Americans were eating junk food long before the word itself was cooked up - as well as exposing the true origins of the G-string, the original $64,000 question and Dr Kellogg of cornflakes fame.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1998-01-01 00:00:00 +0000 UTC'>January 1, 1998</span></footer>
+  <a class="entry-link" aria-label="post link to Made in America" href="http://localhost:1313/mi-biblioteca/libros/made-in-america-bill-bryson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/cover.jpg" alt="Portada de Paddy Clarke, ja, ja, ja">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Paddy Clarke, ja, ja, ja
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“Sometimes when nothing happened it was really getting ready to happen.” Irish Paddy rampages through Barrytown streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always for the better.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1998-01-01 00:00:00 +0000 UTC'>January 1, 1998</span></footer>
+  <a class="entry-link" aria-label="post link to Paddy Clarke, ja, ja, ja" href="http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/53/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/55/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

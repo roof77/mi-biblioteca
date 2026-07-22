@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/las-particulas-elementales-michel-houellebecq/cover.jpg" alt="Portada de Las partículas elementales">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Las partículas elementales
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Una visión feroz y sarcástica del presente a través de dos hermanastros cuarentones, Michel, un investigador en biología que vive como un monje, ha renunciado al sexo y sólo pasea para ir al supermercado, y Bruno, profesor de literatura, consumidor de pornografía, misógino, racista y virtuoso del resentimiento. Una novela demoledora sobre una generación derrotada de la mano del más contundente escritor francés vivo.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-04-01 00:00:00 +0000 UTC'>April 1, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Las partículas elementales" href="http://localhost:1313/mi-biblioteca/libros/las-particulas-elementales-michel-houellebecq/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-jardin-malefico-edward-gorey/cover.jpg" alt="Portada de El jardín maléfico">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El jardín maléfico
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Una familia inocente y feliz visita el Jardín Maléfico (¡la entrada es gratuita!) para disfrutar de una tarde de sol en un atrayente paisaje poblado de árboles y flores exóticas. Pronto empiezan a oírse voces y sonidos extraños, y cuando aparecen y empiezan a actuar insectos peludos, famélicas plantas carnívoras y hasta una boa constrictor, la ominosa aprensión de la familia se transforma en incontenido pánico, pero ¿dónde está la salida?
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-03-29 00:00:00 +0000 UTC'>March 29, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to El jardín maléfico" href="http://localhost:1313/mi-biblioteca/libros/el-jardin-malefico-edward-gorey/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-jardines-de-la-luna-malaz-el-libro-de-los-caidos-1-steven-erikson/cover.jpg" alt="Portada de Los jardines de la luna (Malaz: El libro de los caídos, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los jardines de la luna (Malaz: El libro de los caídos, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras guerras interminables y amargas luchas internas, el descontento se ha apoderado del Imperio de Malaz. Incluso las tropas imperiales, siempre ansiosas por derramar sangre, necesitan un respiro. Sin embargo, las pretensiones expansionistas de la emperatriz Laseen no tienen límite, más aun cuando son reforzadas por sus temibles agentes de la Garra. El sargento Whiskeyjack y su escuadrón necesitan tiempo para llorar a los muertos del último asedio, pero Darujhistan, la última de las Ciudades Libres de Genabackis, los espera; en ella ha puesto la emperatriz su mirada depredadora. El Imperio no está solo en este juego. Las fuerzas siniestras conspiran dentro y fuera de las sendas mágicas, y hasta los dioses se preparan para la batalla…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-03-22 00:00:00 +0000 UTC'>March 22, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Los jardines de la luna (Malaz: El libro de los caídos, #1)" href="http://localhost:1313/mi-biblioteca/libros/los-jardines-de-la-luna-malaz-el-libro-de-los-caidos-1-steven-erikson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/bienvenidos-al-bizarro-laura-lee-bahr/cover.jpg" alt="Portada de Bienvenidos al bizarro">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bienvenidos al bizarro
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>¡Anunciado en televisión!*
+Concursantes de un reality de modificación corporal competitiva, enfermedades de transmisión sexual extremas y coleccionables, rudos detectives privados atrapados dentro de osos de peluche, extrañas gigantas que aparecen en la costa para no se sabe muy bien qué, vendedores de dildos a domicilio con crisis existenciales, alicatadores en miniatura que aparecen cada vez que te masturbas… Todo eso y mucho más es lo que encontraréis entre los relatos que componen este libro. Si creéis que no sois el público objetivo, lo más seguro es que estéis en lo cierto, así que, por favor, coged otro libro. Si, por el contrario, creéis que esto es lo que llevabais toda la vida buscando…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-03-01 00:00:00 +0000 UTC'>March 1, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Bienvenidos al bizarro" href="http://localhost:1313/mi-biblioteca/libros/bienvenidos-al-bizarro-laura-lee-bahr/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-libro-de-gloria-fuertes-antologia-de-poemas-y-vida-gloria-fuertes/cover.jpg" alt="Portada de El libro de Gloria Fuertes: Antología de poemas y vida">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El libro de Gloria Fuertes: Antología de poemas y vida
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Al fin en un mismo libro la vida y la obra de una poeta genial que vio su carrera ensombrecida primero por su género, después por su clase social y finalmente por su fama.
+Edición y textos de Jorge de Cascante.
+El libro sobre la verdadera Gloria Fuertes:
+– 448 páginas a todo color. – Más de 300 poemas, varios inéditos. – 80 fotos nunca vistas. – 12 dibujos hechos por Gloria. – La biografía glorista más completa hasta la fecha. – 25 anécdotas sobre su vida repartidas por todo el libro, contando encuentros y desencuentros de la poeta (¡nada de poetisa!). – Recortes de prensa. – Páginas de sus cuadernos de notas. – Flyers e invitaciones a sus lecturas (¡nada de recitales!). – Objetos preciados —y preciosos— encontrados en su casa de Madrid. – Un cómic de 16 páginas, obra de Carmen Segovia, que narra una escena de su época como profesora universitaria en Estados Unidos.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-03-01 00:00:00 +0000 UTC'>March 1, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to El libro de Gloria Fuertes: Antología de poemas y vida" href="http://localhost:1313/mi-biblioteca/libros/el-libro-de-gloria-fuertes-antologia-de-poemas-y-vida-gloria-fuertes/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/doctor-portuondo-mis-dias-de-psicoanalisis-con-un-sabio-desquiciado-carlo-padial/cover.jpg" alt="Portada de Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El doctor Portuondo era un cubano exiliado en Barcelona que bebía whisky Johnnie Walker, juraba en nombre de Freud y me echaba de la consulta cada dos por tres. A veces se tumbaba en el diván porque consideraba que sus conflictos eran mucho más interesantes que los míos. Fue mi psicoanalista durante cinco años. Y la persona más fascinante que he conocido en mi vida.
+Carlo Padial (Barcelona, 1977) es autor de obras tan rompedoras como Dinero Gratis y Erasmus, Orgasmus y otros problemas. Ha sido colaborador de revistas como El Víbora, autor de vídeos virales en Playground o TV3 y una de las firmas más respetadas del cine low cost (Mi loco Erasmus y Taller Capuchoc), Ahora prepara el salto al circuito comercial con la película Algo muy gordo. Padial ha escrito este extraordinario y divertídisimo relato de sus terapias con el doctor Portuondo con la culpa materna de Philip Roth, la honestidad de Louis C.K., el ritmo de Kanye West y la hipocondría de Woody Allen.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-02-14 00:00:00 +0000 UTC'>February 14, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado" href="http://localhost:1313/mi-biblioteca/libros/doctor-portuondo-mis-dias-de-psicoanalisis-con-un-sabio-desquiciado-carlo-padial/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-conde-de-montecristo-alexandre-dumas/cover.jpg" alt="Portada de El conde de Montecristo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El conde de Montecristo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Grandes Clásicos Literatura Random House nos brinda esta magnífica edición de una novela de enorme poder de sugestión, a través de la figura del hombre solitario que, tras sobrevivir a una vil traición, regresa para hacer justicia.
+El conde de Montecristo es uno de los clásicos más populares de todos los tiempos. Desde su publicación, en 1844, no ha dejado de seducir al gran público con la inolvidable historia de su protagonista.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-01-31 00:00:00 +0000 UTC'>January 31, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to El conde de Montecristo" href="http://localhost:1313/mi-biblioteca/libros/el-conde-de-montecristo-alexandre-dumas/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/como-ser-bill-murray-gavin-edwards/cover.jpg" alt="Portada de Cómo ser Bill Murray">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cómo ser Bill Murray
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Esperas en un semáforo mientras comes unas patatas fritas cuando alguien mete la mano en tu bolsa. Lo miras y piensas: “es él, es igual que él, qué emoción si es él, pero no puede ser él”. Entonces Bill Murray se traga la patata, te guiña el ojo y te susurra:
+Nadie te va a creer. El mundo es un escenario y Bill Murray no entiende la vida sin improvisación ni sorpresa: irrumpe en fiestas anónimas y monta congas, se fuma pitillos de desconocidos o se pasea por ciudades en carrito de golf.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-11-30 00:00:00 +0000 UTC'>November 30, 2016</span></footer>
+  <a class="entry-link" aria-label="post link to Cómo ser Bill Murray" href="http://localhost:1313/mi-biblioteca/libros/como-ser-bill-murray-gavin-edwards/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-de-twin-peaks-mark-frost/cover.jpg" alt="Portada de La historia secreta de Twin Peaks">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La historia secreta de Twin Peaks
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Directamente de las manos del co-creador de la serie «Twin Peaks», uno de los mayores logros de la televisión moderna, nos llega una novela que no sólo profundiza en los misterios de esta excéntrica localidad, enriqueciendo la original, sino que preparara a los lectores para su inminente tercera temporada. Con el descubrimiento del cuerpo asesinado de Laura Palmer en la costa de Twin Peaks arrancaba uno de los mayores fenómenos populares de las últimas décadas. Ante los ojos del agente del FBI Dale Cooper se abrieron entonces todo tipo de secretos inimaginables que se escondían bajo la aparente normalidad de la comunidad y, junto a él, millones de fans en todo el mundo se iniciaron en el inimitable trabajo de David Lynch y Mark Frost.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-10-18 00:00:00 +0000 UTC'>October 18, 2016</span></footer>
+  <a class="entry-link" aria-label="post link to La historia secreta de Twin Peaks" href="http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-de-twin-peaks-mark-frost/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/stuck-rubber-baby-howard-cruse/cover.jpg" alt="Portada de Stuck Rubber Baby">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Stuck Rubber Baby
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Stuck Rubber Baby transcurre durante los años 60 en el sur de los Estados Unidos, cuando Kennedy era presidente, las luchas por los derechos civiles estaban en su apogeo y la discriminación estaba a la orden del día. El protagonista de esta historia parcialmente autobiográfica es Toland Polk, un joven blanco sin rumbo rodeado por la olla a presión del racismo y la segregación que, por si fuera poco, es gay, aunque se niegue a admitírselo incluso a sí mismo. A través de su encuentro con todo tipo de gente, Toland se verá obligado a asumir quién es él realmente y el mundo en el que vive. Entre los numerosos galardones y nominaciones que ha ganado, destacan los premios Eisner y Harvey de 1996 a la mejor novela gráfica, el de la crítica del festival de Angoulême y el de mejor novela gráfica en los premios Comic Art del Reino Unido.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-10-01 00:00:00 +0000 UTC'>October 1, 2016</span></footer>
+  <a class="entry-link" aria-label="post link to Stuck Rubber Baby" href="http://localhost:1313/mi-biblioteca/libros/stuck-rubber-baby-howard-cruse/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/16/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/18/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

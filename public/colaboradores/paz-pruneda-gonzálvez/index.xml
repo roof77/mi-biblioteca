@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paz Pruneda Gonzálvez on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/paz-pruneda-gonz%C3%A1lvez/</link>
+    <description>Recent content in Paz Pruneda Gonzálvez on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/paz-pruneda-gonz%C3%A1lvez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía del club de lectura para matar vampiros</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/guia-del-club-de-lectura-para-matar-vampiros-grady-hendrix/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/guia-del-club-de-lectura-para-matar-vampiros-grady-hendrix/</guid>
+      <description>&lt;p&gt;A Patricia Campbell su existencia nunca le ha parecido tan insignificante. Su marido es un adicto al trabajo, sus hijos adolescentes tienen su propia vida, su suegra senil necesita cuidados constantes, y siente que siempre va un paso por detrás de su interminable lista de cosas por hacer. Lo único que la mantiene viva es su club de lectura, un pequeño grupo de mujeres de Charleston unidas por su amor a las novelas de crímenes reales. En esas reuniones se habla de todo: desde la familia Manson a asuntos de sus propias familias.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

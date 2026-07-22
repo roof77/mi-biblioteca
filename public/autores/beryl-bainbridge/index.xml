@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beryl Bainbridge on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/beryl-bainbridge/</link>
+    <description>Recent content in Beryl Bainbridge on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/beryl-bainbridge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que dijo Harriet</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lo-que-dijo-harriet-beryl-bainbridge/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lo-que-dijo-harriet-beryl-bainbridge/</guid>
+      <description>&lt;p&gt;Basada en un crimen real que conmocionó a la sociedad británica de la época (el caso Parker-Hulme, retratado por Peter Jackson en su película Criaturas celestiales), Lo que dijo Harriet relata la historia de dos amigas que se reencuentran durante unas vacaciones de verano eb una localidad playera. Ambas esconden una relación enfermiza. La narradora, una chica sin nombre, solitaria e introvertida, se deja llevar por la corrosiva influencia de la bella Harriet. Entre las dos pergeñan un plan para seducir al Zar, un hombre mayor e infelizmente casado, y tan fascinante como repulsivo, sin ser conscientes de las catastróficas consecuencias que puede causar su degenerado juego de niñas. Un thriller sobre la crueldad de la infancia y sobre la capacidad del ser humano para manipular y seducir a los demás. Un cóctel molotov sobre la inocencia y la maldad, y un clásico que resulta hoy tan subversivo como cuando se escribió.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Antonio Rivas on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/antonio-rivas/</link>
+    <description>Recent content in Antonio Rivas on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/antonio-rivas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El hombre sin nombre</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-hombre-sin-nombre-laird-barron/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-hombre-sin-nombre-laird-barron/</guid>
+      <description>&lt;p&gt;Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de violencia dentro del sindicato de la Grulla. Es un alcohólico rehabilitado a quien el clan Heron salvó la vida cuando estaba en su momento más bajo y le dio un propósito: la muerte. Perfeccionó el arte de la pistola y el cuchillo y ascendió de rango con rapidez entre los yakuzas convirtiéndose en un temido sicario. Su última misión, junto a un experto séquito de asesinos, es secuestrar a Muzaki, un famoso luchador retirado que se encuentra bajo la protección del clan rival, el sindicato del Dragón. El grupo lleva al luchador hasta un retiro en las montañas japonesas y ya desde el principio se intuye que las cosas no son como parecen y que Muzaki esconde un aterrador secreto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sofía Sanz on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/sof%C3%ADa-sanz/</link>
+    <description>Recent content in Sofía Sanz on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/sof%C3%ADa-sanz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El señor de los djinn (Dead Djinn Universe, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-djinn-dead-djinn-universe-1-p-djeli-clark/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-senor-de-los-djinn-dead-djinn-universe-1-p-djeli-clark/</guid>
+      <description>&lt;p&gt;El Señor de los Djinn ha recibido el premio Nebula a mejor novela en 2021, el premio Locus como mejor primera novela y el premio Alex.&lt;/p&gt;
+&lt;p&gt;Nadie mejor que Fatma el-Sha’arawi para investigar la masacre de toda una hermandad secreta dedicada a al-Jahiz.&lt;/p&gt;
+&lt;p&gt;La agente más joven del Ministerio de Alquimia, Encantamientos y Entidades Sobrenaturales es famosa por sus trajes impecables, su audacia y su sorprendente habilidad para evitar la destrucción del universo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

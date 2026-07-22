@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Latino América on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/latino-am%C3%A9rica/</link>
+    <description>Recent content in Latino América on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/latino-am%C3%A9rica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Eternauta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/</guid>
+      <description>&lt;p&gt;Historieta de ciencia-ficción publicada por entregas en el suplemento argentino Hora Cero Semanal desde 1957 hasta 1959. Con un estilo único, escrita por Héctor G. Oesterheld y dibujada por Francisco Solano, desde el primer número logró mantener en vilo a un elevado número de lectores que crecía semana tras semana.&lt;/p&gt;
+&lt;p&gt;En este cómic de cargado contenido social y político, la historia nunca es lo que parece, siempre tiene algo para sorprendernos. Oesterheld dotó a Juan Salvo, su protagonista, de identificación colectiva, repartiendo el valor, la fuerza y el liderazgo del héroe con un pueblo solidario que une sus fuerzas contra el invasor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El Eternauta (Norma)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-eternauta-norma-hector-german-oesterheld/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-eternauta-norma-hector-german-oesterheld/</guid>
+      <description>&lt;p&gt;En El eternauta, el gran clásico de ciencia ficción y aventuras argentino, Héctor G. Oesterheld (Ernie Pike) y F. Solano López reinventan el mito de Robinson Crusoe y crean un universo del que nunca te podrás olvidar.&lt;/p&gt;
+&lt;p&gt;Si alguna vez en Buenos Aires nieva, es que ocurre algo realmente catastrófico. Esta vez puede tratarse de una plaga mundial, una tragedia que cambiará el destino de la humanidad, un horror sin un rostro contra el que luchar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Del amor y otros demonios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/del-amor-y-otros-demonios-gabriel-garcia-marquez/</link>
+      <pubDate>Tue, 28 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/del-amor-y-otros-demonios-gabriel-garcia-marquez/</guid>
+      <description>&lt;p&gt;El 26 de octubre de 1949 el reportero Gabriel García Márquez fue enviado al antiguo convento de Santa Clara, que iba a ser demolido para edificar sobre él un hotel de cinco estrellas, a presenciar el vaciado de las criptas funerarias y a cubrir la noticia. Se exhumaron los restos de un virrey del Perú y su amante secreta, un obispo, varias abadesas, un bachiller de artes y una marquesa. Pero la sorpresa saltó al destapar la tercera hornacina del altar mayor: se desparramó una cabellera de color cobre, de veintidós metros y once centímetros de largo, perteneciente a una niña. En la lápida apenas se leía el nombre: Sierva María de Todos los Ángeles. «Mi abuela me contaba de niño la leyenda de una marquesita de doce años cuya cabellera le arrastraba como una cola de novia, que había muerto del mal de rabia por el mordisco de un perro, y era venerada en los pueblos del Caribe por sus muchos milagros. La idea de que esa tumba pudiera ser la suya fue mi noticia de aquel día y el origen de este libro.»&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

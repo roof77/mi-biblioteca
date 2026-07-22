@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frederik Peeters on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/frederik-peeters/</link>
+    <description>Recent content in Frederik Peeters on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Sep 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/frederik-peeters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Píldoras azules</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/pildoras-azules-frederik-peeters/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/pildoras-azules-frederik-peeters/</guid>
+      <description>&lt;p&gt;Frederik conoce a Cati. Es seropositiva como su hijo de tres años. Ambos deben someterse a una terapia triple. Se inicia para el joven una relación tamizada por la ansiedad y las preguntas pero iluminada por la &amp;ldquo;admiración amorosa&amp;rdquo; que siente hacia la joven, por su coraje y por su deseo de vivir&amp;hellip;Este libro en blanco y negro sobre el amor en tiempos de sida, escepcional por su tono desprovisto del menor atisbo de autocompasión, es también un conmovedor testimonio sobre el poder de los sentimientos y sobre la búsqueda de la felicidad contra viento y marea.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

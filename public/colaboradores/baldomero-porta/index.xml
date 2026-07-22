@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baldomero Porta on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/baldomero-porta/</link>
+    <description>Recent content in Baldomero Porta on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/baldomero-porta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El robot humano</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-robot-humano-isaac-asimov/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-robot-humano-isaac-asimov/</guid>
+      <description>&lt;p&gt;Integra los relatos &amp;ldquo;Madre Tierra&amp;rdquo; e &amp;ldquo;Imagen en un espejo&amp;rdquo;, junto con las novelas &amp;ldquo;Las cavernas de acero&amp;rdquo; y &amp;ldquo;El sol desnudo&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;En &amp;ldquo;Las cavernas de acero&amp;rdquo;, un científico de los Mundos Exteriores ha aparecido asesinado a las afueras de la Ciudad de Nueva York. El detective Elijah Baley es asignado al caso en compañía de un robot humanoide: R. Daneel Olivaw. La investigación es delicada ya que puede terminar con el equilibrio entre los descendientes de la colonización estelar, en perfecta comunión con sus robots, y los habitantes de la Tierra, que -refugiados en grandes metrópolis subterráneas a las llaman Ciudades- sobreviven precariamente a la falta de recursos naturales y temen a tales máquinas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

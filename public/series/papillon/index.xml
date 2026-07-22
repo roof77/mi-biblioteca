@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papillon on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/papillon/</link>
+    <description>Recent content in Papillon on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 1975 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/papillon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papillon</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/papillon-henri-charriere/</link>
+      <pubDate>Wed, 01 Jan 1975 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/papillon-henri-charriere/</guid>
+      <description>&lt;p&gt;Esplugas de Llobregat Barcelona. 20 cm. 605 p., 1 h. Encuadernación en tapa dura de editorial con sobrecubierta ilustrada. Colección &amp;lsquo;La Vida es Rio&amp;rsquo;. Presentado por Jean Pierre Castelnau, seguido de Papillon o la Literatura oral por Jean-Francois Revel Traducción de Domingo Pruna y Vicente Villacampa. Charrière, Henri 1906-1973. Presentado por Jean Pierre Castelnau, seguido de Papillón o la literatura oral, por Jean-François Revel Traducción de Domingo Pruna y Vicente Villacampa. Presentado por Jean-Pierre Castelnau seguido de Papillon o La Literatura Oral por Jean-François Revel Traducción de Domingo Pruna y Vicente Villacampa. Revel, Jean-François. 1924-2006. Presentado por Jean-Pierre Castelnau, seguido de Papillon o la Literatura oral por Jean-Francois Revel Traduccion de Domingo Pruna y Vicente Villacampa .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. ISBN: 8401340152&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

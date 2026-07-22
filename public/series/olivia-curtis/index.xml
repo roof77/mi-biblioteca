@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Olivia Curtis on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/olivia-curtis/</link>
+    <description>Recent content in Olivia Curtis on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/olivia-curtis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invitación al baile</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/invitacion-al-baile-rosamond-lehmann/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/invitacion-al-baile-rosamond-lehmann/</guid>
+      <description>&lt;p&gt;Un diario para sus pensamientos íntimos, un adorno de porcelana, un billete de diez chelines y un retazo de tela de seda roja para su primer vestido de noche. Éstos son los regalos que Olivia recibe al cumplir diecisiete años. Comienza entonces a soñar con su primer baile, a prepararse para él, a anticiparlo: será un acontecimiento maravilloso, el más importante hasta ahora de su limitada vida social, se dice. Y, sin embargo, también siente algo de miedo: se encuentra, pues, entre la expectación y la incertidumbre. Para su encantadora hermana mayor Kate, ese esperado baile será, sin duda alguna, un triunfo, pero ¿cómo lo vivirá la tímida y algo torpe Olivia?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

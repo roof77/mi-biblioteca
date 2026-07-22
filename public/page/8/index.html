@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/cover.jpg" alt="Portada de A propósito de Cora">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A propósito de Cora
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A propósito de Cora es un relato en el que se muestran historias y personajes cuya conexión es un beso robado a la joven Cora en la Plaza Mayor de Ática, una pequeña capital de provincia, circunstancia que provoca funestas consecuencias para ella. La acción de la historia se desarrolla a finales de los años sesenta y comienzos de los setenta del pasado siglo, marco histórico en el que se retratan los comportamientos hipócritas y mediocres de una sociedad rígida y mezquina, lastrada por la despreocupación, la desigualdad y las tradiciones machistas que ponen en peligro la dignidad, la integridad e incluso la vida de los personajes menos dotados por la fortuna.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-01-01 00:00:00 +0000 UTC'>January 1, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to A propósito de Cora" href="http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/antologia-de-relatos-de-miedo-clasicos-ilustrados-spanish-edition-vva/cover.jpg" alt="Portada de Antología de relatos de miedo (Clásicos ilustrados) (Spanish Edition)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Antología de relatos de miedo (Clásicos ilustrados) (Spanish Edition)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La presente selección de relatos nace como un punto de encuentro destinado a hacer disfrutar a todo tipo de lectores, de distintas procedencias y diversidad de gustos literarios, pero unidos por un elemento comú la pasión por los cuentos de miedo.
+This diverse collection appeals to readers with various literary tastes. In this book, all that matters is a shared passion for horror stories and their ability to lure people into thrilling worlds.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-01-01 00:00:00 +0000 UTC'>January 1, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Antología de relatos de miedo (Clásicos ilustrados) (Spanish Edition)" href="http://localhost:1313/mi-biblioteca/libros/antologia-de-relatos-de-miedo-clasicos-ilustrados-spanish-edition-vva/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-cesped-de-manzanilla-mary-wesley/cover.jpg" alt="Portada de El césped de manzanilla">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El césped de manzanilla
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Agosto de 1939. En la casa familiar de Cornualles se juntan como todos los veranos los cinco primos Cuthbertson: el mayor, Oliver, acaba de volver, herido, de la Guerra Civil española; la menor, Sophy, tiene diez años y está locamente enamorada de él. La guerra los separa y los marca para siempre. Cuarenta y cinco años después, se reúnen en un funeral. Un vertiginoso carrusel de amantes, exclusivos o compartidos, gira en torno a la muerte y al horror, a las casas destruidas y a la Inglaterra poblada de antisemitas y filonazis, pero se impone a todo con un insaciable e insolente vitalismo.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-01-01 00:00:00 +0000 UTC'>January 1, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to El césped de manzanilla" href="http://localhost:1313/mi-biblioteca/libros/el-cesped-de-manzanilla-mary-wesley/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-rumor-de-los-suburbios-valentin-ladrero/cover.jpg" alt="Portada de El rumor de los suburbios">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El rumor de los suburbios
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La relación entre cultura y clase lleva décadas, siglos, alimentando debates y polémicas. En el caso de la música, uno de los fenómenos culturales más masivamente mercantilizados de nuestras sociedades occidentales, esa relación goza de una prolijidad incontestable. Ya sea desde fuertes convergencias con lo mercantil o desde pulsiones contestatarias arraigadas, las gentes que habitan nuestras muchas periferias geográficas y sociales han hecho mil veces suyos los registros de la música. Valentín Ladrero centrará ahí su foco: en músicas paridas en los márgenes, en músicas que a menudo pasaron por confrontar primero estigmas y prejuicios antes de lograr cualquier otro tipo de reconocimiento.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-12-13 00:00:00 +0000 UTC'>December 13, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to El rumor de los suburbios" href="http://localhost:1313/mi-biblioteca/libros/el-rumor-de-los-suburbios-valentin-ladrero/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-hombre-en-la-encrucijada-juan-andres-pedrero-santos/cover.jpg" alt="Portada de El hombre en la encrucijada">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El hombre en la encrucijada
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dicen que de los momentos más dramáticos y terribles que vive una sociedad surgen monstruos que toman forma en las ficciones. Monstruos a los que, muy a menudo, se les atribuye una función terapéutica, capaces como son de estimular con su sola presencia todo tipo de reflexiones en el imaginario colectivo. Reflexiones, quizás, dirigidas en parte a obtener algo bueno de tanto mal. Este libro no es sino un fruto de la influencia de todos esos monstruos. Desde hace poco más de 100 años, el cine no cejó en su empeño de reflejar la realidad; y como no podía ser de otra manera, también ha sido reflejo de lo que provoca pavor en cada época.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-12-01 00:00:00 +0000 UTC'>December 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to El hombre en la encrucijada" href="http://localhost:1313/mi-biblioteca/libros/el-hombre-en-la-encrucijada-juan-andres-pedrero-santos/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/las-pistolas-de-dios-rot-frissfft-t/cover.jpg" alt="Portada de Las pistolas de Dios">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Las pistolas de Dios
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-12-01 00:00:00 +0000 UTC'>December 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Las pistolas de Dios" href="http://localhost:1313/mi-biblioteca/libros/las-pistolas-de-dios-rot-frissfft-t/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-unico-indio-bueno-stephen-graham-jones/cover.jpg" alt="Portada de El único indio bueno">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El único indio bueno
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven atrapados entre una sociedad que los rechaza y las tradiciones anquilosadas de su tribu, que han intentado dejar atrás.
+Durante la juventud cometieron un trágico sacrilegio contra las leyes y tradiciones de la tribu. Penetraron en las tierras de caza reservadas a los ancianos de la tribu y aniquilaron tantos ciervos como pudieron. Han pretendido olvidarlo, hasta ahora. Ahora, algo los persigue, los acosa y los masacra, uno a uno. Un slasher en toda regla.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-11-15 00:00:00 +0000 UTC'>November 15, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to El único indio bueno" href="http://localhost:1313/mi-biblioteca/libros/el-unico-indio-bueno-stephen-graham-jones/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/cuentos-victorianos-de-navidad-charles-dickens/cover.jpg" alt="Portada de Cuentos victorianos de Navidad">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cuentos victorianos de Navidad
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien dio carta de naturaleza al “espíritu navideño” y consolidó buena parte de la imagen y el carácter que asociamos a estas festividades hoy en día. Fue, asimismo, la edad de oro del cuento de Navidad, del que dejaron muestras los más destacados autores de la época, siendo los de miedo y los de misterio los que gozaron de más aceptación. En esta recopilación antológica no falta, como es natural, Charles Dickens, y junto a los suyos se recogen también magníficos relatos de Anthony Trollope, Charlotte Riddell, Arthur Conan Doyle (uno de ellos protagonizado por Sherlock Holmes), Juliana Ewing y Wilkie Collins.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-11-04 00:00:00 +0000 UTC'>November 4, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Cuentos victorianos de Navidad" href="http://localhost:1313/mi-biblioteca/libros/cuentos-victorianos-de-navidad-charles-dickens/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/monty-python-autobiografia-bob-mccabe/cover.jpg" alt="Portada de Monty Python Autobiografía">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Monty Python Autobiografía
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Es esta, y no otra, proclámese con toda la pompa, la autobiografía autorizada por sus autores –y desautorizada por sus protagonistas y delatores–: la oficial, la jibarizada, la más asequible y, sin duda, “completamente diferente” a cualquier edición anterior de la misma. Un feliz arrebato de impudicia testamentaria que da noticia, a menudo con versiones de lo más contradictorias y dispares, de cuanto brotó de las muy enfermas mentes de tan mal avenido, irrepetible y añorado sexteto. Cuenta la leyenda que en 1969 d. B. (después de Brian), seis ingleses (bueno, uno era galés… y se coló en el cenáculo también un polizonte estadounidense) se dieron cita en el restaurante Light of Kashmir de Hampstead, en Londres, para acometer la redacción a doce manos del guion de una comedia televisiva por encargo de la BBC. Para tan noble fin decidieron escudarse tras la figura de un imaginario agente teatral sin escrúpulos, poco fiable y no menos fanfarrón que atendería al nombre de Monty Python. Y «se armó la gorda». Monty Python’s Flying Circus, desopilante serie zurcida a base de ingeniosas recreaciones, bullas inconexas, delirantes barbaridades y toda suerte de inanidades y animaciones preinfográficas, deformó, trituró y reescribió las reglas de la comedia televisiva británica, ahí es nada; y aún hoy en día, cuatrocientos años más tarde (bueno, poco menos de cincuenta, en realidad), sigue hablándose de semejante disturbio cómico en el universo mundo. A los célebres duelos futbolísticos entre las selecciones de meditabundos filósofos (griegos y alemanes), las recreaciones de grandes batallas interpretadas por aguerridas y muy respetables ancianas, y a la venta fraudulenta de animales domésticos difuntos, seguirían sus no menos célebres incursiones en el mundo del celuloide con Los caballeros de la mesa cuadrada y sus locos seguidores, La Vida de Brian o El sentido de la vida. He aquí, en sus propias palabras, y con furtivos extractos de sus diarios, la historia completa de tan infame y genial compañía teatral.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-11-01 00:00:00 +0000 UTC'>November 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Monty Python Autobiografía" href="http://localhost:1313/mi-biblioteca/libros/monty-python-autobiografia-bob-mccabe/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/todas-las-chicas-descalzas-nieves-mories/cover.jpg" alt="Portada de Todas las chicas descalzas">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Todas las chicas descalzas
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>No importa cómo las llames; sus nombres son todos los nombres. No importa el tinte de su mirada, de su piel, de su pelo; sus colores abarcan todos los colores. ¿Quieres oírlas ahora? ¿Quieres sentirlas? ¿Quieres verlas? Son más que ese cuerpo en la cuneta, en la orilla, en el lecho conyugal. Son más que las sombras que se deslizan por los jardines y las casas aún por encantar. Son más que el número anotado en la etiqueta atada al dedo gordo del pie. Todas están descalzas.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-10-28 00:00:00 +0000 UTC'>October 28, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Todas las chicas descalzas" href="http://localhost:1313/mi-biblioteca/libros/todas-las-chicas-descalzas-nieves-mories/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/7/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/9/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

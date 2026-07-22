@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literatura Portuguesa on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/literatura-portuguesa/</link>
+    <description>Recent content in Literatura Portuguesa on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/literatura-portuguesa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quaresma, descifrador: Relatos policíacos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/quaresma-descifrador-relatos-policiacos-fernando-pessoa/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/quaresma-descifrador-relatos-policiacos-fernando-pessoa/</guid>
+      <description>&lt;p&gt;La pasión de Fernando Pessoa por el género policíaco quedó bien documentada en sus textos: «Uno de los pocos divertimentos intelectuales que persisten en lo que aún le queda de intelectual a la humanidad es la lectura de novelas policíacas. Entre el inestimable y reducido número de horas felices que la Vida me permite pasar, considero que el mejor año es aquél que me permite pasar horas enfrascado, de cabeza y corazón, en las lecturas de Conan Doyle o de Arthur Morrison. Tal vez […] sea motivo de asombro, no que éstos sean mis autores predilectos y de cabecera, sino que confiese que lo son». Para los lectores que compartan con el escritor portugués el amor por el género policíaco, la presente edición recoge todas las novelas policíacas de Pessoa, que él mismo reunió bajo el título Quaresma, descifrador. Estos textos, que el autor fue escribiendo a lo largo de su vida y que son en su mayoría inéditos, nunca habían sido publicados completos, tal como Pessoa tenía previsto, de acuerdo con los esquemas hallados entre los documentos que conforman su legado escrito.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novelas de suspense y terror: El misterio de la carretera de Cintra</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/novelas-de-suspense-y-terror-el-misterio-de-la-carretera-de-cintra-eca-de-queiros/</link>
+      <pubDate>Wed, 08 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/novelas-de-suspense-y-terror-el-misterio-de-la-carretera-de-cintra-eca-de-queiros/</guid>
+      <description>&lt;p&gt;Nesta Obra, que pode considerar-se o primeiro romance policial português, Eça de Queirós, com a colaboração de Ramalho Ortigão, faz alternar o mistério, o crime, o adultério e a crítica de costumes, numa sucessão de lances folhetinescos que prendem a atenção até ao fim.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

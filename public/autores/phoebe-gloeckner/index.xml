@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phoebe Gloeckner on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/phoebe-gloeckner/</link>
+    <description>Recent content in Phoebe Gloeckner on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Sep 2005 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/phoebe-gloeckner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vida de una niña</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/vida-de-una-nina-phoebe-gloeckner/</link>
+      <pubDate>Sun, 25 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/vida-de-una-nina-phoebe-gloeckner/</guid>
+      <description>&lt;p&gt;Conjunto de historietas que tienen como nexo común el personaje de Minnie.&lt;/p&gt;
+&lt;p&gt;Éstas van desde su compleja infancia con una madre alcohólica que desatiende a sus hijas y un padrastro pederasta que las maltrata psicológicamente, hasta la juventud durante los años setenta con la explosión de las drogas y el sexo y el posterior desencanto y secuelas generadas por el abuso de consumo.&lt;/p&gt;
+&lt;p&gt;Incluye también ilustraciones de carácter médico que ilustran la otra faceta profesional de la autora.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

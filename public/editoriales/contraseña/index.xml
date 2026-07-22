@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contraseña on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/contrase%C3%B1a/</link>
+    <description>Recent content in Contraseña on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/contrase%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassandra en la boda</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cassandra-en-la-boda-dorothy-baker/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cassandra-en-la-boda-dorothy-baker/</guid>
+      <description>&lt;p&gt;Un caluroso día de finales de junio, Cassandra Edwards, la protagonista de esta intensa y turbadora novela, sale de Berkeley, en cuya universidad da clases, para dirigirse a la finca de su familia, en la que su hermana gemela, Judith, va a celebrar su boda con John Finch, un prometedor estudiante de Medicina. Cassandra está convencida de que su hermana va a cometer una gran equivocación, e intentará convencerla de que no se case de todas las maneras posibles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

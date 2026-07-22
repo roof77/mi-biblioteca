@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Richard  Bachman on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/richard--bachman/</link>
+    <description>Recent content in Richard  Bachman on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 1986 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/richard--bachman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El fugitivo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-fugitivo-richard-bachman/</link>
+      <pubDate>Thu, 01 May 1986 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-fugitivo-richard-bachman/</guid>
+      <description>&lt;p&gt;A mediados del siglo XXI, un concurso televisivo cuyo principal atractivo es la muerte de los participantes bate récords de audiencia. Ben Richards, padre de una niña enferma y sumido en la más profunda miseria, decide concursar atraído por los extraordinarios premios, aun a sabiendas de que no sobrevivirá.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La larga marcha</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-larga-marcha-richard-bachman/</link>
+      <pubDate>Sat, 01 Mar 1986 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-larga-marcha-richard-bachman/</guid>
+      <description>&lt;p&gt;Una inquietante novela futurista donde la realidad supera a la fantasía más terrorífica.&lt;/p&gt;
+&lt;p&gt;El escenario: una sociedad ultraconservadora que ha llevado al paroxismo sus rasgos más perversos, dominada por un estado policial.&lt;/p&gt;
+&lt;p&gt;El acontecimiento: la más extraordinaria competición deportiva, una agotadora marcha a pie donde un traspié puede ser el último.&lt;/p&gt;
+&lt;p&gt;Los competidores: cien adolescentes elegidos a sorteo y decididos a pasar sobre los cadáveres de sus compañeros para llegar a la meta.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

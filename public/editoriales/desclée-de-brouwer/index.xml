@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Desclée De Brouwer on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/descl%C3%A9e-de-brouwer/</link>
+    <description>Recent content in Desclée De Brouwer on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 1962 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/descl%C3%A9e-de-brouwer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los sanguinarios hombres de Mauricio Salazar</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-sanguinarios-hombres-de-mauricio-salazar-mr-perfumme/</link>
+      <pubDate>Mon, 01 Jan 1962 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-sanguinarios-hombres-de-mauricio-salazar-mr-perfumme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

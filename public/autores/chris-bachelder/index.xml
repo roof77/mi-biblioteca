@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Bachelder on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/chris-bachelder/</link>
+    <description>Recent content in Chris Bachelder on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/chris-bachelder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propósito de Abbott</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-abbott-chris-bachelder/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-abbott-chris-bachelder/</guid>
+      <description>&lt;p&gt;Abbott es un profesor universitario de vacaciones, padre exhausto de una niña de dos años, marido de una embarazada insomne y amo de un perro miedoso.
+Abbott se afana en las tareas domésticas y en el cuidado de su hija, aunque sus trabajos no siempre salen como quisiera: un día se olvida de ponerle crema solar a su hija o la viste de invierno en pleno verano; otro día se estropea la nevera o tiene que enfrentarse con una serpiente en su jardín.
+Abbott parece abducido por sus afanes diarios, pero no puede dejar de ponerse constantemente en entredicho ni de percibir las implacables paradojas de las que está hecha la vida. Y así, mientras limpia el vómito de la sillita de su hija se dice: «Las dos proposiciones siguientes son ciertas: (a) Si tuviera la ocasión, Abbott no cambiaría ni uno de los elementos fundamentales de su vida, pero (b) Abbott no soporta su vida».
+Compuesta por pequeñas escenas cotidianas, terroríficas unas, maravillosas otras, &amp;ldquo;A propósito de Abbott&amp;rdquo; es una descacharrante historia sobre las pequeñas desventuras, agobios y luchas de las que está hecha la paternidad.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Seth on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/seth/</link>
+    <description>Recent content in Seth on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/seth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>George Sprott, 1894-1975</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/george-sprott-1894-1975-seth/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/george-sprott-1894-1975-seth/</guid>
+      <description>&lt;p&gt;George Sprott 1894-1975. Una novela gráfica del dibujante Seth. &amp;ldquo;Este libro es un clásico, un tesoro.&amp;rdquo; The Washington Post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La vida es buena si no te rindes</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-vida-es-buena-si-no-te-rindes-seth/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-vida-es-buena-si-no-te-rindes-seth/</guid>
+      <description>&lt;p&gt;En La vida es buena si no te rindes, Seth emprende aquí un viaje en busca de sí mismo y del sentido de la vida a través de la obra de Kalo, un historietista olvidado de los años cuarenta y cincuenta a quien descubrió por casualidad en un número antiguo de The New Yorker.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

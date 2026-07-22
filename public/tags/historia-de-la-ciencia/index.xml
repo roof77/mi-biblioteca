@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Historia De La Ciencia on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/historia-de-la-ciencia/</link>
+    <description>Recent content in Historia De La Ciencia on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/historia-de-la-ciencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conocimiento Inventado: Falacias históricas, ciencia amañada y pseudo-religiones</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/conocimiento-inventado-falacias-historicas-ciencia-amanada-y-pseudo-religiones-ronald-h-fritze/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/conocimiento-inventado-falacias-historicas-ciencia-amanada-y-pseudo-religiones-ronald-h-fritze/</guid>
+      <description>&lt;p&gt;¿Fueron los chinos los primeros en descubrir América en 1421? ¿Tuvieron hijos juntos Jesús y María Magdalena? Visitaron los extraterrestres la Tierra durante la prehistoria y enseñaron a los humanos a construir pirámides y estructuras de piedra?&lt;/p&gt;
+&lt;p&gt;Fritze nos desvela, en este ensayo, el activo y lucrativo sector del pseudo-conocimiento, que da por probadas las ficciones sobre continentes perdidos, supercivilizaciones antiguas, conspiraciones planetarias o teorías revisionistas que apoyan los delirios de sectas y credos “alternativos”.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

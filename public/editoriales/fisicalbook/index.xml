@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FisicalBook on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/fisicalbook/</link>
+    <description>Recent content in FisicalBook on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/fisicalbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paddy Clarke, ja, ja, ja</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Sometimes when nothing happened it was really getting ready to happen.&amp;rdquo; Irish Paddy rampages through Barrytown streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always for the better.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

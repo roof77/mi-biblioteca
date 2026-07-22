@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>手塚治虫 on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB/</link>
+    <description>Recent content in 手塚治虫 on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El libro de los insectos humanos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-libro-de-los-insectos-humanos-osamu-tezuka/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-libro-de-los-insectos-humanos-osamu-tezuka/</guid>
+      <description>&lt;p&gt;La vuelta de Tezuka, el “padre” del manga, con una obra fundamental&lt;/p&gt;
+&lt;p&gt;Toshiko Tomura está considerada un genio, un moderno Da Vinci. Con poco más de 20 años, es una actriz de renombre internacional, futura arquitecta y está a punto de recibir el premio literario más importante de Japón. Sus actividades se reflejan en los titulares de los periódicos e inspiran programas de radio y televisión. Pero ese genio y ese rostro angelical esconden un pasado turbio y una personalidad inquietante, la de una peligrosa mariposa en perpetua metamorfosis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lost World</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lost-world-osamu-tezuka/</link>
+      <pubDate>Sat, 30 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lost-world-osamu-tezuka/</guid>
+      <description>&lt;p&gt;¡Mamango, el planeta que en su día se separó de la Tierra y partió hacia el espacio, vuelve a acercarse a nuestro mundo después de un viaje de cinco millones de años! ¿¡Cómo es la vida en Mamango vista por los valientes exploradores que arriesgan su vida para conseguir las poderosas piedras de energía que se ocultan en sus entrañas!? ¡He aquí uno de los títulos de Tezuka que dejó una profunda huella en la historia del cómic japonés!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

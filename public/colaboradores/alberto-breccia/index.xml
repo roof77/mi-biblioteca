@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alberto Breccia on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/alberto-breccia/</link>
+    <description>Recent content in Alberto Breccia on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/alberto-breccia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mort Cinder</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/mort-cinder-hector-german-oesterheld/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/mort-cinder-hector-german-oesterheld/</guid>
+      <description>&lt;p&gt;Edición respetuosa con la original, al contrario de la previa de Lumen, en libro, y de otras editoriales. Incluye, también, el guión “Diligencia a cuchillo” y un argumento inacabado de H.G. Oesterheld, ambos inéditos con anterioridad.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

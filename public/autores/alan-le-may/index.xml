@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alan Le May on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/alan-le-may/</link>
+    <description>Recent content in Alan Le May on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/alan-le-may/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centauros del desierto</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/centauros-del-desierto-alan-le-may/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/centauros-del-desierto-alan-le-may/</guid>
+      <description>&lt;p&gt;Alan Le May, nacido en Indianápolis en 1899, participó en la I Guerra Mundial y se licenció en Filosofía en la Universidad de Chicago. Su contribución a la literatura western consta de una quincena de novelas y una cincuentena larga de relatos, así como guiones de cine. Casi al final de su carrera, Le May escribió una obra maestra, Centauros del desierto (The Searchers, 1954), que dos años después llevó al cine el legendario director John Ford.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

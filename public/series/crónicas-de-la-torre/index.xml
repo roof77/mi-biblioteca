@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crónicas De La Torre on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/cr%C3%B3nicas-de-la-torre/</link>
+    <description>Recent content in Crónicas De La Torre on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/cr%C3%B3nicas-de-la-torre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fenris, el elfo  (Crónicas de la torre, #4)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/fenris-el-elfo-cronicas-de-la-torre-4-laura-gallego-garcia/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/fenris-el-elfo-cronicas-de-la-torre-4-laura-gallego-garcia/</guid>
+      <description>&lt;p&gt;Fenris es un elfo muy especial, tiene poderes inexplicables y en las noches de luna llena se transforma en un ser extraordinario; su amor por Shi-Mae y su enfrentamiento con personajes poderosos del Reino de los Elfos marcarán sus aventuras. ¿Cumplirá su destino y llegará a la Torre, situada en el Valle de los Lobos? Libro que muestra fantásticas batallas entre seres sobrenaturales.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

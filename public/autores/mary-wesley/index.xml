@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mary Wesley on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/mary-wesley/</link>
+    <description>Recent content in Mary Wesley on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/mary-wesley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El césped de manzanilla</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-cesped-de-manzanilla-mary-wesley/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-cesped-de-manzanilla-mary-wesley/</guid>
+      <description>&lt;p&gt;Agosto de 1939. En la casa familiar de Cornualles se juntan como todos los veranos los cinco primos Cuthbertson: el mayor, Oliver, acaba de volver, herido, de la Guerra Civil española; la menor, Sophy, tiene diez años y está locamente enamorada de él. La guerra los separa y los marca para siempre. Cuarenta y cinco años después, se reúnen en un funeral. Un vertiginoso carrusel de amantes, exclusivos o compartidos, gira en torno a la muerte y al horror, a las casas destruidas y a la Inglaterra poblada de antisemitas y filonazis, pero se impone a todo con un insaciable e insolente vitalismo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

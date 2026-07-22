@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carmen Serrat-Valera on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/carmen-serrat-valera/</link>
+    <description>Recent content in Carmen Serrat-Valera on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/carmen-serrat-valera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terapia de parejas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/terapia-de-parejas-miguel-costa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/terapia-de-parejas-miguel-costa/</guid>
+      <description>&lt;p&gt;Frente a las actitudes vagas o moralizantes en torno a las crisis de pareja, la «terapia del comportamiento» ofrece un enfoque riguroso, estructurado y didáctico para abordar los conflictos en este ámbito. Este planteamiento no sólo busca la modificación de conductas poco adaptativas, sino que también se preocupa del entrenamiento para la comunicación y la resolución de problemas. Guiados por estos criterios y por una larga experiencia en psicología clínica, MIGUEL COSTA y CARMEN SERRAT ofrecen en TERAPIA DE PAREJAS un compendio práctico y útil dirigido tanto al público general como a los psicólogos que deseen acercarse profesionalmente a este campo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

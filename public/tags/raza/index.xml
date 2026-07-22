@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raza on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/raza/</link>
+    <description>Recent content in Raza on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Apr 1998 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/raza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lady sings the Blues</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/</link>
+      <pubDate>Tue, 28 Apr 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/</guid>
+      <description>&lt;p&gt;Cuando Eleanora Holiday, más conocida por Billie, o Lady Day para los amigos, murió en un hospital de Nueva York en 1959, dejaba tras de sí una de las carreras más míticas y deslumbrantes de la historia del jazz. Desde los miserables inicios en Baltimore, los primeros trabajos como criada, el intento de violación a los diez años, la prostitución, la discriminación racial, la drogadicción, los múltiples pleitos y estancias en la cárcel, el engaño por parte de casi todos los hombres que la trataron, su vida aparece jalonada por una serie de episodios que fraguaron su leyenda. Billie Holiday nos cuenta con conmovedora sinceridad en estas memorias —escritas en colaboración con su amigo y pianista William Dufty—, en las que también se revive la más esplendorosa época del jazz en los clubes de Harlem, la radio y los estudios de grabación, las giras maratonianas y las jam-sessions al lado de músicos legendarios como, entre otros, Duke Ellington, Louis Amstrong, Benny Goodman, Count Basie, Lester Young o Artie Shaw.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

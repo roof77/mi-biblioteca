@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Asiaticoamericano on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/asiaticoamericano/</link>
+    <description>Recent content in Asiaticoamericano on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/asiaticoamericano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcomings</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/shortcomings-adrian-tomine/</link>
+      <pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/shortcomings-adrian-tomine/</guid>
+      <description>&lt;p&gt;Las tribulaciones de un vigilante japonés-americano, antiasiático y consumado cinéfilo.&lt;/p&gt;
+&lt;p&gt;Ben Tanaka, un joven americano de origen japonés, tiene problemas. Además de atravesar una crisis personal, la relación con su novia, Miko Hayashi, va a la deriva. Miko sospecha que su novio solo tiene ojos para mujeres blancas, y esta acusación se convierte en un arduo debate entre ambos. Cuando Miko decide aceptar una beca en Nueva York y trasladarse a vivir allí una temporada, Ben no parece muy afectado; sin embargo, la relación se resiente hasta el punto de que Miko comienza una nueva vida junto a otra persona.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

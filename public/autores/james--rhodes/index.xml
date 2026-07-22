@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>James  Rhodes on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/james--rhodes/</link>
+    <description>Recent content in James  Rhodes on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/james--rhodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instrumental: Memorias de música, medicina y locura</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/instrumental-memorias-de-musica-medicina-y-locura-james-rhodes/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/instrumental-memorias-de-musica-medicina-y-locura-james-rhodes/</guid>
+      <description>&lt;p&gt;«AHORA SÉ QUE LA MÚSICA CURA.»&lt;/p&gt;
+&lt;p&gt;James Rhodes es uno de los más eminentes concertistas de piano de la actualidad y un gran renovador de la música clásica. Ha protagonizado documentales para la BBC y Channel 4, escribe en The Guardian y ofrece recitales en todo el mundo. «Instrumental» son sus memorias, que vieron la luz en Reino Unido después de que el Tribunal Supremo levantara el veto que pesaba sobre la obra. Todo un tributo apasionado al poder terapéutico de la música y que aborda cuestiones fascinantes sobre cómo funciona la música clásica y sobre cómo y por qué puede cambiar nuestras vidas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

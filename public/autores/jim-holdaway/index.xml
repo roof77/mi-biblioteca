@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jim Holdaway on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/jim-holdaway/</link>
+    <description>Recent content in Jim Holdaway on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/jim-holdaway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modesty Blaise 1. La trampa de Gabriel</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/modesty-blaise-1-la-trampa-de-gabriel-jim-holdaway/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/modesty-blaise-1-la-trampa-de-gabriel-jim-holdaway/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Broken Earth on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-broken-earth/</link>
+    <description>Recent content in The Broken Earth on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-broken-earth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La quinta estación</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-quinta-estacion-n-k-jemisin/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-quinta-estacion-n-k-jemisin/</guid>
+      <description>&lt;p&gt;La quinta estación es la primera novela de «La Tierra Fragmentada», serie que mezcla fantasía y ciencia ficción, y que ha hecho merecedora a su autora de dos Premios Hugo a la mejor novela consecutivos: 2016 por la presente y 2017 por El portal de los obeliscos (La Tierra Fragmentada 2).&lt;/p&gt;
+&lt;p&gt;Toda era tiene que llegar a su fin.&lt;/p&gt;
+&lt;p&gt;Ha dado comienzo una estación de desenlaces.&lt;/p&gt;
+&lt;p&gt;Empieza con una gran grieta roja que recorre las entrañas del único continente del planeta, una grieta que escupe una ceniza que oculta la luz del sol.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

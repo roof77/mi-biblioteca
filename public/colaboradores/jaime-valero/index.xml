@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jaime Valero on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/jaime-valero/</link>
+    <description>Recent content in Jaime Valero on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/jaime-valero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Horrorstör</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/horrorstor-grady-hendrix/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/horrorstor-grady-hendrix/</guid>
+      <description>&lt;p&gt;Algo extraño está ocurriendo en la megatienda de muebles Orsk de Cleveland, Ohio. Cada mañana, al entrar, los empleado se encuentran estanterías Kjërring rotas, vasos de agua Glans hechos trizas y armarios Liripip destrozados. Las ventas comienzan a caer en picado, las cámaras de seguridad no rebelan nada y los gerentes tienen miedo.&lt;/p&gt;
+&lt;p&gt;Para desentrañar el misterio, tres empleados se presentan voluntarios para hacer un torno de noche de nueve horas que durará hasta el amanecer. De madrugada, patrullarán la sala de exposición vacía, investigarán apariciones y sonidos extraños, y se enfrentarán a horrores que desafían la imaginación.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

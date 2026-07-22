@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guy Delisle on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/guy-delisle/</link>
+    <description>Recent content in Guy Delisle on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/guy-delisle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shenzhen</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/</guid>
+      <description>&lt;p&gt;Shenzhen, ciudad elegida por Deng Xiao Ping como campo de pruebas de la llamada &amp;ldquo;economía socialista de mercado&amp;rdquo;, ha pasado de los 30,000 habitantes que tenía en 1980 a cerca de 10 millones en la actualidad, convirtiéndose en una de las ciudades más dinámicas de China y una de las megalópolis del mundo.&lt;/p&gt;
+&lt;p&gt;Durante un mes, Guy Delisle, autor de Pyongyang, ejerció en Shenzhen como director de un equipo de animadores en la realización de un proyecto de dibujos animados. Durante ese tiempo su vida cotidiana se pobló de malentendidos, torpes tentativas de comunicación, reflexiones, soledad, descubrimientos culinarios más o menos agradables y veladas surrealistas. Un choque cultural que el autor afronta con humor y maestría.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pyongyang</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/pyongyang-guy-delisle/</link>
+      <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/pyongyang-guy-delisle/</guid>
+      <description>&lt;p&gt;El mejor documental que se ha hecho sobre Corea del Norte es una historieta. El quebequés Guy Delisle cuenta su estancia en la capital coreana con un agudo sentido de la observación y la ironía. &amp;lsquo;Pyongyang&amp;rsquo; es una visión realista de un país en el que la pesadilla de Orwell se ha convertido en realidad, pero todo ello tratado desde la rigurosidad del periodista, la perplejidad de un occidental y la ironía de un viajero curtido. Guy Delisle, flemático observador de las incoherencias de este régimen totalitario, nos conduce a un extraño universo en el que la realidad oficial desafía la lógica, y dibuja, casi siempre con humor, las múltiples anécdotas que marcaron su estancia en una ciudad deshumanizada por una ideología paranoica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crónicas birmanas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cronicas-birmanas-guy-delisle/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cronicas-birmanas-guy-delisle/</guid>
+      <description>&lt;p&gt;Tras Shenzhen y Pyongyang, Guy Delisle cuenta en Crónicas Birmanas su vida cotidiana en Rangún. Acompañando a su pareja, miembro de Médicos Sin Fronteras, durante un año en Birmania, Guy Delisle regresa con un documental gráfico apasionante. Testigo curioso y de mirada aguzada, el autor mezcla su propia historia con la del país. Con una buena dosis de ironía confronta sus insignificantes preocupaciones de occidental con las dificultades que atraviesan los habitantes de un país pobre bajo el yugo de una dictadura militar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

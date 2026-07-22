@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maxi-Tusquets on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/maxi-tusquets/</link>
+    <description>Recent content in Maxi-Tusquets on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/maxi-tusquets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groucho y Yo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/groucho-y-yo-groucho-marx/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/groucho-y-yo-groucho-marx/</guid>
+      <description>&lt;p&gt;Groucho y su yo, fundidos aquí en uno solo, escribieron, como era inevitable suponer, un libro que sólo puede escribirse como…, bueno, indescriptible. También será inevitable, si el lector siente la curiosidad por saber a ciencia cierta quiénes y cómo son Groucho y el yo-de-Groucho, que compre y lea estas memorias muy particulares, porque nosotros tan sólo podremos adelantarle aquí que, aunque uno y otro sean de naturaleza profundamente similar, también son, paradójicamente, muy distintos. En tanto que Groucho, ese incómodo insumiso, entrometido, criticón e insolente mujeriego, dinamita la sociedad, siembra el absurdo y el desconcierto por doquier y no comprende cómo alguien puede pertenecer a un club del que él sea socio, el yo-de-Groucho no piensa sino en medrar y enriquecerse en esa misma sociedad que dice despreciar y se arrima a cualquiera con tal de que le introduzca en el club más selecto. Pero lo cierto es que los dos gozan por igual del don privilegiado de hacernos morir de risa…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hollywood Babilonia II (Spanish Edition)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-spanish-edition-kenneth-anger/</link>
+      <pubDate>Sun, 01 Sep 1996 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-spanish-edition-kenneth-anger/</guid>
+      <description>&lt;p&gt;Algo más acerca de la «verdadera historia» de esa pequeña ciudad del Oeste llamada Tinseltown, que, por fabricar sueños, saltaría a la fama en los años veinte para convertirse en un lugar legendario, poblado de personajes no menos fabulosos. Y Kenneth Anger accedió a excavar una vez más en su también legendario archivo de coleccionista obstinado. Y aquí, en este segundo volumen de Hollywood Babilonia, vuelve los focos hacia la otra cara de esos rostros de celuloide, devastada por el alcohol y la droga, marcada por algún odio asesino, animada por inimaginables pequeños vicios, inconfesables todos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

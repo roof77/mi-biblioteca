@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kurt Vonnegut Jr. on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/kurt-vonnegut-jr./</link>
+    <description>Recent content in Kurt Vonnegut Jr. on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/kurt-vonnegut-jr./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matadero Cinco</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/matadero-cinco-kurt-vonnegut-jr/</link>
+      <pubDate>Tue, 18 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/matadero-cinco-kurt-vonnegut-jr/</guid>
+      <description>&lt;p&gt;Matadero Cinco o La cruzada de los niños catapultó a Kurt Vonnegut como uno de los grandes ídolos de la juventud norteamericana y se convirtió de inmediato en un clásico de la literatura contemporánea. Una historia amarga, conmovedora y a la vez divertidísima, de la inocencia confrontada con el apocalipsis, «una novela con ribetes esquizofrénico-telegráficos», en palabras de su autor. Kurt Vonnegut fue hecho prisionero en la Segunda Guerra Mundial y se encontraba en Dresde cuando esta ciudad fue bombardeada y arrasada por la aviación norteamericana; este hecho le marcó profundamente y decidió escribir un libro en torno a ese tema: &amp;ldquo;Matadero Cinco&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

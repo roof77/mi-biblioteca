@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gaito Gazdanov on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/gaito-gazdanov/</link>
+    <description>Recent content in Gaito Gazdanov on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/gaito-gazdanov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una noche con Claire</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-noche-con-claire-gaito-gazdanov/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-noche-con-claire-gaito-gazdanov/</guid>
+      <description>&lt;p&gt;Gaito Gazdánov (Georgi Ivánovich Gazdánov, 1903-1971) nació en la familia de un guardabosques, razón por la cual se trasladó a lo largo y ancho de Rusia con su padre. Antes de haber cumplido los dieciséis años había vivido en San Petersburgo, Siberia, Tver, Póltava y Járkov en Ucrania. Cuando se declaró la Guerra Civil después de la Revolución, Gazdánov se unió al Ejército Blanco y, cuando éste fracasó, abandonó Rusia en dirección a Crimea, pasó una temporada en Turquía, y al cabo terminó en París. Ejerció un gran número de trabajos sin importancia, e incluso vivió en la calle durante algún tiempo hasta que consiguió trabajo como conductor de taxi por la noche, lo que le permitía escribir durante el día.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

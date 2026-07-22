@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Jasso on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/david-jasso/</link>
+    <description>Recent content in David Jasso on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/david-jasso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disforia</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/disforia-david-jasso/</link>
+      <pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/disforia-david-jasso/</guid>
+      <description>&lt;p&gt;La sociedad arrastra una crisis económica y de valores que parece irreversible. Esther y Tomás, un matrimonio joven con serios problemas laborales, deciden pasar un último fin de semana, junto con su hija de dos años Say, en el apartamento de montaña que compraron en tiempos mejores y que ahora necesitan vender. En plena tormenta de nieve, alguien llama a su puerta y comienza la pesadilla. Veinticuatro horas de terror extremo, en las que deberán luchar para sobrevivir. En su huida, la situación se complicará aún más y se verán obligados a enfrentarse a sus miedos más profundos y ancestrales. Porque, además, alguien que se desplaza entre las sombras les acompaña en su viaje sin retorno.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

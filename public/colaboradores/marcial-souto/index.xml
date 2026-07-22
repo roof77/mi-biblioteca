@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marcial Souto on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/marcial-souto/</link>
+    <description>Recent content in Marcial Souto on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/marcial-souto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La procaz intimación</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-procaz-intimacion-edward-gorey/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-procaz-intimacion-edward-gorey/</guid>
+      <description>&lt;p&gt;El Demonio, tan brusco e insolente cuando seduce, logra que sus mujeres se entreguen sin reservas y hagan todo el mal que les pide. Por eso las recompensa con lo que más quiere: el Infierno.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

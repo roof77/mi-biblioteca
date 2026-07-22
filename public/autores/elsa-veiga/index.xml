@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elsa Veiga on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/elsa-veiga/</link>
+    <description>Recent content in Elsa Veiga on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/elsa-veiga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me desperté con dos inviernos a los lados</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/me-desperte-con-dos-inviernos-a-los-lados-elsa-veiga/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/me-desperte-con-dos-inviernos-a-los-lados-elsa-veiga/</guid>
+      <description>&lt;p&gt;La joven Cara Piqueres vive con su familia en una gran ciudad y lleva una existencia aparentemente normal, pero cuando llega la noche, y el padre regresa a casa, precedido siempre por la Sombra, comienza la pesadilla. Gracias a los cuentos que le narra su hermano Nato a los pies de la cama, antes de dormirse, y a su imaginación, Cara intentará esquivar el dolor y la ira que se instala a diario en el hogar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

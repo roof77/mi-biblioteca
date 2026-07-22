@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/paciencia-daniel-clowes/cover.jpg" alt="Portada de Paciencia">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Paciencia
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Paciencia significa el regreso del autor más influyente de las últimas décadas, tras más de cinco años de silencio. El multipremiado autor de Ghost World y David Boring firma aquí su obra más extensa y ambiciosa, un thriller de ciencia ficción, sentido y brutal por momentos, en el que Clowes observa por vez primera a sus semejantes con optimismo y hasta con benevolencia, abriendo una puerta a la esperanza que en anteriores trabajos solo podíamos intuir. Quizá su paternidad en 2007 o la operación a corazón abierto que sufrió en 2009 tengan algo que ver con ello. Lo que no ofrece duda es que las 180 páginas de Paciencia contienen uno de los relatos más complejos y emocionantes que haya creado hasta la fecha, un vertiginoso destilado de todos los elementos quintaesencialmente propios de su autor, los mismos que lo han convertido en una de las figuras esenciales del cómic independiente contemporáneo.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-02-01 00:00:00 +0000 UTC'>February 1, 2016</span></footer>
+  <a class="entry-link" aria-label="post link to Paciencia" href="http://localhost:1313/mi-biblioteca/libros/paciencia-daniel-clowes/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-mundo-de-la-tarantula-pablo-carbonell/cover.jpg" alt="Portada de El mundo de la tarántula">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El mundo de la tarántula
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Los niños mienten mal, pero se emocionan bien.
+Por eso lo que cuenta Pablo es una verdad emocionante.
+La verdad de cuando hacía teatro en las plazas. Maldormía en las calles. Triunfaba con Los Toreros Muertos. Entrevistaba a presidentes del gobierno. O lidiaba con su familia, una familia muy distinta. Y jamás quería irse a dormir.
+Porque duerme mal. Aunque sueña como nadie.
+Pablo Carbonell, una de las figuras más relevantes del panorama artístico y musical español, aborda su autobiografía con la franqueza y el sentido del humor que lo caracterizan.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-01-01 00:00:00 +0000 UTC'>January 1, 2016</span></footer>
+  <a class="entry-link" aria-label="post link to El mundo de la tarántula" href="http://localhost:1313/mi-biblioteca/libros/el-mundo-de-la-tarantula-pablo-carbonell/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/nos-matan-con-heroina-sobre-la-intoxicacion-farmacologica-como-arma-de-estado-juan-carlos-uso/cover.jpg" alt="Portada de ¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Urdida desde hace casi dos siglos, la teoría del envenenamiento opiáceo de la población con fines políticos ha ido saltando de un lado al otro del tablero sociocultural a lo largo de la historia. Finalizada la Segunda Guerra Mundial, con la creación del nuevo orden global y la asunción del prohibicionismo como asentado modelo de conducta en los estados modernos, su articulación se reconfiguró en el crisol holístico de la contracultura, propalándose a partir de entonces en el formato puramente conspiracional: «Sistema vs. ciudadano».
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-12-02 00:00:00 +0000 UTC'>December 2, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to ¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado" href="http://localhost:1313/mi-biblioteca/libros/nos-matan-con-heroina-sobre-la-intoxicacion-farmacologica-como-arma-de-estado-juan-carlos-uso/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/pippi-calzaslargas-todas-las-historias-astrid-lindgren/cover.jpg" alt="Portada de Pippi Calzaslargas: Todas las historias">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Pippi Calzaslargas: Todas las historias
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Pippi Calzaslargas es la niña que todos querríamos ser: vive sin obligaciones, en una casa enorme, con un caballo y un mono. Dedica todo su tiempo a dar rienda suelta a su desbordante imaginación.
+Aunque le encanta vivir sola, ha abierto las puertas de su casa a millones de lectores, con los que sigue compartiendo un montón de aventuras inolvidables. Porque Pippi, como sus historias, no envejece.
+Edición especial 70 aniversario, con prólogo de Ellen Duthie.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-12-01 00:00:00 +0000 UTC'>December 1, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Pippi Calzaslargas: Todas las historias" href="http://localhost:1313/mi-biblioteca/libros/pippi-calzaslargas-todas-las-historias-astrid-lindgren/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/vathek-y-sus-episodios-william-beckford/cover.jpg" alt="Portada de Vathek y sus episodios">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Vathek y sus episodios
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tres días y dos noches bastaron a William Beckford (1760-1844) para escribir Vathek (1787), una rara obra maestra del horror gótico que adopta la forma de un cuento oriental. Heredero de una rica familia inglesa con plantaciones en Jamaica, Beckford recibió una esmerada educación y se interesó por la música, la pintura y la literatura. Fue miembro del Parlamento inglés y siempre llevó un tren de vida excéntrico favorecido por sus riquezas: ordenó construir una fabulosa abadía neogótica en Fonthill. Beckford escribió Vathek en francés, como un cuento filosófico pero narrado al estilo de las Mil y una noches, y pidió a su amigo el reverendo Samuel Henley que lo tradujera al inglés. Henley lo hizo y lo publicó con otro título sin mención ni permiso del autor, lo que obligó a Beckford a publicar al año siguiente la versión original con su título y autor. Esta urgencia dejó fuera de la edición varias historias que estaban inacabadas y que Beckford pensaba intercalar en el texto principal. Estos relatos, Los episodios, no fueron redescubiertos y publicados hasta 1912.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-12-01 00:00:00 +0000 UTC'>December 1, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Vathek y sus episodios" href="http://localhost:1313/mi-biblioteca/libros/vathek-y-sus-episodios-william-beckford/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/palabras-radiantes-el-archivo-de-las-tormentas-2-brandon-sanderson/cover.jpg" alt="Portada de Palabras radiantes (El archivo de las tormentas, #2)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Palabras radiantes (El archivo de las tormentas, #2)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Palabras radiantes es la continuación de Camino de los reyes, la aclamada primera parte de la serie en diez volúmenes The Stormlight Archive. En ella retrocedemos seis años en el tiempo, cuando un asesino, entre cuyos primeros objetivos se halla Dalinar, mata al rey alezi. Kaladin está al mando de los guardaespaldas reales, un puesto controvertido por su baja condición, y debe proteger al rey y a Dalinar, al tiempo que dominar, en secreto, los nuevos y extraordinarios poderes vinculados a sus honorspren. Shallan tiene la misión de impedir el fin de las Desolaciones. Las Llanuras Quebradas tienen la respuesta; en ellas los parshendi están convencidos, gracias a su líder, de arriesgarlo todo en una apuesta desesperada…
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-30 00:00:00 +0000 UTC'>November 30, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Palabras radiantes (El archivo de las tormentas, #2)" href="http://localhost:1313/mi-biblioteca/libros/palabras-radiantes-el-archivo-de-las-tormentas-2-brandon-sanderson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/gallo-de-pelea-charles-willeford/cover.jpg" alt="Portada de Gallo de Pelea">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Gallo de Pelea
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Con treinta y dos años, Frank Mansfield es uno de los mejores galleros de Estados Unidos. En los reñideros del Sur su nombre hace zozobrar las apuestas. Frank es fanfarrón, impulsivo y pendenciero; pero para ser el número uno hay que tener cabeza. Con el Premio al Gallero del Año entre ceja y ceja, la más alta distinción de la gallística norteamericana, Frank se jura no volver a abrir la boca hasta su consagración. Solo él conoce el motivo de su mudez, aunque en el primitivo mundo de las peleas de gallos, un mundo de hombres regido por normas ancestrales en el que «un apretón de manos obliga tanto como una declaración jurada ante notario», nadie se molestará en averiguarlo. En cambio a Mary Elizabeth, tras muchos años esperando abnegada a que su prometido dejara los gallos, volviera al pueblo y sentara cabeza, le queda poca paciencia, y esa extraña mudez está a punto de agotarla. Frank sabe que en el pueblo hay muchos gañanes deseosos de llevar a Mary Elizabeth al altar; si ha de volver junto a ella, puede que esté ante su último intento de conseguir lo que más ha deseado en su vida.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-11 00:00:00 +0000 UTC'>November 11, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Gallo de Pelea" href="http://localhost:1313/mi-biblioteca/libros/gallo-de-pelea-charles-willeford/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/instrumental-memorias-de-musica-medicina-y-locura-james-rhodes/cover.jpg" alt="Portada de Instrumental: Memorias de música, medicina y locura">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Instrumental: Memorias de música, medicina y locura
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>«AHORA SÉ QUE LA MÚSICA CURA.»
+James Rhodes es uno de los más eminentes concertistas de piano de la actualidad y un gran renovador de la música clásica. Ha protagonizado documentales para la BBC y Channel 4, escribe en The Guardian y ofrece recitales en todo el mundo. «Instrumental» son sus memorias, que vieron la luz en Reino Unido después de que el Tribunal Supremo levantara el veto que pesaba sobre la obra. Todo un tributo apasionado al poder terapéutico de la música y que aborda cuestiones fascinantes sobre cómo funciona la música clásica y sobre cómo y por qué puede cambiar nuestras vidas.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-09 00:00:00 +0000 UTC'>November 9, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Instrumental: Memorias de música, medicina y locura" href="http://localhost:1313/mi-biblioteca/libros/instrumental-memorias-de-musica-medicina-y-locura-james-rhodes/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/las-efimeras-pilar-adon/cover.jpg" alt="Portada de Las efímeras">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Las efímeras
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dora y Violeta Oliver, dos hermanas que mantienen una ambigua relación, viven aisladas en una casa situada a las afueras de una comunidad. Sus miembros se han ido reuniendo en el lugar en torno a una gran casa que semeja la forma de una colmena, en busca de un estilo de vida marcado por el retiro y la autosuficiencia, por la coherencia y la introspección. Hasta que un día, una de las hermanas Oliver comienza un acercamiento hacia el tímido Denis, un muchacho perseguido por un turbio pasado que se remonta varias generaciones atrás, y desaparece.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-04 00:00:00 +0000 UTC'>November 4, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Las efímeras" href="http://localhost:1313/mi-biblioteca/libros/las-efimeras-pilar-adon/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/derribos-arias-licencia-para-aberrar-carlos-rego/cover.jpg" alt="Portada de Derribos Arias. Licencia para aberrar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Derribos Arias. Licencia para aberrar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Desde Donostia, poseídos por una voluntad iconoclasta inédita en un panorama musical, el español, que despertaba a la modernidad con los titubeos del inexperto y la energía típica de la Nueva Ola, Derribos Arias fueron una fascinante anomalía. Diferentes a todos cuantos les rodeaban, poseedores de una fuerte personalidad encarnada por el carismático Poch pero imposible de entender sin Alejo, Juan y Paul, fueron capaces de legar, en una corta pero intensa trayectoria, una colección de canciones realmente imbatible.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-01 00:00:00 +0000 UTC'>November 1, 2015</span></footer>
+  <a class="entry-link" aria-label="post link to Derribos Arias. Licencia para aberrar" href="http://localhost:1313/mi-biblioteca/libros/derribos-arias-licencia-para-aberrar-carlos-rego/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/18/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/20/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

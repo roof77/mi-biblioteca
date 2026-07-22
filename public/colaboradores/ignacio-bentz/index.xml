@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ignacio Bentz on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/ignacio-bentz/</link>
+    <description>Recent content in Ignacio Bentz on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/ignacio-bentz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snoopy y Carlitos, 1975-1976 (Snoopy y Carlitos, #13)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1975-1976-snoopy-y-carlitos-13-charles-m-schulz/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1975-1976-snoopy-y-carlitos-13-charles-m-schulz/</guid>
+      <description>&lt;p&gt;Tiras publicadas entre 1975 y 1976 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos  es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado&amp;quot;.Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

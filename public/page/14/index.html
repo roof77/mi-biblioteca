@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-12-15-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump nº 12/15">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump nº 12/15
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-04-02 00:00:00 +0000 UTC'>April 2, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump nº 12/15" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-12-15-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-15-15-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump nº 15/15">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump nº 15/15
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Última entrega del Kanzenban de Dr Slump. Este manga entrañable está protagonizado por Arale, un robot con forma de chica que ha creado el lunático doctor Sembei Norimaki .¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas! Todo es posible en Villa Pingüino.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-04-02 00:00:00 +0000 UTC'>April 2, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump nº 15/15" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-no-15-15-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-libro-de-gila-antologia-tragicomica-de-obra-y-vida-jorge-de-cascante/cover.jpg" alt="Portada de El libro de Gila: Antología tragicómica de obra y vida">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El libro de Gila: Antología tragicómica de obra y vida
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Por fin en un mismo libro la obra y la vida de un autor genial que superó la pobreza, el hambre y la guerra durante los peores momentos de la España del siglo XX defendiéndose con una única arma: la risa.
+416 páginas a todo color. 65 piezas de ficción escritas por Miguel Gila, muchas inéditas. 90 fotografías, algunas nunca publicadas. 70 anécdotas de su vida repartidas por todo el libro (y contadas por el propio Gila). 100 viñetas dibujadas por Gila para La Codorniz, Hermano Lobo, El Periódico… Páginas de sus cuadernos, recortes, invitaciones a sus espectáculos, cartelería. Un ensayo inédito acerca de lo que significaba para él su oficio.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-03-06 00:00:00 +0000 UTC'>March 6, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to El libro de Gila: Antología tragicómica de obra y vida" href="http://localhost:1313/mi-biblioteca/libros/el-libro-de-gila-antologia-tragicomica-de-obra-y-vida-jorge-de-cascante/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1959-1960-snoopy-y-carlitos-5-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1959-1960 (Snoopy y Carlitos, #5)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1959-1960 (Snoopy y Carlitos, #5)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Un tira clásica e icónica Quinta entrega de la serie Snoopy y Carlitos, que comprenden las tiras publicadas de los Peanuts durante los años 1959 y 1960. En ellas, Snoopy empieza a ocupar su residencia en lo alto de su caseta, Linus pasa toda la noche en vela quejándose de que ha sido víctima de una falsa doctrina y Lucy saca una taquilla y ofrece consulta siquiátrica a 5 céntimos. ...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-03-05 00:00:00 +0000 UTC'>March 5, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1959-1960 (Snoopy y Carlitos, #5)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1959-1960-snoopy-y-carlitos-5-charles-m-schulz/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/kentucky-seco-chris-offutt/cover.jpg" alt="Portada de Kentucky seco">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Kentucky seco
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados Unidos y el título de los nueve relatos ambientados en una pequeña comunidad sin nombre de los montes Apalaches, un lugar inhóspito, pero de gran belleza, en el que tener estudios se considera un signo de arrogancia y donde la caza no es precisamente un deporte. Pecadores convertidos en predicadores, jugadores con malas pulgas, ancianos que viven en el bosque y prefieren la compañía de los animales a la de los hombres, hijos sin padres, familias en las que nadie trabaja y albañiles que cultivan marihuana para sobrevivir protagonizan historias duras y reales de gente humilde pero orgullosa.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-03-01 00:00:00 +0000 UTC'>March 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Kentucky seco" href="http://localhost:1313/mi-biblioteca/libros/kentucky-seco-chris-offutt/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/cover.jpg" alt="Portada de La caída de Gondolin (Middle-Earth Universe)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La caída de Gondolin (Middle-Earth Universe)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo. Por un lado está Morgoth, el mal más absoluto, que está al mando de un enorme poder militar que controla desde su fortaleza en Angband. En su oposición está Ulmo, el segundo Vala más poderoso. Trabaja secretamente en la Tierra Media para apoyar a los Noldor, el grupo de elfos entre los que se contaban Húrin y Túrin Turambar.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-03-01 00:00:00 +0000 UTC'>March 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to La caída de Gondolin (Middle-Earth Universe)" href="http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1961-1962-snoopy-y-carlitos-6-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1961-1962 (Snoopy y Carlitos, #6)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1961-1962 (Snoopy y Carlitos, #6)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Una tira clásica e icónica
+Sexta entrega de la serie Carlitos y Snoopy, que comprenden las tiras publicadas de los Peanuts durante los años 1961-1962. Este volumen nos presenta otro de los principales personajes, la vanidosa Frieda, por no mencionar a su gato Faro. El período que recopilamos en este volumen es uno de los más fértiles de Schultz. Sally empieza a hacerse mayor y Snoopy experimentará un episodio de crisis familiar.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-03-01 00:00:00 +0000 UTC'>March 1, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1961-1962 (Snoopy y Carlitos, #6)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1961-1962-snoopy-y-carlitos-6-charles-m-schulz/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/valores-familiares-alfredo-alamo/cover.jpg" alt="Portada de Valores familiares">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Valores familiares
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>«Si no estás en el Inner Circle, te estás perdiendo nuevas voces de la literatura que desafían el statu quo. Es refrescante no leer lo mismo de siempre, además de ser rematadamente divertido. Una comunidad muy recomendable» ~ Sabrina Rodríguez
+Gatos coleccionables enviados a casa de gente aquejada de agorafobia, las mejores recetas de comida alienígena, luces al final del túnel que acaban en un programa de Sara Montiel, dibujos animados en blanco y negro que vieron mejor vida, extraños altares que aparecen de la nada, döpplegangers profesionales con un espejo por cara…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-01-23 00:00:00 +0000 UTC'>January 23, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Valores familiares" href="http://localhost:1313/mi-biblioteca/libros/valores-familiares-alfredo-alamo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1955-1956-snoopy-y-carlitos-3-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1955-1956 (Snoopy y Carlitos, #3)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1955-1956 (Snoopy y Carlitos, #3)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Un obra maestra de las tiras de prensa El tercer volumen de la aclamada serie Snoopy y Carlitos incluye hitos como las primeras palabras pronunciadas por Linus, la primera humillación de Carlitos en un partido de béisbol y la hilarante sucesión de imitaciones por parte de un Snoopy que cada vez se parece más a sí mismo. Todo esto y ¡también “Cochino”!
+Incluso los seguidores más devotos de Snoopy y Carlitos van a encontrar muchos episodios “nuevos” de los que disfrutar, ya que casi la mitad de las tiras de este volumen jamás se habían recopilado desde su primera publicación en la prensa hace medio siglo.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-01-15 00:00:00 +0000 UTC'>January 15, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1955-1956 (Snoopy y Carlitos, #3)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1955-1956-snoopy-y-carlitos-3-charles-m-schulz/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1957-1958-snoopy-y-carlitos-4-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1957-1958 (Snoopy y Carlitos, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1957-1958 (Snoopy y Carlitos, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Un clásico de las tiras de prensa Cuarta entrega de la serie Carlitos y Snoopy, que comprende las tiras publicadas de los Peanuts durante los años 1957 y 1958. En ellas, Snoopy envidia la seguridad que la manta le produce a Linus, se prodiga en mimos e imitaciones, participa en el equipo de voleibol y, hacia el final del libro, comienza a dormir sobre el techo de su propia casita. ...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2019-01-15 00:00:00 +0000 UTC'>January 15, 2019</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1957-1958 (Snoopy y Carlitos, #4)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1957-1958-snoopy-y-carlitos-4-charles-m-schulz/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/13/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/15/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

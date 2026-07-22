@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Series | Mi biblioteca</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/series/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/series/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/series/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+<header class="page-header">
+    <h1>Series</h1>
+</header>
+
+<ul class="terms-tags">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/500-gerechten/">500 Gerechten <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/a-love-story/">A Love Story <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/absolute-swamp-thing-by-alan-moore/">Absolute Swamp Thing by Alan Moore <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/acacia/">Acacia <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/all-creatures-great-and-small/">All Creatures Great and Small <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/ambrose-bierce/">Ambrose Bierce <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/babar/">Babar <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/bill-the-galactic-hero/">Bill, the Galactic Hero <sup><strong><sup>6</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/black-hole/">Black Hole <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/blackbird/">Blackbird <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/blackwater/">Blackwater <sup><strong><sup>6</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/books-of-blood/">Books of Blood <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/calvin-and-hobbes/">Calvin and Hobbes <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/clyde-fans/">Clyde Fans <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/colecci%C3%B3n-universo-dc/">Colección Universo DC <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/contos-policiais/">Contos Policiais <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/cr%C3%B3nicas-de-la-torre/">Crónicas De La Torre <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/dead-djinn-universe/">Dead Djinn Universe <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/discworld/">Discworld <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/dr.%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%97-dr.-slump/">Dr.スランプ [Dr. Slump] <sup><strong><sup>15</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/dykes-to-watch-out-for/">Dykes to Watch Out For <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/early-earth/">Early Earth <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/el-eternauta/">El Eternauta <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/elmore-leonards-western-roundup/">Elmore Leonard&#39;s Western Roundup <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/enders-saga/">Ender&#39;s Saga <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/foundation-publication-order/">Foundation (Publication Order) <sup><strong><sup>4</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/from-hell/">From Hell <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/fu-manchu/">Fu Manchu <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/galactic-empire/">Galactic Empire <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/gilbert-selwyn-and-friends/">Gilbert Selwyn and Friends <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/gormenghast/">Gormenghast <sup><strong><sup>4</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/grand-vampire/">Grand Vampire <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/harry-potter/">Harry Potter <sup><strong><sup>8</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/heartstopper/">Heartstopper <sup><strong><sup>6</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/heritage-of-shannara/">Heritage of Shannara <sup><strong><sup>5</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/historia-universal-asimov/">Historia Universal Asimov <sup><strong><sup>4</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/hoids-travails/">Hoid&#39;s Travails <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/hollywood-babylon/">Hollywood Babylon <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/indigo/">Indigo <sup><strong><sup>9</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/john-dies-at-the-end/">John Dies at the End <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/la-cantina-de-medianoche/">La Cantina De Medianoche <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/le-comte-de-monte-cristo-/-the-count-of-monte-cristo/">Le Comte De Monte-Cristo / the Count of Monte Cristo <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/legends-west/">Legends West <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/legion-of-the-damned/">Legion of the Damned <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/library-of-america/">Library of America <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/lorelei-lee/">Lorelei Lee <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/love-and-rockets/">Love and Rockets <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/love-and-rockets-library/">Love and Rockets Library <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/lucille-/">Lucille  <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/malazan-book-of-the-fallen/">Malazan Book of the Fallen <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/maus/">Maus <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/meine-wundervolle-buchhandlung/">Meine Wundervolle Buchhandlung <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/memory-sorrow-and-thorn/">Memory, Sorrow, and Thorn <sup><strong><sup>6</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/middle-earth/">Middle Earth <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/miriam-black/">Miriam Black <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/modesty-blaise.-biblioteca-grandes-del-c%C3%B3mic/">Modesty Blaise. Biblioteca Grandes Del Cómic <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/moldenke-/">Moldenke  <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/mort-cinder/">Mort Cinder <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/mw/">MW <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/my-favorite-thing-is-monsters/">My Favorite Thing Is Monsters <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/narrativa-completa-lovecraft-/">Narrativa Completa Lovecraft  <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/new-crobuzon/">New Crobuzon <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/new-york-trilogy/">New York Trilogy <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/nextworld/">Nextworld <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/olivia-curtis/">Olivia Curtis <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/omaha/">Omaha <sup><strong><sup>4</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/optic-nerve/">Optic Nerve <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/oxford-time-travel/">Oxford Time Travel <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/papillon/">Papillon <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/peepshow/">Peepshow <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/persepolis/">Persepolis <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/peter-pan/">Peter Pan <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/peyton-place/">Peyton Place <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/photo-poche/">Photo Poche <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/pippi-l%C3%A5ngstrump/">Pippi Långstrump <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/plainsong/">Plainsong <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/rip-kirby/">Rip Kirby <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/ripley/">Ripley <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/roald-dahls-tales-of-the-unexpected/">Roald Dahl&#39;s Tales of the Unexpected <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/robot/">Robot <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/roy-stuart/">Roy Stuart <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/sevenwaters/">Sevenwaters <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/tales-of-middle-earth/">Tales of Middle Earth <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/taschen-basic-architecture/">Taschen Basic Architecture <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-acme-novelty-library/">The Acme Novelty Library <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-barrytown-trilogy/">The Barrytown Trilogy <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-big-sky/">The Big Sky <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-broken-earth/">The Broken Earth <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-complete-calvin-and-hobbes/">The Complete Calvin and Hobbes <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-complete-peanuts/">The Complete Peanuts <sup><strong><sup>14</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-complete-spider-man-strips/">The Complete Spider-Man Strips <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-cornish-trilogy/">The Cornish Trilogy <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-cosmere-universe/">The Cosmere Universe <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-country-girls-trilogy/">The Country Girls Trilogy <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-dark-star-trilogy/">The Dark Star Trilogy <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-deptford-trilogy/">The Deptford Trilogy <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-end-of-the-fucking-world/">The End of the Fucking World <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-fionavar-tapestry/">The Fionavar Tapestry <sup><strong><sup>7</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-first-law/">The First Law <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-fritz-b-movie-books/">The Fritz B-Movie Books <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-indian-lake-trilogy/">The Indian Lake Trilogy <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-iremonger-trilogy/">The Iremonger Trilogy <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-kingkiller-chronicle/">The Kingkiller Chronicle <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-last-picture-show/">The Last Picture Show <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-last-roundup/">The Last Roundup <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-list-of-seven/">The List of Seven <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-long-london-quintet-/">The Long London Quintet  <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-mistborn-saga/">The Mistborn Saga <sup><strong><sup>2</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-only-good-indians/">The Only Good Indians <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-posthumous-papers-of-the-pickwick-club/">The Posthumous Papers of the Pickwick Club <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-saga-of-arturo-bandini/">The Saga of Arturo Bandini <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-scholomance/">The Scholomance <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-stormlight-archive/">The Stormlight Archive <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-vinegar-works/">The Vinegar Works <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-walking-dead/">The Walking Dead <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/the-wicked-years/">The Wicked Years <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/time-master/">Time Master <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/twin-peaks/">Twin Peaks <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/two-medicine-country/">Two Medicine Country <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/v-for-vendetta/">V for Vendetta <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/watchmen/">Watchmen <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/wayward-children/">Wayward Children <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/white-sand/">White Sand <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/winnie-the-pooh/">Winnie-the-Pooh <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/%D0%BD%D0%B0%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2/">Нашествие Монголов <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/%E3%83%89%E3%83%B3%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9-don-dracula/">ドン・ドラキュラ [Don Dracula] <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%AE%E9%A8%8E%E5%A3%AB-ribbon-no-kishi/">リボンの騎士 [Ribbon No Kishi] <sup><strong><sup>3</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/%E4%BA%BA%E9%96%93%E6%98%86%E8%99%AB%E8%A8%98-ningen-konch%C5%ABki/">人間昆虫記 [Ningen Konchūki] <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/series/%E7%AC%91%E3%81%86%E5%90%B8%E8%A1%80%E9%AC%BC-warau-ky%C5%ABketsuki-%231-2/">笑う吸血鬼 Warau Kyūketsuki #1-2 <sup><strong><sup>1</sup></strong></sup> </a>
+            </li>
+</ul>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

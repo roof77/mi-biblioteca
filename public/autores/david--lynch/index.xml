@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David  Lynch on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/david--lynch/</link>
+    <description>Recent content in David  Lynch on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/david--lynch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost Highway</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lost-highway-david-lynch/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lost-highway-david-lynch/</guid>
+      <description>&lt;p&gt;Sitting on Death Row, awaiting execution for the murder of his wife, Fred Madison experiences a shattering headache. The next day, a dazed and confused Pete Dayton is found in Madison&amp;rsquo;s cell. Dayton has no memory of how he came to be there. Madison has gone missing. What follows may be reality or it may be part of a highly organized hallucination that Fred Madison is undergoing. Lost Highway refuses to yield its secrets readily. It communicates, not just through words, but through images and - most of all - through the mental states these words and images conjure up.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

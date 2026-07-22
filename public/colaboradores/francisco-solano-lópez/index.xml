@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Francisco Solano López on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/francisco-solano-l%C3%B3pez/</link>
+    <description>Recent content in Francisco Solano López on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/francisco-solano-l%C3%B3pez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Eternauta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/</guid>
+      <description>&lt;p&gt;Historieta de ciencia-ficción publicada por entregas en el suplemento argentino Hora Cero Semanal desde 1957 hasta 1959. Con un estilo único, escrita por Héctor G. Oesterheld y dibujada por Francisco Solano, desde el primer número logró mantener en vilo a un elevado número de lectores que crecía semana tras semana.&lt;/p&gt;
+&lt;p&gt;En este cómic de cargado contenido social y político, la historia nunca es lo que parece, siempre tiene algo para sorprendernos. Oesterheld dotó a Juan Salvo, su protagonista, de identificación colectiva, repartiendo el valor, la fuerza y el liderazgo del héroe con un pueblo solidario que une sus fuerzas contra el invasor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El Eternauta (Norma)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-eternauta-norma-hector-german-oesterheld/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-eternauta-norma-hector-german-oesterheld/</guid>
+      <description>&lt;p&gt;En El eternauta, el gran clásico de ciencia ficción y aventuras argentino, Héctor G. Oesterheld (Ernie Pike) y F. Solano López reinventan el mito de Robinson Crusoe y crean un universo del que nunca te podrás olvidar.&lt;/p&gt;
+&lt;p&gt;Si alguna vez en Buenos Aires nieva, es que ocurre algo realmente catastrófico. Esta vez puede tratarse de una plaga mundial, una tragedia que cambiará el destino de la humanidad, un horror sin un rostro contra el que luchar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

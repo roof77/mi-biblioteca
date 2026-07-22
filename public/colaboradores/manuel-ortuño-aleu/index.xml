@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Manuel Ortuño Aleu on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/manuel-ortu%C3%B1o-aleu/</link>
+    <description>Recent content in Manuel Ortuño Aleu on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/manuel-ortu%C3%B1o-aleu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crónicas de Clovis</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cronicas-de-clovis-saki/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cronicas-de-clovis-saki/</guid>
+      <description>&lt;p&gt;Macabro, ácido, ingenioso, satírico, elocuente, humorístico, inteligente&amp;hellip; todos estos adjetivos pueden aplicarse a Saki y a su obra. Quienes hayan disfrutado de la lectura de Animales y más que animales recordarán sin duda a Clovis, uno de los héroes decadentes y escépticos –cuya lengua epigramática le haría digno de figurar en cualquier obra de Oscar Wilde– de los que se vale Saki para zarandear y mortificar a la sociedad eduardiana de su tiempo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pablo Sauras on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/pablo-sauras/</link>
+    <description>Recent content in Pablo Sauras on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/pablo-sauras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los millones de Brewster</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-millones-de-brewster-george-barr-mccutcheon/</link>
+      <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-millones-de-brewster-george-barr-mccutcheon/</guid>
+      <description>&lt;p&gt;En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que su abuelo ha fallecido y le ha dejado un millón de dólares. Apenas se ha recuperado de la sorpresa cuando, poco después, muere un tío suyo del que apenas ha oído hablar y se entera de que en su testamento lo ha nombrado heredero de casi siete millones de dólares. Pero con una condición: en el plazo de un año, sin hacer donaciones benéficas, ni apuestas ni especulaciones, y sin decírselo a nadie, tiene que haberse gastado hasta el último centavo de la primera herencia recibida de su abuelo. Brewster tendrá, pues, que aprender a ser millonario tan rápido como a precipitarse en la ruina… pero descubre que, a veces, el dinero no es tan fácil de quemar. Beneficios inesperados y golpes de «mala suerte» incrementan, en vez de disminuir, su fortuna, y su repentina fama de excéntrico y derrochador pone en peligro su relación con la chica de la que está enamorado.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

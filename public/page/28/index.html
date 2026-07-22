@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1971-1972-snoopy-y-carlitos-11-charles-m-schulz/cover.jpg" alt="Portada de Snoopy y Carlitos, 1971-1972 (Snoopy y Carlitos, #11)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Snoopy y Carlitos, 1971-1972 (Snoopy y Carlitos, #11)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tiras publicadas entre 1971 y 1972 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado”.Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-01-01 00:00:00 +0000 UTC'>January 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to Snoopy y Carlitos, 1971-1972 (Snoopy y Carlitos, #11)" href="http://localhost:1313/mi-biblioteca/libros/snoopy-y-carlitos-1971-1972-snoopy-y-carlitos-11-charles-m-schulz/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/un-tronar-de-tambores-y-otras-historias-de-la-caballeria-americana-james-warner-bellah/cover.jpg" alt="Portada de Un tronar de tambores y otras historias de la caballería americana">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Un tronar de tambores y otras historias de la caballería americana
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>James Warner Bellah (1899-1976) nació en Nueva York y tuvo una agitada vida militar. Participó en la Primera Guerra Mundial con el ejército canadiense, y en la Segunda sirvió en el staff de Lord Louis Mountbaten y con el general Chindits en Birmania. Acabó retirándose con el rango de coronel. Bellah nos dejó un buen puñado de novelas y relatos de tema militar, ambientados en la Frontera o en la Guerra de Secesión, además de relatos de «capa y espada», memorias y guiones para el cine.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-12-01 00:00:00 +0000 UTC'>December 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Un tronar de tambores y otras historias de la caballería americana" href="http://localhost:1313/mi-biblioteca/libros/un-tronar-de-tambores-y-otras-historias-de-la-caballeria-americana-james-warner-bellah/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/aleta-christopher-moore/cover.jpg" alt="Portada de Aleta">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Aleta
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>¿Por qué cantan las ballenas jorobadas? Tal es la cuestión que motiva al biólogo marino y a su tripulación a documentar y fotografiar a esos grandes y húmedos mamíferos. Hasta el extraordinario día en que una ballena levanta la cola en el aire y muestra un mensaje escrito con gigantescas letras mayúsculas: «QUE TE DEN». Claro, Nate se pregunta si no habrá pasado demasiado tiempo observando bajo un sol de justicia… ya que nadie más lo ha visto; ni su compañero de aventuras, ni su impertinente asistente científico, ni siquiera el rastafari fumeta de a bordo. Cuando llegan las copias de las fotografías, y falta esa en la cual la ballena levanta la cola, se convence de que sucede algo muy raro.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-11-01 00:00:00 +0000 UTC'>November 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Aleta" href="http://localhost:1313/mi-biblioteca/libros/aleta-christopher-moore/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-sonrisa-del-vampiro-suehiro-maruo/cover.jpg" alt="Portada de La sonrisa del vampiro">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La sonrisa del vampiro
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Vampiros adolescentes sedientos de sangre y sexo protagonizan esta impactante obra de un autor que jamás deja indiferente. Esta fue la primera obra de Maruo publicada en esta colección y su éxito nos decidió a continuar con la difusión de su obra.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-10-26 00:00:00 +0000 UTC'>October 26, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to La sonrisa del vampiro" href="http://localhost:1313/mi-biblioteca/libros/la-sonrisa-del-vampiro-suehiro-maruo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/a-proposito-de-abbott-chris-bachelder/cover.jpg" alt="Portada de A propósito de Abbott">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A propósito de Abbott
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Abbott es un profesor universitario de vacaciones, padre exhausto de una niña de dos años, marido de una embarazada insomne y amo de un perro miedoso. Abbott se afana en las tareas domésticas y en el cuidado de su hija, aunque sus trabajos no siempre salen como quisiera: un día se olvida de ponerle crema solar a su hija o la viste de invierno en pleno verano; otro día se estropea la nevera o tiene que enfrentarse con una serpiente en su jardín. Abbott parece abducido por sus afanes diarios, pero no puede dejar de ponerse constantemente en entredicho ni de percibir las implacables paradojas de las que está hecha la vida. Y así, mientras limpia el vómito de la sillita de su hija se dice: «Las dos proposiciones siguientes son ciertas: (a) Si tuviera la ocasión, Abbott no cambiaría ni uno de los elementos fundamentales de su vida, pero (b) Abbott no soporta su vida». Compuesta por pequeñas escenas cotidianas, terroríficas unas, maravillosas otras, “A propósito de Abbott” es una descacharrante historia sobre las pequeñas desventuras, agobios y luchas de las que está hecha la paternidad.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-10-01 00:00:00 +0000 UTC'>October 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to A propósito de Abbott" href="http://localhost:1313/mi-biblioteca/libros/a-proposito-de-abbott-chris-bachelder/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/todos-los-besos-del-mundo-felix-romeo/cover.jpg" alt="Portada de Todos los besos del mundo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Todos los besos del mundo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Todos los besos del mundo es una selección de los mejores cuentos que Félix Romeo publicó a lo largo de casi veinte años en distintos medios y que no habían sido recopilados hasta ahora. Estos relatos contienen las obsesiones y pasiones que Félix Romeo manifestó en sus libros y trazan su evolución como escritor. Además, la forma breve del relato le permitió mostrar una intimidad especial, doméstica y extraña, aparentemente cotidiana, y, al mismo tiempo, reflejo de la complejidad del mundo. Hay historias familiares, algunas basadas en su memoria personal, relatos sobre las relaciones de pareja y su imposible equilibrio, y otros que reflejan su amor por las ciudades, los libros y la vida. Los cuentos de Félix Romeo nos hieren y nos sanan como si fueran a la vez veneno y antídoto. Con su indescriptible melancolía, sus historias de personajes que buscan la felicidad nos acompañarán siempre.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-10-01 00:00:00 +0000 UTC'>October 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Todos los besos del mundo" href="http://localhost:1313/mi-biblioteca/libros/todos-los-besos-del-mundo-felix-romeo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/una-temporada-para-silbar-ivan-doig/cover.jpg" alt="Portada de Una temporada para silbar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Una temporada para silbar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“No cocina, pero tampoco muerde”. Así comienza el anuncio en el que Rose Llewellyn, una viuda de “buenas costumbres y disposición excepcional”, se ofrece en el otoño de 1909 como ama de llaves; la frase capta de inmediato la atención de Oliver Milliron, un viudo con tres hijos y poca maña en las tareas domésticas, que la contrata para poner un poco de orden en su casa de Marias Coulee, Montana.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-05-09 00:00:00 +0000 UTC'>May 9, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Una temporada para silbar" href="http://localhost:1313/mi-biblioteca/libros/una-temporada-para-silbar-ivan-doig/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/algun-dia-este-dolor-te-sera-util-peter-cameron/cover.jpg" alt="Portada de Algún día este dolor te será útil">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Algún día este dolor te será útil
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>James Sveck, el narrador de esta novela, es un adolescente inteligente y precoz, ha terminado el colegio y durante el verano trabaja en la galería de arte que su madre tiene en Manhattan y en la que casi nunca entra a nadie. Pese a haber sido admitido en la prestigiosa Universidad de Brown no está seguro de querer ir; lo que de verdad le gustaría es comprarse una casa en el campo y pasarse el día leyendo, sin ser molestado; detesta relacionarse con gente de su edad, a la que evita y con la que piensa que no tiene nada en común.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-04-01 00:00:00 +0000 UTC'>April 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Algún día este dolor te será útil" href="http://localhost:1313/mi-biblioteca/libros/algun-dia-este-dolor-te-sera-util-peter-cameron/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/trilobites-breece-d-j-pancake/cover.jpg" alt="Portada de Trilobites">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Trilobites
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Presentación de John Casey Traducción de Albert Fuentes
+Breece D’J Pancake se suicidó en Charlottesville en 1979 a la edad de veintiséis años. Cuatro años después, aparecieron publicados estos cuentos que le valieron su reputación literaria. Trilobites reúne doce relatos en los que se respira la frustración y la desesperación de alguien que se ha criado en la Virginia más rural. En ellos, Pancake muestra una gran habilidad a la hora de describir a las clases trabajadoras más pobres de la región, revelando a la vez una voz narrativa excepcional. Alpha Decay publica estos doce cuentos en su primera edición en lengua castellana.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-03-05 00:00:00 +0000 UTC'>March 5, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Trilobites" href="http://localhost:1313/mi-biblioteca/libros/trilobites-breece-d-j-pancake/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/diario-de-un-ama-de-casa-desquiciada-sue-kaufman/cover.jpg" alt="Portada de Diario de un ama de casa desquiciada">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Diario de un ama de casa desquiciada
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Originally published in 1967, this fun and clever story follows Tina Balser, a sophisticated housewife who lives in Manhattan and seems to have everything—money, two beautiful daughters, and a husband who is a successful lawyer. When Tina begins to suspect that she is going mad, she starts a secret diary as a form of therapy and escape. Through the pages of this diary, her fears and neuroses emerge, as well as her sharp and hilarious observations of herself and those around her, which lead to many changes, including an extramarital fling.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-03-01 00:00:00 +0000 UTC'>March 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Diario de un ama de casa desquiciada" href="http://localhost:1313/mi-biblioteca/libros/diario-de-un-ama-de-casa-desquiciada-sue-kaufman/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/27/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/29/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

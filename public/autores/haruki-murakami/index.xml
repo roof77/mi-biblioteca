@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haruki Murakami on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/haruki-murakami/</link>
+    <description>Recent content in Haruki Murakami on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/haruki-murakami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka en la orilla</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/kafka-en-la-orilla-haruki-murakami/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/kafka-en-la-orilla-haruki-murakami/</guid>
+      <description>&lt;p&gt;Kafka Tamura se va de casa el día en que cumple quince años. Le llevan a ello las malas relaciones con su padre –un famoso escultor convencido de que su hijo repetirá el aciago sino de Edipo– y el vacío producido por la ausencia de su madre; se dirigirá al sur del país, donde encontrará refugio en una peculiar biblioteca y conocerá a la misteriosa señora Saeki. Sus pasos se cruzan con los de otro personaje, Satoru Nakata, sobre quien se ha abatido la tragedia: de niño, durante la segunda guerra mundial, sufrió un accidente del que salió con secuelas y dificultades para comunicarse&amp;hellip; salvo con los gatos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

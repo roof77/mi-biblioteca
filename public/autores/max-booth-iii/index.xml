@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Max Booth III on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/max-booth-iii/</link>
+    <description>Recent content in Max Booth III on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/max-booth-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenemos que hacer algo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/tenemos-que-hacer-algo-max-booth-iii/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/tenemos-que-hacer-algo-max-booth-iii/</guid>
+      <description>&lt;p&gt;Si desprecias a tu familia, lo peor que te puede pasar es tener que encerrarte con ellos en un cuarto de baño por una alerta de tornado. Nada puede salir bien de ahí.&lt;/p&gt;
+&lt;p&gt;Melissa es una adolescente que no se lleva bien con su familia. Sobre todo, con el borracho de su padre.&lt;/p&gt;
+&lt;p&gt;Una noche, las múltiples alertas de tornado que reciben en el teléfono obligan a toda su familia a encerrarse en el cuarto de baño hasta que pase la amenaza. Al ser conscientes de que no van a ser capaces de salir de ahí en mucho tiempo, la claustrofobia, la paranoia y el miedo se adueñan de la historia y sucesos cada vez más extraños llevarán las relaciones familiares al límite.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elizabeth  Smart on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/elizabeth--smart/</link>
+    <description>Recent content in Elizabeth  Smart on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/elizabeth--smart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En Grand Central Station me senté y lloré</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/en-grand-central-station-me-sente-y-llore-elizabeth-smart/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/en-grand-central-station-me-sente-y-llore-elizabeth-smart/</guid>
+      <description>&lt;p&gt;Esta novela autobiográfica, publicada por primera vez en 1945, y que muy pronto se convertiría en un verdadero libro de culto al ser traducida a numerosos idiomas, narra con un lenguaje prodigioso, lleno de imágenes tan originales como potentes, la pasión de su autora por un hombre casado del que se enamoraría incluso antes de conocerlo personalmente.&lt;/p&gt;
+&lt;p&gt;Este libro influenció en las composiciones de Morrisey, tanto para sus canciones en solitario como para las que escribió en The Smiths; algo claro en  títulos como London, What she said, Louder than bombs, Late night, Maudlin Street, por ejemplo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

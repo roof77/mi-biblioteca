@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jacobo Rodriguez on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/jacobo-rodriguez/</link>
+    <description>Recent content in Jacobo Rodriguez on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/jacobo-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Ciudad Vampiro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-ciudad-vampiro-paul-feval-pere/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-ciudad-vampiro-paul-feval-pere/</guid>
+      <description>&lt;p&gt;La Ciudad Vampiro es una obra maestra del humor negro, hasta un grado tan exacerbado que hace pensar en los cuentos de Apollinaire o los delirios de bande dessiné propios de Jean-Pierre Jeunet o Marc Caro y que a pesar de su tono paródico funciona como una alucinada narración fantástica, como novela de horrores grotescos y estrambóticos, como una pesadilla surreal y gozosamente absurda.&lt;/p&gt;
+&lt;p&gt;Ya desde los orígenes de la novela gótica, cuando El Monje, Vathek, Melmoth el errabundo y sobre todo las obras de Ann Radcliffe gozaban de un amplio público, surgieron réplicas irónicas y salaces como La mansión de las pesadillas de Thomas Love Peacock o La abadía de Northanger de Jane Austen. Pero nada más lejos de estas amables sátiras que el espíritu delirante y surrealista de La Ciudad Vampiro, de Paul Féval, autor de folletines y novelas de gran éxito en su tiempo, como Los misterios de Londres o El caballero de Lagardère.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

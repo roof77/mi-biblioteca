@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Herminia Bevia on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/herminia-bevia/</link>
+    <description>Recent content in Herminia Bevia on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/herminia-bevia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La camioneta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</guid>
+      <description>&lt;p&gt;Jimmy Rabbitte, Sr. is unemployed, spending his days alone and miserable. When his best friend, Bimbo, also gets laid off, they keep by being miserable together. Things seem to look up when they buy a decrepit fish-and-chip van and go into business, selling cheap grub to the drunk and the hungry&amp;ndash;and keeping one step ahead of the environmental health officers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

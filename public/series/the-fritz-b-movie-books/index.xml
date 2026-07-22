@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Fritz B-Movie Books on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-fritz-b-movie-books/</link>
+    <description>Recent content in The Fritz B-Movie Books on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-fritz-b-movie-books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una oportunidad en el infierno</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-oportunidad-en-el-infierno-gilbert-hernandez/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-oportunidad-en-el-infierno-gilbert-hernandez/</guid>
+      <description>&lt;p&gt;Una oportunidad en el infierno, la novela gráfica de Beto Hernandez, es un claro cambio de rumbo de su obra Love and Rockets. El libro se inicia en un entorno inhóspito, una ciudad sin nombre en cuyo vertedero se arroja a los marginados y a los hijos no deseados. La pequeña Princesa es una de las habitantes y el recuerdo de los sucesos brutales de los cuales es testigo, la perseguirán durante toda su vida. Ya de adulta, Princesa parece haberse instalado en una vida confortable -completada con un atractivo y triunfador marido- pero, atormentada por su pasado y obsesionada con querer encontrar a su padre, es incapaz de adaptarse al confort de la vida burguesa. Poco a poco, Hernandez nos revela que el nuevo entorno de Princesa es tan letal como el del que es incapaz de escapar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

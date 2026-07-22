@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agostina Marchi on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/agostina-marchi/</link>
+    <description>Recent content in Agostina Marchi on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/agostina-marchi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La historia secreta del disco</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-del-disco-peter-shapiro/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-historia-secreta-del-disco-peter-shapiro/</guid>
+      <description>&lt;p&gt;ara sus detractores, la música disco nunca fue más que el desfile de celebridades de Studio 54, la empalagosa música de los Bee Gees o el chico humilde de origen italiano de Fiebre de sábado por la noche que es transportado al firmamento por la sola virtud de su atuendo y pasos de baile. Sin embargo, en este libro Peter Shapiro revela que detrás de ese espectáculo de narcisismo, indulgencia y frivolidad se esconde una historia pocas veces contada, la historia oculta de un género nacido de la convergencia de las culturas marginales de los homosexuales, los afroamericanos y los inmigrantes latinos e italianos, en una época en la que el fracaso de la utopía hippie había dado lugar a la exclusión y la guerra de pandillas. “Glamour entendido como acto de rebeldía”, el disco le dio un nuevo sentido a la idea de comunidad al promover la integración racial, sexual y de clase en la pista de baile.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

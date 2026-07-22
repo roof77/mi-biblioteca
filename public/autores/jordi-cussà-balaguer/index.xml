@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jordi Cussà Balaguer on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/jordi-cuss%C3%A0-balaguer/</link>
+    <description>Recent content in Jordi Cussà Balaguer on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/jordi-cuss%C3%A0-balaguer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formentera Lady</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/formentera-lady-jordi-cussa-balaguer/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/formentera-lady-jordi-cussa-balaguer/</guid>
+      <description>&lt;p&gt;Niel, Ona y Àsia vivieron en los años ochenta una juventud frenética entre Cataluña y las islas Pitiusas. Gozaron sin mesura del sexo, la música y las drogas hasta que cayeron en el pozo de la adicción. Treinta años después, instalados en el «tedio decepcionado de los cincuenta» y con muchas cicatrices en el alma, deciden revisitar esa época turbulenta mediante la escritura de un libro. Un libro que, con sus historias de tráficos grandes y pequeños, reencuentros mágicos y funestos, renaceres y recaídas, ofrece un retrato implacable de una generación que vivió al límite y pagó un alto precio por sus excesos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

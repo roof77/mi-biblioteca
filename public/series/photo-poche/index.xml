@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photo Poche on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/photo-poche/</link>
+    <description>Recent content in Photo Poche on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/photo-poche/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man Ray (Photofile)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/man-ray-photofile-man-ray/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/man-ray-photofile-man-ray/</guid>
+      <description>&lt;p&gt;He was soon experimenting with different processes—solarization, negative images, multiple exposures—and in 1921 he created the &amp;ldquo;rayograph.&amp;rdquo; This volume collects together the best of his experimental work, as well as portraits of some of the most important figures in modern art.&lt;/p&gt;
+&lt;p&gt;About the series: The classic Photofile series brings together the best work of the world&amp;rsquo;s greatest photographers in an attractive format and at a reasonable price. Handsome and collectible, the books are produced to the highest standards. Each volume contains some sixty full-page reproductions printed in superb duotone, together with a critical introduction and a full bibliography. Now back in print, the series was awarded the first annual prize for distinguished photographic books by the International Center of Photography.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

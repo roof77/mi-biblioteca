@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jot Down on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/jot-down/</link>
+    <description>Recent content in Jot Down on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/jot-down/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jot down 100: series juveniles</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/jot-down-100-series-juveniles-various/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/jot-down-100-series-juveniles-various/</guid>
+      <description>&lt;p&gt;JOT DOWN 100: Series Juveniles es una guía a todo color de cien series juveniles imprescindibles según el criterio de los redactores de Jot Down, que recorre el universo teen desde Mazinguer Z y Sensación de vivir hasta Hora de aventuras y Gumball, con ilustraciones originales de Moderna de Pueblo, Diego Cuevas, Paula Bonet, Eider Agüero, Daniel Miñana, Joaquín Reyes y Ximena Maier y una entrevista a Juan Carlos Concha director del Festival Internacional de Cine de Animación de Barcelona (Non Stop Barcelona Animació).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

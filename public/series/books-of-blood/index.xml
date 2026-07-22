@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Books of Blood on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/books-of-blood/</link>
+    <description>Recent content in Books of Blood on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/books-of-blood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Libros de sangre [Volúmenes I, II y III]</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/libros-de-sangre-volumenes-i-ii-y-iii-clive-barker/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/libros-de-sangre-volumenes-i-ii-y-iii-clive-barker/</guid>
+      <description>&lt;p&gt;Clive Barker nació en Liverpool en 1952 y estudió inglés y filosofía antes de convertirse a los treinta y tres años en el gran renovador de la ficción de terror con la publicación de una serie de relatos agrupados en varios volúmenes bajo el título genérico de LIBROS DE SANGRE. Aparte de su dedicación al género, Barker también ha sido y es un prolífico artista gráfico e ilustrador, además de director de cine y autor teatral habitual de la escena independiente londinense. Clive Barker contribuyó con sus primeros relatos a la evolución del género de horror al introducir el sexo y la violencia de un modo gráfico y brutal, recreándose en la descripción de los horrores más tortuosos, físicos y viscerales, reforzando así en buena medida el arsenal literario del cuento de miedo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

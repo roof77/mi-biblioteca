@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neri Pozza on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/neri-pozza/</link>
+    <description>Recent content in Neri Pozza on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/neri-pozza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La guerra</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-guerra-michael-mcdowell/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-guerra-michael-mcdowell/</guid>
+      <description>&lt;ol start=&#34;1938&#34;&gt;
+&lt;li&gt;È l’alba di una nuova èra per il clan Caskey e nulla sarà mai più come prima. La determinazione di Elinor finalmente dà i suoi frutti. I nemici di ieri diverranno gli amici di domani e i mutamenti giungeranno da luoghi inaspettati. Anche per il mondo si apre una nuova èra, portatrice però di pericolo e distruzione: il conflitto in Europa farà affluire sangue nuovo a Perdido. Nella proprietà dei Caskey, gli uomini vanno e vengono. Come marionette che non sanno di essere appese a un filo.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>La casa</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-casa-michael-mcdowell/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-casa-michael-mcdowell/</guid>
+      <description>&lt;p&gt;1928, Perdido. Il clan Caskey è dilaniato dalla spietata lotta tra Mary-Love ed Elinor. Ma all&amp;rsquo;orizzonte si allungano altre ombre: sui legami, sui patrimoni, sulle anime. E le ripercussioni varcheranno i confini dell’immaginazione. Da quando Elinor ha preso possesso della casa più bella di Perdido, negli angoli bui della magione allignano ricordi spaventosi che, come ragni instancabili, tessono tele mortali&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gabriel García Márquez on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/gabriel-garc%C3%ADa-m%C3%A1rquez/</link>
+    <description>Recent content in Gabriel García Márquez on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Mar 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/gabriel-garc%C3%ADa-m%C3%A1rquez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cien años de soledad</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cien-anos-de-soledad-gabriel-garcia-marquez/</link>
+      <pubDate>Tue, 06 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cien-anos-de-soledad-gabriel-garcia-marquez/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo&amp;rdquo;. Con estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes de nuestro siglo. Millones de ejemplares de Cien años de Soledad leídos en todas las lenguas y el premio Nobel de Literatura coronando una obra que se había abierto paso &amp;ldquo;boca a boca&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Del amor y otros demonios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/del-amor-y-otros-demonios-gabriel-garcia-marquez/</link>
+      <pubDate>Tue, 28 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/del-amor-y-otros-demonios-gabriel-garcia-marquez/</guid>
+      <description>&lt;p&gt;El 26 de octubre de 1949 el reportero Gabriel García Márquez fue enviado al antiguo convento de Santa Clara, que iba a ser demolido para edificar sobre él un hotel de cinco estrellas, a presenciar el vaciado de las criptas funerarias y a cubrir la noticia. Se exhumaron los restos de un virrey del Perú y su amante secreta, un obispo, varias abadesas, un bachiller de artes y una marquesa. Pero la sorpresa saltó al destapar la tercera hornacina del altar mayor: se desparramó una cabellera de color cobre, de veintidós metros y once centímetros de largo, perteneciente a una niña. En la lápida apenas se leía el nombre: Sierva María de Todos los Ángeles. «Mi abuela me contaba de niño la leyenda de una marquesita de doce años cuya cabellera le arrastraba como una cola de novia, que había muerto del mal de rabia por el mordisco de un perro, y era venerada en los pueblos del Caribe por sus muchos milagros. La idea de que esa tumba pudiera ser la suya fue mi noticia de aquel día y el origen de este libro.»&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

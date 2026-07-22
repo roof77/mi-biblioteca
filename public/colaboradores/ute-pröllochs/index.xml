@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ute Pröllochs on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/ute-pr%C3%B6llochs/</link>
+    <description>Recent content in Ute Pröllochs on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/ute-pr%C3%B6llochs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Fotografia del Siglo XX: Museum Ludwig Colonia</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-fotografia-del-siglo-xx-museum-ludwig-colonia-marianne-bieger-thielemann/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-fotografia-del-siglo-xx-museum-ludwig-colonia-marianne-bieger-thielemann/</guid>
+      <description>&lt;p&gt;Una de las colecciones de fotografía contemporánea más importantes del mundo, la colección del Museum Ludwig de Colonia, nos invita en este libro a contemplar sus tesoros: arte conceptual, abstracción, fotografía documental.&lt;/p&gt;
+&lt;p&gt;860 obras de aproximadamente 300 de los fotógrafos internacionales más famosos de este siglo, de Ansel Adams a Piet Zwart.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gregory Gallant on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/gregory-gallant/</link>
+    <description>Recent content in Gregory Gallant on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Oct 2003 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/gregory-gallant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ventiladores Clyde</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/ventiladores-clyde-gregory-gallant/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/ventiladores-clyde-gregory-gallant/</guid>
+      <description>&lt;p&gt;Tras &amp;ldquo;La vida es buena si no te rindes&amp;rdquo;, Seth se adentra de nuevo en un relato de ritmo pausado y tono melancólico. En esta ocasión, el hilo conductor es el monólogo interior de un comercial jubilado que recuerda sus primeros años en la profesión.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Acme Novelty Library on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-acme-novelty-library/</link>
+    <description>Recent content in The Acme Novelty Library on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 May 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-acme-novelty-library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acme: Nuestro Informe Anual Para los Accionistas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/acme-nuestro-informe-anual-para-los-accionistas-chris-ware/</link>
+      <pubDate>Fri, 22 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/acme-nuestro-informe-anual-para-los-accionistas-chris-ware/</guid>
+      <description>&lt;p&gt;Un nuevo y genial delirio gráfico del autor de Jimmy Corrigan, el chico más listo del mundo. Chris Ware es una figura crucial para entender el presente y futuro del cómic contemporáneo. Su estilo, inimitable, ha convertido su trabajo en objeto de culto entre fanáticos de todo el mundo. Esta edición de lujo de The Acme Novelty Library compila varias de las mejores historietas publicadas dentro de la serie que lo lanzó a la fama, incluidos apartes de la novela en desarrollo sobre el patético Rusty Brown y la colección «Building Stories», publicada anteriormente por fascículos en The New York Times .&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Punk on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/punk/</link>
+    <description>Recent content in Punk on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/punk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love Goes to Buildings on Fire</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/love-goes-to-buildings-on-fire-will-hermes/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/love-goes-to-buildings-on-fire-will-hermes/</guid>
+      <description>&lt;p&gt;Crime was everywhere, the government was broke and the city&amp;rsquo;s infrastructure was collapsing, but between 1974 and 1978 virtually all forms of music were being recreated in New York City&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nuestro grupo podría ser tu vida: Escenas del Indie Underground Norteamericano 1981-1991</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/nuestro-grupo-podria-ser-tu-vida-escenas-del-indie-underground-norteamericano-1981-1991-michael-azerrad/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/nuestro-grupo-podria-ser-tu-vida-escenas-del-indie-underground-norteamericano-1981-1991-michael-azerrad/</guid>
+      <description>&lt;p&gt;Nuestro grupo podría ser tu vida (Our Band Could Be Your Life), que toma el título de un verso de un tema de The Minutemen y está considerado unánimemente como uno de los mejores libros sobre la música rock jamás escritos, relata la trayectoria musical de trece bandas norteamericanas capitales que dieron lo mejor de sí mismas en la década de los 80. Fueron años convulsos que coincidieron con el mandato del presidente Reagan y su política conservadora y nacionalista, y que, en lo musical, dieron lugar a la particular lectura del punk británico y su consigna del «hazlo tú mismo» por parte de algunas bandas del Nuevo Continente que produjeron un sonido agresivo y a un volumen y velocidad de vértigo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PostPunk. Romper todo y empezar de nuevo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/postpunk-romper-todo-y-empezar-de-nuevo-simon-reynolds/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/postpunk-romper-todo-y-empezar-de-nuevo-simon-reynolds/</guid>
+      <description>&lt;p&gt;Si bien existen cientos de libros que documentan aquellos años en los que el punk desafió al status quo de la música con su nihilismo de tres acordes y la ética do it yourself, Postpunk. Romper todo y empezar de nuevo es el primero en recuperar a aquellas bandas que supieron ver en las condiciones generadas por el punk la oportunidad para establecer una verdadera ruptura con la tradición y experimentar por fuera de los estrechos parámetros del rock. Entregados a la tarea de profundizar la revolución iniciada por el punk, grupos como PiL, Joy Division, The Fall, The Slits, Devo, The Residents, Throbbing Gristle o Liquid Liquid exploraron territorios previamente desconocidos al incorporar las técnicas de producción del dub y la música disco, las radicales estrategias compositivas del krautrock, la música contemporánea y el free jazz, y el groove y la economía sonora del funk. Pero no solo de música se alimentó el postpunk: Cabaret Voltaire tomó prestado su nombre de Dada; Pere Ubu adoptó el suyo de Alfred Jarry; Gang of Four, inspirado por Brecht y Godard, trató de deconstruir el rock; los letristas absorbieron la ciencia ficción radical de J.G. Ballard, Philip K. Dick y William S. Burroughs; y bandas como The Pop Group o Contortions se inspiraron en el teatro de la crueldad de Artaud para romper las barreras entre el público y el escenario. Al purismo estridente del punk, el postpunk le opuso eclecticismo e hibridez. Y a su tradicionalismo rockero, un imperativo de cambio constante.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

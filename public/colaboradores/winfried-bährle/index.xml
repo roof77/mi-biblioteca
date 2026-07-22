@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Winfried Bährle on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/winfried-b%C3%A4hrle/</link>
+    <description>Recent content in Winfried Bährle on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/winfried-b%C3%A4hrle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preludio a la Fundación (Fundación, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/preludio-a-la-fundacion-fundacion-1-isaac-asimov/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/preludio-a-la-fundacion-fundacion-1-isaac-asimov/</guid>
+      <description>&lt;p&gt;Preludio a la Fundación es el primer libro del «Ciclo de la Fundación», tercer bloque de la célebre «Saga de la Fundación», la serie que catapultó al autor en lo más alto de la ciencia ficción.&lt;/p&gt;
+&lt;p&gt;Corre el año 12.020 de la Era Galáctica y el emperador Cleón se siente incómodo en su trono. En Trántor, la gran capital del Imperio Galáctico, 40.000 millones de personas han creado una civilización de una complejidad tecnológica y cultural inimaginable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>O. Henry on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/o.-henry/</link>
+    <description>Recent content in O. Henry on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/o.-henry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuentos de Navidad: De los hermanos Grimm a Paul Auster</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuentos-de-navidad-de-los-hermanos-grimm-a-paul-auster-marta-salis/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuentos-de-navidad-de-los-hermanos-grimm-a-paul-auster-marta-salis/</guid>
+      <description>&lt;p&gt;La Navidad, siempre muy presente en la literatura, ha inspirado relatos magníficos, y son muchos los grandes escritores que se han acercado a ella. En esta antología se refleja la alegría, el sentido de comunidad, la excitación espiritual, la oportunidad de cambio, los deseos, la nostalgia e incluso el rechazo que estas fechas despiertan en muchos de nosotros, porque, si bien es cierto que la tradición invita a los buenos sentimientos, no lo es menos que se presta a una variedad sorprendente de estilos y de tonos: no faltan aquí ni el humor, ni la oscuridad, ni la crítica social, ni la fantasía, ni la tragedia. De Berlín a Brooklyn, de un pueblecito sardo a un rancho del Lejano Oeste, de la Provenza a Nueva Zelanda, de un aristocrático salón a un pueblo de mineros, de Dublín a un cohete espacial…: en todos esos lugares veremos celebrar la Nochebuena, la Navidad, el día de San Esteban, la Nochevieja o el día de Reyes, y en todos ellos ocurrirá algo que ilustre el espíritu navideño… o bien lo desmienta.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

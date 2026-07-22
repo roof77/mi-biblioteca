@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Luis Rodríguez on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/luis-rodr%C3%ADguez/</link>
+    <description>Recent content in Luis Rodríguez on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/luis-rodr%C3%ADguez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8.38</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/8-38-luis-rodriguez/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/8-38-luis-rodriguez/</guid>
+      <description>&lt;p&gt;Luis Rodríguez intenta escribir una novela basada en hechos reales, la historia de un brigada de la guardia civil que persigue obsesivamente a dos maquis emboscados en el monte, pero las infinitas posibilidades de la literatura -las mismas por las que escribe- lo bloquean y paralizan.&lt;/p&gt;
+&lt;p&gt;Años después de su suicidio, las voces y reflexiones de Pablo (novelista con el que Luis compartía sus dificultades con la escritura y que termina convirtiendo en realidad la ficción que a su amigo le resultaba esquiva), Jacinta (una niña de doce años que lee la obra de Luis como si fuera una adulta y sospecha que es uno de sus personajes literarios) y Claudio (un peculiar empleado de banca que vive totalmente ajeno a la literatura y que, precisamente por eso, es quien mejor la afirma) van trazando lo que parece una extraña biografía de Luis Rodríguez.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

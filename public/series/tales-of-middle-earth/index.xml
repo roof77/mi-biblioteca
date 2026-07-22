@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tales of Middle Earth on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/tales-of-middle-earth/</link>
+    <description>Recent content in Tales of Middle Earth on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/tales-of-middle-earth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La caída de Gondolin (Middle-Earth Universe)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-caida-de-gondolin-middle-earth-universe-j-r-r-tolkien/</guid>
+      <description>&lt;p&gt;En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo. Por un lado está Morgoth, el mal más absoluto, que está al mando de un enorme poder militar que controla desde su fortaleza en Angband. En su oposición está Ulmo, el segundo Vala más poderoso. Trabaja secretamente en la Tierra Media para apoyar a los Noldor, el grupo de elfos entre los que se contaban Húrin y Túrin Turambar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

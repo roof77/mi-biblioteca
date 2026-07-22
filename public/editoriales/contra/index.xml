@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contra on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/contra/</link>
+    <description>Recent content in Contra on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/contra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Material inflamable</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/material-inflamable-richard-lloyd/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/material-inflamable-richard-lloyd/</guid>
+      <description>&lt;p&gt;Richard Lloyd vivió en carne propia una de las épocas más fértiles y convulsas de la historia del rock. A partir de una serie de recuerdos, traumas, experiencias al límite y pensamientos entre visionarios y delirantes a modo de intensos fogonazos, el mítico guitarrista y fundador del grupo Television da buena cuenta de la gestación de uno de los mejores discos de rock de todos los tiempos: el seminal Marquee Moon (1977), cuyo diálogo-batalla de guitarras con Tom Verlaine marcó un antes y un después en la historia de la música popular. En estas páginas arrebatadas, también se reviven momentos fundamentales de la escena musical de finales de los setenta, como el auge del mítico club neoyorquino CBGB —un antro cuya programación Lloyd animó personalmente y que dio lugar a los primeros conciertos de los Ramones, Blondie, Talking Heads o los propios Television— y encuentros inolvidables con Jimi Hendrix, Keith Moon, Buddy Guy, John Lee Hooker, Keith Richards o Led Zeppelin.
+Pero Material inflamable es mucho más que una autobiografía musical al uso. Lejos de limitarse a relatar la manida tríada de sexo, drogas y rock and roll, Lloyd también explica su temprana experiencia con la locura y sus durísimos internamientos en los manicomios norteamericanos de los años sesenta, su fascinación por la guitarra como medio de expresión y trascendencia, y un anhelo espiritual sobrecogedor que lo llevó a construir un pensamiento mágico con el que oponerse a lo convencional y anodino. Todo ello conforma unas memorias originalísimas, intensas, directas e hilarantes que evocan en un registro entre la oralidad y la urgencia una vida marcada a fuego por la música.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nuestro grupo podría ser tu vida: Escenas del Indie Underground Norteamericano 1981-1991</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/nuestro-grupo-podria-ser-tu-vida-escenas-del-indie-underground-norteamericano-1981-1991-michael-azerrad/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/nuestro-grupo-podria-ser-tu-vida-escenas-del-indie-underground-norteamericano-1981-1991-michael-azerrad/</guid>
+      <description>&lt;p&gt;Nuestro grupo podría ser tu vida (Our Band Could Be Your Life), que toma el título de un verso de un tema de The Minutemen y está considerado unánimemente como uno de los mejores libros sobre la música rock jamás escritos, relata la trayectoria musical de trece bandas norteamericanas capitales que dieron lo mejor de sí mismas en la década de los 80. Fueron años convulsos que coincidieron con el mandato del presidente Reagan y su política conservadora y nacionalista, y que, en lo musical, dieron lugar a la particular lectura del punk británico y su consigna del «hazlo tú mismo» por parte de algunas bandas del Nuevo Continente que produjeron un sonido agresivo y a un volumen y velocidad de vértigo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

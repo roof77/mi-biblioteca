@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Perros on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/perros/</link>
+    <description>Recent content in Perros on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/perros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Al otro extremo de la correa: Por qué a veces nosotros no entendemos a los perros y ellos tampoco nos entienden a nosotros</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/al-otro-extremo-de-la-correa-por-que-a-veces-nosotros-no-entendemos-a-los-perros-y-ellos-tampoco-nos-entienden-a-nosotros-patricia-b-mcconnell/</link>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/al-otro-extremo-de-la-correa-por-que-a-veces-nosotros-no-entendemos-a-los-perros-y-ellos-tampoco-nos-entienden-a-nosotros-patricia-b-mcconnell/</guid>
+      <description>&lt;p&gt;Brand New. Ship worldwide&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El libro del buen perro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-libro-del-buen-perro-ian-dunbar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-libro-del-buen-perro-ian-dunbar/</guid>
+      <description>&lt;p&gt;Welcome to the historically-proven, so-old-that-it?s-new-again, natural, common-sense, and enjoyable way to train your dog?off-leash, lure/reward, fun and games, dog-friendly dog training. This book outlines step-by-step, illustrated techniques for socialization, temperament training, and behavior modification as well as for teaching basic manners. Dr. Dunbar&amp;rsquo;s training techniques are altogether quicker, easier, gentler, more effective, and certainly considerably more enjoyable for you and your dog. Veterinarian and animal behaviorist Dr. Ian Dunbar is the original creator of off-leash puppy classes, which sparked the revolution for positive, reward-based, dog-friendly dog training.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

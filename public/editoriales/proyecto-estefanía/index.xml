@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Proyecto Estefanía on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/proyecto-estefan%C3%ADa/</link>
+    <description>Recent content in Proyecto Estefanía on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/proyecto-estefan%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las pistolas de Dios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-pistolas-de-dios-rot-frissfft-t/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-pistolas-de-dios-rot-frissfft-t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rey Coyote y los cincuenta de Desert Hole</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/rey-coyote-y-los-cincuenta-de-desert-hole-sesi-sexy/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/rey-coyote-y-los-cincuenta-de-desert-hole-sesi-sexy/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Los Thunder Twins empezaron a temblar cuando vieron a Jennifer WildCow abriendo la puerta de la cantina con una patada. Todos intentaron largarse lo antes posible, pero nadie salió de allí hasta que ella lo permitió. Saben que Jennifer es de disparo fácil si le tocan los ovarios. Es mejor enfrentarse a una estampida de búfalos que a la estampa de Jennifer cabreada.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lo que pesa un muerto</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lo-que-pesa-un-muerto-heme-brazo/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lo-que-pesa-un-muerto-heme-brazo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La encrucijada de Desert Hole</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-encrucijada-de-desert-hole-vicky-gatekeeper/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-encrucijada-de-desert-hole-vicky-gatekeeper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machete al forajido</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/machete-al-forajido-sarah-olivetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/machete-al-forajido-sarah-olivetti/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

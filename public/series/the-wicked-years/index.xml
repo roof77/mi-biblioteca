@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Wicked Years on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-wicked-years/</link>
+    <description>Recent content in The Wicked Years on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-wicked-years/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wicked: Memorias de una bruja mala (Los años malvados, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/wicked-memorias-de-una-bruja-mala-los-anos-malvados-1-gregory-maguire/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/wicked-memorias-de-una-bruja-mala-los-anos-malvados-1-gregory-maguire/</guid>
+      <description>&lt;p&gt;En un pueblo de pescadores de Munchkinland nace Elphaba, un bebé de piel verde y dientes de tiburón con los que arranca los dedos a la comadrona. Elphaba crecerá para convertirse en la Malvada Bruja del Oeste, una persona ingeniosa, irritable y poco comprendida que pone en tela de juicio todas nuestras nociones preconcebidas sobre la naturaleza del bien y del mal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

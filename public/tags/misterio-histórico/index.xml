@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misterio Histórico on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/misterio-hist%C3%B3rico/</link>
+    <description>Recent content in Misterio Histórico on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/misterio-hist%C3%B3rico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambrose Bierce y la Reina de Picas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/ambrose-bierce-y-la-reina-de-picas-oakley-hall/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/ambrose-bierce-y-la-reina-de-picas-oakley-hall/</guid>
+      <description>&lt;p&gt;San Francisco, finales de la década de 1880. Un joven auxiliar de imprenta y aspirante a reportero, Tom Redmond, se une al temido escritor y editor del semanario satírico The Hornet, Ambrose Bierce, para investigar una serie de brutales asesinatos de prostitutas cometidos en un barrio de la emergente ciudad. El asesino, conocido como el Destripador de Morton Street, deja siempre un naipe del palo de picas sobre los cuerpos desnudos de sus víctimas. Las conjeturas iniciales, así como las pruebas practicadas, apuntan a que tras la salvaje cacería podría estar una poderosa familia de nuevos ricos de dudosa integridad aliada con los inmorales y a menudo violentos propietarios del monopolio del ferrocarril. Para Tom Redmond, que teme por la vida de la joven por la que se siente atraído, resolver el misterio es de importancia capital; para «el amargo» Bierce es sólo una nueva oportunidad para alimentar su guerra particular contra los magnates de la minería y de la todopoderosa Southern Pacific Railroad y sus políticos títeres.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

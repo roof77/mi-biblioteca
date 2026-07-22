@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pilar Adón on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/pilar-ad%C3%B3n/</link>
+    <description>Recent content in Pilar Adón on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/pilar-ad%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las efímeras</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-efimeras-pilar-adon/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-efimeras-pilar-adon/</guid>
+      <description>&lt;p&gt;Dora y Violeta Oliver, dos hermanas que mantienen una ambigua relación, viven aisladas en una casa situada a las afueras de una comunidad. Sus miembros se han ido reuniendo en el lugar en torno a una gran casa que semeja la forma de una colmena, en busca de un estilo de vida marcado por el retiro y la autosuficiencia, por la coherencia y la introspección. Hasta que un día, una de las hermanas Oliver comienza un acercamiento hacia el tímido Denis, un muchacho perseguido por un turbio pasado que se remonta varias generaciones atrás, y desaparece.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roddy Doyle on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/roddy-doyle/</link>
+    <description>Recent content in Roddy Doyle on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/roddy-doyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una estrella llamada Henry</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-estrella-llamada-henry-roddy-doyle/</link>
+      <pubDate>Fri, 11 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-estrella-llamada-henry-roddy-doyle/</guid>
+      <description>&lt;p&gt;El autor de Café irlandés inicia con esta novela una trilogía sobre la historia de su país: Irlanda. Su protagonista es un joven llamado Henry Smart, un desheredado que acabará integrándose en las filas del IRA. Son los inicios del siglo XX y al joven Henry le aguardan nuevas y sorprendentes peripecias.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paddy Clarke, ja, ja, ja</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/paddy-clarke-ja-ja-ja-roddy-doyle/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Sometimes when nothing happened it was really getting ready to happen.&amp;rdquo; Irish Paddy rampages through Barrytown streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always for the better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La camioneta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/</guid>
+      <description>&lt;p&gt;Jimmy Rabbitte, Sr. is unemployed, spending his days alone and miserable. When his best friend, Bimbo, also gets laid off, they keep by being miserable together. Things seem to look up when they buy a decrepit fish-and-chip van and go into business, selling cheap grub to the drunk and the hungry&amp;ndash;and keeping one step ahead of the environmental health officers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

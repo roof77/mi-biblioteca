@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Núria Barba Costa on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/n%C3%BAria-barba-costa/</link>
+    <description>Recent content in Núria Barba Costa on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Oct 2001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/n%C3%BAria-barba-costa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Hell</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/from-hell-alan-moore/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/from-hell-alan-moore/</guid>
+      <description>&lt;p&gt;Edición de la obra completa de Moore y Campbell revisada y complementada con comentarios de Alan Moore en esta revisitación del mito de Jack el Destripador, a su vez disección despiadada de la sociedad victoriana.
+Esta obra ha sido galardonada con los prestigiosos premios Eisner y Harvey en diversas categorías así como por el premio de la crítica del Festival de Angoulema 2001.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

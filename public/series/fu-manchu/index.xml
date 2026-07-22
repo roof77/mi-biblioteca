@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fu Manchu on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/fu-manchu/</link>
+    <description>Recent content in Fu Manchu on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/fu-manchu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El regreso de Fu-Manchú</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-regreso-de-fu-manchu-sax-rohmer/</guid>
+      <description>&lt;p&gt;«Los misterios de Si-Fan» («The Si-Fan Mysteries») [Novela] 1917 Sax Rohmer (traducción de Victoria Simó 2002)
+«La hija de Fu-Manchú» («Daughter of Fu-Manchu») [Novela] 1931 Sax Rohmer (traducción de Victoria Simó 2000)
+«La novia de Fu-Manchú» («Fu Manchu&amp;rsquo;s Bride») [Novela] 1933 Sax Rohmer (traducción de Nicole Chiner 2000)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

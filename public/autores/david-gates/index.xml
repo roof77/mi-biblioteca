@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Gates on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/david-gates/</link>
+    <description>Recent content in David Gates on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/david-gates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jernigan (Spanish Edition)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/jernigan-spanish-edition-david-gates/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/jernigan-spanish-edition-david-gates/</guid>
+      <description>&lt;p&gt;Peter Jernigan tiene poco más de cuarenta años, vive en un barrio residencial de Nueva Jersey con su hijo adolescente, Danny, y trabaja en una inmobiliaria neoyorquina. Inteligente pero con escaso éxito, Jernigan naufraga en una adocenada vida de la que no consiguen sacarlo ni sus adicciones ni su sarcasmo. Su estrafalaria manera de relacionarse con los demás y la reciente muerte de su mujer lo arrastran a una tortuosa decadencia. Parece que las cosas pueden empezar a cambiar cuando conoce a Martha Peretsky, la madre divorciada de la novia de su hijo, e inician una prometedora relación.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

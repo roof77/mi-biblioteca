@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ernest Haycox on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/ernest-haycox/</link>
+    <description>Recent content in Ernest Haycox on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/ernest-haycox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cornetas al atardecer</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cornetas-al-atardecer-ernest-haycox/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cornetas-al-atardecer-ernest-haycox/</guid>
+      <description>&lt;p&gt;Cornetas al atardecer apareció por entregas en el Saturday Evening Post en 1943 y fue llevada al cine en 1952 en una película dirigida por Roy Rowland.
+Ernest Haycox nació en Portland, Oregón, en 1899. Como muchos otros autores norteamericanos de western, Haycox conoció la vida militar. En 1915 sirve en la guardia de la frontera mexicana y poco después es destinado durante dos años en Francia. Comienza a escribir como periodista freelance antes de dedicarse por entero a la literatura con bastante éxito. Haycox basó sus narraciones en investigaciones históricas, testimonios directos, archivos, etc. y se convirtió en uno de los autores fundamentales en la evolución del Western, pasando de la pura aventura y acción de los comienzos del género a argumentos más elaborados, psicologías más complejas, ambientaciones históricas cuidadas y una mayor variedad temática.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

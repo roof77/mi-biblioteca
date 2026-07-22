@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/de-que-hablamos-cuando-hablamos-de-amor-raymond-carver/cover.jpg" alt="Portada de De qué hablamos cuando hablamos de amor">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">De qué hablamos cuando hablamos de amor
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Aquí están la atmósfera y los personajes de un autor que dominó indiscutiblemente el panorama literario norteamericano de los años ochenta del siglo XX. Parejas que se despedazan, compañeros que parten desesperadamente a la aventura, hijos que intentan comunicarse con sus padres, un universo injusto, violento, tenso, a veces irrisorio.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-05-01 00:00:00 +0000 UTC'>May 1, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to De qué hablamos cuando hablamos de amor" href="http://localhost:1313/mi-biblioteca/libros/de-que-hablamos-cuando-hablamos-de-amor-raymond-carver/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-emil-ferris/cover.jpg" alt="Portada de Lo que más me gusta son los monstruos">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lo que más me gusta son los monstruos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que se rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-04-01 00:00:00 +0000 UTC'>April 1, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to Lo que más me gusta son los monstruos" href="http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-emil-ferris/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/cuidado-que-te-asesinas-lorenzo-montatore/cover.jpg" alt="Portada de ¡Cuidado, que te asesinas!">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¡Cuidado, que te asesinas!
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Centramina sufre el bloqueo del escritor, el temita de la página en blanco, un asunto espantoso que sólo presenta un arreglo: bajarse a la noche.
+Con el invertebrado Optalidón como escudero, nuestra protagonista emprenderá un viaje psíquico en busca de la palabra cegadora. Juntos vivirán una lujuriosa aventura de barrio en la que se dejarán empapar por los caldos de la existencia y le plantarán cara al destino, que por su parte se presentará inoportuno o premeditado, puntual o diferido, benévolo o puede que infame.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-02-22 00:00:00 +0000 UTC'>February 22, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to ¡Cuidado, que te asesinas!" href="http://localhost:1313/mi-biblioteca/libros/cuidado-que-te-asesinas-lorenzo-montatore/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-virginiano-un-caballero-de-las-llanuras-owen-wister/cover.jpg" alt="Portada de El Virginiano: Un caballero de las llanuras">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El Virginiano: Un caballero de las llanuras
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Historiadores y críticos coinciden en considerar El Virginiano (1902), de Owen Wister, como la gran novela americana iniciadora del western, como la obra fundacional del género. Aunque ya en el siglo XIX podemos encontrar en la literatura norteamericana algunas incursiones en el tema del Oeste de grandes escritores como Mark Twain, Bret Harte u O’Henry, lo cierto es que sus obras aún no habían definido al gran protagonista del género, el cowboy.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-02-01 00:00:00 +0000 UTC'>February 1, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to El Virginiano: Un caballero de las llanuras" href="http://localhost:1313/mi-biblioteca/libros/el-virginiano-un-caballero-de-las-llanuras-owen-wister/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/sabrina-nick-drnaso/cover.jpg" alt="Portada de Sabrina">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Sabrina
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>WHERE IS SABRINA?
+The answer is hidden on a videotape, a tape which is en route to several news outlets, and about to go viral.
+A landmark graphic novel, already hailed as one of the most exciting and moving stories of recent years, Sabrina is a tale of modern mystery, anxiety, fringe paranoia and mainstream misinformation – a book that tells the story of those left behind in the wake of tragedy, has important things to say about how we live now, and possesses the rare power to leave readers pulverised.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-01-01 00:00:00 +0000 UTC'>January 1, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to Sabrina" href="http://localhost:1313/mi-biblioteca/libros/sabrina-nick-drnaso/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/the-end-of-the-fucking-world-charles-forsman/cover.jpg" alt="Portada de The End of the Fucking World">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The End of the Fucking World
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>‘At 16, I pretended to fall in love with Alyssa.’
+Meet James and Alyssa, two teenagers facing the fears of coming adulthood. As their story is told through chapters which alternate between each character’s perspective, however, this somewhat familiar teenage experience takes a more nihilistic turn. With James’s character becoming rapidly more sociopathic, they are forced to take a road trip that owes as much to Badlands as The Catcher in the Rye, and which threatens both their futures forever.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2018-01-01 00:00:00 +0000 UTC'>January 1, 2018</span></footer>
+  <a class="entry-link" aria-label="post link to The End of the Fucking World" href="http://localhost:1313/mi-biblioteca/libros/the-end-of-the-fucking-world-charles-forsman/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/damas-oscuras-cuentos-de-fantasmas-de-escritoras-victorianas-eminentes-charlotte-bronte/cover.jpg" alt="Portada de Damas oscuras. Cuentos de fantasmas de escritoras victorianas eminentes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Damas oscuras. Cuentos de fantasmas de escritoras victorianas eminentes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Veintiún cuentos de fantasmas escritos por algunas de las maestras victorianas del relato escalofriante. Un regalo perfecto para Navidad y para leer al amor de la lumbre. ¿Qué hace que las historias victorianas de fantasmas sean tan perfectas para leer al calor de una chimenea en una noche oscura? Historias de mansiones abandonadas, de viajes en coches de caballos por páramos desolados, de castillos en acantilados, de bellas mujeres sepulcrales, de oscuras historias familiares en las que los antepasados no acaban de irse del todo… Un género en el que algunas eminentes damas novelistas, especialistas en lo escalofriante, marcaron tendencia. Las veintiuna historias incluidas en este volumen abarcan el reinado de la reina Victoria y cuentan con aportaciones de autoras clásicas como Charlotte Brontë, Elizabeth Gaskell, Margaret Oliphant o Willa Cather, junto con otras no tan conocidas pero no por ello menos especialistas en lo tenebroso y lo sobrenatural. Ambientados en las montañas de Irlanda, en una villa mediterránea o en una tétrica mansión de Londres, estos relatos evidencian la fascinación victoriana por la muerte y por lo que había más allá, con atmósferas sugerentes, ingenio y mucho, mucho humor.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-11-01 00:00:00 +0000 UTC'>November 1, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Damas oscuras. Cuentos de fantasmas de escritoras victorianas eminentes" href="http://localhost:1313/mi-biblioteca/libros/damas-oscuras-cuentos-de-fantasmas-de-escritoras-victorianas-eminentes-charlotte-bronte/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/atlas-de-las-constelaciones-susanna-hislop/cover.jpg" alt="Portada de Atlas de las constelaciones">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Atlas de las constelaciones
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Mira hacia arriba: es de noche y sobre tu cabeza hay un lienzo oscuro, repleto de diminutos puntos blancos. Si te fijas bien, puedes unirlos en tu mente, y si lo haces correctamente, conseguirás que se ponga en movimiento un fantástico carnaval de criaturas familiares o salvajes, algunas de ellas míticas, otras divinas. Sus historias, relatadas en incontables lenguas, reverberan aún en nuestras vidas y en nuestros sueños, incluso aquellas que piensas que no conoces o que nunca escuchaste. Lo creas o no, tanto tú como yo estamos hechos de las historias en las estrellas. La escritora Susanna Hislop y la ilustradora Hannah Waldron nos guían por los siglos y las culturas para contarnos todas esas historias, las de las ochenta y ocho constelaciones que componen el cielo nocturno. Una lectura maravillosa y un libro bello como la propia noche.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-10-09 00:00:00 +0000 UTC'>October 9, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Atlas de las constelaciones" href="http://localhost:1313/mi-biblioteca/libros/atlas-de-las-constelaciones-susanna-hislop/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/un-lugar-pagano-edna-o-brien/cover.jpg" alt="Portada de Un lugar pagano">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Un lugar pagano
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>He aquí una de las grandes novelas irlandesas de todos los tiempos, comparada a menudo con el Retrato del artista adolescente de James Joyce, y tan emocionante como Dublineses. Una joven recuerda su difícil, y a la vez fascinante, niñez en la Irlanda rural de los años treinta y cuarenta: los rituales de la vida en el pueblo, las personas que conoció y amó, la encantadora belleza del paisaje. Pero también recuerda qué la llevó a abandonar su hogar para siempre, aquel instante exacto: el indecible misterio de su familia.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-08-28 00:00:00 +0000 UTC'>August 28, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to Un lugar pagano" href="http://localhost:1313/mi-biblioteca/libros/un-lugar-pagano-edna-o-brien/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-quinta-estacion-n-k-jemisin/cover.jpg" alt="Portada de La quinta estación">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La quinta estación
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La quinta estación es la primera novela de «La Tierra Fragmentada», serie que mezcla fantasía y ciencia ficción, y que ha hecho merecedora a su autora de dos Premios Hugo a la mejor novela consecutivos: 2016 por la presente y 2017 por El portal de los obeliscos (La Tierra Fragmentada 2).
+Toda era tiene que llegar a su fin.
+Ha dado comienzo una estación de desenlaces.
+Empieza con una gran grieta roja que recorre las entrañas del único continente del planeta, una grieta que escupe una ceniza que oculta la luz del sol.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-05-01 00:00:00 +0000 UTC'>May 1, 2017</span></footer>
+  <a class="entry-link" aria-label="post link to La quinta estación" href="http://localhost:1313/mi-biblioteca/libros/la-quinta-estacion-n-k-jemisin/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/15/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/17/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

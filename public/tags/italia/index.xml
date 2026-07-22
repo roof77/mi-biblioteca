@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Italia on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/italia/</link>
+    <description>Recent content in Italia on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/italia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A pleno sol</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/a-pleno-sol-patricia-highsmith/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/a-pleno-sol-patricia-highsmith/</guid>
+      <description>&lt;p&gt;En A pleno sol, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje: el inquietante y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela policíaca y la novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso análisis psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie de que regrese al hogar. Tom acepta el encargo –de paso pone tierra por medio a posibles problemas policiales– y encuentra a Dickie y a su amiga Marga, con quienes establece una turbia relación que desemboca en el crimen y el engaño.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

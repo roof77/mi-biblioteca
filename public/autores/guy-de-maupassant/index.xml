@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guy De Maupassant on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/guy-de-maupassant/</link>
+    <description>Recent content in Guy De Maupassant on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Oct 2005 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/guy-de-maupassant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Casa Tellier y Otros Cuentos Eroticos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-casa-tellier-y-otros-cuentos-eroticos-guy-de-maupassant/</link>
+      <pubDate>Thu, 27 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-casa-tellier-y-otros-cuentos-eroticos-guy-de-maupassant/</guid>
+      <description>&lt;p&gt;Publisher: The Pearson Publishing Co.  Publication date: 1910  Subjects: French fiction    Fiction / Classics    Fiction / Literary    Fiction / Short Stories    Language Arts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La Madre de los Monstruos y otros cuentos de locura y muerte</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-madre-de-los-monstruos-y-otros-cuentos-de-locura-y-muerte-guy-de-maupassant/</link>
+      <pubDate>Fri, 28 Jul 1995 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-madre-de-los-monstruos-y-otros-cuentos-de-locura-y-muerte-guy-de-maupassant/</guid>
+      <description>&lt;p&gt;Cuanto más se adentra Maupassant en lo fantástico, más avanza en lo irreal y más abraza la realidad, su propia realidad, pues cada vez más sus cuentos están compuestos de observaciones hechas sobre sí mismo. Con una lucidez prodigiosa, este cerebro que se licuaba lentamente notaba todo, desde los primeros fenómenos de autoscopia externa (desdoblamiento) hasta los grandes delirios; no es él quien va hacia lo horrible, es lo horrible que camina hacia él. (Paul Morand)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

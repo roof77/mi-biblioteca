@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kenneth Grahame on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/kenneth-grahame/</link>
+    <description>Recent content in Kenneth Grahame on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/kenneth-grahame/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El viento en los sauces</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-viento-en-los-sauces-kenneth-grahame/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-viento-en-los-sauces-kenneth-grahame/</guid>
+      <description>&lt;p&gt;Kenneth Grahame (1859-1932) perdió a su madre cuando sólo tenía cinco años, y su padre, incapaz de hacerse cargo de sus cuatro hijos, los envió a vivir con su abuela a una gran casa en el campo, «The Mount», en el pueblo de Cookham Dene, Berkshire. El recuerdo de aquella casa inspiró a Grahame El viento en los sauces, de cuya aparición, en plena Edad Dorada de la literatura infantil inglesa, se cumplen ahora cien años. Recibida al principio con tibieza, la obra llevaba, cuarenta años después, más de cien ediciones publicadas: se había convertido en un clásico popular.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

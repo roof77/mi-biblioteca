@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tori Telfer on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/tori-telfer/</link>
+    <description>Recent content in Tori Telfer on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/tori-telfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Damas asesinas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/damas-asesinas-tori-telfer/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/damas-asesinas-tori-telfer/</guid>
+      <description>&lt;p&gt;¿Creías que todos los asesinos en serie eran hombres? De hecho, muchos expertos defienden las tesis de que las asesinas en serie no existen. Pero ¿qué hay entonces de la infame condesa Erzsébet Báthory (conocida como «la condesa sangrienta»), de Nannie Doss (la adorable abuelita asesina, apodada «lady Barbazul»), de Mary Ann Cotton (virtuosa del «arsénico sin compasión»), de Darya Nikolayevna Saltykova («la vampiresa rusa»), o de Kate Bender («la bella rebanadora de pescuezos»)? La periodista Tori Telfer ofrece un compendio de catorce grandes asesinas cuyos crímenes estremecieron al mundo. Un sugerente catálogo de mujeres que hicieron del asesinato un arte: horneando ricos pasteles con sorpresa, manejando el cuchillo con habilidad letal o ideando sibilinos venenos a prueba de autopsia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

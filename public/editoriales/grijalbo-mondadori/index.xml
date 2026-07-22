@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Grijalbo Mondadori on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/grijalbo-mondadori/</link>
+    <description>Recent content in Grijalbo Mondadori on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Oct 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/grijalbo-mondadori/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La fortaleza de la soledad</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-fortaleza-de-la-soledad-jonathan-lethem/</link>
+      <pubDate>Sun, 31 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-fortaleza-de-la-soledad-jonathan-lethem/</guid>
+      <description>&lt;p&gt;La fortaleza de la soledad cuenta la historia de Dylan Ebdus. Ebdus llega a Boreum Hill, Brooklyn, durante la primera mitad de los setenta; un niño blanco de una familia de hippies que se establecen con el beneplácito de la fundadora de la comunidad blanca local. La madre de Dylan, Rachel, una mujer bohemia y pronta a llegar a las manos, abandona poco después a su marido Abraham, un quijotesco pintor que lleva toda su vida haciendo una película con sus pinturas abstractas y que sobrevive pintando portadas para ediciones de ciencia ficción de bolsillo. Las peripecias de Dylan para sobrevivir a lo largo de toda su educación secundaria en un barrio de negros, así como sus días de ser apalizado simplemente por el dinero de su almuerzo parecen llegar a su fin cuando conoce a su hermano espiritual Mingus Rude, un negro que le introduce en otros mundos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Un veterinario en apuros</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/un-veterinario-en-apuros-james-herriot/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/un-veterinario-en-apuros-james-herriot/</guid>
+      <description>&lt;p&gt;Un nuevo libro de James Herriot, una colección de historias sacadas de su vida como veterinario en los hermosos valles del condado inglés de York. Veterinario recién titulado, relata las diversas situaciones en que se ve inmerso a causa del ejercicio de su profesión. Junto con ello, describe con gran maestría y, a la vez, mucha sencillez, a los pacientes que debe atender y las condiciones que los rodean; así mismo, se detiene en la observación de las personalidades tan dispares, en algunos casos, de sus dueños.
+Su permanente admiración por el paisaje rural, lo lleva a transmitir sus emociones al lector. El lenguaje es sencillo y hasta coloquial, lo que hace de esta novela una lectura apta para cualquier lector. El tono, siempre optimista, revela el amor a los animales, grandes y pequeños.
+Abundan los diálogos ingeniosos, en especial con los granjeros del lugar, por donde asoma la idiosincrasia de estos personajes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

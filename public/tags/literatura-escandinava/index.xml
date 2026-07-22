@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literatura Escandinava on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/literatura-escandinava/</link>
+    <description>Recent content in Literatura Escandinava on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/literatura-escandinava/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El mundo de Sofía</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-mundo-de-sofia-jostein-gaarder/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-mundo-de-sofia-jostein-gaarder/</guid>
+      <description>&lt;p&gt;EL LIBRO QUE HA ENSEÑADO A PENSAR A TODA UNA GENERACIÓN&lt;/p&gt;
+&lt;p&gt;Esta extraordinaria obra de divulgación que se ha convertido ya en una obra de culto aporta una coherente visión de conjunto sobre aquellos aspectos imprescindibles para comprender la historia de la filosofía occidental. El mundo de Sofía tiene el mérito de haber conjugado, acertadamente, rigor y amenidad en una narración donde una joven irá conociendo su propia identidad mientras descubre la capacidad humana de hacer preguntas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

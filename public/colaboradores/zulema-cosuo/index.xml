@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zulema Cosuo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/zulema-cosuo/</link>
+    <description>Recent content in Zulema Cosuo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/zulema-cosuo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lolito</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lolito-ben-brooks/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lolito-ben-brooks/</guid>
+      <description>&lt;p&gt;Etgar tiene todo por hacer y sin embargo no quiere hacer nada. Etgar tiene problemas de adolescente y miedos de adulto. Etgar solo quiere ver documentales marinos y comedias sin muerte, pero clica en los vídeos virales más sádicos. Etgar es aún un crío, pero ya escribe cartas imaginarias a sus hijos que no nacerán. Etgar querría beber siempre té con Nesquik, pero vacía una botella de alcohol tras otra.
+Los amigos de Etgar también lloran, como él, pero siempre despiden sus mensajes con una risa. Pasea por las calles grises de su pueblo, pero es en internet donde Etgar descubre el desamor más cruel (el engaño de su primera novia en Facebook) y también el amor más cálido y extraño (el consuelo de una mujer madura tan indefensa como él, en un chat sexual). Un juego de identidades que deberá resolver en la vida real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

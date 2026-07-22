@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Stormlight Archive on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-stormlight-archive/</link>
+    <description>Recent content in The Stormlight Archive on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-stormlight-archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viento y verdad (El archivo de las tormentas, #5)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/viento-y-verdad-el-archivo-de-las-tormentas-5-brandon-sanderson/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/viento-y-verdad-el-archivo-de-las-tormentas-5-brandon-sanderson/</guid>
+      <description>&lt;p&gt;La esperada y explosiva conclusión del primer arco de El Archivo de las Tormentas, la emblemática obra maestra de la fantasía épica de Brandon Sanderson, con más de diez millones de lectores en todo el mundo.&lt;/p&gt;
+&lt;p&gt;Dalinar Kholin desafió al malvado dios Odium a un duelo de campeones en el que se decidirá el futuro de Roshar. Los Caballeros Radiantes solo tienen diez días para prepararse… y la repentina ascensión del taimado e implacable Taravangian al puesto de Odium lo ha sumido todo en una tremenda confusión.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El camino de los reyes (El archivo de las tormentas, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-camino-de-los-reyes-el-archivo-de-las-tormentas-1-brandon-sanderson/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-camino-de-los-reyes-el-archivo-de-las-tormentas-1-brandon-sanderson/</guid>
+      <description>&lt;p&gt;Una obra maestra tan ambiciosa como fascinante
+Resultado de más de una década de planificación y construcción de universos, &amp;lsquo;El camino de los reyes&amp;rsquo; es el primer tomo de Los Manuscritos de las Tormentas, una saga que constará de diez volúmenes.&lt;/p&gt;
+&lt;p&gt;Sanderson es, junto a George R. R. Martin y J. R. R. Tolkien, uno de los autores con mayor presencia en la lista de más vendidos del &amp;lsquo;New York Times&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Palabras radiantes (El archivo de las tormentas, #2)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/palabras-radiantes-el-archivo-de-las-tormentas-2-brandon-sanderson/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/palabras-radiantes-el-archivo-de-las-tormentas-2-brandon-sanderson/</guid>
+      <description>&lt;p&gt;Palabras radiantes es la continuación de Camino de los reyes, la aclamada primera parte de la serie en diez volúmenes The Stormlight Archive. En ella retrocedemos seis años en el tiempo, cuando un asesino, entre cuyos primeros objetivos se halla Dalinar, mata al rey alezi. Kaladin está al mando de los guardaespaldas reales, un puesto controvertido por su baja condición, y debe proteger al rey y a Dalinar, al tiempo que dominar, en secreto, los nuevos y extraordinarios poderes vinculados a sus honorspren. Shallan tiene la misión de impedir el fin de las Desolaciones. Las Llanuras Quebradas tienen la respuesta; en ellas los parshendi están convencidos, gracias a su líder, de arriesgarlo todo en una apuesta desesperada&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

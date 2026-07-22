@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fracaso Books on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/fracaso-books/</link>
+    <description>Recent content in Fracaso Books on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/fracaso-books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los Modlin</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-modlin-paco-gomez/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-modlin-paco-gomez/</guid>
+      <description>&lt;p&gt;El libro crowdfunding del año: 609 mecenas, 21.170 € conseguidos y un total de 760 libros adquiridos antes de la impresión. Una vez impreso, vendió en pocos meses más de 2.500 ejemplares.&lt;/p&gt;
+&lt;p&gt;Diez años le ha llevado al fotógrafo Paco Gómez (Madrid, 1971) escribir Los Modlin. Una década de investigación, llena de vicisitudes, para componer un puzle narrativo en el que el autor reconstruye, a partir de unas fotografías que encuentra en la basura, la inquietante y extraña historia de los Modlin, una familia de artistas norteamericanos obsesionados con la fama que se afincaron en Madrid en la España de los años 70.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Acacia on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/acacia/</link>
+    <description>Recent content in Acacia on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/acacia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acacia (Acacia #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/acacia-acacia-1-david-anthony-durham/</link>
+      <pubDate>Wed, 09 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/acacia-acacia-1-david-anthony-durham/</guid>
+      <description>&lt;p&gt;En el corazón del Imperio de Acacia se halla su rey Leodan Akaran, que dirige el llamado Mundo Conocido. Leodan representa la generación numero veintidós de los reyes acacianos que gobiernan su imperio en paz. En realidad, los acacianos han creado un imperio rico y prospero que ha construido su riqueza sobre el esclavismo y la venta de parte de su población infantil a Lothan Aklun (quien rige un imperio más amplio y poderoso que la misma Acacia) a cambio de una droga que pacifica a sus consumidores de manera que nunca sean capaces de desarrollar suficiente fuerza de voluntad para quejarse. En su lecho de muerte, Leodan se preocupa por poner en marcha un plan largo tiempo preparado para salvar la vida de sus cuatro hijos, a quienes ha educado impidiendo que conocieran las razones de la prosperidad de Acacia, han sido escondidos y crecen ignorantes de su destino, mientras que su hermana Corrin es cautiva de los Mein en el palacio en el que nació.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

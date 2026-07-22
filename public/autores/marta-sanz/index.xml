@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marta Sanz on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/marta-sanz/</link>
+    <description>Recent content in Marta Sanz on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/marta-sanz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniela Astor y la caja negra</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/daniela-astor-y-la-caja-negra-marta-sanz/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/daniela-astor-y-la-caja-negra-marta-sanz/</guid>
+      <description>&lt;p&gt;Susana Estrada enseña un pecho mientras Enrique Tierno Galván le entrega el galardón concedido por un periódico. Amparo Muñoz es coronada miss Universo y María José Cantudo protagoniza el primer desnudo integral del cine español en La trastienda de Jordi Grau. Marisol aparece desnuda en la portada de Interviú y Bárbara Rey presenta un programa de variedades sentada en un sillón de mimbre a lo Emmanuelle. La jovencísima Sandra Mozarowsky muere al caer desde el balcón de su casa. Los rumores y especulaciones llegan hasta los blogs de la actualidad. Es la época del fantaterror, la tercera vía y el destape. El desnudo femenino se intelectualiza a la vez que se va consolidando como bien de consumo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ficción Realista on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/ficci%C3%B3n-realista/</link>
+    <description>Recent content in Ficción Realista on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/ficci%C3%B3n-realista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebeldes (Spanish Edition)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/rebeldes-spanish-edition-s-e-hinton/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/rebeldes-spanish-edition-s-e-hinton/</guid>
+      <description>&lt;p&gt;Una novela tan impactante hoy como cuando se publicó hace cincuenta años. Una historia emocionante e inolvidable sobre chicos de barrio que luchan por salir adelante.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Algún día este dolor te será útil</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/algun-dia-este-dolor-te-sera-util-peter-cameron/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/algun-dia-este-dolor-te-sera-util-peter-cameron/</guid>
+      <description>&lt;p&gt;James Sveck, el narrador de esta novela, es un adolescente inteligente y precoz, ha terminado el colegio y durante el verano trabaja en la galería de arte que su madre tiene en Manhattan y en la que casi nunca entra a nadie. Pese a haber sido admitido en la prestigiosa Universidad de Brown no está seguro de querer ir; lo que de verdad le gustaría es comprarse una casa en el campo y pasarse el día leyendo, sin ser molestado; detesta relacionarse con gente de su edad, a la que evita y con la que piensa que no tiene nada en común.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

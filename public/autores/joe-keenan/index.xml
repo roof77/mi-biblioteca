@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joe Keenan on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/joe-keenan/</link>
+    <description>Recent content in Joe Keenan on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/joe-keenan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La increíble boda de Gilbert y Moira</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-increible-boda-de-gilbert-y-moira-joe-keenan/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-increible-boda-de-gilbert-y-moira-joe-keenan/</guid>
+      <description>&lt;p&gt;Gilbert Selwyn y Moira Finch tienen el placer de invitaros a la que está llamada a convertirse en la boda del año. Gilbert es un joven encantador al que el trabajo le produce una alergia incurable. Para mantener sus finanzas a flote y «saquear» los bolsillos del escandalosamente rico marido de su madre, ha concebido un plan perfecto: organizar una boda solo por los regalos.&lt;/p&gt;
+&lt;p&gt;Pero Gilbert es gay y necesita una novia con la que llevar a cabo su brillante idea. Ahí entra en escena la ambiciosa y maquiavélica Moira, cuya madre, que se acaba de casar con el multimillonario duque de Dorsetshire, también contribuirá a los ingresos de la futura pareja. Ayudados por Philip Cavanaugh, un compositor de musicales que en el pasado tuvo un breve romance con Gilbert, se embarcarán en una alocada y peligrosa aventura repleta de sorpresas que les llevará a enfrentarse a un «invitado» inesperado: la Mafia italiana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

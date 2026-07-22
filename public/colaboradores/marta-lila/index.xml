@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marta Lila on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/marta-lila/</link>
+    <description>Recent content in Marta Lila on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/marta-lila/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo cielos inmensos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bajo-cielos-inmensos-a-b-guthrie-jr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bajo-cielos-inmensos-a-b-guthrie-jr/</guid>
+      <description>&lt;p&gt;Bajo cielos inmensos (The Big Sky) fue llevada a la gran pantalla por Howard Hawks en 1952 y se estrenó en España con el título de Río de sangre.
+Alfred Bertram Guthrie nació en Indiana en 1901 y, aunque ejerció muchos años como periodista, finalmente se dedicó a la ficción. Escribió novelas de misterio, cuentos infantiles, fábulas de animales, ensayos y una autobiografía, y dedicó cinco novelas a evocar la historia de Estados Unidos y su construcción como país. Aunque la segunda de la serie, The Way West, recibió el premio Pulitzer en 1950, la primera, Bajo cielos inmensos (1947), se considera su obra maestra.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

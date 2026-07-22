@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>China on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/china/</link>
+    <description>Recent content in China on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shenzhen</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/</guid>
+      <description>&lt;p&gt;Shenzhen, ciudad elegida por Deng Xiao Ping como campo de pruebas de la llamada &amp;ldquo;economía socialista de mercado&amp;rdquo;, ha pasado de los 30,000 habitantes que tenía en 1980 a cerca de 10 millones en la actualidad, convirtiéndose en una de las ciudades más dinámicas de China y una de las megalópolis del mundo.&lt;/p&gt;
+&lt;p&gt;Durante un mes, Guy Delisle, autor de Pyongyang, ejerció en Shenzhen como director de un equipo de animadores en la realización de un proyecto de dibujos animados. Durante ese tiempo su vida cotidiana se pobló de malentendidos, torpes tentativas de comunicación, reflexiones, soledad, descubrimientos culinarios más o menos agradables y veladas surrealistas. Un choque cultural que el autor afronta con humor y maestría.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cuando fuimos huérfanos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuando-fuimos-huerfanos-kazuo-ishiguro/</link>
+      <pubDate>Tue, 18 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuando-fuimos-huerfanos-kazuo-ishiguro/</guid>
+      <description>&lt;p&gt;Inglaterra, años treinta. Christopher Banks se ha convertido en el más célebre detective de Londres. Pero hay un enigma que es incapaz de resolver y del que él mismo es protagonista: cuando era niño y vivía en Shangai con su familia, sus padres desaparecieron misteriosamente, acaso secuestrados por la mafia china por un asunto relacionado con el tráfico de opio. Él, que creció como un huérfano, tiene recuerdos vagos y contradictorios de lo que realmente sucedió. Pero la ausencia de sus padres, de los que ni siquiera sabe con seguridad si están vivos o muertos, le atormenta. Y por eso decide que debe enfrentarse al caso de su vida y viaja desde una Europa convulsa en la que emerge el fascismo y se avecina la guerra a un Shangai convertido en polvorín en el que se enfrentan los chinos comunistas y el ejército japonés invasor. En esta ciudad cosmopolita y caótica Christopher Banks, en busca de las claves de su pasado, se verá inmerso en una pesadilla kafkiana…&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

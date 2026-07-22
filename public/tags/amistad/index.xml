@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amistad on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/amistad/</link>
+    <description>Recent content in Amistad on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/amistad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicas felizmente casadas (Las chicas de campo, #3)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/chicas-felizmente-casadas-las-chicas-de-campo-3-edna-o-brien/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/chicas-felizmente-casadas-las-chicas-de-campo-3-edna-o-brien/</guid>
+      <description>&lt;p&gt;A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan distintas como complementarias, vivieron su infancia en los bellos paisajes rurales de la Irlanda profunda, rodeadas de un sinfín de personajes, algunos entrañables y otros maravillosamente detestables. Tras pasar por un internado y dejar atrás a sus singulares familias, se instalaron en Dublín y se abalanzaron sobre el amor en todas sus formas conocidas, no todas «convenientes», desde luego, y no siempre con fortuna… Pero han pasado los años, e Irlanda y los años de juventud quedan lejos. Ambas, casadas finalmente, viven en Londres: Kate, ya madre, con su gran amor de Dublín; Baba, con un ostentoso constructor (sí, un nuevo rico) que le ofrece la vida de comodidades y lujos a la que siempre aspiró. Dos mujeres aún jóvenes e impetuosas, dos hombres definitivamente maduros.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

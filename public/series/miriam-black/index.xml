@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Miriam Black on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/miriam-black/</link>
+    <description>Recent content in Miriam Black on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/miriam-black/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blackbirds (Miriam Black, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/blackbirds-miriam-black-1-chuck-wendig/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/blackbirds-miriam-black-1-chuck-wendig/</guid>
+      <description>&lt;p&gt;Miriam Black ha visto, antes de que acontecieran, cientos de accidentes de tráfico, ataques al corazón, asesinatos y suicidios. Ha intentado evitarlos en muchas ocasiones, y ha acabado por aceptar que es imposible. Pero el día que conoce a Louis Darling en la carretera, al darle la mano, ve que Louis va a ser asesinado por su culpa, tan solo por haberla conocido, y que ella será la siguiente víctima. Escarmentada por la experiencia, sabe que no podrá salvar a Louis. Pero si ella misma quiere seguir con vida, no le queda más remedio que intentarlo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

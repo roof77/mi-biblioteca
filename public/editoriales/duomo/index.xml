@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Duomo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/duomo/</link>
+    <description>Recent content in Duomo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/duomo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La ceremonia</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-ceremonia-sayaka-murata/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-ceremonia-sayaka-murata/</guid>
+      <description>&lt;p&gt;Historias de amor extraño, amistades sinceras y la naturaleza inquietante de la existencia humana.&lt;/p&gt;
+&lt;p&gt;Las tensiones de una pareja de novios por sus diferencias a la hora de entender el acto de comer o por los materiales con los que están hechos los objetos de su lista de boda, qué significa perder al ser querido, sentir celos, enamorarse o cuál de las per­sonalidades con las que nos presentamos al mundo es la que realmente nos define…&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

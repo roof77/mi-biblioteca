@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mapas on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/mapas/</link>
+    <description>Recent content in Mapas on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/mapas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlas de islas remotas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/atlas-de-islas-remotas-judith-schalansky/</link>
+      <pubDate>Sun, 27 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/atlas-de-islas-remotas-judith-schalansky/</guid>
+      <description>&lt;p&gt;Visualmente deslumbrante y con un diseño único, este libro recopila cincuenta islas alejadas en todos los sentidos de tierra firme, de la gente, los aeropuertos y los folletos turísticos. Su autora utilizó acontecimientos históricos e informes científicos como punto de partida para cada isla que proporcionan información sobre qué distancia la separa del continente, si está habitada, sus características y las historias que han configurado su acervo local.&lt;/p&gt;
+&lt;p&gt;Con sus impresionantes mapas a todo color y su aire de misteriosa aventura, Atlas de islas remotas es perfecto para el viajero romántico que hay en todos nosotros.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

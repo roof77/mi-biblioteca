@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nick Drnaso on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/nick-drnaso/</link>
+    <description>Recent content in Nick Drnaso on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/nick-drnaso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sabrina</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/sabrina-nick-drnaso/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/sabrina-nick-drnaso/</guid>
+      <description>&lt;p&gt;WHERE IS SABRINA?&lt;/p&gt;
+&lt;p&gt;The answer is hidden on a videotape, a tape which is en route to several news outlets, and about to go viral.&lt;/p&gt;
+&lt;p&gt;A landmark graphic novel, already hailed as one of the most exciting and moving stories of recent years, Sabrina is a tale of modern mystery, anxiety, fringe paranoia and mainstream misinformation &amp;ndash; a book that tells the story of those left behind in the wake of tragedy, has important things to say about how we live now, and possesses the rare power to leave readers pulverised.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

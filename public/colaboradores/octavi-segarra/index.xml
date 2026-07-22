@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Octavi Segarra on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/octavi-segarra/</link>
+    <description>Recent content in Octavi Segarra on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/octavi-segarra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo el cielo de azúcar / En un sueño ausente</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/</guid>
+      <description>&lt;p&gt;En  Bajo el cielo de azúcar  volvemos a la Residencia para niños descarriados de Eleanor West cuando Rini aterriza en el estanque de la residencia y descubre que su madre, Sumi, murió años antes de concebirla. Ahora Rini tiene que recuperar a su madre. De lo contrario, nunca habría llegado a nacer.&lt;/p&gt;
+&lt;p&gt;En el cuarto relato y precuela de la serie,  En un sueño ausente , conocemos la historia de Lundy, una joven muy seria que prefiere estudiar y soñar antes que cumplir las expectativas de quienes la rodean. Cuando encuentra una puerta a un mundo basado en la lógica y la razón cree que ha descubierto su paraíso.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

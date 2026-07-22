@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joann Sfar on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/joann-sfar/</link>
+    <description>Recent content in Joann Sfar on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/joann-sfar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vampir</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/vampir-joann-sfar/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/vampir-joann-sfar/</guid>
+      <description>&lt;p&gt;Fernand es un vampiro enamoradizo que solo muerde con un colmillo, para evitar dejar demasiadas marcas en sus (consentidas) víctimas. Fernand es un poco ridículo cuando vuela y su problema no son los cazadores de vampiros, sino acabar de aclarar sus ideas para decidirse por alguna de las muchas muchachas con las que no puede evitar flirtear. Y conseguir, claro, que el amor le sea correspondido. Este libro es un bestiario amoroso: los motores que mueven a los vampiros, hombres árbol, golems y brujas novatas que pueblan sus páginas no son el terror y la venganza, sino la pasión y la búsqueda de la propia identidad. Amparado en un argumento romántico y humorístico que tiene más que ver con su propia vida y su familia, el autor desarrolla un relato que es a la vez comedia de situación y fábula universal, abordando temas como el amor y la pérdida, el deseo y la sensualidad, en una narración de largo aliento cargada de humanidad y que conecta con el público de toda edad y condición. Lo hace con ayuda de su dibujo orgánico, apremiante y vivo, heredero de otros grandes como Sempé y Quentin Blake, y lo hace además gracias a la naturalidad aparentemente improvisada de sus chispeantes diálogos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

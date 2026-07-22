@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Servando Rocha on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/servando-rocha/</link>
+    <description>Recent content in Servando Rocha on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/servando-rocha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/suburbia-el-libro-ilustrado-del-erotismo-lo-prohibido-y-la-molicie-en-espana-servando-rocha/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/suburbia-el-libro-ilustrado-del-erotismo-lo-prohibido-y-la-molicie-en-espana-servando-rocha/</guid>
+      <description>&lt;p&gt;Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «depravados», desde la sicalipsis de fin de siglo hasta la brutalidad de la transición, cuando los quioscos se llenaron de chicas con esvásticas y cuero negro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Todo el odio que tenía dentro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/todo-el-odio-que-tenia-dentro-servando-rocha/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/todo-el-odio-que-tenia-dentro-servando-rocha/</guid>
+      <description>&lt;p&gt;A comienzos de los sesenta, tras el estreno de West Side Story, una generación de chavales de la periferia madrileña llenos de ira y con estiletes en los botines, toma las calles e imita a las pandillas de la película. Bailan en los pasillos del cine, agreden a transeúntes, roban coches, prenden fuego a motocicletas, huyen de la policía y protagonizan verdaderas batallas campales con otras bandas. «La misteriosa banda suburbial de los Ojos Negros, de la que todos hablaban y a la que casi nadie había visto en acción —cuenta Moncho Alpuente—, ocupaba el primer puesto de la lista de chicos malos, admirados y temidos por los adolescentes urbanos que glosaban, con más imaginación que datos, sus presuntas hazañas en los recreos escolares».&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

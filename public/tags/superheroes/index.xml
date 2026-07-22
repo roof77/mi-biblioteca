@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Superheroes on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/superheroes/</link>
+    <description>Recent content in Superheroes on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/superheroes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cosa del Pantano de Alan Moore 1</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-cosa-del-pantano-de-alan-moore-1-alan-moore/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-cosa-del-pantano-de-alan-moore-1-alan-moore/</guid>
+      <description>&lt;p&gt;BAJO TIERRA, SE OYEN VOCES AMORTIGUADAS Y ATRONADORAS. BAJO EL MAR, SE VEN UNAS LUCES TERRIBLES. Y LAS ONDAS SE EXPANDEN POR TODO ESTADOS UNIDOS&amp;hellip;
+&amp;hellip;POR LAS MENTES MAS OSCURAS.
+De 1983 a 1987, un joven autor británico llamado Alan Moore revolucionó el cómic estadounidense. Su rompedora etapa en La Cosa del Pantano de DC Comics sentó nuevas bases para la narrativa gráfica y desató una revolución en el medio que llega hasta nuestros días. Moore añadió al terror gótico característico de la serie un estilo narrativo asombrosamente intuitivo y una caracterización profunda y sin precedentes que plasmó el dibujo hermoso y cautivador de colaboradores como Stephen Bissette, John Totleben, Shawn McManus o Rick Veitch. El resultado fue una de las obras maestras más perdurables del mundo del cómic. Ahora, por primera vez, toda la etapa de Moore se recopila en una edición en tapa dura. Este primer volumen recoge los números del 20 al 34 de The Saga of the Swamp Thing y también Swamp Thing Annual núm. 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiderman: Las tiras completas 2</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/spiderman-las-tiras-completas-2-stan-lee/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/spiderman-las-tiras-completas-2-stan-lee/</guid>
+      <description>&lt;p&gt;What&amp;rsquo;s black and white and red and blue all over? Long thought lost to avid arachnophiles, three years&amp;rsquo; worth of Spider-Man&amp;rsquo;s newspaper adventures - from January 1977 to January 1980 - are collected in their entirety for the first time across two volumes! Spiderdom&amp;rsquo;s top talents set the web-slinger up with daily doses of enemies old and new, from Kraven the Hunter to the Rattler!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiderman: Las tiras completas 1</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/spiderman-las-tiras-completas-1-stan-lee/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/spiderman-las-tiras-completas-1-stan-lee/</guid>
+      <description>&lt;p&gt;Collecting John Romita Sr., and Stan Lee&amp;rsquo;s fantastic run of Spider-Man daily newspaper strips from 1977-1981, this book pits the webbed wonder against a whole host of foes from a classic era.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watchmen</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/</link>
+      <pubDate>Sat, 17 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/watchmen-alan-moore/</guid>
+      <description>&lt;p&gt;A mediados de los 80, Watchmen revolucionó el concepto del cómic en los Estados Unidos. La obra abrió otros campos a los habituales de la historieta y llegó a todo tipo de lectores conviertiéndose en el primer cómic en ganar el prestigioso premio Hugo. Watchmen es, sin duda, una de las grandes obras maestras de este medio de expresión.&lt;/p&gt;
+&lt;p&gt;Esta edición fue la primera en recopilar en castellano la maxiserie original de 12 números en un tomo, con sus correspondientes extras de final de capítulo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

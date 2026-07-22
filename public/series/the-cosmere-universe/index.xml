@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Cosmere Universe on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-cosmere-universe/</link>
+    <description>Recent content in The Cosmere Universe on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-cosmere-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El hombre iluminado (Novela secreta, #4)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-hombre-iluminado-novela-secreta-4-brandon-sanderson/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-hombre-iluminado-novela-secreta-4-brandon-sanderson/</guid>
+      <description>&lt;p&gt;Hace años tenía compañeros de armas y una causa en la que creer, pero ahora el hombre que se hace llamar Nómada solo conoce la vida a la fuga. Obligado a saltar de un mundo a otro en el Cosmere cada vez que la implacable Brigada Nocturna le gana demasiado terreno, Nómada acaba en un nuevo planeta y de inmediato se ve implicado en la trifulca entre un tirano y los rebeldes que solo pretenden evitar que los conviertan en esclavos sin mente. Y todo bajo la amenaza constante de un amanecer cuyo calor derrite la misma piedra. Incapaz de comprender su idioma, ¿sabrá navegar el conflicto y obtener el suficiente poder para saltar fuera del planeta antes de que su mente o su cuerpo paguen el precio definitivo?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

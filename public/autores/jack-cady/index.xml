@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jack Cady on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/jack-cady/</link>
+    <description>Recent content in Jack Cady on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/jack-cady/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La guardia de Jonás: Una historia real de fantasmas contada en forma de novela</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-guardia-de-jonas-una-historia-real-de-fantasmas-contada-en-forma-de-novela-jack-cady/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-guardia-de-jonas-una-historia-real-de-fantasmas-contada-en-forma-de-novela-jack-cady/</guid>
+      <description>&lt;p&gt;La guardia de Jonás: Una historia real de fantasmas contada en forma de novela no es sólo una historia de apariciones inquietantes, también es, como reza el subtítulo, una historia real, autobiográfica, sobre la vida de un grupo de jóvenes marineros que sirven en la Guardia Costera de los Estados Unidos recién terminada la Segunda Guerra Mundial.
+El multipremiado autor norteamericano Jack Cady nos brinda con La guardia de Jonás una inolvidable y poética historia de terror e iniciación en el mar.
+«Magníficamente escrita, llena de personajes creíbles y bien caracterizados, La guardia de Jonás, seguramente es la mejor novela de fantasmas con trasfondo marino desde las historias de William Hope Hodgson». Neil Barron (Horror Literature: A Reader’s Guide)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

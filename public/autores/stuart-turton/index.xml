@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stuart Turton on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/stuart-turton/</link>
+    <description>Recent content in Stuart Turton on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/stuart-turton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las siete muertes de Evelyn Hardcastle</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-siete-muertes-de-evelyn-hardcastle-stuart-turton/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-siete-muertes-de-evelyn-hardcastle-stuart-turton/</guid>
+      <description>&lt;p&gt;Una extraordinaria mezcla de Agatha Christie, Atrapado en el tiempo, Origen y Black Mirror.
+Lo que comienza como una celebración termina en tragedia. Los Hardcastle han organizado una fiesta en Blackheath, su casa de campo, para anunciar el compromiso de su hija pequeña, Evelyn. Al final de la noche, cuando los fuegos artificiales estallan en el cielo, la joven es asesinada.
+Pero Evelyn no morirá una sola vez. Hasta que Aiden Bishop, uno de los invitados, no resuelva su asesinato, el día se repetirá constantemente, siempre con el mismo triste final.
+La única forma de romper este bucle es identificar al asesino. Pero cada vez que el día comienza de nuevo, Aiden se despierta en el cuerpo de un invitado distinto. Y alguien está decidido a evitar que Aiden escape de Blackheath.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

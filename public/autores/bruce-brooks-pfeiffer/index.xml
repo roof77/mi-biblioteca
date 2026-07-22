@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bruce Brooks Pfeiffer on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/bruce-brooks-pfeiffer/</link>
+    <description>Recent content in Bruce Brooks Pfeiffer on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/bruce-brooks-pfeiffer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frank LLoyd Wright</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/frank-lloyd-wright-bruce-brooks-pfeiffer/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/frank-lloyd-wright-bruce-brooks-pfeiffer/</guid>
+      <description>&lt;p&gt;The American architect Frank Lloyd Wright (1867-1959) exerted unique influence on the architecture of the first half of the 20th century. This volume presents the whole range of his extraordinarily prolific output and shows clearly how his view of the world was a common factor throughout the rich diversity of his oeuvre. From his early prairie houses to the Guggenheim Museum in New York, Frank Lloyd Wright saw man as the focal point of an architecture closely bound up with nature.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

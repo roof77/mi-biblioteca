@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Only Good Indians on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-only-good-indians/</link>
+    <description>Recent content in The Only Good Indians on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-only-good-indians/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El único indio bueno</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-unico-indio-bueno-stephen-graham-jones/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-unico-indio-bueno-stephen-graham-jones/</guid>
+      <description>&lt;p&gt;Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven atrapados entre una sociedad que los rechaza y las tradiciones anquilosadas de su tribu, que han intentado dejar atrás.&lt;/p&gt;
+&lt;p&gt;Durante la juventud cometieron un trágico sacrilegio contra las leyes y tradiciones de la tribu. Penetraron en las tierras de caza reservadas a los ancianos de la tribu y aniquilaron tantos ciervos como pudieron. Han pretendido olvidarlo, hasta ahora. Ahora, algo los persigue, los acosa y los masacra, uno a uno. Un slasher en toda regla.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

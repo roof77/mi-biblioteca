@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Silvia Barbero on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/silvia-barbero/</link>
+    <description>Recent content in Silvia Barbero on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/silvia-barbero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El hombre que amaba a los niños</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-hombre-que-amaba-a-los-ninos-christina-stead/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-hombre-que-amaba-a-los-ninos-christina-stead/</guid>
+      <description>&lt;p&gt;Sam y Henny Pollit tienen muchos niños, poco dinero y se odian demasiado entre sí.
+Cuando Sam utiliza, para alimentar la voracidad de su ego, la veneración que sienten sus hijos por él, Henny lo observa con sombría desesperación, consciente de la amarga realidad que subyace a sus locas visiones.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

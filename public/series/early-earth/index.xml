@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Early Earth on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/early-earth/</link>
+    <description>Recent content in Early Earth on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/early-earth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La enciclopedia de la tierra temprana</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-enciclopedia-de-la-tierra-temprana-isabel-greenberg/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-enciclopedia-de-la-tierra-temprana-isabel-greenberg/</guid>
+      <description>&lt;p&gt;¡LECTORES! ¡ESTE LIBRO NO ES UNA AUTÉNTICA ENCICLOPEDIA!
+Es una obra épica de ficción que nos lleva tras los pasos, los relatos y las aventuras de un narrador solitario en su búsqueda del conocimiento y del amor verdadero.
+Una obra que contiene multitud de historias, grandes y pequeñas, sobre dioses y monstruos, reyes locos, ancianas y brujas sabias, chamanes, hombres medicina, familias polares, hermanos y hermanas, y sobre los conflictos que se generan entre ellos, el misterio, la mala ciencia, la peor geografía y ¿hemos mencionado ya el amor verdadero?
+La crítica asegura que probablemente nos encontremos ante lo mejor que se ha visto desde la invención de la rueda. Tal vez, incluso, desde la invención de los inventos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

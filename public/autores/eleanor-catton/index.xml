@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eleanor Catton on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/eleanor-catton/</link>
+    <description>Recent content in Eleanor Catton on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/eleanor-catton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las luminarias</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-luminarias-eleanor-catton/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-luminarias-eleanor-catton/</guid>
+      <description>&lt;p&gt;«Una novela magnífica: imponente en cuanto a su complejidad estructural, adictiva por su historia y mágica por su forma de recrear un mundo de codicia y oro.»
+Un tempestuoso día de enero una prostituta es arrestada.
+Ese hecho podría pasar desapercibido en mitad de la fiebre del oro que recorre la costa de Nueva Zelanda en 1866 si no fuera por los otros tres eventos destacados que se producen el mismo día: se descubre una enorme fortuna en la casa de un borracho indigente, un hombre rico desaparece y un capitán de navío de mala reputación suspende todos sus tratos y leva anclas, como si pretendiera darse a la fuga. Los tres están conectados de una u otra forma con Anna Wetherell, la prostituta en cuestión. Los doce hombres más poderosos de la ciudad se reúnen en la taberna local para debatir sobre esta secuencia de hechos aparentemente fortuitos, pero su asamblea es interrumpida por la llegada de un extraño: el joven Walter Moody, que también esconde su propio secreto&amp;hellip; Moody pronto se verá involucrado en el misterio: una red de destinos y fortunas que resulta tan intrincada como el firmamento nocturno.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

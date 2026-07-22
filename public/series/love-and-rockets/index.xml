@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Love and Rockets on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/love-and-rockets/</link>
+    <description>Recent content in Love and Rockets on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/love-and-rockets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La educación de Hopey Glass</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-educacion-de-hopey-glass-jaime-hernandez/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-educacion-de-hopey-glass-jaime-hernandez/</guid>
+      <description>&lt;p&gt;Maggie está casi ausente en esta última recopilación de Love and Rockets ya que Jaime Hernandez se centra en Hopey, la amiga de toda la vida de Maggie, y en su ex novio Ray. Y además, un vasto reparto de secundarios: Grace, el otro amigo de Hopey; Elmer, un electrificante autoproyecto de gánster; el callejero y endurecido Doyle; la divertida ?Ángel de Tarzana?; la madura pero aún marchosa Terry, así como la misteriosa superheroína Alarma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

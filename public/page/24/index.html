@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-flor-azul-penelope-fitzgerald/cover.jpg" alt="Portada de La flor azul">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La flor azul
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Cuando Friedrich von Hardenberg, quien más tarde tomaría el nombre de Novalis, le habla de la flor azul a su querida Sophie, una niña de doce años de la que se enamora en un primer encuentro, lo hace en el tono misterioso, secreto, de quien no ha descifrado todavía el significado del que será el símbolo del romanticismo alemán. Fritz es un joven brillante, un genio. Ha estudiado dialéctica y matemáticas, es amigo del crítico Schlegel, del filósofo Fichte y del gran Goethe, y ahora ha de aceptar un trabajo que no desea como inspector de minas de sal. Escribe poesía, ha empezado una novela y, sobre todo, desea ser feliz junto a su «sabiduría», la joven Sophie, que ha nacido para estar alegre y reír sin cesar. Ninguno de los dos sabe aún que su búsqueda de la belleza y del infinito tendrá que enfrentarse a duras pruebas. Una obra exquisita en la que la pasión del romanticismo se fusiona con la templanza de una escritura magistral.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-02 00:00:00 +0000 UTC'>January 2, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to La flor azul" href="http://localhost:1313/mi-biblioteca/libros/la-flor-azul-penelope-fitzgerald/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/donde-esta-mi-cabeza-benito-perez-galdos/cover.jpg" alt="Portada de ¿Dónde Está Mi Cabeza?">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¿Dónde Está Mi Cabeza?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Uno de los primeros aunque no únicos coqueteos con el fantástico de Benito Pérez Galdós, que sigue en tono pseudo-humorístico la historia de un académico que despierta sin cabeza un buen día.-
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to ¿Dónde Está Mi Cabeza?" href="http://localhost:1313/mi-biblioteca/libros/donde-esta-mi-cabeza-benito-perez-galdos/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/bajo-cielos-inmensos-a-b-guthrie-jr/cover.jpg" alt="Portada de Bajo cielos inmensos">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bajo cielos inmensos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Bajo cielos inmensos (The Big Sky) fue llevada a la gran pantalla por Howard Hawks en 1952 y se estrenó en España con el título de Río de sangre. Alfred Bertram Guthrie nació en Indiana en 1901 y, aunque ejerció muchos años como periodista, finalmente se dedicó a la ficción. Escribió novelas de misterio, cuentos infantiles, fábulas de animales, ensayos y una autobiografía, y dedicó cinco novelas a evocar la historia de Estados Unidos y su construcción como país. Aunque la segunda de la serie, The Way West, recibió el premio Pulitzer en 1950, la primera, Bajo cielos inmensos (1947), se considera su obra maestra.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Bajo cielos inmensos" href="http://localhost:1313/mi-biblioteca/libros/bajo-cielos-inmensos-a-b-guthrie-jr/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/cornetas-al-atardecer-ernest-haycox/cover.jpg" alt="Portada de Cornetas al atardecer">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cornetas al atardecer
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Cornetas al atardecer apareció por entregas en el Saturday Evening Post en 1943 y fue llevada al cine en 1952 en una película dirigida por Roy Rowland. Ernest Haycox nació en Portland, Oregón, en 1899. Como muchos otros autores norteamericanos de western, Haycox conoció la vida militar. En 1915 sirve en la guardia de la frontera mexicana y poco después es destinado durante dos años en Francia. Comienza a escribir como periodista freelance antes de dedicarse por entero a la literatura con bastante éxito. Haycox basó sus narraciones en investigaciones históricas, testimonios directos, archivos, etc. y se convirtió en uno de los autores fundamentales en la evolución del Western, pasando de la pura aventura y acción de los comienzos del género a argumentos más elaborados, psicologías más complejas, ambientaciones históricas cuidadas y una mayor variedad temática.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Cornetas al atardecer" href="http://localhost:1313/mi-biblioteca/libros/cornetas-al-atardecer-ernest-haycox/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-libro-de-los-muertos-vivientes-david-flint/cover.jpg" alt="Portada de El libro de los muertos vivientes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El libro de los muertos vivientes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Rare book
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to El libro de los muertos vivientes" href="http://localhost:1313/mi-biblioteca/libros/el-libro-de-los-muertos-vivientes-david-flint/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/extranos-eones-emilio-bueso/cover.jpg" alt="Portada de Extraños eones">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Extraños eones
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“La ciudad de los muertos” de El Cairo no es un barrio cualquiera, sino el cementerio más grande del planeta, un colosal océano de huesos en el que viven cientos de niños abandonados y en el que acaba de instalarse el emisario de unas fuerzas más antiguas que el hombre, las arenas del desierto y las órbitas caprichosas que trazan los astros en sus ciclos de locura.
+Esta es la historia de un plan para arrasar el mundo, de una llave de plata escondida en una tumba de Barcelona, de un viaje en coche hacia de los límites la cordura… y de cinco miserables que intentarán frustrar los designios del primer motor del caos, de la antítesis de la creación, del necio sultán de los demonios, del que roe, gime y babea en el centro del vacío final.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Extraños eones" href="http://localhost:1313/mi-biblioteca/libros/extranos-eones-emilio-bueso/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/hondo-louis-l-amour/cover.jpg" alt="Portada de Hondo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Hondo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Louis L’Amour (1908-1988), el novelista más popular e influyente en la literatura western de la segunda mitad del siglo XX, escribió en torno a un centenar de novelas y más de 400 relatos, la mayoría de temática western, a lo largo de una prolífica carrera literaria. Aunque muchas de sus obras fueron llevadas al cine, ninguna alcanzó la repercusión de su segunda novela, Hondo (1953), gracias sobre todo a la adaptación al cine del mismo título que realizó John Farrow y protagonizó el incansable John Wayne.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Hondo" href="http://localhost:1313/mi-biblioteca/libros/hondo-louis-l-amour/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-chica-de-ojos-verdes-las-chicas-de-campo-2-edna-o-brien/cover.jpg" alt="Portada de La chica de ojos verdes (Las chicas de campo, #2)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La chica de ojos verdes (Las chicas de campo, #2)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Caithleen (luego Kate) y Baba, dos amigas irlandesas —encantadoras unas veces, contradictorias otras—, se han instalado, tras una adolescencia de paisajes rurales e internados, en una excéntrica pensión de Dublín. Bajo las luces de la gran ciudad, sus vidas giran y se agitan en torno al tumulto y la confusión de las nuevas amistades, las madrugadas fuera de casa, las aventuras y desventuras, y los amoríos insignificantes.
+Baba busca diversiones despreocupadas, amores de ocasión, mientras que Kate, tan profunda, se empeña en hablar de los libros que lee con sus nuevos conocidos. Aunque, curiosamente, será esta última quien desate el escándalo entre parientes y amigos católicos cuando se enamore de Eugene, un director de cine protestante que acaba de separarse de su mujer y vive en los Montes Wicklow.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to La chica de ojos verdes (Las chicas de campo, #2)" href="http://localhost:1313/mi-biblioteca/libros/la-chica-de-ojos-verdes-las-chicas-de-campo-2-edna-o-brien/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/los-caballeros-las-prefieren-rubias-pero-se-casan-con-las-morenas-lorelei-lee-1-2-anita-loos/cover.jpg" alt="Portada de Los caballeros las prefieren rubias / Pero se casan con las morenas (Lorelei Lee, #1-2)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Los caballeros las prefieren rubias / Pero se casan con las morenas (Lorelei Lee, #1-2)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Aparte de ser un éxito de ventas desde el mismo día de su publicación, Los caballeros las prefieren rubias (1925) fue uno de los pocos libros que leyó James Joyce ese año, ya medio ciego, y contó con los elogios de William Faulkner y Edith Wharton: para ésta, se había escrito por fin «la gran novela americana». Anita Loos, en esta novela y su continuación, Pero se casan con las morenas (1928), narra las hazañas de una pareja de amigas, la rubia Lorelei Lee y la morena Dorothy Shaw, dos auténticas depredadoras en el marco del puritanismo y la mojigatería de la Norteamérica de la década de 1920, cuyo más característico emblema era la Ley Seca. Ambas causan estragos por donde pasan: Lorelei conquista industriales, intelectuales, aristócratas, fiscales del distrito y hasta al mismísimo doctor «Froid», al que conoce en Viena y que le recomienda cultivar, ya que no tiene ninguna, algunas inhibiciones. Dorothy, siempre con su tendencia a enamorarse de quien no le conviene, y siempre, según su amiga, menos «refinada», será en todo caso capaz de divertir al príncipe de Gales enseñándole unas cuantas palabrotas. Los fabulosos engaños de este memorable par de pícaras se leen, en los pocos momentos en que uno puede parar de reírse, como grandiosas victorias sobre una sociedad que, realmente, no merece otra cosa que ser estafada.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2014-01-01 00:00:00 +0000 UTC'>January 1, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Los caballeros las prefieren rubias / Pero se casan con las morenas (Lorelei Lee, #1-2)" href="http://localhost:1313/mi-biblioteca/libros/los-caballeros-las-prefieren-rubias-pero-se-casan-con-las-morenas-lorelei-lee-1-2-anita-loos/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-hijo-de-la-bestia-y-otros-relatos-de-terror-y-sexo-extravagante-graham-masterton/cover.jpg" alt="Portada de El hijo de la bestia y otros relatos de terror y sexo extravagante">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El hijo de la bestia y otros relatos de terror y sexo extravagante
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En El Hijo de la Bestia y otras historias de terror y sexo extravagante, Graham Masterton nos lleva a escenarios y situaciones propias del género de terror, donde el sexo ejerce como núcleo o motor del relato tiñéndolo todo con el color de las pesadillas, de modo que po­drían ser calificadas como historias que te calientan la sangre mientras un escalofrío te recorre las vértebras. Son relatos duros, inquietantes, extraños, exagerados y terroríficos, en los que se impone ante todo la maestría de Masterton para mezclar los diversos ingredientes en un cóctel explosivo rebosante de terror y humor negro. «El libro es una colección de relatos extremadamente adictivos y provocadores… Lo realmente destacable es la versatilidad e imaginación de su autor para mostrarnos una serie historias retorcidas y obscenas, repletas de humor, terror y sexo». DLS Reviews Graham Masterton nació en Edimburgo en 1946. Fue reportero de prensa y después editor de Mayfair y de la edición británica de la revista Penthouse. Su debut literario, la novela The Manitou (1976), alcanzó tal éxito que generó una versión cinematográfica dirigida por William Girdler e interpretada por Tony Curtis. Entre sus obras cabe Charnel House (1978), novela ganadora del Premio Edgar, Mirror (1988) y Family Portrait (que es una revisión hecha en 1985 de la novela de Oscar Wilde El retrato de Dorian Gray). Ha publicado cuatro colecciones de relatos así como numerosos cuentos aparecidos en diversas tres de ellos dieron lugar a otros tantos episodios de la serie de televisión anglocanadiense producida por Tony Scott The Hunger. Sus historias suelen contener grandes dosis de sexo y horror. Masterton también ha escrito una serie de libros con consejos prácticos sobre cómo disfrutar del sexo, tales como How To Drive Your Man Wild In Bed, con más de tres millones de ejemplares vendidos en todo el mundo, o Wild Sex for New Lovers. En 2002 publicó su primera novela policiaca, A Terrible Beauty, cuya reedición apareció en 2013 bajo el título de White Bones y vendió 100.000 copias en menos de un mes. La serie continúa con Broken Angels (2013) y Red Light (2014). Actual­mente vive en Surrey, Inglaterra.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2013-12-01 00:00:00 +0000 UTC'>December 1, 2013</span></footer>
+  <a class="entry-link" aria-label="post link to El hijo de la bestia y otros relatos de terror y sexo extravagante" href="http://localhost:1313/mi-biblioteca/libros/el-hijo-de-la-bestia-y-otros-relatos-de-terror-y-sexo-extravagante-graham-masterton/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/23/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/25/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

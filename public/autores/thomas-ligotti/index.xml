@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thomas Ligotti on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/thomas-ligotti/</link>
+    <description>Recent content in Thomas Ligotti on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/thomas-ligotti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grimscribe: Vidas y obras</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/grimscribe-vidas-y-obras-thomas-ligotti/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/grimscribe-vidas-y-obras-thomas-ligotti/</guid>
+      <description>&lt;p&gt;Thomas Ligotti, «el secreto mejor guardado de la literatura de horror contemporánea», según el Washington Post, nació en Detroit en 1953 y estudió en la universidad estatal de Michigan. Ha trabajado como editor asociado de la editorial Gale hasta 2001, año en que fijó su residencia en Florida. En 1986 apareció su primera colección de relatos: Songs of a Dead Dreamer, a la que sucedió Grimscribe: Vidas y obras en 1991, Noctuario (Gótica nº 90) en 1994 y Teatro Grottesco en 2006. En 2010 apareció su inclasificable ensayo La conspiración contra la especie humana (Valdemar/Intempestivas nº 27), una extraña combinación de guía de la literatura de horror y tratado de filosofía nihilista. Descendiente en línea directa de Edgar Allan Poe y Howard Phillips Lovecraft, con quienes compone la insana, justa y necesaria Trinidad de la moderna Literatura Fantástica y Extraña, Thomas Ligotti es un escritor de ficción sobrenatural sin excusas ni condiciones, devenido ya en un clásico.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

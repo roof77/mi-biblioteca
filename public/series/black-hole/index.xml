@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Black Hole on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/black-hole/</link>
+    <description>Recent content in Black Hole on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/black-hole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agujero negro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/agujero-negro-charles-burns/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/agujero-negro-charles-burns/</guid>
+      <description>&lt;p&gt;Y tú que creías que tu adolescencia había sido escalofriante&amp;hellip;
+Suburbios de Seattle, mediados de los 70: aprendimos sobre la marcha que una plaga se cernía sobre los jóvenes de la zona. Que se transmitía por vía sexual. Que se manifestaba de múltiples formas, de la más sutil a la más grotesca y espantosa. Que una vez quedabas contagiado, estabas listo. No había vuelta atrás.&lt;/p&gt;
+&lt;p&gt;A medida que analizamos la situación desde el punto de vista de los personajes clave –los infectados, los que todavía no lo están, los que lo estarán en breve– vamos descubriendo que lo que nos aguarda al final del camino no es otra historia acerca de cómo tomar conciencia de la epidemia, de cómo combatirla y tratarla. Se nos relega en cambio al papel de espectadores del fascinante y tenebroso mundo de una adolescencia alienada. A un retrato coral donde imperan la locura, la crueldad, la ansiedad, la apatía y el impulso omnipresente de huir.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

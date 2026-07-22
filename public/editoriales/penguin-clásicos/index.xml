@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Penguin Clásicos on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/penguin-cl%C3%A1sicos/</link>
+    <description>Recent content in Penguin Clásicos on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/penguin-cl%C3%A1sicos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El conde de Montecristo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-conde-de-montecristo-alexandre-dumas/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-conde-de-montecristo-alexandre-dumas/</guid>
+      <description>&lt;p&gt;Grandes Clásicos Literatura Random House nos brinda esta magnífica edición de una novela de enorme poder de sugestión, a través de la figura del hombre solitario que, tras sobrevivir a una vil traición, regresa para hacer justicia.&lt;/p&gt;
+&lt;p&gt;El conde de Montecristo es uno de los clásicos más populares de todos los tiempos. Desde su publicación, en 1844, no ha dejado de seducir al gran público con la inolvidable historia de su protagonista.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

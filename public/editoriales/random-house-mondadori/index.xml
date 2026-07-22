@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Random House Mondadori on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/random-house-mondadori/</link>
+    <description>Recent content in Random House Mondadori on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/random-house-mondadori/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La fiesta salvaje</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-fiesta-salvaje-art-spiegelman/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-fiesta-salvaje-art-spiegelman/</guid>
+      <description>&lt;p&gt;The Wild Party es una tragedia en los días del apogeo del jazz. «La fiesta salvaje es el libro que me convirtió en escritor.»
+William S. Burroughs La fiesta salvaje , un poema erótico de Joseph Moncure March, es un clásico perdido de 1928. Cuando se publicó en Estados Unidos fue inmediatamente censurado en muchos estados, convirtiéndose así en una obra de culto para las siguientes generaciones. Louis Untermeyer afirmó:«Es una historia fascinante, viciosa, desvergonzada y estelar&amp;hellip; y, sobre todo, muy poderosa. Es un auténtico tour de force ». Art Spiegelman ha ilustrado magistralmente esta historia de amor de los años veinte, cuando se bailaba frenéticamente al ritmo del jazz y del champán.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>George Sprott, 1894-1975</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/george-sprott-1894-1975-seth/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/george-sprott-1894-1975-seth/</guid>
+      <description>&lt;p&gt;George Sprott 1894-1975. Una novela gráfica del dibujante Seth. &amp;ldquo;Este libro es un clásico, un tesoro.&amp;rdquo; The Washington Post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fantasmas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/fantasmas-chuck-palahniuk/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/fantasmas-chuck-palahniuk/</guid>
+      <description>&lt;p&gt;Un grupo de escritores acuden, tras leer un anuncio en la prensa, a un retiro para artistas donde supuestamente darán rienda sueltaa su imaginación. Inmersos en un escenario aislado de las preocupaciones mundanas, los escritores llegan dispuestos a escribir su obra maestra. No obstante, la colonia de escritores resulta ser un lugar apartado del mundo, un viejo teatro abandonado, donde la comida, la electricidad y los suministros básicos son bienes escasos. En estas condiciones precarias, los protagonistas comenzarán a escribir historias terroríficas hasta llegar a un grado de maquinación diabólico, y alzarse ante la masa como héroes de una película documental.
+Fantasmas es al mismo tiempo una sátira provocativa sobre el ansia de notoriedad y un homenaje a los clásicos del género de terror en la línea de Los cuentos de Canterbury o Frankenstein.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Michaelis on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/david-michaelis/</link>
+    <description>Recent content in David Michaelis on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/david-michaelis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schulz, Carlitos y Snoopy: Una biografía</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/schulz-carlitos-y-snoopy-una-biografia-david-michaelis/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/schulz-carlitos-y-snoopy-una-biografia-david-michaelis/</guid>
+      <description>&lt;p&gt;Charles M. Schulz, el historietista más leído y querido de todos los tiempos, sigue siendo, diez años después de su fallecimiento, una de las figuras más incomprendidas y a la vez influyentes de la cultura norteamericana. David Michaelis nos presenta la primera crónica completa de la vida de un hombre brillante y hasta ahora desconocido; una historia de creación artística, a la vez que retrato íntimo de un genio que contribuyó a moldear la imaginación de Norteamérica.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

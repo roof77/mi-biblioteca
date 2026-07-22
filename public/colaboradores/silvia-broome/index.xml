@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Silvia Broome on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/silvia-broome/</link>
+    <description>Recent content in Silvia Broome on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/silvia-broome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las doncellas de óxido</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/las-doncellas-de-oxido-gwendolyn-kiste/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/las-doncellas-de-oxido-gwendolyn-kiste/</guid>
+      <description>&lt;p&gt;Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela de secundaria en medio de un futuro del todo desalentador e incierto. Toda la ciudad está copada de fábricas abandonadas que pueblan el horizonte, y la sombra de una huelga sobrevuela la rutina que gobierna sus vidas&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Pero, nada de eso es equiparable a lo que está ocurriendo en su propio vecindario. Las chicas con las que Phoebe y Jacqueline han crecido, están mutando. El pistoletazo de ese cambio lo dará el descubrimiento de unas oscuras huellas acuosas sobre la acera. Una a una, las jóvenes se van marchitando: sus uñas se transforman en cristales rotos, y sus huesos se convierten en metales oxidados que corrompen su carne.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

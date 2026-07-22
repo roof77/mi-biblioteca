@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yoko Ogihara on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/traductores/yoko-ogihara/</link>
+    <description>Recent content in Yoko Ogihara on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/traductores/yoko-ogihara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo el ojo del gran pájaro</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bajo-el-ojo-del-gran-pajaro-hiromi-kawakami/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bajo-el-ojo-del-gran-pajaro-hiromi-kawakami/</guid>
+      <description>&lt;p&gt;En un futuro lejano, los humanos están al borde de la extinción y se han establecido por todo el planeta en pequeñas tribus bajo la observación y el cuidado de &amp;ldquo;Madres&amp;rdquo;. Algunos niños nacen en fábricas a partir de células de conejos y delfines; otros viven obteniendo nutrientes del agua y la luz, como las plantas. La supervivencia de la raza depende del mestizaje de estos y otros seres extraterrestres, pero no es seguro que la conexión, el amor, la reproducción y la evolución persistan entre los habitantes de este nuevo mundo en crisis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

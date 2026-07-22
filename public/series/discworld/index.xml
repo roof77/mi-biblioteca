@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Discworld on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/discworld/</link>
+    <description>Recent content in Discworld on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/discworld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Guardias! ¡Guardias! (Mundodisco, #8)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/guardias-guardias-mundodisco-8-terry-pratchett/</link>
+      <pubDate>Wed, 07 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/guardias-guardias-mundodisco-8-terry-pratchett/</guid>
+      <description>&lt;p&gt;La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos, la mendicidad y la prostitución para tenerlos controlados. El Gremio de Asesinos y el de Ladrones reciben una cuota de asesinatos y robos &amp;lsquo;razonables&amp;rsquo;, y el sistema funciona con normalidad. Excepto para la Guardia Nocturna, que se ha visto reducida a tres hombres: el capitán Sam Vimes, el sargento Colon y el cabo Nobby Nobbs. La institución está degradada y envilecida.
+Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a su hijo adoptivo Zanahoria a ingresar en la Guardia para que se haga un hombre. Zanahoria mide dos metros, es simple y muy fuerte, y cree que todos somos capaces de llevarnos bien. Además, se ha estudiado las leyes de la ciudad. Zanahoria es capaz de revitalizar la Guardia, que debe descubrir quién anda detrás de las misteriosas apariciones de un dragón, que tienen como fin la restauración de la monarquía en la ciudad. Para ello contarán con la ayuda inestimable de lady Sybil Ramkin, una aristócrata experta en dragones de pantano.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marta  Domínguez on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/marta--dom%C3%ADnguez/</link>
+    <description>Recent content in Marta  Domínguez on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/marta--dom%C3%ADnguez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La felicidad es una canción triste (Snoopy y Carlitos)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-felicidad-es-una-cancion-triste-snoopy-y-carlitos-charles-m-schulz/</link>
+      <pubDate>Tue, 06 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-felicidad-es-una-cancion-triste-snoopy-y-carlitos-charles-m-schulz/</guid>
+      <description>&lt;p&gt;La felicidad puede encontrarse en las cosas más inesperadas. Descubre algunas de ellas con Snoopy y los Peanuts. Desde que en la década de los 60 comenzaron a publicarse las tiras de Snoopy y los Peanuts, millones de lectores de todas las edades han disfrutado y compartido las historias de amistad, amor y humor de esta pandilla tan especial.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

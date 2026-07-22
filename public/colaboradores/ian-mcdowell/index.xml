@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ian McDowell on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/ian-mcdowell/</link>
+    <description>Recent content in Ian McDowell on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/ian-mcdowell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La plaga de los zombis y otras historias de muertos vivientes</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-plaga-de-los-zombis-y-otras-historias-de-muertos-vivientes-h-p-lovecraft/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-plaga-de-los-zombis-y-otras-historias-de-muertos-vivientes-h-p-lovecraft/</guid>
+      <description>&lt;p&gt;Los muertos que vuelven de la tumba, a menudo con afán vengador, han adoptado diversas formas en la literatura fantástica de los dos últimos siglos, dotándola de sus iconos más populares: los fantasmas, vampiros y momias del siglo XIX, y los modernos zombis del XX.&lt;/p&gt;
+&lt;p&gt;El zombi, el muerto viviente en su sentido más literal y visceral, es el monstruo por excelencia de nuestro tiempo. Este extraño personaje, carente de personalidad y dominado por una furia ciega e insaciable, se ha renovado y revitalizado extendiéndose como una pandemia y penetrando en el nuevo milenio con fuerza demoledora.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

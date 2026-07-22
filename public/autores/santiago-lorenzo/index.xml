@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Santiago Lorenzo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/santiago-lorenzo/</link>
+    <description>Recent content in Santiago Lorenzo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/santiago-lorenzo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tostonazo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/tostonazo-santiago-lorenzo/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/tostonazo-santiago-lorenzo/</guid>
+      <description>&lt;p&gt;Un luminoso canto a la vida contra el aburrimiento. Leer esta novela es el mejor acto de resistencia. Esta es una novela sobre quienes hacen la vida posible y quienes la hacen imposible. Sobre sentirse diferente en un mundo de gente que quiere que todo siga igual. Nuestro protagonista es de los primeros, un tipo sin oficio ni beneficio que se ve, de repente, trabajando como becario en el centro de las cosas, una película en Madrid. Un rodaje mangoneado por un ignorante cínico que manda sobre todos. Para olvidarse de la capital, se ve obligado a aceptar un trabajo en un lugar aparentemente peor, una ciudad de provincias, de esas de las que se dice que están muertas y en las que parece que nunca pasa nada. Sin embargo, allí es donde él descubre la amistad, la alegría de ser y la vida vivible. TOSTONAZO es una novela luminosa que habla de las sombras de este país. Una historia política y tierna. Sobre buscarse la vida y encontrar el brillo, lejos de los focos y de los cretinos. Leerla es rebelarse contra lo que toca y desenmascarar a los malos como lo que son, aunque ellos no lo sospechen: un aburrimiento.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

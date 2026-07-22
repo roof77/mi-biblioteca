@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Offutt on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/chris-offutt/</link>
+    <description>Recent content in Chris Offutt on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/chris-offutt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kentucky seco</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/kentucky-seco-chris-offutt/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/kentucky-seco-chris-offutt/</guid>
+      <description>&lt;p&gt;Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados Unidos y el título de los nueve relatos ambientados en una pequeña comunidad sin nombre de los montes Apalaches, un lugar inhóspito, pero de gran belleza, en el que tener estudios se considera un signo de arrogancia y donde la caza no es precisamente un deporte. Pecadores convertidos en predicadores, jugadores con malas pulgas, ancianos que viven en el bosque y prefieren la compañía de los animales a la de los hombres, hijos sin padres, familias en las que nadie trabaja y albañiles que cultivan marihuana para sobrevivir protagonizan historias duras y reales de gente humilde pero orgullosa.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>María Teresa Gispert on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/mar%C3%ADa-teresa-gispert/</link>
+    <description>Recent content in María Teresa Gispert on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/mar%C3%ADa-teresa-gispert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuatro hermanas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuatro-hermanas-jetta-carleton/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuatro-hermanas-jetta-carleton/</guid>
+      <description>&lt;p&gt;A principios de los años cincuenta, Matthew Soames, maestro en un colegio rural, y su mujer, Callie, disfrutan del final del verano en su granja de las afueras de Renfro, Misuri, en la que criaron a sus cuatro enérgicas hijas: la mayor, Jessica; Leonie, la más responsable; la indómita Mathy, que dejó sus estudios para casarse con un piloto acrobático, y la pequeña Mary Jo, que abandonó la granja muy joven para trabajar en la televisión en Nueva York. Como cada año, tres de sus hijas acuden a visitarles durante unas semanas. El final de su estancia hace aflorar los recuerdos: las alegrías, decepciones, amores y desengaños que marcaron el paso del tiempo y que parecen haber dominado la vida de las cuatro hermanas. Sin embargo, más allá de lo ocurrido late el profundo amor que los ha mantenido unidos durante todos esos años.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Erica Couto-Ferreira on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/erica-couto-ferreira/</link>
+    <description>Recent content in Erica Couto-Ferreira on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/erica-couto-ferreira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infestación: una historia cultural de las casas encantadas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/infestacion-una-historia-cultural-de-las-casas-encantadas-erica-couto-ferreira/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/infestacion-una-historia-cultural-de-las-casas-encantadas-erica-couto-ferreira/</guid>
+      <description>&lt;p&gt;Laberintos arquitectónicos. Largos pasillos en sombras. Puertas que jamás se cierran.&lt;/p&gt;
+&lt;p&gt;La capacidad de la casa encantada para adaptar su forma a las necesidades de los tiempos siguen maravillándonos. Infestación. Una historia cultural de las casas encantadas sigue las mutaciones experimentadas por la casa encantada en la literatura anglosajona desde su manifestación como castillo gótico hasta su representación más modesta como casa anónima. Un recorrido que se inicia con la imponencia arquitectónica de «La caída de la casa Usher», de Edgar Allan Poe, y se cierra con el espacio comprimido y denso de la mente individual con La maldición de Hill House, de Shirley Jackson.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

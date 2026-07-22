@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BEAT on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/beat/</link>
+    <description>Recent content in BEAT on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/beat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La fortuna (Blackwater, #5)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-fortuna-blackwater-5-michael-mcdowell/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-fortuna-blackwater-5-michael-mcdowell/</guid>
+      <description>&lt;ol start=&#34;1946&#34;&gt;
+&lt;li&gt;Come un organismo vivente, la famiglia Caskey si sviluppa e si trasforma. Alcuni affrontano la morte, altri accolgono la vita: tra riavvicinamenti inattesi, rancori sordi e separazioni inevitabili le relazioni si evolvono. Ormai a capo della segheria e punto di riferimento del clan, Miriam lavora instancabilmente per rendere i Caskey sempre più ricchi.
+Una scoperta sorprendente e miracolosa – eccetto che per una persona – distribuirà la ricchezza anche in città. Ma sarà sufficiente questa improvvisa fortuna, ora che la natura reclama il suo debito?&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

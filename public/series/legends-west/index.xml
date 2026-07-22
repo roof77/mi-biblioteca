@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legends West on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/legends-west/</link>
+    <description>Recent content in Legends West on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/legends-west/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apaches</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/apaches-oakley-hall/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/apaches-oakley-hall/</guid>
+      <description>&lt;p&gt;Apaches completa la monumental trilogía de Oakley Hall sobre el Oeste americano, después de las novelas ya traducidas al español Warlock y Bad Lands (Galaxia Gutenberg, 2009 y 2011).&lt;/p&gt;
+&lt;p&gt;En este caso, la acción transcurre en Nuevo México, en la década de 1880, en medio de las sangrientas guerras del condado de Madison. Atrapados en el torbellino de la lucha de todos contra todos por unas tierras que se niegan a ser poseídas encontramos a Patrick Cutler, un valiente oficial de caballería que respeta a sus enemigos y desprecia a sus amigos; Johnny Angell, un pistolero empujado por trágicos acontecimientos al lado equivocado de la ley; Lily Maginnis, una mujer educada y atractiva que lucha por llevar una vida civilizada en un territorio áspero y corrupto; Jack Grant, un pistolero convertido en sheriff de quien se dice que «siempre atrapa a su hombre», ahora tras la pista de Johnny Angell; y los Apaches, que lanzan su último combate contra la llamada «civilización» y para recuperar la libertad de cabalgar de nuevo por las implacables tierras de sus antepasados.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bad Lands</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bad-lands-oakley-hall/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bad-lands-oakley-hall/</guid>
+      <description>&lt;p&gt;Para olvidar su pasado y una terrible tragedia familiar, Andrew Livingston abandona Nueva York y se dirige a Bad Lands, un áspero territorio en Dakota. Seducido por la grandeza del paisaje y por las expectativas de riqueza con el boom ganadero, Livingston se establece en unas tierras que otro hombre también ansía y se ve envuelto en un fuego cruzado de odio y codicia.&lt;/p&gt;
+&lt;p&gt;En Bad Lands, la única ley es la que surge del cargador de un revólver y Livingston irá comprendiendo quién controla en realidad este vasto territorio salvaje a través de violentas incursiones nocturnas, linchamientos y asesinatos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warlock</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/warlock-oakley-hall/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/warlock-oakley-hall/</guid>
+      <description>&lt;p&gt;Agosto de 1880. La canícula y la densa neblina desdibujan los contornos de la ciudad fronteriza de Warlock,un lugar huérfano de ley donde el robo, las reyertas y elcrimen están a la orden del día. El puesto de ayudante del sheriff pesa como una maldición sobre quien se atreve a ocuparlo; pocos tienen el valor de intervenir enlas trifulcas entre mineros borrachos y fulleros, y menos aún de enfrentarse a la banda de cuatreros liderada por Abe McQuown. Pero un nuevo pistolero ha llegado a la ciudad. Armado con sus Colt Frontiers de oro, Clay Blaisedell acepta el reto que le ofrece el Comité de Ciudadanos de ser el nuevo comisario de Warlock. Pero tal vez su temple y sus revólveres no sean suficientes para implantar el orden en una ciudad que devora a un hombre cada mañana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

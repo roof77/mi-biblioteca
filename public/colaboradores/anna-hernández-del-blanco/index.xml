@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anna Hernández Del Blanco on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/anna-hern%C3%A1ndez-del-blanco/</link>
+    <description>Recent content in Anna Hernández Del Blanco on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/anna-hern%C3%A1ndez-del-blanco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una curiosa historia del sexo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/una-curiosa-historia-del-sexo-kate-lister/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/una-curiosa-historia-del-sexo-kate-lister/</guid>
+      <description>&lt;p&gt;&amp;lsquo;Based on the popular research project Whores of Yore, and written with her distinctive humour and wit, A Curious History of Sex draws upon Dr Kate Lister&amp;rsquo;s extensive knowledge of sex history. From medieval impotence tests to twentieth-century testicle thefts, from the erotic frescoes of Pompeii, to modern-day sex doll brothels, Kate unashamedly roots around in the pants of history, debunking myths, challenging stereotypes and generally getting her hands dirty.&amp;rsquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chuck Palahniuk on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/chuck-palahniuk/</link>
+    <description>Recent content in Chuck Palahniuk on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Apr 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/chuck-palahniuk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantasmas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/fantasmas-chuck-palahniuk/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/fantasmas-chuck-palahniuk/</guid>
+      <description>&lt;p&gt;Un grupo de escritores acuden, tras leer un anuncio en la prensa, a un retiro para artistas donde supuestamente darán rienda sueltaa su imaginación. Inmersos en un escenario aislado de las preocupaciones mundanas, los escritores llegan dispuestos a escribir su obra maestra. No obstante, la colonia de escritores resulta ser un lugar apartado del mundo, un viejo teatro abandonado, donde la comida, la electricidad y los suministros básicos son bienes escasos. En estas condiciones precarias, los protagonistas comenzarán a escribir historias terroríficas hasta llegar a un grado de maquinación diabólico, y alzarse ante la masa como héroes de una película documental.
+Fantasmas es al mismo tiempo una sátira provocativa sobre el ansia de notoriedad y un homenaje a los clásicos del género de terror en la línea de Los cuentos de Canterbury o Frankenstein.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monstruos invisibles</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/monstruos-invisibles-chuck-palahniuk/</link>
+      <pubDate>Sun, 30 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/monstruos-invisibles-chuck-palahniuk/</guid>
+      <description>&lt;p&gt;Shannon parece tenerlo todo en la vida: belleza, fama, un novio, una gran amiga&amp;hellip; Pero cuando un «accidente» la deja completamente desfigurada e incapaz de hablar, pasa de ser un hermoso centro de atracción a convertirse en un monstruo invisible, tan horrible que nadie parece percatarse de su existencia. Nadie, salvo Brandy Alexander, un transexual a quien conoce en el hospital y que le ofrece la oportunidad de encontrar su nuevo destino, a partir de olvidar su pasado y construirse infinitos y simultáneos presentes. Así, tras secuestrar a Manus, su actual ex novio, partirán en una carrera desenfrenada que solo puede conducirlos hacia su aniquilación.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

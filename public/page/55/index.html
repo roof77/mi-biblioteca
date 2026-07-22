@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/papeles-postumos-del-club-pickwick-1-charles-dickens/cover.jpg" alt="Portada de Papeles póstumos del Club Pickwick,1">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Papeles póstumos del Club Pickwick,1
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La aparición en entregas mensuales de PAPELES PÓSTUMOS DEL CLUB PICKWICK a partir de marzo de 1836 significó para CHARLES DICKENS (1812-1870) su consagración como escritor y su salto a la fama. La jocosa visión de Mr. Pickwick y la narración de sus divertidas peripecias constituyen a la vez una despedida de la superficie amable de la sociedad preindustrial y un ingreso subrepticio en la ruidosa, prepotente y contradictoria sociedad victoriana que por entonces vivía sus albores. La invención de personajes que con el paso del tiempo habrían de convertirse en arquetipos para describir comportamientos cotidianos y la descripción de escenarios y ambientes, a la vez retrato de una realidad histórica y modelo de transfiguración artística, son los mayores logros de esta célebre novela de Dickens, repartida en la presente edición en tres volúmenes (L 5605, L 5606 y L 5607).
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1998-01-01 00:00:00 +0000 UTC'>January 1, 1998</span></footer>
+  <a class="entry-link" aria-label="post link to Papeles póstumos del Club Pickwick,1" href="http://localhost:1313/mi-biblioteca/libros/papeles-postumos-del-club-pickwick-1-charles-dickens/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/quieres-hacer-el-favor-de-callarte-por-favor-raymond-carver/cover.jpg" alt="Portada de ¿Quieres hacer el favor de callarte, por favor?">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">¿Quieres hacer el favor de callarte, por favor?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En ¿Quieres hacer el favor de callarte, por favor?, su primer libro de relatos, que escribió y reescribió a lo largo de quince años y que le supuso la consagración inmediata, Raymond Carver renovó la forma del relato breve hasta darle proporciones de haiku y sin que esta utilización radical de la elipsis le haga perder ninguna fuerza. Todo lo contrario, los relatos de Carver poseen, quizá precisamente por su mismo carácter fragmentario, una inesperada capacidad de provocar una impresión fortísima, una indeleble conmoción.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1997-07-01 00:00:00 +0000 UTC'>July 1, 1997</span></footer>
+  <a class="entry-link" aria-label="post link to ¿Quieres hacer el favor de callarte, por favor?" href="http://localhost:1313/mi-biblioteca/libros/quieres-hacer-el-favor-de-callarte-por-favor-raymond-carver/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-guardavias-y-otras-historias-de-fantasmas-charles-dickens/cover.jpg" alt="Portada de El guardavías y otras historias de fantasmas">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El guardavías y otras historias de fantasmas
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El interés de Dickens por lo fantástico permaneció vivo a lo largo de su vida y, a pesar de que ha sido considerado tradicionalmente como un escritor realista, en los últimos tiempos se reconoce la importancia de los elementos macabros y sobrenaturales en su obra, en la cual se lleva hacia un mayor grado de sofisticación el retrato de la mente criminal, iluminando con ello aspectos hasta entonces no desvelados de la ficción. Gran parte de los cuentos de fantasmas de Dickens están intercalados en sus novelas y son referidos por algún personaje inmerso en la trama; otros fueron publicados en Navidad, siguiendo la tradición victoriana de ocupar la velada de Nochebuena escuchando y contando historias de terror y de aparecidos. En todas ellas Dickens hace cómplice al lector, le sienta al amor de un buen fuego y le hace beber de las fuentes del auténtico relato de tradición oral.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1997-01-01 00:00:00 +0000 UTC'>January 1, 1997</span></footer>
+  <a class="entry-link" aria-label="post link to El guardavías y otras historias de fantasmas" href="http://localhost:1313/mi-biblioteca/libros/el-guardavias-y-otras-historias-de-fantasmas-charles-dickens/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/lost-highway-david-lynch/cover.jpg" alt="Portada de Lost Highway">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lost Highway
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Sitting on Death Row, awaiting execution for the murder of his wife, Fred Madison experiences a shattering headache. The next day, a dazed and confused Pete Dayton is found in Madison’s cell. Dayton has no memory of how he came to be there. Madison has gone missing. What follows may be reality or it may be part of a highly organized hallucination that Fred Madison is undergoing. Lost Highway refuses to yield its secrets readily. It communicates, not just through words, but through images and - most of all - through the mental states these words and images conjure up.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1997-01-01 00:00:00 +0000 UTC'>January 1, 1997</span></footer>
+  <a class="entry-link" aria-label="post link to Lost Highway" href="http://localhost:1313/mi-biblioteca/libros/lost-highway-david-lynch/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-spanish-edition-kenneth-anger/cover.jpg" alt="Portada de Hollywood Babilonia II (Spanish Edition)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Hollywood Babilonia II (Spanish Edition)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Algo más acerca de la «verdadera historia» de esa pequeña ciudad del Oeste llamada Tinseltown, que, por fabricar sueños, saltaría a la fama en los años veinte para convertirse en un lugar legendario, poblado de personajes no menos fabulosos. Y Kenneth Anger accedió a excavar una vez más en su también legendario archivo de coleccionista obstinado. Y aquí, en este segundo volumen de Hollywood Babilonia, vuelve los focos hacia la otra cara de esos rostros de celuloide, devastada por el alcohol y la droga, marcada por algún odio asesino, animada por inimaginables pequeños vicios, inconfesables todos.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1996-09-01 00:00:00 +0000 UTC'>September 1, 1996</span></footer>
+  <a class="entry-link" aria-label="post link to Hollywood Babilonia II (Spanish Edition)" href="http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-spanish-edition-kenneth-anger/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-iniciado-el-senor-del-tiempo-1-louise-cooper/cover.jpg" alt="Portada de El iniciado (El Señor del Tiempo #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El iniciado (El Señor del Tiempo #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>The Seven Gods of Order had ruled unchallenged for an aeon, served by the Adepts of the Circle in their bleak Northern stronghold. But for Tarod – the most enigmatic and formidable sorcerer in the Circle’s ranks – a darker affinity had begun to call. Threatening his beliefs, even his sanity, it rose unbidden from beyond Time; an ancient and deadly adversary that could plunge the world into madness and chaos – and whose power rivalled that even of the Gods themselves.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1996-01-01 00:00:00 +0000 UTC'>January 1, 1996</span></footer>
+  <a class="entry-link" aria-label="post link to El iniciado (El Señor del Tiempo #1)" href="http://localhost:1313/mi-biblioteca/libros/el-iniciado-el-senor-del-tiempo-1-louise-cooper/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/cover.jpg" alt="Portada de La camioneta">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La camioneta
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Jimmy Rabbitte, Sr. is unemployed, spending his days alone and miserable. When his best friend, Bimbo, also gets laid off, they keep by being miserable together. Things seem to look up when they buy a decrepit fish-and-chip van and go into business, selling cheap grub to the drunk and the hungry–and keeping one step ahead of the environmental health officers.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1996-01-01 00:00:00 +0000 UTC'>January 1, 1996</span></footer>
+  <a class="entry-link" aria-label="post link to La camioneta" href="http://localhost:1313/mi-biblioteca/libros/la-camioneta-roddy-doyle/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-madre-de-los-monstruos-y-otros-cuentos-de-locura-y-muerte-guy-de-maupassant/cover.jpg" alt="Portada de La Madre de los Monstruos y otros cuentos de locura y muerte">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La Madre de los Monstruos y otros cuentos de locura y muerte
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Cuanto más se adentra Maupassant en lo fantástico, más avanza en lo irreal y más abraza la realidad, su propia realidad, pues cada vez más sus cuentos están compuestos de observaciones hechas sobre sí mismo. Con una lucidez prodigiosa, este cerebro que se licuaba lentamente notaba todo, desde los primeros fenómenos de autoscopia externa (desdoblamiento) hasta los grandes delirios; no es él quien va hacia lo horrible, es lo horrible que camina hacia él. (Paul Morand)
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1995-07-28 00:00:00 +0000 UTC'>July 28, 1995</span></footer>
+  <a class="entry-link" aria-label="post link to La Madre de los Monstruos y otros cuentos de locura y muerte" href="http://localhost:1313/mi-biblioteca/libros/la-madre-de-los-monstruos-y-otros-cuentos-de-locura-y-muerte-guy-de-maupassant/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/fundacion-y-tierra-isaac-asimov/cover.jpg" alt="Portada de Fundación y Tierra">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Fundación y Tierra
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Traditional Chinese first edition can be found HERE
+銀河的命運決定於某人一念之間，這個人就是葛蘭‧崔維茲， 而他竟然選擇了蓋婭星系──一個銀河級的超級生命體。 這個抉擇勢必顛覆偉大的謝頓計畫， 而將人類導向截然不同的未來。 難道謝頓計畫有什麼問題？這個重大的決定是否代表真理？
+崔維茲堅信地球是解開一切謎團的關鍵， 然而這顆源頭母星早已不知所蹤， 茫茫星際間，他要從何尋覓？ 倘若真能找到地球，他的決心會不會動搖？ 銀河眾生又將何去何從……
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1995-01-01 00:00:00 +0000 UTC'>January 1, 1995</span></footer>
+  <a class="entry-link" aria-label="post link to Fundación y Tierra" href="http://localhost:1313/mi-biblioteca/libros/fundacion-y-tierra-isaac-asimov/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/smoke-blue-in-the-face-paul-auster/cover.jpg" alt="Portada de Smoke & Blue in the face">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Smoke &amp; Blue in the face
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Seducido por un relato de Paul Auster, el director de cine Wayne Wang lo convenció para que escribiera el guión de una película. El resultado, que combina la ascética elegancia de Wang y la inteligente imaginación del «más importante novelista de ideas de nuestros días» (Kirkus Review), es Smoke, premio especial del jurado y Oso de Plata en el festival de cine de Berlín. Protagonizada por Harvey Keitel y William Hurt, cuenta la historia de un novelista, un vendedor de cigarros y un adolescente negro que busca a su padre, en un entramado de destinos cruzados que acabarán por modificarse unos a otros de muy austeriana manera.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='1995-01-01 00:00:00 +0000 UTC'>January 1, 1995</span></footer>
+  <a class="entry-link" aria-label="post link to Smoke & Blue in the face" href="http://localhost:1313/mi-biblioteca/libros/smoke-blue-in-the-face-paul-auster/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/54/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/56/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

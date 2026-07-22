@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Babar on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/babar/</link>
+    <description>Recent content in Babar on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/babar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Babar. Todas las historias</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/babar-todas-las-historias-jean-de-brunhoff/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/babar-todas-las-historias-jean-de-brunhoff/</guid>
+      <description>&lt;p&gt;Todas las historias originales de Babar, creadas por Jean de Brunhoff, por fin reunidas en un solo volumen: «Historia de Babar , el pequeño elefante» (1931) «El viaje de Babar» (1932) «El rey Babar» (1933) «Las vacaciones de Zefir» (1936) «Babar en familia» (1938) «Babar y Papá Noel» (1941) • Una edición definitiva y de lujo que incluye varias páginas inéditas en castellano. • Con todas las ilustraciones originales restauradas para recuperar su color y vivacidad. • Un clásico que cambió para siempre la literatura infantil. «Si me cruzara a Babar, recibiría con los brazos abiertos a este elefantito hu é rfano y me lo comería a besos. Babar es más que un álbum ilustrado. Es una obra de arte.» Maurice Sendak&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

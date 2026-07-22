@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Holocausto on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/holocausto/</link>
+    <description>Recent content in Holocausto on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/holocausto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heil Hitler, el cerdo está muerto</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/heil-hitler-el-cerdo-esta-muerto-rudolph-herzog/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/heil-hitler-el-cerdo-esta-muerto-rudolph-herzog/</guid>
+      <description>&lt;p&gt;Debido a la trágica dimensión de los horrores cometidos por el régimen nazi mucha gente tiene dificultades para adoptar una mirada cómica sobre Hitler y el nazismo. Cada vez que alguien lo hace es acusado de restar importancia y trivializar el Holocausto, pero lo cierto es que hay una larga historia de chistes al respecto. En este libro, el primero sobre la comedia y la sátira en el Tercer Reich, Herzog reúne todas las manifestaciones del humor: caricaturas, cabaret, espectáculos de variedades, entretenimiento, películas, canciones pop y musicales. De esta manera nos muestra cómo la imagen ridícula del Führer no fue en absoluto una invención de la posguerra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maus: relato de un superviviente</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/maus-relato-de-un-superviviente-art-spiegelman/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/maus-relato-de-un-superviviente-art-spiegelman/</guid>
+      <description>&lt;p&gt;&amp;ldquo;La verdad es que Maus es un libro que uno no puede dejar, ni siquiera para dormir. Cuando dos de los ratones hablan de amor, te conmueve; cuando sufren, lloras. Poco a poco, a través de este relato compuesto de sufrimeinto, humor y los desafíos cotidianos de la vida, uno queda atrapado por el lenguaje de una antigua familia del Este de Europa y es arrastrado por su ritmo suave e hipnótico. Y cuando uno acaba Maus, se siente triste por haber abandonado ese mundo mágico&amp;hellip;&amp;rdquo;
+-Umberto Eco&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

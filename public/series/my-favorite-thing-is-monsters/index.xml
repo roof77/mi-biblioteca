@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Favorite Thing Is Monsters on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/my-favorite-thing-is-monsters/</link>
+    <description>Recent content in My Favorite Thing Is Monsters on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/my-favorite-thing-is-monsters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que más me gusta son los monstruos 2</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-2-emil-ferris/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-2-emil-ferris/</guid>
+      <description>&lt;p&gt;LOS AÑOS DE APRENDIZAJE DE KAREN REYES LLEGAN A SU FIN
+Karen Reyes está creciendo. Y ahora, bajo la tutela de su hermano Deeze, mucho más relajada que la que imponía su madre, empieza a descubrir quién es en realidad. ¿No es ese el mayor misterio de nuestras vidas?&lt;/p&gt;
+&lt;p&gt;Para llegar al fondo de su propia identidad, Karen tiene que seguir investigando las extrañas circunstancias que rodearon la muerte de su vecina Anka, empezando por los secretos que alberga el edificio mismo donde vive. Además, deberá comprender el frágil equilibrio sobre el que se sustenta su comunidad, un pequeño panteón compuesto por mafiosos, prostitutas, pandilleros, seres fantasmagóricos, yippies y buscavidas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lo que más me gusta son los monstruos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-emil-ferris/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lo-que-mas-me-gusta-son-los-monstruos-emil-ferris/</guid>
+      <description>&lt;p&gt;Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que se rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

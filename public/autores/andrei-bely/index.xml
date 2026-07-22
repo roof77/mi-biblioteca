@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrei Bely on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/andrei-bely/</link>
+    <description>Recent content in Andrei Bely on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/andrei-bely/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yo, Kótik Letáiev</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/yo-kotik-letaiev-andrei-bely/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/yo-kotik-letaiev-andrei-bely/</guid>
+      <description>&lt;p&gt;La publicación de las obras La paloma de plata y Petersburgo, la novela más conocida de su autor, no fueron hechos aislados. Ambas pertenecen a una idea mayor de conjunto, un tríptico inmenso sobre Rusia y su dualidad occidental-oriental, que concluye con la presente novela, hasta ahora inédita en castellano.&lt;/p&gt;
+&lt;p&gt;Yo, Kótik Letáiev es una obra fundamental para conocer y entender los caminos de la literatura rusa contemporánea, y ocupa una posición única en la obra de Bieli como la bisagra que une sus dos proyectos prosísticos más importantes, el tríptico Oriente u Occidente y su último ciclo de novelas y memorias, Mi vida, escrito entre 1927 y 1934.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

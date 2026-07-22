@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/the-time-of-my-life-sobre-como-el-cine-de-los-ochenta-nos-enseno-a-ser-feministas-hadley-freeman/cover.jpg" alt="Portada de The Time of My Life: Sobre cómo el cine de los ochenta nos enseñó a ser feministas">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The Time of My Life: Sobre cómo el cine de los ochenta nos enseñó a ser feministas
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dirty Dancing nos enseñó que, sí, las mujeres abortan. La princesa prometida nos enseñó que el amor verdadero no es un cuento de hadas. Cazafantasmas nos enseñó que la amistad masculina no tiene por qué ser inmadura. Todo en un día nos enseñó que siempre habrá clases sociales. No sabíamos que las películas que nos cambiaron la vida también nos estaban preparando para las luchas de hoy. Un ensayo revelador. «Adoro estas películas porque son desternillantes, tiernas e inteligentes, porque son divertidas. Son Buenas, con B mayúscula, y también están infravaloradas. Estas películas no solo nos hicieron felices, sino que nos enseñaron mucho más que las películas de hoy en día. Sí, La fuerza está en ti, Lone Starr, por citar una de las películas de los ochenta que me gustaba tanto de niña que vi la cinta hasta que quedó destrozada. Pero les debo a estas películas que la fuerza esté en mí. Gracias a ellas, la verdadera fuerza de los ochenta siempre será intensa en nosotros.»
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-06-23 00:00:00 +0000 UTC'>June 23, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to The Time of My Life: Sobre cómo el cine de los ochenta nos enseñó a ser feministas" href="http://localhost:1313/mi-biblioteca/libros/the-time-of-my-life-sobre-como-el-cine-de-los-ochenta-nos-enseno-a-ser-feministas-hadley-freeman/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/mas-que-palabras-heartstopper-4-alice-oseman/cover.jpg" alt="Portada de Más que palabras (Heartstopper, #4)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Más que palabras (Heartstopper, #4)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Charlie nunca pensó que podría gustarle a Nick, pero resulta que ahora son pareja. De forma oficial. Pero no solo eso, también cree que está preparado para decirle esas dos palabras que le provocan vértigo: te quiero.
+Nick siente lo mismo que Charlie, pero también tiene un montón de pensamientos rondándole la cabeza: además de plantearse decirle a su padre que tiene novio, cree que Charlie tiene un trastorno de la alimentación.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-06-16 00:00:00 +0000 UTC'>June 16, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Más que palabras (Heartstopper, #4)" href="http://localhost:1313/mi-biblioteca/libros/mas-que-palabras-heartstopper-4-alice-oseman/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-maldicion-del-tranvia-015-p-djeli-clark/cover.jpg" alt="Portada de La maldición del tranvía 015">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La maldición del tranvía 015
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Año: 1912 Ciudad: El Cairo
+La maldición de un tranvía aéreo parece un caso simple para el agente Hamed, pero con un presupuesto casi inexistente y un compañero novato, todo puede descontrolarse muy rápido.
+Entre rituales que salen mal, jequesas, sufragistas, autómatas que toman conciencia y personajes que esconden más de lo que parece, nuestros agentes necesitarán todo su ingenio para resolver el misterio sin que nadie más salga herido.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-06-14 00:00:00 +0000 UTC'>June 14, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to La maldición del tranvía 015" href="http://localhost:1313/mi-biblioteca/libros/la-maldicion-del-tranvia-015-p-djeli-clark/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/i-l-osamu-tezuka/cover.jpg" alt="Portada de I.L.">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">I.L.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“I. L”, detrás de estas curiosas iniciales quizás se esconda una diosa, un delirio o un simple maniquí… ¿Quién puede saberlo? I. L es una mujer camaleónica, que toma el rostro del ausente, del muerto o del amado. El joven cineasta Daisaku la recibe de manos del misterioso Conde Alucard. Ángel de la belleza, I. L se convierte, a través de su don de la metamorfosis, en la actriz que siempre ha soñado Daisaku para escenificar momentos de realidad. Cumple así, bajo demanda de sus clientes, el papel de doble de todo aquel que la necesita… Esta obra habla de vida, muerte, amor , traición y odio, revelados cuando cada personaje se enfrenta a sus fantasías, su cobardía o sus miedos.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-06-01 00:00:00 +0000 UTC'>June 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to I.L." href="http://localhost:1313/mi-biblioteca/libros/i-l-osamu-tezuka/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/lo-que-pesa-un-muerto-heme-brazo/cover.jpg" alt="Portada de Lo que pesa un muerto">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lo que pesa un muerto
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-05-01 00:00:00 +0000 UTC'>May 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Lo que pesa un muerto" href="http://localhost:1313/mi-biblioteca/libros/lo-que-pesa-un-muerto-heme-brazo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-encrucijada-de-desert-hole-vicky-gatekeeper/cover.jpg" alt="Portada de La encrucijada de Desert Hole">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La encrucijada de Desert Hole
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-03-01 00:00:00 +0000 UTC'>March 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to La encrucijada de Desert Hole" href="http://localhost:1313/mi-biblioteca/libros/la-encrucijada-de-desert-hole-vicky-gatekeeper/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/una-educacion-mortal-escolomancia-1-naomi-novik/cover.jpg" alt="Portada de Una Educacion Mortal (Escolomancia, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Una Educacion Mortal (Escolomancia, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Entra en una escuela de magia diferente a cualquiera que hayas conocido antes. En ella no hay profesores ni vacaciones, las amistades son pura estrategia y las probabilidades de sobrevivir nunca son las mismas. Cuando estás dentro, solo hay dos maneras de salir: o te gradúas o mueres.
+El Higgins está preparada como nadie para hacer frente a los muchos peligros de la escuela. Puede que no tenga aliados, pero posee una fuerza oscura lo suficientemente poderosa para elevar montañas y aniquilar a millones, por no mencionar que puede destruir fácilmente a los innumerables monstruos que merodean por ella. Solo que, accidentalmente, podría matar también al resto de estudiantes. Así que El está intentando con todas sus fuerzas no usarla… a menos que no tenga elección.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-02-02 00:00:00 +0000 UTC'>February 2, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Una Educacion Mortal (Escolomancia, #1)" href="http://localhost:1313/mi-biblioteca/libros/una-educacion-mortal-escolomancia-1-naomi-novik/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/sacrificios-humanos-maria-fernanda-ampuero/cover.jpg" alt="Portada de Sacrificios humanos">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Sacrificios humanos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>María Fernanda Ampuero se ha convertido en una de las voces indispensables de la literatura latinoamericana. Su libro Pelea de gallos (2018) ha sido en estos tres años todo un fenómeno que forma parte de una labor creativa, social y política de algunas escritoras a través de sus libros. Siete ediciones en español y varias traducciones a diferentes idiomas han convertido a este libro y a su autora en protagonista de esta nueva ola. Su segundo libro, Sacrificios humanos surge de este compromiso social y político en un contexto en el que todos podemos ser sacrificados, pero casi siempre son los mismos: migrantes, exiliados, mujeres… Una voz poderosa, radical, sangrante; unas historias que cuestionan nuestra mirada y nuestra conciencia para obligarnos a observan delante de nosotros la violencia, la muerte, el desarraigo, la manipulación… La fuerza de una escritora única que va a volver a llamar a nuestra puerta.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-02-01 00:00:00 +0000 UTC'>February 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Sacrificios humanos" href="http://localhost:1313/mi-biblioteca/libros/sacrificios-humanos-maria-fernanda-ampuero/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/consejos-de-un-sabelotodo-john-waters/cover.jpg" alt="Portada de Consejos de un sabelotodo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Consejos de un sabelotodo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“Pertenecemos a una suerte de club, una periferia lunática orgullosa de agruparse. Existe un camino a la desgracia muy gozoso allá afuera y, si me permiten ser su gurú, les enseñaré cómo triunfar en la insanidad hasta tomar control de su baja autoestima”, escribe Waters, y nos invita a seguir sus instrucciones en esta suerte de manual queer para el buen vivir. Como ya lo había demostrado en “Mis modelos de conducta” y “Carsick”, el Pontífice del Trash tiene una gran habilidad para hacer que los desagradable coexista con lo sofisticado, y que lo desviado halle su propia forma de realización. Aquí hay capítulos enteros dedicados a cómo desarrollar el gusto musical, cómo construir una casa brutalmente fea y moderna, cómo confesar amor sin involucrar responsabilidades afectivas, y cómo comportarse en los aviones o en las ciudades balnearias, acompañados de un puñado de escritos sobre aspectos cruciales de su trayectoria: el pasaje de Baltimore a Hollywood, el trato con los protagonistas de sus películas y los grandes estudios de cine y la trastienda de los rodajes y estrenos.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-01-01 00:00:00 +0000 UTC'>January 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Consejos de un sabelotodo" href="http://localhost:1313/mi-biblioteca/libros/consejos-de-un-sabelotodo-john-waters/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/cuentos-de-averoigne-poseidonis-poemas-en-prosa-clark-ashton-smith/cover.jpg" alt="Portada de Cuentos de Averoigne/Poseidonis/Poemas en prosa">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cuentos de Averoigne/Poseidonis/Poemas en prosa
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Clark Ashton Smith (Long Valley, 1893 - Pacific Grove, 1961) fue un poeta, autor de relatos y escultor californiano que formó junto a sus amigos H.P. Lovecraft y Robert E. Howard un grupo literario que se dio a conocer en los años veinte y treinta del siglo XX y cambió para siempre el género fantástico y de terror. Los relatos de Clark Ashton Smith nos introducen en un universo remoto fruto de una desbordante imaginación que seduce al lector con selvas de flores venenosas e iridiscentes en las lunas de Saturno u ominosos y grotescos templos en la Atlántida o en Lemuria. Sus cuentos, decía Lovecraft, nos hablan de otras galaxias, mundos y dimensiones, pero también de extrañas regiones y eras de la Tierra: la primitiva Hiperbórea y su aciago dios amorfo Tsathoggua, el continente perdido Zothique, y Averoigne, fabuloso país infestado de pérfidos nigromantes en la Francia medieval. El presente volumen reúne los doce cuentos sobre el mundo perdido de Averoigne, un trasunto imaginario de la histórica región francesa de Auvernia, cuyos primitivos pobladores fueron sometidos por el Imperio Romano. Ya en la Edad Media, los antiguos santuarios celtas han sido sustituidos por castillos, iglesias y monasterios, aunque los ritos ancestrales, ahora proscritos, nunca desaparecieron y sus bosques milenarios se han convertido en hogar de hechiceros, brujas y toda suerte de vampiros, lamias y «loupgarous»… La presente edición se completa con los relatos y poemas pertenecientes al ciclo de Poseidonis –la última isla del continente perdido de la Atlántida, famosa por sus opulentos puertos y su arquitectura monumental de tiempos inmemoriales– y una selección de poemas en prosa de tema fantástico.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2021-01-01 00:00:00 +0000 UTC'>January 1, 2021</span></footer>
+  <a class="entry-link" aria-label="post link to Cuentos de Averoigne/Poseidonis/Poemas en prosa" href="http://localhost:1313/mi-biblioteca/libros/cuentos-de-averoigne-poseidonis-poemas-en-prosa-clark-ashton-smith/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/9/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/11/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fantasía Heroica on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/fantas%C3%ADa-heroica/</link>
+    <description>Recent content in Fantasía Heroica on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/fantas%C3%ADa-heroica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El proscrito (El Señor del Tiempo #2)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-proscrito-el-senor-del-tiempo-2-louise-cooper/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-proscrito-el-senor-del-tiempo-2-louise-cooper/</guid>
+      <description>&lt;p&gt;Para huir del terrible destino al que el Círculo lo había condenado. Tarod logra detener el Péndulo que rige el ineludible fluir del Tiempo. Y el tiempo deja de existir. Tarod prisionero en un limbo sin ayer ni mañana, vive resignándose a su inmortalidad&amp;hellip; cuan un Warp, la terrible tempestad desencadenada por las fuerzas del Caos, arrastra a dos seres Humanos. Un hombre y una mujer, hasta el Castillo dela Península de la Estrella.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Historia Del Arte on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/historia-del-arte/</link>
+    <description>Recent content in Historia Del Arte on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/historia-del-arte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M. C. Escher: Estampas y Dibujos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/m-c-escher-estampas-y-dibujos-m-c-escher/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/m-c-escher-estampas-y-dibujos-m-c-escher/</guid>
+      <description>&lt;p&gt;Recopilación de reproducciones de estampas y dibujos del artista holandés Maurits Cornelis Escher (1898-1972).&lt;/p&gt;
+&lt;p&gt;Contenido&lt;/p&gt;
+&lt;p&gt;Introducción
+Catálogo y descripción de las obras&lt;/p&gt;
+&lt;p&gt;I. Primeras estampas
+II. Particiones regulares de la superficie
+III. El espacio infinito
+IV. Círculos y espirales tridimensionales
+V. Reflexiones
+VI. Inversiones
+VII. Poliedros
+VIII. Relatividades
+IX. Conflicto entre la superficie plana y el espacio tridimensional
+X. Arquitecturas imposibles&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bauhaus</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bauhaus-magdalena-droste/</link>
+      <pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bauhaus-magdalena-droste/</guid>
+      <description>&lt;p&gt;Founded in Weimar in 1919, the Bauhaus school developed a revolutionary approach that fused fine art with craftsmanship and engineering in everything from architecture to furniture, typography, and even theater. Originally headed by Walter Gropius, the Bauhaus counted among its members artists and architects such as Paul Klee, Lyonel Feininger, Wassily Kandinsky, L&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chester Brown on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/chester-brown/</link>
+    <description>Recent content in Chester Brown on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/chester-brown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nunca me has gustado</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/nunca-me-has-gustado-chester-brown/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/nunca-me-has-gustado-chester-brown/</guid>
+      <description>&lt;p&gt;Nominada a mejor obra extranjera en el XXVI Salón Internacional del cómic de Barcelona.
+Unas memorias sobre la lucha por comunicarse con los demás, contadas con respetuosa y poética elegancia. Un adolescente introvertido se pierde en el difícil territorio de la amistad y los primeros amores, mientras en su casa toma forma una crisis provocada por la salud mental de su madre. Una historia compleja y perturbadora contada con un estilo visual matizado que perdura en la memoria mucho después de dejar el libro a un lado. Nunca me has gustado se publicó originalmente en el comic book Yummy Fur con el título Fuck (joder) más que nada porque Chester Brown se negaba a decir tacos. Desde la tensión sexual en las “peleas” con sus amigas hasta la “indiferencia” hacia su nueva novia, Nunca me has gustado es pura poesía de principio a fin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Muñeca Infinita Editorial on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/mu%C3%B1eca-infinita-editorial/</link>
+    <description>Recent content in Muñeca Infinita Editorial on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/mu%C3%B1eca-infinita-editorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De cómo recibí mi herencia</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/de-como-recibi-mi-herencia-dorothy-gallagher/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/de-como-recibi-mi-herencia-dorothy-gallagher/</guid>
+      <description>&lt;p&gt;Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma tan fascinante y estilizada que parece ficción. A partir de la última etapa de la vida de sus padres, la autora retrocede en el tiempo: los comienzos de su familia en Ucrania, su infancia en el Nueva York de los años cuarenta, las aventuras familiares en las comunidades judías de Harlem y el Bronx compartiendo una ideología comunista a la que se aferran contra viento y marea. Estos episodios registran los actos de desafío amoroso de una hija en su camino hacia la independencia. La fragilidad de la amistad, el poder del amor, el papel de la mala suerte en la vida&amp;hellip;, temas universales en un libro desgarradoramente divertido.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

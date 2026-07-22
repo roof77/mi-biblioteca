@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Austral on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/austral/</link>
+    <description>Recent content in Austral on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/austral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tren nocturno a Lisboa</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/tren-nocturno-a-lisboa-pascal-mercier/</link>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/tren-nocturno-a-lisboa-pascal-mercier/</guid>
+      <description>&lt;p&gt;Rare book&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moby Dick</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/moby-dick-herman-melville/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/moby-dick-herman-melville/</guid>
+      <description>&lt;p&gt;Widely considered one of the great American novels, Herman Melville’s masterpiece went largely unread during his lifetime and was out of print at the time of his death in 1891.&lt;/p&gt;
+&lt;p&gt;Moby Dick features detailed descriptions of whale hunting and whale oil extraction as well as beautiful, incisive writing on race, class, religion, art, and society. The story, loosely based on a real whaling shipwreck, features the unforgettable, vengeful Captain Ahab, who obsessively hunts a great white whale who bit his leg off below the knee.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

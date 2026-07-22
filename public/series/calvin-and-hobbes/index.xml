@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Calvin and Hobbes on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/calvin-and-hobbes/</link>
+    <description>Recent content in Calvin and Hobbes on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Apr 2001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/calvin-and-hobbes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calvin y Hobbes para principiantes</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/calvin-y-hobbes-para-principiantes-bill-watterson/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/calvin-y-hobbes-para-principiantes-bill-watterson/</guid>
+      <description>&lt;p&gt;Ediciones B relanza, con nuevo diseño de cubierta, una de las colecciones más emblemáticas del cómic mundial, Calvin y Hobbes. En julio se edita el N.º 7 de la serie creada por Bill Watterson. Calvin y Hobbes relata, en clave de humor, las aventuras de Calvin (un niño de seis años) y Hobbes (su tigre de peluche).&lt;/p&gt;
+&lt;p&gt;El cómic tiene numerosos ejemplos de niños, más o menos terribles, en su historia. Algunos han marcado toda una época y, aún hoy, gozan de una gran popularidad como Carlitos o Mafalda. Calvin es el moderno heredero de todos ellos y una de las criaturas más terribles que ha dado el cómic. El contrapunto a la ingenuidad bobalicona de Carlitos y a la nobleza de Mafalda. Calvin es egoísta, contestón, maleducado y odia la escuela por encima de todas las cosas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

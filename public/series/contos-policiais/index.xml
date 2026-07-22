@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contos Policiais on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/contos-policiais/</link>
+    <description>Recent content in Contos Policiais on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jun 2005 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/contos-policiais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novelas de suspense y terror: El misterio de la carretera de Cintra</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/novelas-de-suspense-y-terror-el-misterio-de-la-carretera-de-cintra-eca-de-queiros/</link>
+      <pubDate>Wed, 08 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/novelas-de-suspense-y-terror-el-misterio-de-la-carretera-de-cintra-eca-de-queiros/</guid>
+      <description>&lt;p&gt;Nesta Obra, que pode considerar-se o primeiro romance policial português, Eça de Queirós, com a colaboração de Ramalho Ortigão, faz alternar o mistério, o crime, o adultério e a crítica de costumes, numa sucessão de lances folhetinescos que prendem a atenção até ao fim.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

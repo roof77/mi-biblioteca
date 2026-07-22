@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oxford Time Travel on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/oxford-time-travel/</link>
+    <description>Recent content in Oxford Time Travel on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/oxford-time-travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El libro del día del juicio final (Historiadores de Oxford, 1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-libro-del-dia-del-juicio-final-historiadores-de-oxford-1-connie-willis/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-libro-del-dia-del-juicio-final-historiadores-de-oxford-1-connie-willis/</guid>
+      <description>&lt;p&gt;A mediados del siglo XXI, Kivrin, una audaz estudiante de historia, decide viajar en el tiempo para estudiar &amp;ldquo;in situ&amp;rdquo; una de las eras más mortíferas y peligrosas de la historia humana: la Edad Media asolada por la Peste Negra. Pero una crisis que enlaza extrañamente pasado, presente y futuro atrapa a Kivrin en uno de los años más peligrosos de la Edad Media, mientras sus compañeros de Oxford en el año 2054, atacados de repente por una enfermedad desconocida, intentan infructuosamente rescatarla. Perdida en una época de superstición y de miedo, Kivrin descubre que se ha convertido en un improbable Angel de Esperanza durante una de las horas más oscuras de la historia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

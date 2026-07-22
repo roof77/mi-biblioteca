@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Susaeta Ediciones, S.A. on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/susaeta-ediciones-s.a./</link>
+    <description>Recent content in Susaeta Ediciones, S.A. on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/susaeta-ediciones-s.a./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Masaje (El Gran Libro de...) (Spanish Edition)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-spanish-edition-servilibro/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-spanish-edition-servilibro/</guid>
+      <description>&lt;p&gt;This illustrated guide to therapeutic massage techniques presents both Eastern and Western methods, including shiatsu and Swedish. Clear, step-by-step instructions guide beginners through the basic techniques and act as a useful refresher for more experienced masseurs and masseuses. Massages geared toward individuals of different ages are described, as are other innovative techniques such as reflexology and those that utilize physiotherapy. This is a complete, practical manual for all those interested in the subject. Esta guía ilustrada de técnicas de masaje terapéutico presenta métodos orientales y occidentales, incluyendo el shiatsu y el masaje sueco. Claras instrucciones paso a paso enseñan a los principiantes las técnicas básicas y serán un recuerdo útil para los masajistas más expertos. Masajes especializados para individuos de diferentes edades se describen, así como otras técnicas innovadoras como la reflexología y aquellas que utilizan la fisioterapia. Éste es un manual completo y práctico para cualquiera interesado en este tema.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

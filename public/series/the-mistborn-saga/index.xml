@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Mistborn Saga on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/the-mistborn-saga/</link>
+    <description>Recent content in The Mistborn Saga on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/the-mistborn-saga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El pozo de la ascensión (Nacidos de la bruma, #2)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-pozo-de-la-ascension-nacidos-de-la-bruma-2-brandon-sanderson/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-pozo-de-la-ascension-nacidos-de-la-bruma-2-brandon-sanderson/</guid>
+      <description>&lt;p&gt;Durante mil años nada ha cambiado: han caído las cenizas, los skaa han sido esclavizados y el Lord Legislador ha dominado el mundo. Pero lo imposible ha sucedido. El Lord Legislador ha muerto. Sin embargo, vencer y matarlo fue la parte sencilla. El verdadero desafío será sobrevivir a las consecuencias de su caída.&lt;/p&gt;
+&lt;p&gt;Tomar el poder tal vez resultó fácil, pero ¿qué ocurre después?, ¿cómo se utiliza? La tarea de reconstruir el mundo, ahora que Kelsier no está, ha quedado en manos de Vin. Y las brumas, desde que el Lord Legislador cayó, se han vuelto cada vez más impredecibles&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El imperio final (Nacidos de la bruma, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-imperio-final-nacidos-de-la-bruma-1-brandon-sanderson/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-imperio-final-nacidos-de-la-bruma-1-brandon-sanderson/</guid>
+      <description>&lt;p&gt;Durante mil años han caído las cenizas y nada florece. Durante mil años los skaa han sido esclavizados y viven sumidos en un miedo inevitable. Durante mil años, el Lord Legislador reina con un poder absoluto. Le ayudan los &amp;ldquo;obligadores&amp;rdquo; y los &amp;ldquo;inquisidores&amp;rdquo; junto a la poderosa magia de la &amp;ldquo;alomancia&amp;rdquo; que reside en los nobles. Algunos de ellos son capaces de &amp;ldquo;quemar&amp;rdquo; los metales que han tragado y que les otorgan poderes sobrenaturales. Diferentes metales, actuando en pares, otorgan poderes distintos. Pero los nobles, demasiado a menudo, han tenido trato sexual con jóvenes skaa y, aunque la ley lo prohíbe, algunos de sus bastardos han sobrevivido y heredado los poderes alománticos: son los &amp;ldquo;nacidos de la bruma&amp;rdquo;, los mistborns&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

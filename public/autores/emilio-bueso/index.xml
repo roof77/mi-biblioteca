@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emilio Bueso on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/emilio-bueso/</link>
+    <description>Recent content in Emilio Bueso on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/emilio-bueso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extraños eones</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/extranos-eones-emilio-bueso/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/extranos-eones-emilio-bueso/</guid>
+      <description>&lt;p&gt;&amp;ldquo;La ciudad de los muertos&amp;rdquo; de El Cairo no es un barrio cualquiera, sino el cementerio más grande del planeta, un colosal océano de huesos en el que viven cientos de niños abandonados y en el que acaba de instalarse el emisario de unas fuerzas más antiguas que el hombre, las arenas del desierto y las órbitas caprichosas que trazan los astros en sus ciclos de locura.&lt;/p&gt;
+&lt;p&gt;Esta es la historia de un plan para arrasar el mundo, de una llave de plata escondida en una tumba de Barcelona, de un viaje en coche hacia de los límites la cordura… y de cinco miserables que intentarán frustrar los designios del primer motor del caos, de la antítesis de la creación, del necio sultán de los demonios, del que roe, gime y babea en el centro del vacío final.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

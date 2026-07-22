@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nancy Garden on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/nancy-garden/</link>
+    <description>Recent content in Nancy Garden on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/nancy-garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annie en mis pensamientos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/annie-en-mis-pensamientos-nancy-garden/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/annie-en-mis-pensamientos-nancy-garden/</guid>
+      <description>&lt;p&gt;Cuando Liza conoce a Annie en un museo de Nueva York, no sabe qué pensar de esa chica tan extraña a la que le gusta cantar, las leyendas artúricas y las plantas&amp;hellip; pero sabe que se siente muy cerca de ella.&lt;/p&gt;
+&lt;p&gt;La amistad entre Liza y Annie pronto se convertirá en algo muy, muy especial, pero también extraordinariamente complicado.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

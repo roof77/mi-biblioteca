@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>De La Luna Libros on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/de-la-luna-libros/</link>
+    <description>Recent content in De La Luna Libros on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/de-la-luna-libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propósito de Cora</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/</guid>
+      <description>&lt;p&gt;A propósito de Cora es un relato en el que se muestran historias y personajes cuya conexión es un beso robado a la joven Cora en la Plaza Mayor de Ática, una pequeña capital de provincia, circunstancia que provoca funestas consecuencias para ella. La acción de la historia se desarrolla a finales de los años sesenta y comienzos de los setenta del pasado siglo, marco histórico en el que se retratan los comportamientos hipócritas y mediocres de una sociedad rígida y mezquina, lastrada por la despreocupación, la desigualdad y las tradiciones machistas que ponen en peligro la dignidad, la integridad e incluso la vida de los personajes menos dotados por la fortuna.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

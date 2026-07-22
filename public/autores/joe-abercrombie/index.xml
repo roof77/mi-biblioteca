@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joe Abercrombie on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/joe-abercrombie/</link>
+    <description>Recent content in Joe Abercrombie on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/joe-abercrombie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La voz de las espadas (La Primera Ley, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-voz-de-las-espadas-la-primera-ley-1-joe-abercrombie/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-voz-de-las-espadas-la-primera-ley-1-joe-abercrombie/</guid>
+      <description>&lt;p&gt;La primera novela publicada de Joe Abercrombie, ya un clásico indiscutible, en una edición espectacular ilustrada por Alejandro Colucci.&lt;/p&gt;
+&lt;p&gt;Tanto para reencontrarte con los míticos personajes de Abercrombie -Glokta, Nuevededos el Sanguinario, Bayaz, Ardee&amp;hellip;- como si es tu primera incursión en el mundo de La Primera Ley, este es el libro que estabas esperando.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

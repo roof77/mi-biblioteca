@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-exorcismo-de-mi-mejor-amiga-grady-hendrix/cover.jpg" alt="Portada de El exorcismo de mi mejor amiga">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El exorcismo de mi mejor amiga
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dos jóvenes estudiantes de Secundaria, llamadas Abby y Gretchen, se tienen la una a la otra como mejores amigas desde los tiempos de la infancia. Pero en una noche de juerga en la que se bañan desnudas todo les sale espantosamente mal y Gretchen, a partir de entonces… cambia. Está siempre de mal humor. Irritable. Y empiezan a sucederse extraños incidentes en los que, invariablemente, Gretchen está implicada. Abby empieza a investigar y se adentra en un misterio sobrecogedor…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-06-29 00:00:00 +0000 UTC'>June 29, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to El exorcismo de mi mejor amiga" href="http://localhost:1313/mi-biblioteca/libros/el-exorcismo-de-mi-mejor-amiga-grady-hendrix/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-maestro-y-margarita-mikhail-bulgakov/cover.jpg" alt="Portada de El maestro y Margarita">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El maestro y Margarita
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando el fuego y el caos con él. La sátira fantástica, divertida y devastadora de la vida soviética que nos brinda Bulgákov se combina en dos partes distintas pero entrelazadas: una ambientada en el Moscú de los años treinta del siglo XX y otra en la antigua Judea del siglo I, cada una llena de personajes históricos, imaginarios, espantosos y maravillosos. Escrita durante los días más oscuros del reinado de Stalin y finalmente publicada en 1967, El maestro y Margarita se convirtió en un fenómeno literario que trasciende lenguas y fronteras. La nueva traducción de Marta Rebón parte de la edición canónica de Marietta Chudakova, a la que agrega nuevas aportaciones fruto de sus dos últimos años de investigación.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-16 00:00:00 +0000 UTC'>May 16, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to El maestro y Margarita" href="http://localhost:1313/mi-biblioteca/libros/el-maestro-y-margarita-mikhail-bulgakov/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/nunca-delante-de-los-criados-retrato-fiel-de-la-vida-arriba-y-abajo-frank-victor-dawes/cover.jpg" alt="Portada de Nunca delante de los criados: Retrato fiel de la vida arriba y abajo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Nunca delante de los criados: Retrato fiel de la vida arriba y abajo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England. This book is a nostalgic study of this vanished world, recreated through interviews, memoirs and letters. The author discusses different households including the estate of the Duke of Portland, who employed more than 30 kitchen staff at Welbeck Abbey and another 32 indoor servants. At the other end of the scale, no respectable villa in the suburbs was without its maid or maids. Domestic service thrived because economic necessity forced larger poor families to put their children into service as one of the few means of feeding and clothing them.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-09 00:00:00 +0000 UTC'>May 9, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Nunca delante de los criados: Retrato fiel de la vida arriba y abajo" href="http://localhost:1313/mi-biblioteca/libros/nunca-delante-de-los-criados-retrato-fiel-de-la-vida-arriba-y-abajo-frank-victor-dawes/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/una-curiosa-historia-del-sexo-kate-lister/cover.jpg" alt="Portada de Una curiosa historia del sexo">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Una curiosa historia del sexo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>‘Based on the popular research project Whores of Yore, and written with her distinctive humour and wit, A Curious History of Sex draws upon Dr Kate Lister’s extensive knowledge of sex history. From medieval impotence tests to twentieth-century testicle thefts, from the erotic frescoes of Pompeii, to modern-day sex doll brothels, Kate unashamedly roots around in the pants of history, debunking myths, challenging stereotypes and generally getting her hands dirty.’
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-09 00:00:00 +0000 UTC'>May 9, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Una curiosa historia del sexo" href="http://localhost:1313/mi-biblioteca/libros/una-curiosa-historia-del-sexo-kate-lister/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/arena-blanca-omnibus-arena-blanca-1-3-brandon-sanderson/cover.jpg" alt="Portada de Arena Blanca ómnibus (Arena Blanca #1-3)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Arena Blanca ómnibus (Arena Blanca #1-3)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En el planeta Taldain, los legendarios maestros de arena poseen poderes arcanos que les confieren un control espectacular sobre el elemento del que toman su nombre. Pero cuando una siniestra conspiración se salda con su desaparición violenta, el más débil de ellos, Kenton, cree haber sido el único superviviente. Cercado por sus adversarios desde todos los frentes, Kenton forja una improbable alianza con Khriss, una misteriosa “ladoscura” que oculta sus propios secretos.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-05 00:00:00 +0000 UTC'>May 5, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Arena Blanca ómnibus (Arena Blanca #1-3)" href="http://localhost:1313/mi-biblioteca/libros/arena-blanca-omnibus-arena-blanca-1-3-brandon-sanderson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/lo-que-hay-sara-torres/cover.jpg" alt="Portada de Lo que hay">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lo que hay
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Uno de los diez mejores debuts del año según El Cultural: una memoria sobre el duelo, el deseo y el amor entre mujeres, madres e hijas
+GANADORA DEL PREMIO JAVIER MOROTE A LA MEJOR AUTORA REVELACIÓN
+«Una joven poeta que ha revolucionado el mundo de la prosa».
+Inmaculada Cobo, El Mundo
+«Un libro luminoso. Enhebra una búsqueda preciosa para narrar de forma única y diferente todo aquello que nos atraviesa y nos duele».María Sánchez
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-05 00:00:00 +0000 UTC'>May 5, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Lo que hay" href="http://localhost:1313/mi-biblioteca/libros/lo-que-hay-sara-torres/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/de-como-recibi-mi-herencia-dorothy-gallagher/cover.jpg" alt="Portada de De cómo recibí mi herencia">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">De cómo recibí mi herencia
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma tan fascinante y estilizada que parece ficción. A partir de la última etapa de la vida de sus padres, la autora retrocede en el tiempo: los comienzos de su familia en Ucrania, su infancia en el Nueva York de los años cuarenta, las aventuras familiares en las comunidades judías de Harlem y el Bronx compartiendo una ideología comunista a la que se aferran contra viento y marea. Estos episodios registran los actos de desafío amoroso de una hija en su camino hacia la independencia. La fragilidad de la amistad, el poder del amor, el papel de la mala suerte en la vida…, temas universales en un libro desgarradoramente divertido.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-05-01 00:00:00 +0000 UTC'>May 1, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to De cómo recibí mi herencia" href="http://localhost:1313/mi-biblioteca/libros/de-como-recibi-mi-herencia-dorothy-gallagher/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/supersaurio-meryem-el-mehdati/cover.jpg" alt="Portada de Supersaurio">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Supersaurio
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El debut literario de una autora con una voz única que enhebra humor y melancolía con la precisión de una criatura prehistórica que acaba de probar la sangre humana por primera vez
+Se llama Meryem, pero nadie escribe bien su nombre. Tiene veinticinco años y acaba de empezar a trabajar en las oficinas de SUPERSAURIO, la cadena de supermercados más importante del archipiélago canario. En sus ratos de ocio, para evadir la tristeza, escribe fanfiction protagonizada por los personajes de Harry Potter, los de Crepúsculo y por sus compañeros de oficina. Tiene citas con hombres terroríficos, bebe demasiado café y jamás dice lo que piensa. Todas las mañanas, antes de fichar, se repite a sí misma que no va a heredar la empresa, pero de vez en cuando se le olvida.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-03-23 00:00:00 +0000 UTC'>March 23, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Supersaurio" href="http://localhost:1313/mi-biblioteca/libros/supersaurio-meryem-el-mehdati/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/las-chicas-no-lloran-olivia-gallo/cover.jpg" alt="Portada de Las chicas no lloran">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Las chicas no lloran
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Despúes de un asado familiar, a la hora de viscosa de la siesta, una chica y su novio se escapan para ir a un telo. Después del sexo se mira en el techo espejado sobre la cama y se ven como un matrimonio anciano. De a ratos, usan un desgano prehistórico, el mismo con el que pasan las fotos de un álbum en Facebook. Él le cuenta cómo su padre lo abofeteó: primero así, después así y de nuevo así, la mímica del golpe humillante que se discribe ihual que la mímica del sexo, esa coreografía antigua y vital que la narradora, a pesar de su juventud, aprece conocer de antes, de otra vida, de otro tiempo y que jamás la obnubila. En la línea valiente y melancólica de Milena Busquets o el desprejuicio sensual de Miranda July, estos cuentos diseccionan la crudeza y el espanto del amor y la violencia de sus contradicciones: esos pasadizos oscuros como los de un tren fantasma por los que deambulan madres, padres, hijos. Personajes que para crecer se abrazan a la deriva y al desencanto. Como una joven sabia, insobornable y piadosa, aguda y delicada, Olivia Gallo cuenta con distancia lo que pasó ayer. Aleja el pasado, lo retuerce, lo estira, lo saborea como un caramelo ácido, se deja conmover o irritar, pero no tanto como para llorar. Nunca para tanto.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-03-07 00:00:00 +0000 UTC'>March 7, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Las chicas no lloran" href="http://localhost:1313/mi-biblioteca/libros/las-chicas-no-lloran-olivia-gallo/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/cover.jpg" alt="Portada de Bajo el cielo de azúcar / En un sueño ausente">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bajo el cielo de azúcar / En un sueño ausente
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En Bajo el cielo de azúcar volvemos a la Residencia para niños descarriados de Eleanor West cuando Rini aterriza en el estanque de la residencia y descubre que su madre, Sumi, murió años antes de concebirla. Ahora Rini tiene que recuperar a su madre. De lo contrario, nunca habría llegado a nacer.
+En el cuarto relato y precuela de la serie, En un sueño ausente , conocemos la historia de Lundy, una joven muy seria que prefiere estudiar y soñar antes que cumplir las expectativas de quienes la rodean. Cuando encuentra una puerta a un mundo basado en la lógica y la razón cree que ha descubierto su paraíso.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2022-02-24 00:00:00 +0000 UTC'>February 24, 2022</span></footer>
+  <a class="entry-link" aria-label="post link to Bajo el cielo de azúcar / En un sueño ausente" href="http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/6/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/8/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

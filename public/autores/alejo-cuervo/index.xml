@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alejo Cuervo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/alejo-cuervo/</link>
+    <description>Recent content in Alejo Cuervo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/alejo-cuervo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La enciclopedia galáctica</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-enciclopedia-galactica-alejo-cuervo/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-enciclopedia-galactica-alejo-cuervo/</guid>
+      <description>&lt;p&gt;Este volumen es un complemento de la Biblioteca Asimov.&lt;/p&gt;
+&lt;p&gt;Contiene:
+Presentación de Alejo Cuervo Riger
+«Isaac Asimov, semblanza biográfica» de Frank M. Robinson y Charles N. Brown
+Extractos de la enciclopedia galáctica
+«Pensamientos peligrosos» de David Langford.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

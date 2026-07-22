@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Christopher Moore on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/christopher-moore/</link>
+    <description>Recent content in Christopher Moore on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/christopher-moore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aleta</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/aleta-christopher-moore/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/aleta-christopher-moore/</guid>
+      <description>&lt;p&gt;¿Por qué cantan las ballenas jorobadas? Tal es la cuestión que motiva al biólogo marino y a su tripulación a documentar y fotografiar a esos grandes y húmedos mamíferos. Hasta el extraordinario día en que una ballena levanta la cola en el aire y muestra un mensaje escrito con gigantescas letras mayúsculas: «QUE TE DEN». Claro, Nate se pregunta si no habrá pasado demasiado tiempo observando bajo un sol de justicia… ya que nadie más lo ha visto; ni su compañero de aventuras, ni su impertinente asistente científico, ni siquiera el rastafari fumeta de a bordo. Cuando llegan las copias de las fotografías, y falta esa en la cual la ballena levanta la cola, se convence de que sucede algo muy raro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DC on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/dc/</link>
+    <description>Recent content in DC on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cosa del Pantano de Alan Moore 1</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-cosa-del-pantano-de-alan-moore-1-alan-moore/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-cosa-del-pantano-de-alan-moore-1-alan-moore/</guid>
+      <description>&lt;p&gt;BAJO TIERRA, SE OYEN VOCES AMORTIGUADAS Y ATRONADORAS. BAJO EL MAR, SE VEN UNAS LUCES TERRIBLES. Y LAS ONDAS SE EXPANDEN POR TODO ESTADOS UNIDOS&amp;hellip;
+&amp;hellip;POR LAS MENTES MAS OSCURAS.
+De 1983 a 1987, un joven autor británico llamado Alan Moore revolucionó el cómic estadounidense. Su rompedora etapa en La Cosa del Pantano de DC Comics sentó nuevas bases para la narrativa gráfica y desató una revolución en el medio que llega hasta nuestros días. Moore añadió al terror gótico característico de la serie un estilo narrativo asombrosamente intuitivo y una caracterización profunda y sin precedentes que plasmó el dibujo hermoso y cautivador de colaboradores como Stephen Bissette, John Totleben, Shawn McManus o Rick Veitch. El resultado fue una de las obras maestras más perdurables del mundo del cómic. Ahora, por primera vez, toda la etapa de Moore se recopila en una edición en tapa dura. Este primer volumen recoge los números del 20 al 34 de The Saga of the Swamp Thing y también Swamp Thing Annual núm. 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Universo DC: Hitman Nº 1</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-1-garth-ennis/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-1-garth-ennis/</guid>
+      <description>&lt;p&gt;Contiene The Demon v3 Annual #2, The Batman Chronicles #4, Hitman #1-17 y Hitman Annual #1 USA&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

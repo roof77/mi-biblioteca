@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paidós on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/paid%C3%B3s/</link>
+    <description>Recent content in Paidós on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/paid%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Destroza este diario</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/destroza-este-diario-keri-smith/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/destroza-este-diario-keri-smith/</guid>
+      <description>&lt;p&gt;¿Sientes que deberías plasmar todo tu potencial artístico, pero no sabes cómo? Destroza este diario es el libro con el que te podrás sentir cual Damien Hirst disecando tiburones. La modernísima Keri Smith anima a los propietarios de este diario a cometer actos “destructivos” agujereando sus páginas, añadiendo fotos para dibujar encima o pintando con café, con la intención de experimentar el verdadero  proceso creativo. Podrás descubrir una nueva forma de arte y elaboración de un diario, además de formas novedosas de superar el miedo a la página en blanco  e iniciar el proceso creativo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

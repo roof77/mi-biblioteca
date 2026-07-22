@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lorenzo Montatore on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/lorenzo-montatore/</link>
+    <description>Recent content in Lorenzo Montatore on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/lorenzo-montatore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Cuidado, que te asesinas!</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuidado-que-te-asesinas-lorenzo-montatore/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuidado-que-te-asesinas-lorenzo-montatore/</guid>
+      <description>&lt;p&gt;Centramina sufre el bloqueo del escritor, el temita de la página en blanco, un asunto espantoso que sólo presenta un arreglo: bajarse a la noche.&lt;/p&gt;
+&lt;p&gt;Con el invertebrado Optalidón como escudero, nuestra protagonista emprenderá un viaje psíquico en busca de la palabra cegadora. Juntos vivirán una lujuriosa aventura de barrio en la que se dejarán empapar por los caldos de la existencia y le plantarán cara al destino, que por su parte se presentará inoportuno o premeditado, puntual o diferido, benévolo o puede que infame.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

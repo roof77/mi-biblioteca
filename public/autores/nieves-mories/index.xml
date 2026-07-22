@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nieves Mories on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/nieves-mories/</link>
+    <description>Recent content in Nieves Mories on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/nieves-mories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todas las chicas descalzas</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/todas-las-chicas-descalzas-nieves-mories/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/todas-las-chicas-descalzas-nieves-mories/</guid>
+      <description>&lt;p&gt;No importa cómo las llames; sus nombres son todos los nombres.
+No importa el tinte de su mirada, de su piel, de su pelo; sus colores abarcan todos los colores.
+¿Quieres oírlas ahora?
+¿Quieres sentirlas?
+¿Quieres verlas?
+Son más que ese cuerpo en la cuneta, en la orilla, en el lecho conyugal. Son más que las sombras que se deslizan por los jardines y las casas aún por encantar. Son más que el número anotado en la etiqueta atada al dedo gordo del pie.
+Todas están descalzas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

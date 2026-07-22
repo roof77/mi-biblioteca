@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jesús Cañadas on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/jes%C3%BAs-ca%C3%B1adas/</link>
+    <description>Recent content in Jesús Cañadas on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/jes%C3%BAs-ca%C3%B1adas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pronto será de noche</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/pronto-sera-de-noche-jesus-canadas/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/pronto-sera-de-noche-jesus-canadas/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Pronto será de noche, pero no habrá diferencia. El cielo seguirá teniendo ese color incómodo. El fuego que baila en las ventanas sacará a la ciudad de su ceguera. Será de noche, pero no estará oscuro. Caerán pájaros muertos del aire. Golpeando el suelo con un sonido de guantes empapados.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Ese de ahí es Samuel. Es policía, o lo era. Ahora está atrapado en un atasco infinito. Como tú y como yo. Miles de coches en medio de una autovía que se dirige hacia el sur; aunque eso poco importa. Lo que importa es que huimos. Somos una multitud desesperada rumbo a ninguna parte mientras el mundo se derrumba a nuestro alrededor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

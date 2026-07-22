@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/jernigan-spanish-edition-david-gates/cover.jpg" alt="Portada de Jernigan (Spanish Edition)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Jernigan (Spanish Edition)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Peter Jernigan tiene poco más de cuarenta años, vive en un barrio residencial de Nueva Jersey con su hijo adolescente, Danny, y trabaja en una inmobiliaria neoyorquina. Inteligente pero con escaso éxito, Jernigan naufraga en una adocenada vida de la que no consiguen sacarlo ni sus adicciones ni su sarcasmo. Su estrafalaria manera de relacionarse con los demás y la reciente muerte de su mujer lo arrastran a una tortuosa decadencia. Parece que las cosas pueden empezar a cambiar cuando conoce a Martha Peretsky, la madre divorciada de la novia de su hijo, e inician una prometedora relación.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-04-01 00:00:00 +0000 UTC'>April 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Jernigan (Spanish Edition)" href="http://localhost:1313/mi-biblioteca/libros/jernigan-spanish-edition-david-gates/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no3-dr-slump-kanzenban-3-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump Ultimate Edition Nº3 (Dr. Slump Kanzenban, #3)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump Ultimate Edition Nº3 (Dr. Slump Kanzenban, #3)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca… ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas! Todo es posible en Villa Pingüino.
+Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-03-23 00:00:00 +0000 UTC'>March 23, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump Ultimate Edition Nº3 (Dr. Slump Kanzenban, #3)" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no3-dr-slump-kanzenban-3-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/conocimiento-inventado-falacias-historicas-ciencia-amanada-y-pseudo-religiones-ronald-h-fritze/cover.jpg" alt="Portada de Conocimiento Inventado: Falacias históricas, ciencia amañada y pseudo-religiones">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Conocimiento Inventado: Falacias históricas, ciencia amañada y pseudo-religiones
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>¿Fueron los chinos los primeros en descubrir América en 1421? ¿Tuvieron hijos juntos Jesús y María Magdalena? Visitaron los extraterrestres la Tierra durante la prehistoria y enseñaron a los humanos a construir pirámides y estructuras de piedra?
+Fritze nos desvela, en este ensayo, el activo y lucrativo sector del pseudo-conocimiento, que da por probadas las ficciones sobre continentes perdidos, supercivilizaciones antiguas, conspiraciones planetarias o teorías revisionistas que apoyan los delirios de sectas y credos “alternativos”.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-03-01 00:00:00 +0000 UTC'>March 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Conocimiento Inventado: Falacias históricas, ciencia amañada y pseudo-religiones" href="http://localhost:1313/mi-biblioteca/libros/conocimiento-inventado-falacias-historicas-ciencia-amanada-y-pseudo-religiones-ronald-h-fritze/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-nina-desdichada-edward-gorey/cover.jpg" alt="Portada de La niña desdichada">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La niña desdichada
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>«Charlotte Sophia quedó en manos del abogado de la familia. El abogado la puso de inmediato en un internado. Allí, las maestras la castigaban por cosas que no había hecho. Las otras alumnas le rompían la muñeca, arrancándole piernas y brazos…» Huérfana, atormentada por las compañeras de colegio, esclavizada por un bruto alcohólico, la protagonista de este libro sobrevive, animada sólo por su fuerza infantil, para seguir sufriendo.
+La niña desdichada (1961), trágica crónica de la vida de Charlotte Sophia, es materia perfecta para el magistral arte narrativo de Edward Gorey.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-03-01 00:00:00 +0000 UTC'>March 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to La niña desdichada" href="http://localhost:1313/mi-biblioteca/libros/la-nina-desdichada-edward-gorey/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/estrella-roja-alexandr-bogdanov/cover.jpg" alt="Portada de Estrella roja">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Estrella roja
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Estrella Roja (1908) es una delirante fantasía utópica en la que un viaje a Marte se convierte en una alegoría sobre la creación de un estado soviético. Repleto de ingenios mecánicos como el video-teléfono, las góndolas voladoras, y por supuesto el viaje interplanetario, la novela antecede en el tiempo la automatización de la producción e incluso la fusión atómica. Siguiendo la estela de las novelas clásicas de ciencia ficción de principios de siglo, Estrella Roja no desdeña al mejor Julio Verne y se trata, como en el caso del escritor francés, de un maravilloso ejemplo del fenómeno literario recientemente bautizado como “steam-punk inconsciente”.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-02-01 00:00:00 +0000 UTC'>February 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Estrella roja" href="http://localhost:1313/mi-biblioteca/libros/estrella-roja-alexandr-bogdanov/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-libro-del-dia-del-juicio-final-historiadores-de-oxford-1-connie-willis/cover.jpg" alt="Portada de El libro del día del juicio final (Historiadores de Oxford, 1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El libro del día del juicio final (Historiadores de Oxford, 1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A mediados del siglo XXI, Kivrin, una audaz estudiante de historia, decide viajar en el tiempo para estudiar “in situ” una de las eras más mortíferas y peligrosas de la historia humana: la Edad Media asolada por la Peste Negra. Pero una crisis que enlaza extrañamente pasado, presente y futuro atrapa a Kivrin en uno de los años más peligrosos de la Edad Media, mientras sus compañeros de Oxford en el año 2054, atacados de repente por una enfermedad desconocida, intentan infructuosamente rescatarla. Perdida en una época de superstición y de miedo, Kivrin descubre que se ha convertido en un improbable Angel de Esperanza durante una de las horas más oscuras de la historia.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-15 00:00:00 +0000 UTC'>January 15, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to El libro del día del juicio final (Historiadores de Oxford, 1)" href="http://localhost:1313/mi-biblioteca/libros/el-libro-del-dia-del-juicio-final-historiadores-de-oxford-1-connie-willis/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-sindicato-de-policia-yiddish-michael-chabon/cover.jpg" alt="Portada de El sindicato de policía Yiddish">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El sindicato de policía Yiddish
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El sindicato de policía Yiddish. Durante sesenta años, los judíos y sus descendientes han prosperado en el distrito federal de Sitka, en Alaska, un provisional asilo donde viven seguros como refugiados de la fallida fundación, en 1948, del Estado de Israel. Corren tiempos difíciles para ser judío. La vida es dura, pero ¿cuánto no lo ha sido?… Rabinos que se convierten al crimen, delincuentes que creen en Dios y el detective de homicidios Meyer Landsman, que solo cree en su botella. Su matrimonio, su carrera, su adición a la bebida, problemas que no necesita… y, además, está el cuerpo de ese hombre, en el vestíbulo, con un agujero en la cabeza…
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-08 00:00:00 +0000 UTC'>January 8, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to El sindicato de policía Yiddish" href="http://localhost:1313/mi-biblioteca/libros/el-sindicato-de-policia-yiddish-michael-chabon/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/a-partir-de-ahora-llamadme-tania-cronica-de-una-guerrillera-simbiotica-anonymous/cover.jpg" alt="Portada de A partir de ahora llamadme tania. Crónica de una guerrillera simbiótica.">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A partir de ahora llamadme tania. Crónica de una guerrillera simbiótica.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Miembros del Ejército Simbiótico de Liberación (SLA), equipados con armas cargadas de cianuro y bajo el extraño símbolo de una cobra de siete cabezas, secuestraron en febrero de 1974 a Patty Hearst, la hija del magnate de la comunicación William Randolph Hearst. A medida que pasaba el tiempo, la secuestrada fue mutando hacia una nueva identidad, hasta su sorprendente aparición, escasos meses después, portando un fusil de asalto durante el atraco a un banco. Patty Hearst, tal y como ella misma anunció, había muerto: a partir de ese momento sería Tania, la histórica guerrillera que luchó junto al Che. A partir de ahora llamadme Tania. Crónica de una guerrillera simbiótica, recoge, entre otros materiales, la transcripción de las cintas que, depositadas en cabinas de teléfono o enviadas a radios piratas, ella y otros miembros del SLA grabaron y enviaron a la familia Hearst durante los meses que duró el secuestro. “Con una docena de miembros aproximadamente, el SLA fue uno de los grupos terroristas más pequeños y extraños que jamás hayan existido. Al igual que la familia Manson, quizá pueda entenderse dentro de ese específico marco californiano que sigue siendo un misterio para la mayoría de los extranjeros.” Walter Laqueur, Terrorismo. “[Jackie and Judy] both went down to Frisco, joined the SLA.” Judy is a Punk, Ramones, 1976. “Patty, sabes lo que dijo tu padre… él dijo: Hace sesenta días era una niña adorable y ahora ella está aquí, con un arma en su mano.” Patti Smith “Un día, mientras estaba frente a mi máquina de escribir, pensé en Patty Hearst y el Ejército Simbiótico de Liberación. Mis ojos viajaron hacia detrás y hacia adelante en el tiempo y entonces escribí: El mundo llega a su fin pero todos en el SLA, de alguna forma, son inmunes. La serpiente los mordió.” Stephen King Atención: video del atraco protagonizado por Patty Hearst &amp; SLA: http://www.youtube.com/watch?v=P4K-… Se trata del primero de nuestros libros en la nueva colección “Zodiaco Negro”, especializada en fenómenos culturales y políticos extremos como ocultismo o terrorismo. Mario Riviere, uno de nuestros mejores ilustradores y diseñadores, es el encargado de dirigir el diseño editorial de la colección.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to A partir de ahora llamadme tania. Crónica de una guerrillera simbiótica." href="http://localhost:1313/mi-biblioteca/libros/a-partir-de-ahora-llamadme-tania-cronica-de-una-guerrillera-simbiotica-anonymous/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dios-en-persona-marc-antoine-mathieu/cover.jpg" alt="Portada de Dios en persona">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dios en persona
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>En una cola del censo un pequeño hombre espera pacientemente su turno para ser atendido. En el momento en que le preguntansu nombre se presenta bajo el nombre de Dios, apellido Dios. No tiene domicilio ni papeles ni número de la Seguridad Social. La irrupción de este enigma metafísico “en pesona” desencadena en un enorme fenómeno mediático. Un gran proceso judicial se organiza en contra de este “Culpable Universal”.Dios en persona, galardonado con el premio ACBD 2010 de la crítica en Francia, es un relato en forma de ironía sobre los procesos mediáticos y las campañas de publicidad.Marc-Antoine Mathieu muestra en esta obra magistral que las dudas acerca de la existencia de Dios nunca dejan de estar de actualidad, y que tanto los que creen como lo que no, tienen siempre algo que opinar sobre Dios.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dios en persona" href="http://localhost:1313/mi-biblioteca/libros/dios-en-persona-marc-antoine-mathieu/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no5-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump (Ultimate Edition) Nº5">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump (Ultimate Edition) Nº5
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca… ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas! Todo es posible en Villa Pingüino.
+Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump (Ultimate Edition) Nº5" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no5-akira-toriyama/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/32/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/34/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ernest Riera on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/traductores/ernest-riera/</link>
+    <description>Recent content in Ernest Riera on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/traductores/ernest-riera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>V de Vendetta (Colección Vertigo #215)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/v-de-vendetta-coleccion-vertigo-215-alan-moore/</link>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/v-de-vendetta-coleccion-vertigo-215-alan-moore/</guid>
+      <description>&lt;p&gt;Segunda traducción española de la serie de DC Comics V for Vendetta, realizada en base a la reedición que en USA fue incluida dentro del sello &amp;ldquo;Vertigo&amp;rdquo;, de la misma editorial.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

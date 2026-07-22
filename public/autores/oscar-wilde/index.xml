@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oscar Wilde on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/oscar-wilde/</link>
+    <description>Recent content in Oscar Wilde on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/oscar-wilde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuentos completos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuentos-completos-oscar-wilde/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuentos-completos-oscar-wilde/</guid>
+      <description>&lt;p&gt;Antes de alcanzar fama universal como autor de teatro y brillante conversador, Oscar Wilde ganó su prestigio inicial con la publicación de sus primeros cuentos: la aparición de &amp;ldquo;El crimen de lord Arthur Saville&amp;rdquo; y &amp;ldquo;El fantasma de Canterville&amp;rdquo; en 1887 le granjeó cierta notoriedad por su irónica manera de abordar dos géneros puramente británicos: la novela de detectives y la novela gótica. Crítico con la aristocracia y las clases altas de la sociedad inglesa o norteamericana, Wilde envolvía sus relatos en una distancia, en un humanitarismo irónico que poco tenían que ver con el naturalismo que en ese momento dominaba el panorama literario europeo.
+Esta edición de los Cuentos completos de Oscar Wilde, a cargo de Mauro Armiño, presenta los textos ordenados cronológicamente y los acompaña de breves notas que aclaran referencias a acontecimientos o personajes de la época. En ellos puede apreciarse el germen de los temas que más tarde dominarán el teatro de Oscar Wilde: la novela negra y la narración detectivesca, las preocupaciones artísticas de la época, la delicadeza imaginativa, el romanticismo de sentimientos, la afirmación de valores tales como la generosidad, la lealtad o la amistad, el desprecio por el pragmatismo y la burla de la vanidad y del orgullo, o la descripción de la belleza despiadada y cruel en un relato como &amp;ldquo;El cumpleaños de la infanta&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

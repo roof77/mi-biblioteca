@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jack Kerouac on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/jack-kerouac/</link>
+    <description>Recent content in Jack Kerouac on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/jack-kerouac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los subterráneos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-subterraneos-jack-kerouac/</link>
+      <pubDate>Tue, 18 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-subterraneos-jack-kerouac/</guid>
+      <description>&lt;p&gt;En San Francisco, ciudad a la que Kerouac llegó en 1953, antes de alcanzar la fama, los días y las noches son habitadas por el jazz, el alcohol y las drogas, por unos seres que cabalgan entre la desesperación absoluta y las ilusiones mas descabelladas. Ese será el escenario que enmarcará la historia de amor entre el escritor Leo Percepied (una nueva encarnación de Kerouac) y una muchacha negra, Mardou Fox, «el ángel negro, desesperado y sombrío, de este mundo subterráneo de Frisco».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>En el camino</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/en-el-camino-jack-kerouac/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/en-el-camino-jack-kerouac/</guid>
+      <description>&lt;p&gt;A quintessential novel of America &amp;amp; the Beat Generation On the Road chronicles Jack Kerouac&amp;rsquo;s years traveling the N. American continent with his friend Neal Cassady, &amp;ldquo;a sideburned hero of the snowy West.&amp;rdquo; As &amp;ldquo;Sal Paradise&amp;rdquo; &amp;amp; &amp;ldquo;Dean Moriarty,&amp;rdquo; the two roam the country in a quest for self-knowledge &amp;amp; experience. Kerouac&amp;rsquo;s love of America, compassion for humanity &amp;amp; sense of language as jazz combine to make On the Road an inspirational work of lasting importance. This classic novel of freedom &amp;amp; longing defined what it meant to be &amp;ldquo;Beat&amp;rdquo; &amp;amp; has inspired every generation since its initial publication.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

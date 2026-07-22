@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wayward Children on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/series/wayward-children/</link>
+    <description>Recent content in Wayward Children on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/series/wayward-children/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo el cielo de azúcar / En un sueño ausente</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/bajo-el-cielo-de-azucar-en-un-sueno-ausente-seanan-mcguire/</guid>
+      <description>&lt;p&gt;En  Bajo el cielo de azúcar  volvemos a la Residencia para niños descarriados de Eleanor West cuando Rini aterriza en el estanque de la residencia y descubre que su madre, Sumi, murió años antes de concebirla. Ahora Rini tiene que recuperar a su madre. De lo contrario, nunca habría llegado a nacer.&lt;/p&gt;
+&lt;p&gt;En el cuarto relato y precuela de la serie,  En un sueño ausente , conocemos la historia de Lundy, una joven muy seria que prefiere estudiar y soñar antes que cumplir las expectativas de quienes la rodean. Cuando encuentra una puerta a un mundo basado en la lógica y la razón cree que ha descubierto su paraíso.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ahí abajo, entre raíces y huesos (Niños descarriados, #2)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/ahi-abajo-entre-raices-y-huesos-ninos-descarriados-2-seanan-mcguire/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/ahi-abajo-entre-raices-y-huesos-ninos-descarriados-2-seanan-mcguire/</guid>
+      <description>&lt;p&gt;Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en &amp;ldquo;Cada corazón, un umbral&amp;rdquo;. Esta es la historia de lo que ocurrió primero. De cómo las hijas perfectas, modeladas según los deseos de los padres, a los doce años bajaron por una escalera que las llevó a los Páramos, y descubrieron que el simulacro de amor en el que habían vivido no las había preparado para un mundo de decisiones y muerte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cada corazón, un umbral (Niños descarriados, #1)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cada-corazon-un-umbral-ninos-descarriados-1-seanan-mcguire/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cada-corazon-un-umbral-ninos-descarriados-1-seanan-mcguire/</guid>
+      <description>&lt;p&gt;Deslizándose entre las sombras bajo la cama, o a través de un armario, o por madrigueras de conejos&amp;hellip; los niños siempre han sabido acceder a mundos mágicos. Pero ¿qué ocurre cuando regresan y no consiguen adaptarse y no son aceptados por sus familias? Eleanor West tiene un internado que acoge a estos niños que quieren volver a su mundo de fantasía. Pero con la llegada de Nancy algo cambia en el internado y pronto tendrán que enfrentarse a una tragedia por sí mismos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

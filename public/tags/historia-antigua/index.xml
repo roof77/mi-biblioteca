@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Historia Antigua on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/historia-antigua/</link>
+    <description>Recent content in Historia Antigua on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 1981 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/historia-antigua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Imperio Romano</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-imperio-romano-isaac-asimov/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-imperio-romano-isaac-asimov/</guid>
+      <description>&lt;p&gt;La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana. &amp;lsquo;EL IMPERIO ROMANO&amp;rsquo; expone las grandes líneas de desarrollo histórico de esta potencia del mundo antiguo desde la proclamación de Augusto como emperador hasta la caída del Imperio Romano de Occidente y la instauración de los reinos germánicos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La República Romana</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-republica-romana-isaac-asimov/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-republica-romana-isaac-asimov/</guid>
+      <description>&lt;p&gt;La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana. «La República Romana» abarca el lapso transcurrido entre la fundación de Roma en 753 a.C. y el 29 a.C. -momento en el que Octavio se hace con el poder absoluto-, y comprende el periodo monárquico, el ascenso de Roma a gran potencia tras su triunfo en las Guerras Púnicas y las diferentes guerras civiles que pusieron fin al periodo republicano.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Los egipcios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/los-egipcios-isaac-asimov/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/los-egipcios-isaac-asimov/</guid>
+      <description>&lt;p&gt;La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana.&lt;/p&gt;
+&lt;p&gt;Los egipcios describe los orígenes, el apogeo y la paulatina decadencia de una tierra y un pueblo fascinantes como pocos, destacando los momentos más significativos en su desarrollo, como el periodo faraónico —el de mayor esplendor y el más enigmático—, la época ptolemaica, la hegemonía romana y la posterior implantación de la musulmana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

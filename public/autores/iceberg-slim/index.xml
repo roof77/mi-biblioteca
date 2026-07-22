@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Iceberg Slim on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/autores/iceberg-slim/</link>
+    <description>Recent content in Iceberg Slim on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/autores/iceberg-slim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pimp: Memorias de un chulo</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/pimp-memorias-de-un-chulo-iceberg-slim/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/pimp-memorias-de-un-chulo-iceberg-slim/</guid>
+      <description>&lt;p&gt;A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Slim, el último antihéroe del gueto, no podía acudir a una librería sino a una peluquería o a una tienda de licores afroamericana. Pimp. Memorias de un chulo (1967) es un tipo diferente de historia estadounidense, la historia de un joven decidido a tomar lo que la sociedad no quiere dar. Un retrato hirviente, sucio y crudo de la brutalidad, la astucia y la codicia de un proxeneta en los bajos fondos de Chicago. Una sonora advertencia contada por un auténtico superviviente que, casi 50 años después, estremece como el primer día.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

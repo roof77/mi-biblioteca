@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fernando Borrajo on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/fernando-borrajo/</link>
+    <description>Recent content in Fernando Borrajo on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/fernando-borrajo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La flor azul</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/la-flor-azul-penelope-fitzgerald/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/la-flor-azul-penelope-fitzgerald/</guid>
+      <description>&lt;p&gt;Cuando Friedrich von Hardenberg, quien más tarde tomaría el nombre de Novalis, le habla de la flor azul a su querida Sophie, una niña de doce años de la que se enamora en un primer encuentro, lo hace en el tono misterioso, secreto, de quien no ha descifrado todavía el significado del que será el símbolo del romanticismo alemán. Fritz es un joven brillante, un genio. Ha estudiado dialéctica y matemáticas, es amigo del crítico Schlegel, del filósofo Fichte y del gran Goethe, y ahora ha de aceptar un trabajo que no desea como inspector de minas de sal. Escribe poesía, ha empezado una novela y, sobre todo, desea ser feliz junto a su «sabiduría», la joven Sophie, que ha nacido para estar alegre y reír sin cesar. Ninguno de los dos sabe aún que su búsqueda de la belleza y del infinito tendrá que enfrentarse a duras pruebas. Una obra exquisita en la que la pasión del romanticismo se fusiona con la templanza de una escritura magistral.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

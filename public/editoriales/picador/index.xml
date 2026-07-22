@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Picador on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/picador/</link>
+    <description>Recent content in Picador on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/picador/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Friends of Eddie Coyle</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/the-friends-of-eddie-coyle-george-v-higgins/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/the-friends-of-eddie-coyle-george-v-higgins/</guid>
+      <description>&lt;p&gt;The classic novel from &amp;ldquo;America&amp;rsquo;s best crime novelist&amp;rdquo; (Time), with a new introduction by Dennis Lehane&lt;/p&gt;
+&lt;p&gt;George V. Higgins&amp;rsquo;s seminal crime novel is a down-and-dirty tale of thieves, mobsters, and cops on the mean streets of Boston. When small-time gunrunner Eddie Coyle is convicted on a felony, he&amp;rsquo;s looking at three years in the pen&amp;ndash;that is, unless he sells out one of his big-fish clients to the DA. But which of the many hoods, gunmen, and executioners whom he calls his friends should he send up the river? Told almost entirely in crackling dialogue by a vivid cast of lowlifes and detectives, The Friends of Eddie Coyle is one of the greatest crime novels ever written.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

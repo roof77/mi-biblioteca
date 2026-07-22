@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-spanish-edition-servilibro/cover.jpg" alt="Portada de Masaje (El Gran Libro de...) (Spanish Edition)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Masaje (El Gran Libro de...) (Spanish Edition)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>This illustrated guide to therapeutic massage techniques presents both Eastern and Western methods, including shiatsu and Swedish. Clear, step-by-step instructions guide beginners through the basic techniques and act as a useful refresher for more experienced masseurs and masseuses. Massages geared toward individuals of different ages are described, as are other innovative techniques such as reflexology and those that utilize physiotherapy. This is a complete, practical manual for all those interested in the subject. Esta guía ilustrada de técnicas de masaje terapéutico presenta métodos orientales y occidentales, incluyendo el shiatsu y el masaje sueco. Claras instrucciones paso a paso enseñan a los principiantes las técnicas básicas y serán un recuerdo útil para los masajistas más expertos. Masajes especializados para individuos de diferentes edades se describen, así como otras técnicas innovadoras como la reflexología y aquellas que utilizan la fisioterapia. Éste es un manual completo y práctico para cualquiera interesado en este tema.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2012-01-01 00:00:00 +0000 UTC'>January 1, 2012</span></footer>
+  <a class="entry-link" aria-label="post link to Masaje (El Gran Libro de...) (Spanish Edition)" href="http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-spanish-edition-servilibro/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/indian-country-dorothy-m-johnson/cover.jpg" alt="Portada de Indian Country">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Indian Country
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Pocos amantes del cine western son conscientes de que clásicos del género como La diligencia (1939), Las aventuras de Jeremiah Johnson (1972), Fort apache (1948), o Un hombre llamado caballo (1970) están basados en novelas y relatos de autores como Ernest Haycox, Vardis Fisher, James Warner Bellah o Dorothy M. Johnson, escritores casi desconocidos entre los lectores españoles de hoy. El género literario del western no está suficientemente valorado en nuestro país debido a su identificación con productos destinados a un consumo masivo en kioscos. La narrativa western cuenta, sin embargo, con precursores de la talla de Bret Harte, Mark Twain, Jack London o Ambrose Bierce. La editorial Valdemar asume el reto de iniciar una colección, Frontera, destinada a albergar en su catálogo algunas de las obras más destacadas de esta narrativa, ajustándose al criterio de la calidad literaria. Y qué mejor, para empezar, que estos relatos de Dorothy M. Johnson, reputada autora norteamericana, habitual en antologías de relatos contemporáneos, verdadera especialista en la siempre problemática relación entre blancos y pieles rojas en la frontera de aquellas tierras vírgenes que fueron escenario de un cruento choque cultural. Dorothy M. Johnson se muestra contundente, inteligente, irónica, y en ocasiones dura hasta la crueldad, y consigue con sus frases cortas transmitir al lector una sensación de veracidad y vida en sus historias.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-12-01 00:00:00 +0000 UTC'>December 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Indian Country" href="http://localhost:1313/mi-biblioteca/libros/indian-country-dorothy-m-johnson/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/the-marriage-plot-jeffrey-eugenides/cover.jpg" alt="Portada de The Marriage Plot">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The Marriage Plot
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Madeleine Hanna was the dutiful English major who didn’t get the memo. While everyone else in the early 1980s was reading Derrida, she was happily absorbed with Jane Austen and George Eliot: purveyors of the marriage plot that lies at the heart of the greatest English novels. Madeleine was the girl who dressed a little too nicely for the taste of her more bohemian friends, the perfect girlfriend whose college love life, despite her good looks, hadn’t lived up to expectations. But now, in the spring of her senior year, Madeleine has enrolled in a semiotics course “to see what all the fuss is about,” and, for reasons that have nothing to do with school, life and literature will never be the same. Not after she falls in love with Leonard Morten–charismatic loner, college Darwinist and lost Oregon boy–who is possessed of seemingly inexhaustible energy and introduces her to the ecstasies of immediate experience. And certainly not after Mitchell Grammaticus–devotee of Patti Smith and Thomas Merton–resurfaces in her life, obsessed with the idea that Madeleine is destined to be his mate.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-10-11 00:00:00 +0000 UTC'>October 11, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to The Marriage Plot" href="http://localhost:1313/mi-biblioteca/libros/the-marriage-plot-jeffrey-eugenides/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-perdida-jessica-abel/cover.jpg" alt="Portada de La Perdida">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La Perdida
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Carla, una norteamericana distanciada de su padre mexicano, decide ir a la capital del país azteca para “encontrarse a sí misma”. Se instala en casa de un antiguo ligue que sigue las huellas de sus héroes William S. Burroughs y Jack Kerouac por los bares de la ciudad. Harry se toma con buen humor la reaparición de Carla en su vida hasta que se da cuenta de que ésta, que se pasa los días empapándose de la ciudad, explorando la casa de Frida Kahlo y aprendiendo español, no tiene intención de largarse. Cuando la relación de mutua tolerancia entre Harry y Carla llega a su inevitable fin, ella reniega de su mundo de anglófonos expatriados y se busca su propio grupo de amigos: el guapo Óscar, un camello con ínfulas de DJ, y el carismático Memo, un mujeriego pseudointelectual de izquierdas. Los evocadores dibujos en blanco y negro de Jessica Abel hacen cobrar vida a la ciudad de México de ayer y de hoy, desplegando la oscura historia de Carla frente a los legados de Burroughs y Kahlo. Un relato sobre el deseo juvenil de vivir una vida auténtica y las consecuencias de confiar en las respuestas sencillas, La perdida –arraigada en las especificidades de la vida en México y universal a la vez– es una historia sobre encontrarse a uno mismo al perderse.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-09-01 00:00:00 +0000 UTC'>September 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to La Perdida" href="http://localhost:1313/mi-biblioteca/libros/la-perdida-jessica-abel/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/moby-dick-herman-melville/cover.jpg" alt="Portada de Moby Dick">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Moby Dick
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Widely considered one of the great American novels, Herman Melville’s masterpiece went largely unread during his lifetime and was out of print at the time of his death in 1891.
+Moby Dick features detailed descriptions of whale hunting and whale oil extraction as well as beautiful, incisive writing on race, class, religion, art, and society. The story, loosely based on a real whaling shipwreck, features the unforgettable, vengeful Captain Ahab, who obsessively hunts a great white whale who bit his leg off below the knee.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-07-01 00:00:00 +0000 UTC'>July 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Moby Dick" href="http://localhost:1313/mi-biblioteca/libros/moby-dick-herman-melville/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-amaba-a-los-ninos-christina-stead/cover.jpg" alt="Portada de El hombre que amaba a los niños">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El hombre que amaba a los niños
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Sam y Henny Pollit tienen muchos niños, poco dinero y se odian demasiado entre sí. Cuando Sam utiliza, para alimentar la voracidad de su ego, la veneración que sienten sus hijos por él, Henny lo observa con sombría desesperación, consciente de la amarga realidad que subyace a sus locas visiones.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-06-01 00:00:00 +0000 UTC'>June 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to El hombre que amaba a los niños" href="http://localhost:1313/mi-biblioteca/libros/el-hombre-que-amaba-a-los-ninos-christina-stead/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/cover.jpg" alt="Portada de Shenzhen">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Shenzhen
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Shenzhen, ciudad elegida por Deng Xiao Ping como campo de pruebas de la llamada “economía socialista de mercado”, ha pasado de los 30,000 habitantes que tenía en 1980 a cerca de 10 millones en la actualidad, convirtiéndose en una de las ciudades más dinámicas de China y una de las megalópolis del mundo.
+Durante un mes, Guy Delisle, autor de Pyongyang, ejerció en Shenzhen como director de un equipo de animadores en la realización de un proyecto de dibujos animados. Durante ese tiempo su vida cotidiana se pobló de malentendidos, torpes tentativas de comunicación, reflexiones, soledad, descubrimientos culinarios más o menos agradables y veladas surrealistas. Un choque cultural que el autor afronta con humor y maestría.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-06-01 00:00:00 +0000 UTC'>June 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Shenzhen" href="http://localhost:1313/mi-biblioteca/libros/shenzhen-guy-delisle/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/mares-tenebrosos-una-antologia-de-cuentos-de-terror-en-el-mar-jose-maria-nebreda/cover.jpg" alt="Portada de Mares Tenebrosos: Una Antología de Cuentos de Terror en el Mar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Mares Tenebrosos: Una Antología de Cuentos de Terror en el Mar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>El mar siempre ha sido un enclave propicio para la aventura, la exploración, lo desconocido, las grandes hazañas y también, por qué no decirlo, para el horror. No es extraño encontrar en muchos viejos mapas de mares y costas, en todas las lenguas y culturas, la enigmática expresión que nos advierte: “más allá hay monstruos”. La antología que nos ocupa está preñada de salitre, de mareas, de mástiles y velas desplegadas al viento, y de hombres, de personajes que afrontan el mar con desafío, con cobardía, con indiferencia o sorpresa, y también con horror. Mares tenebrosos es una antología que reúne veinte relatos de terror ambientados en el mar. La selección, a cargo de José María Nebreda (que también se ha ocupado de la traducción y las notas biográficas), ha procurado ser lo más variada posible: hay cuentos que se desarrollan en la costa, cerca del mar; otros en las islas desconocidas y desiertas; en las cantinas portuarias, llenas de viejos lobos de mar que narran extrañas historias; en un faro perdido entre los escollos, a decenas de kilómetros del continente; en un barco fantasma que no sabe que lo es; en otro que ha visto un espectro y siente un pánico paralizante; vagabundearemos sin rumbo, enloquecidos, en medio de la bruma más espesa e impenetrable; incluso viajaremos tierra adentro, a un pueblecito alejado del mar por una gran distancia y que, sin embargo, alberga una de las más bellas historias fantásticas sobre el mar jamás escritas. No podían faltar en esta antología autores de la talla de W.H. Hodgson, gran maestro de este peculiar género, H.P. Lovecraft o Robert E. Howard. También se han incluido autores menos conocidos por el aficionado español como John Masefield, James Anley, William Outerson, Frank Norris, Michel Bernanos y Jack Cady, autor norteamericano recientemente fallecido.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-04-01 00:00:00 +0000 UTC'>April 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Mares Tenebrosos: Una Antología de Cuentos de Terror en el Mar" href="http://localhost:1313/mi-biblioteca/libros/mares-tenebrosos-una-antologia-de-cuentos-de-terror-en-el-mar-jose-maria-nebreda/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/al-otro-extremo-de-la-correa-por-que-a-veces-nosotros-no-entendemos-a-los-perros-y-ellos-tampoco-nos-entienden-a-nosotros-patricia-b-mcconnell/cover.jpg" alt="Portada de Al otro extremo de la correa: Por qué a veces nosotros no entendemos a los perros y ellos tampoco nos entienden a nosotros">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Al otro extremo de la correa: Por qué a veces nosotros no entendemos a los perros y ellos tampoco nos entienden a nosotros
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Brand New. Ship worldwide
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-03-14 00:00:00 +0000 UTC'>March 14, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Al otro extremo de la correa: Por qué a veces nosotros no entendemos a los perros y ellos tampoco nos entienden a nosotros" href="http://localhost:1313/mi-biblioteca/libros/al-otro-extremo-de-la-correa-por-que-a-veces-nosotros-no-entendemos-a-los-perros-y-ellos-tampoco-nos-entienden-a-nosotros-patricia-b-mcconnell/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/mujeres-charles-bukowski/cover.jpg" alt="Portada de Mujeres">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Mujeres
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Este gigantesco maratón sexual es un proceso de aprendizaje, de conocimiento, en el que Bukowski no escatima sarcásticas observaciones de si mismo, y en el que el machismo de textos anteriores queda seriamente erosionado; todo ello unido a incontables borracheras. Bukowski parece sugerir que las alternativas - una carrera mas respetable, literaria o la que fuese - son aún más deshumanizadas.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2011-03-01 00:00:00 +0000 UTC'>March 1, 2011</span></footer>
+  <a class="entry-link" aria-label="post link to Mujeres" href="http://localhost:1313/mi-biblioteca/libros/mujeres-charles-bukowski/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/29/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/31/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

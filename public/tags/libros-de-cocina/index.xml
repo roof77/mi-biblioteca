@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libros De Cocina on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/libros-de-cocina/</link>
+    <description>Recent content in Libros De Cocina on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/libros-de-cocina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>500 recetas de sushi</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/500-recetas-de-sushi-caroline-bennett/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/500-recetas-de-sushi-caroline-bennett/</guid>
+      <description>&lt;p&gt;Una exhaustiva colección de recetas que le aportarán la confianza necesaria para elegir pescados frescos y otros ingredientes, y fusionarlos en combinaciones deliciosas. Desde decoraciones y rellenos hasta aliños y acompañ toda la información necesaria para preparar sushi en casa. Incluye una guía de los diferentes estilos de sushi e instrucciones para prepararlos, desde los clásicos hasta los populares rollitos que fusionan tendencias. El sushi, elaborado con arroz japonés condimentado y sorprendentes combinaciones de pescado fresco, marisco, tofu y verduras, supone un tentempié deliciosamente sano para disfrutar en cualquier momento del día. Este libro ofrece datos detallados sobre los utensilios y los ingredientes más empleados, así como los condimentos precisos.   Una colección amena de carácter temático con 500 recetas en cada volumen. Éstas son exquisitas, muy claras y fáciles de seguir. Con información detallada sobre aspectos  técnicas, equipo, ingredientes e ideas de presentación.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

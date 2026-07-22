@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tommy Lee on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/tommy-lee/</link>
+    <description>Recent content in Tommy Lee on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/tommy-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mötley Crüe: los trapos sucios</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/motley-crue-los-trapos-sucios-neil-strauss/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/motley-crue-los-trapos-sucios-neil-strauss/</guid>
+      <description>&lt;p&gt;Por fin en castellano llega la crónica definitiva de los peligros, los placeres y la decadencia del estrellato del rock and roll: whisky y actrices porno, peleas y accidentes de coche, sobredosis y muerte. Propulsados por todas las drogas que tuvieran a su alcance y espoleados por cantidades obscenas de alcohol, Mötley Crüe camparon a sus anchas durante dos décadas, dejando a su paso un reguero de mujeres corrompidas, habitaciones de hotel arrasadas, coches destrozados, representantes enloquecidos, huesos rotos y víctimas de diversa consideración. Todos estos hechos inenarrables y sus terribles consecuencias forman la espina dorsal de Los trapos sucios, un libro de referencia tanto para los fans del grupo como para todos aquellos interesados en el fenómeno del rock and roll. Narrado personalmente por Tommy, Mick, Vince y Nikki, con aportaciones puntuales de compañeros de viaje como John Corabi, varios ex representantes y un par de ejecutivos discográficos, Los trapos sucios dista mucho de ser un retrato complaciente. Divertido, sí. Patético, entrañable, depravado y repulsivo, también. En cualquier caso, fascinante y absorbente.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

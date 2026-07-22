@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carmen Criado Fernández on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/carmen-criado-fern%C3%A1ndez/</link>
+    <description>Recent content in Carmen Criado Fernández on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/carmen-criado-fern%C3%A1ndez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El guardián entre el centeno</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-guardian-entre-el-centeno-j-d-salinger/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-guardian-entre-el-centeno-j-d-salinger/</guid>
+      <description>&lt;p&gt;Las peripecias del adolescente Holden Caulfield en una Nueva York que se recupera de la guerra influyeron en sucesivas generaciones de todo el mundo. En su confesión sincera y sin tapujos, muy lejos de la visión almibarada de la adolescencia que imperó hasta entonces, Holden nos desvela la realidad de un muchacho enfrentado al fracaso escolar, a las rígidas normas de una familia tradicional, a la experiencia de la sexualidad más allá del mero deseo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

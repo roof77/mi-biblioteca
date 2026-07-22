@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Irán on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/ir%C3%A1n/</link>
+    <description>Recent content in Irán on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Dec 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/ir%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Persépolis (Persepolis #1-4)</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/persepolis-persepolis-1-4-marjane-satrapi/</link>
+      <pubDate>Sun, 30 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/persepolis-persepolis-1-4-marjane-satrapi/</guid>
+      <description>&lt;p&gt;Marjane Satrapi, una de las artistas iraníes más aclamadas, galardonada con varios premios entre los que destacan el Premio al Autor Revelación 2001 y Mejor Guión 2002 en el Festival Internacional de Cómoc de Angoulème, nos ofrece un relato autobiográfico sobre su infancia en Irán, que es a su vez un excelente testimonio histórico de un pueblo y una época. Gracias a su gran carga emotiva, crítica e irónica, Persépolis se ha convertido en un cómic de referencia.
+Persépolis es la autobiografía de Marjane Satrapi , una mujer iraní nacida en Teherán en 1969 en el seno de una familia progresista. Pero, además del retrato de la vida de la autora, también es el reflejo de la revolución iraní de 1979 que dio lugar a un gobierno islámico y de cómo lo vivieron las familias del país.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

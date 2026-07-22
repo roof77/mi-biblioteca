@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Edimat Libros on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/edimat-libros/</link>
+    <description>Recent content in Edimat Libros on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/edimat-libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual de cocina</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/manual-de-cocina-ana-maria-herrera-y-ruiz-de-la-herran/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/manual-de-cocina-ana-maria-herrera-y-ruiz-de-la-herran/</guid>
+      <description>&lt;p&gt;La primera edición del Manual de cocina se publicó en 1950, se escribió bajo dos principios: que los ingredientes de las recetas resultasen baratos y asequibles, y que las recetas fueran de sencilla preparación pero de calidad. Desde entonces, este recetario no ha perdido ninguna vigencia y hoy en día es el gran manual de la cocina popular española.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

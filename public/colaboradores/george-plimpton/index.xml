@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>George Plimpton on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/colaboradores/george-plimpton/</link>
+    <description>Recent content in George Plimpton on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Sep 1988 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/colaboradores/george-plimpton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edie</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/edie-jean-stein/</link>
+      <pubDate>Thu, 01 Sep 1988 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/edie-jean-stein/</guid>
+      <description>&lt;p&gt;La corta y trágica vida de Edie Sedgwick, su deslumbrante y autodestructiva trayectoria en una América de grandes privilegios, adquiere la categoría de leyenda. Chica del año 1965, superestrella de Andy Warhol, y musa de Bob Dylan en Just like a woman&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

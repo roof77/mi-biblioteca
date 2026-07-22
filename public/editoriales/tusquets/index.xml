@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tusquets on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/editoriales/tusquets/</link>
+    <description>Recent content in Tusquets on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/editoriales/tusquets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El balcón en invierno</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/el-balcon-en-invierno-luis-landero/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/el-balcon-en-invierno-luis-landero/</guid>
+      <description>&lt;p&gt;Asomado al balcón, debatiéndose entre la vida que bulle en la calle y la novela que ha empezado a escribir pero que no le satisface, el escritor se ve asaltado por el recuerdo de una conversación que tuvo lugar cincuenta años antes, en otro balcón, con su madre. «Yo tenía dieciséis años, y mi madre cuarenta y siete. Mi padre, con cincuenta, había muerto en mayo, y ahora se abría ante nosotros un futuro incierto pero también prometedor.». Este libro es la narración emocionante de una infancia en una familia de labradores en Alburquerque (Extremadura), y una adolescencia en el madrileño barrio de la Prosperidad. Es también el relato, a veces de una implacable sinceridad, otras chusco y humorístico, de por qué oscuros designios del azar un chico de una familia donde apenas había un libro logra encontrarse con la literatura y ser escritor. Y de sus vicisitudes laborales en comercios, talleres y oficinas, mientras estudia en academias nocturnas, empeñado en ser un hombre de provecho. Pero dispuesto a tirarlo todo por la borda para ser guitarrista, y vivir como artista. Y en ese universo familiar de los descendientes de hojalateros, surge un divertidísimo e inagotable caudal de historias y anécdotas en el que se reconoce la historia reciente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hollywood Babilonia</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-kenneth-anger/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-kenneth-anger/</guid>
+      <description>&lt;p&gt;nunca hasta ahora se habia exhibido con tal crudeza la realidad que oculta la espejeante fachada de esta fabrica de suenos. Hollywood babilionia, con su azarosa historia de prohibiciones y pirateria , ha pasado finalmente a ser hoy un ilbro casi lehendario&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kafka en la orilla</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/kafka-en-la-orilla-haruki-murakami/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/kafka-en-la-orilla-haruki-murakami/</guid>
+      <description>&lt;p&gt;Kafka Tamura se va de casa el día en que cumple quince años. Le llevan a ello las malas relaciones con su padre –un famoso escultor convencido de que su hijo repetirá el aciago sino de Edipo– y el vacío producido por la ausencia de su madre; se dirigirá al sur del país, donde encontrará refugio en una peculiar biblioteca y conocerá a la misteriosa señora Saeki. Sus pasos se cruzan con los de otro personaje, Satoru Nakata, sobre quien se ha abatido la tragedia: de niño, durante la segunda guerra mundial, sufrió un accidente del que salió con secuelas y dificultades para comunicarse&amp;hellip; salvo con los gatos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lady sings the Blues</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/</link>
+      <pubDate>Tue, 28 Apr 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/lady-sings-the-blues-billie-holiday/</guid>
+      <description>&lt;p&gt;Cuando Eleanora Holiday, más conocida por Billie, o Lady Day para los amigos, murió en un hospital de Nueva York en 1959, dejaba tras de sí una de las carreras más míticas y deslumbrantes de la historia del jazz. Desde los miserables inicios en Baltimore, los primeros trabajos como criada, el intento de violación a los diez años, la prostitución, la discriminación racial, la drogadicción, los múltiples pleitos y estancias en la cárcel, el engaño por parte de casi todos los hombres que la trataron, su vida aparece jalonada por una serie de episodios que fraguaron su leyenda. Billie Holiday nos cuenta con conmovedora sinceridad en estas memorias —escritas en colaboración con su amigo y pianista William Dufty—, en las que también se revive la más esplendorosa época del jazz en los clubes de Harlem, la radio y los estudios de grabación, las giras maratonianas y las jam-sessions al lado de músicos legendarios como, entre otros, Duke Ellington, Louis Amstrong, Benny Goodman, Count Basie, Lester Young o Artie Shaw.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.163.2"><script src="/mi-biblioteca/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=mi-biblioteca/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mi biblioteca</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/mi-biblioteca/">
+<link crossorigin="anonymous" href="/mi-biblioteca/assets/css/stylesheet.104c6aef7294fdbb4c47414e5b29742d442704e82ca2e22dba9fe04408897d7d.css" integrity="sha256-EExq73KU/btMR0FOWyl0LUQnBOgsouItup/gRAiJfX0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/mi-biblioteca/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/mi-biblioteca/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/mi-biblioteca/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/mi-biblioteca/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/mi-biblioteca/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/mi-biblioteca/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/mi-biblioteca/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/mi-biblioteca/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/mi-biblioteca/" accesskey="h" title="Mi biblioteca (Alt + H)">Mi biblioteca</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/libros/" title="Libros">
+                    <span>Libros</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/autores/" title="Autores">
+                    <span>Autores</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/editoriales/" title="Editoriales">
+                    <span>Editoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/tags/" title="Etiquetas">
+                    <span>Etiquetas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/mi-biblioteca/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-6-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump Ultimate Edition 6">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump Ultimate Edition 6
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump Ultimate Edition 6" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-6-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no1-dr-slump-kanzenban-1-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>La primera gran serie de Toriyama tuvo un éxito enorme y ahora ha recibido una nueva traducción. Esta monumental historia de humor no ha en la curiosa Villa del Pingüino, el gran genio Senbei Norimaki ha creado un robot con forma de chica, pero con una fuerza Arale, la protagonista de este manga shonen.
+Sin embargo, su imprudencia y su increíble ingenuidad desencadenarán, rápidamente, una serie de desastres y eventos cada vez más extravagantes. </p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-no1-dr-slump-kanzenban-1-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-vol-07-dr-slump-kanzenban-7-akira-toriyama/cover.jpg" alt="Portada de Dr. Slump Ultimate Edition, Vol. 07 (Dr. Slump Kanzenban, #7)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dr. Slump Ultimate Edition, Vol. 07 (Dr. Slump Kanzenban, #7)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Dr. Slump Ultimate Edition, Vol. 07 (Dr. Slump Kanzenban, #7)" href="http://localhost:1313/mi-biblioteca/libros/dr-slump-ultimate-edition-vol-07-dr-slump-kanzenban-7-akira-toriyama/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/cover.jpg" alt="Portada de El Eternauta">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El Eternauta
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Historieta de ciencia-ficción publicada por entregas en el suplemento argentino Hora Cero Semanal desde 1957 hasta 1959. Con un estilo único, escrita por Héctor G. Oesterheld y dibujada por Francisco Solano, desde el primer número logró mantener en vilo a un elevado número de lectores que crecía semana tras semana.
+En este cómic de cargado contenido social y político, la historia nunca es lo que parece, siempre tiene algo para sorprendernos. Oesterheld dotó a Juan Salvo, su protagonista, de identificación colectiva, repartiendo el valor, la fuerza y el liderazgo del héroe con un pueblo solidario que une sus fuerzas contra el invasor.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to El Eternauta" href="http://localhost:1313/mi-biblioteca/libros/el-eternauta-hector-german-oesterheld/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/la-plaga-de-los-zombis-y-otras-historias-de-muertos-vivientes-h-p-lovecraft/cover.jpg" alt="Portada de La plaga de los zombis y otras historias de muertos vivientes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">La plaga de los zombis y otras historias de muertos vivientes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Los muertos que vuelven de la tumba, a menudo con afán vengador, han adoptado diversas formas en la literatura fantástica de los dos últimos siglos, dotándola de sus iconos más populares: los fantasmas, vampiros y momias del siglo XIX, y los modernos zombis del XX.
+El zombi, el muerto viviente en su sentido más literal y visceral, es el monstruo por excelencia de nuestro tiempo. Este extraño personaje, carente de personalidad y dominado por una furia ciega e insaciable, se ha renovado y revitalizado extendiéndose como una pandemia y penetrando en el nuevo milenio con fuerza demoledora.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to La plaga de los zombis y otras historias de muertos vivientes" href="http://localhost:1313/mi-biblioteca/libros/la-plaga-de-los-zombis-y-otras-historias-de-muertos-vivientes-h-p-lovecraft/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/memorias-literarias-dmitry-grigorovich/cover.jpg" alt="Portada de Memorias literarias">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Memorias literarias
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Grigoróvich tuvo la fortuna de codearse con las principales figuras literarias de su época, tanto como escritor como con su puesto de secretario durante dos décadas en la Sociedad para la Promoción de las Artes de San Petersburgo. Como resultado de su pertenencia a los círculos íntimos de varios autores como Turguéniev, Dostoievski o Chéjov, a quien descubrió y animó a escribir, le fue posible coleccionar una serie de bocetos y de retratos de los principales escritores y artistas en la forma de sus recuerdos, ahora reunidos por vez primera en nuestro país. Dichas Memorias literarias nos ofrecen la oportunidad de comprender mejor a los grandes genios de la literatura rusa del siglo diecinueve, cómo vivían y trabajaban.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Memorias literarias" href="http://localhost:1313/mi-biblioteca/libros/memorias-literarias-dmitry-grigorovich/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/peyton-place-peyton-place-1-grace-metalious/cover.jpg" alt="Portada de Peyton Place (Peyton Place, #1)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Peyton Place (Peyton Place, #1)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Pueblo pequeño, infierno grande. Grace Metalious no sólo desgració la vida de sus vecinos con la publicación, en 1956, de Peyton Place, fenómeno editorial que borró la distinción entre alta y baja cultura cuando confundir ambas cosas aún no estaba de moda. En opinión de muchos, sin este libro no habrían existido Melrose Place y Twin Peaks. Algunos paladines de la utilidad incluso estiman que Peyton Place dio empuje al movimiento feminista estadounidense y ocasión de revisar la hipocresía moral de la época. Pero gracias a este incordio de libro, Metalious también se ganó la muerte social y, según el parecer de sus biógrafos, la cirrosis que acabaría con ella a los treinta y nueve años. La autora había buscado la fama, y la parábola acaba con sus últimas palabras: «Ten cuidado con lo que deseas, porque podrías conseguirlo». Los lectores no parecían dispuestos a leer en una novela aquello que ponían en práctica, permitían o sufrían en su vida cotidiana, desde el natural despertar de la sexualidad hasta el odio racial y de clase, el incesto, el aborto o la corrupción del poder religioso. Claro que esos mismos lectores habían estado esperando Peyton Place sin saberlo. La leyeron millones, algunos incluso a escondidas, mientras muchos países la prohibían y algún bibliotecario colgaba incluso un cartel en el que se leía: «No tenemos ningún ejemplar de Peyton Place. Si queréis este libro id a Salem». La vida, con perdón, rivaliza aquí con la literatura. El lector honrado, en cualquier caso, deberá admitir que, una vez abierto este libro, no hay manera de cerrarlo. Tal vez porque hay en él menos ficción que realidad. Indecente, quizás. Y fascinante, pues estas cosas suelen ir de la mano. Metalious lo sabía y, aunque un poco tarde, la historia se ha ocupado de colocarla más allá de la provocación, en el lugar que merece como narradora.
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Peyton Place (Peyton Place, #1)" href="http://localhost:1313/mi-biblioteca/libros/peyton-place-peyton-place-1-grace-metalious/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/quien-anda-ahi-los-mejores-relatos-de-fantasmas-aparecidos-en-valdemar-claude-vignon/cover.jpg" alt="Portada de Quién anda ahí... Los mejores relatos de fantasmas aparecidos en Valdemar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Quién anda ahí... Los mejores relatos de fantasmas aparecidos en Valdemar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Los fantasmas, los espectros o aparecidos, los muertos que no encuentran la paz en sus tumbas y regresan al mundo de los vivos, han poblado desde siempre nuestras peores pesadillas. Pero es sin duda a partir del Romanticismo y su fascinación por todo lo sobrenatural cuando se establece la visión moderna del fantasma. La presente antología recopila los mejores relatos de fantasmas publicados por Valdemar a lo largo de más de veinte años, y ha tenido en cuenta la evolución histórica del relato moderno de fantasmas, así como sus distintas corrientes, por lo que reune relatos de Nodier, Le Fanu o Margaret Oliphant, con una perspectiva más tradicional y folclórica del mundo espectral, junto a contribuciones más personales de autores consagrados como Stoker, Maupassant o Conan Doyle, sin olvidar las historias de «especialistas» más recientes como M.R. James o E.F. Benson, que tratan de alejarse de los escenarios clásicos de ruinas y pasadizos trayendo el horror a la paz de la vida cotidiana. El cuento de fantasmas es, en palabras del escritor inglés L.P. Hartley, la forma más exigente del arte literario, pues para cumplir su función debe alcanzar lo que la escritora Edith Wharton denominó «la cualidad termométrica», es decir, lograr «que nos corra un escalofrío por el espinazo».
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Quién anda ahí... Los mejores relatos de fantasmas aparecidos en Valdemar" href="http://localhost:1313/mi-biblioteca/libros/quien-anda-ahi-los-mejores-relatos-de-fantasmas-aparecidos-en-valdemar-claude-vignon/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/quien-rie-el-ultimo-mas-cuentos-de-humor-aparecidos-en-valdemar-oscar-sacristan/cover.jpg" alt="Portada de Quien ríe el último... Más cuentos de humor aparecidos en Valdemar">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Quien ríe el último... Más cuentos de humor aparecidos en Valdemar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras la excelente acogida de la antología de relatos de humor Con la risa en los huesos, publicada en esta misma colección con el número 259, y con la intención de prolongar las felices carcajadas de sus lectores, Valdemar ha preparado una segunda entrega en la misma línea: Quien ríe el último… El humor británico, tan rico y peculiar, vuelve a protagonizar estas páginas por las que desfilan de nuevo los personajes alucinados y alucinantes de Lewis Carroll, Dickens, Oscar Wilde, Kipling, o sus vecinos literarios del otro lado del Atlántico, Mark Twain y Ambrose Bierce. En esta ocasión se ha ampliado el número de relatos de los autores más celebrados, como Chesterton, Saki, Wells o Conan Doyle. Quien ríe el último… también supondrá un reencuentro con la mirada –siempre diferente– de artistas como Charles Addams, creador de La Familia Addams, sin olvidar a los autores españoles como Espronceda y Emilio Carrere.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Quien ríe el último... Más cuentos de humor aparecidos en Valdemar" href="http://localhost:1313/mi-biblioteca/libros/quien-rie-el-ultimo-mas-cuentos-de-humor-aparecidos-en-valdemar-oscar-sacristan/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+            <img loading="lazy" src="http://localhost:1313/mi-biblioteca/libros/una-historia-conmovedora-asombrosa-y-genial-dave-eggers/cover.jpg" alt="Portada de Una historia conmovedora, asombrosa y genial">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Una historia conmovedora, asombrosa y genial
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tras la muerte de sus padres, Dave se encuentra de un día para otro al cuidado de su hermano Toph, de ocho años. Lo que en principio parece un acontecimiento devastador se transforma en un revulsivo: la vida está llena de infinitas posibilidades y el mundo es un lugar demasiado grande y excitante como para hacerlo esperar, así que Dave vende la casa familiar y emprende con su hermano un viaje por carretera en busca del sol californiano.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2010-01-01 00:00:00 +0000 UTC'>January 1, 2010</span></footer>
+  <a class="entry-link" aria-label="post link to Una historia conmovedora, asombrosa y genial" href="http://localhost:1313/mi-biblioteca/libros/una-historia-conmovedora-asombrosa-y-genial-dave-eggers/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/mi-biblioteca/page/33/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/mi-biblioteca/page/35/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/mi-biblioteca/">Mi biblioteca</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
