@@ -13,7 +13,7 @@ autores:
 series:
 - The Complete Peanuts
 editoriales:
-- Planeta DeAgostini
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1971-1972 (Snoopy y Carlitos, #11)'
@@ -74,7 +74,7 @@ serie:
   posicion: '11'
   url: https://www.goodreads.com/series/58012-the-complete-peanuts
 detalles:
-  editorial: Planeta DeAgostini
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 314
   idioma: Spanish; Castilian

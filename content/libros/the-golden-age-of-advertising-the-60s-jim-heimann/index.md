@@ -8,7 +8,7 @@ tags:
 autores:
 - Jim Heimann
 editoriales:
-- TASCHEN
+- Taschen
 cover:
   image: cover.jpg
   alt: 'Portada de The Golden Age of Advertising: The 60s'
@@ -39,7 +39,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: TASCHEN
+  editorial: Taschen
   formato: Hardcover
   paginas: 352
   idioma: English

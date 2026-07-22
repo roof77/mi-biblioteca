@@ -6,7 +6,7 @@ autores:
 colaboradores:
 - Diego de los Santos Domingo
 editoriales:
-- Sajalín
+- Sajalín Editores
 colaboradores_detalle:
 - nombre: Diego de los Santos Domingo
   rol: Translator
@@ -39,7 +39,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Sajalín
+  editorial: Sajalín Editores
   formato: Paperback
   paginas: 635
   idioma: Spanish; Castilian

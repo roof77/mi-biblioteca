@@ -19,7 +19,7 @@ colaboradores:
 series:
 - Roald Dahl's Tales of the Unexpected
 editoriales:
-- ANAGRAMA
+- Anagrama
 colaboradores_detalle:
 - nombre: Carmelina Payá
   rol: Translator
@@ -81,7 +81,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/130970-roald-dahl-s-tales-of-the-unexpected
 detalles:
-  editorial: ANAGRAMA
+  editorial: Anagrama
   formato: Paperback
   paginas: 320
   idioma: Spanish; Castilian

@@ -10,7 +10,7 @@ autores:
 series:
 - Roy Stuart
 editoriales:
-- TASCHEN
+- Taschen
 cover:
   image: cover.jpg
   alt: Portada de Roy Stuart, Vol.2
@@ -43,7 +43,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/211694-roy-stuart
 detalles:
-  editorial: TASCHEN
+  editorial: Taschen
   formato: Hardcover
   paginas: 240
   idioma: English

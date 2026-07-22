@@ -6,7 +6,7 @@ autores:
 colaboradores:
 - Enrique Sánchez Abulí
 editoriales:
-- Planeta DeAgostini
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Enrique Sánchez Abulí
   rol: Translator
@@ -53,7 +53,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Planeta DeAgostini
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 192
   idioma: Spanish; Castilian

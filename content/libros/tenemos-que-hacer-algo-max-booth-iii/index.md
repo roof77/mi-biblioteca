@@ -15,7 +15,7 @@ colaboradores:
 - Mariñe Pérez
 - Shaila Correa
 editoriales:
-- La biblioteca de Carfax
+- La Biblioteca de Carfax
 colaboradores_detalle:
 - nombre: Mariñe Pérez
   rol: Illustrator
@@ -52,7 +52,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: La biblioteca de Carfax
+  editorial: La Biblioteca de Carfax
   formato: Paperback
   paginas: 216
   idioma: Spanish; Castilian

@@ -11,6 +11,8 @@ autores:
 - Joe Matt
 series:
 - Peepshow
+editoriales:
+- La Cúpula
 cover:
   image: cover.jpg
   alt: Portada de Pobre cabrón
@@ -39,7 +41,7 @@ serie:
   posicion: 1-6
   url: https://www.goodreads.com/series/126877-peepshow
 detalles:
-  editorial: ''
+  editorial: La Cúpula
   formato: null
   paginas: null
   idioma: null

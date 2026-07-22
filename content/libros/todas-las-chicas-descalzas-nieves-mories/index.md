@@ -4,7 +4,7 @@ tags: []
 autores:
 - Nieves Mories
 editoriales:
-- Dilatando Mentes
+- Dilatando Mentes Editorial
 cover:
   image: cover.jpg
   alt: Portada de Todas las chicas descalzas
@@ -31,7 +31,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Dilatando Mentes
+  editorial: Dilatando Mentes Editorial
   formato: Hardcover
   paginas: 184
   idioma: Spanish; Castilian

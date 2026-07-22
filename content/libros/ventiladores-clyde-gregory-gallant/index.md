@@ -12,7 +12,7 @@ autores:
 series:
 - Clyde Fans
 editoriales:
-- Ediciones Sins entido
+- Ediciones Sins Entido
 cover:
   image: cover.jpg
   alt: Portada de Ventiladores Clyde
@@ -37,7 +37,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/115691-clyde-fans
 detalles:
-  editorial: Ediciones Sins entido
+  editorial: Ediciones Sins Entido
   formato: Paperback
   paginas: 160
   idioma: Spanish; Castilian

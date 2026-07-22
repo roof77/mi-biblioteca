@@ -10,7 +10,7 @@ autores:
 series:
 - Roy Stuart
 editoriales:
-- TASCHEN
+- Taschen
 cover:
   image: cover.jpg
   alt: Portada de ROY STUART VOL. I TD 0102094
@@ -34,7 +34,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/211694-roy-stuart
 detalles:
-  editorial: TASCHEN
+  editorial: Taschen
   formato: Hardcover
   paginas: null
   idioma: Spanish; Castilian

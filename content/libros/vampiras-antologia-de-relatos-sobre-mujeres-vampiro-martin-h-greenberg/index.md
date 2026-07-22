@@ -28,7 +28,7 @@ colaboradores:
 - Stephen  King
 - Charles G. Waugh
 editoriales:
-- VALDEMAR
+- Valdemar
 colaboradores_detalle:
 - nombre: J. Sheridan Le Fanu
   rol: Author
@@ -107,7 +107,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: VALDEMAR
+  editorial: Valdemar
   formato: Paperback
   paginas: 528
   idioma: Spanish; Castilian

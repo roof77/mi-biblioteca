@@ -18,7 +18,7 @@ colaboradores:
 series:
 - The Last Roundup
 editoriales:
-- DEBOLSILLO
+- DeBolsillo
 colaboradores_detalle:
 - nombre: MIGUEL; MARTINEZ LAGE
   rol: Translator
@@ -50,7 +50,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/54982-the-last-roundup
 detalles:
-  editorial: DEBOLSILLO
+  editorial: DeBolsillo
   formato: Hardcover
   paginas: 448
   idioma: Spanish; Castilian

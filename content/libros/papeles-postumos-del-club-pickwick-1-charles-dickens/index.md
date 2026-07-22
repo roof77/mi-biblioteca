@@ -12,7 +12,7 @@ autores:
 series:
 - The Posthumous Papers of the Pickwick Club
 editoriales:
-- 'Alianza '
+- Alianza Editorial
 cover:
   image: cover.jpg
   alt: Portada de Papeles póstumos del Club Pickwick,1
@@ -65,7 +65,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/255744-the-posthumous-papers-of-the-pickwick-club
 detalles:
-  editorial: 'Alianza '
+  editorial: Alianza Editorial
   formato: Paperback
   paginas: 344
   idioma: Spanish; Castilian

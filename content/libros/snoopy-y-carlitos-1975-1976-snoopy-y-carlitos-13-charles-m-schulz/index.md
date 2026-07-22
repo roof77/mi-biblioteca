@@ -15,7 +15,7 @@ colaboradores:
 series:
 - The Complete Peanuts
 editoriales:
-- Planeta-De Agostini
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Ignacio Bentz
   rol: Translator
@@ -80,7 +80,7 @@ serie:
   posicion: '13'
   url: https://www.goodreads.com/series/58012-the-complete-peanuts
 detalles:
-  editorial: Planeta-De Agostini
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 314
   idioma: Spanish; Castilian

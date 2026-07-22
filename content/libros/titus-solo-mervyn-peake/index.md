@@ -17,7 +17,7 @@ colaboradores:
 series:
 - Gormenghast
 editoriales:
-- Atico de los Libros
+- Ático de los Libros
 colaboradores_detalle:
 - nombre: Encarna Quijada
   rol: translator
@@ -59,7 +59,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/45757-gormenghast
 detalles:
-  editorial: Atico de los Libros
+  editorial: Ático de los Libros
   formato: Hardcover
   paginas: 352
   idioma: Spanish; Castilian

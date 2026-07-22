@@ -17,7 +17,7 @@ colaboradores:
 series:
 - Gormenghast
 editoriales:
-- Atico de los Libros
+- Ático de los Libros
 colaboradores_detalle:
 - nombre: Luis Domènech
   rol: Translator
@@ -66,7 +66,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/45757-gormenghast
 detalles:
-  editorial: Atico de los Libros
+  editorial: Ático de los Libros
   formato: Hardcover
   paginas: 560
   idioma: Spanish; Castilian

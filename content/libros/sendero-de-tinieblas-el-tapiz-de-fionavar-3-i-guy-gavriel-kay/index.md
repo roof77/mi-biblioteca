@@ -17,7 +17,7 @@ colaboradores:
 series:
 - The Fionavar Tapestry
 editoriales:
-- Planeta DeAgostini
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Teófilo de Lozoya
   rol: Translator
@@ -51,7 +51,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/49379-the-fionavar-tapestry
 detalles:
-  editorial: Planeta DeAgostini
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 512
   idioma: Spanish; Castilian
