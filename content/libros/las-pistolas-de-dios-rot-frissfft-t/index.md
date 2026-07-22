@@ -5,6 +5,8 @@ autores:
 - Rot Frissfft-T
 editoriales:
 - Proyecto Estefanía
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Las pistolas de Dios
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: e8ad1b8085507e9e6a135cc522de14698ed14c8dd9a780816cd90e6aaaa447ec
 ---
 
 

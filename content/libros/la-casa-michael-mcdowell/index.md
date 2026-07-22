@@ -17,6 +17,8 @@ series:
 - Blackwater
 editoriales:
 - Neri Pozza
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Elena Cantoni
   rol: Translator
@@ -118,6 +120,7 @@ generos_traducidos:
 - Thriller
 - Misterio
 - Gótico sureño
+_hash_origen: 9761cab959d73ac154deb6107f740d477196c9b6a42d7f6d3030efbac7dd0e75
 ---
 
 1928, Perdido. Il clan Caskey è dilaniato dalla spietata lotta tra Mary-Love ed Elinor. Ma all'orizzonte si allungano altre ombre: sui legami, sui patrimoni, sulle anime. E le ripercussioni varcheranno i confini dell’immaginazione. Da quando Elinor ha preso possesso della casa più bella di Perdido, negli angoli bui della magione allignano ricordi spaventosi che, come ragni instancabili, tessono tele mortali

@@ -14,6 +14,8 @@ colaboradores:
 - Eleonora Cadelli
 editoriales:
 - Rizzoli
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Eleonora Cadelli
   rol: Translator
@@ -76,6 +78,7 @@ generos_traducidos:
 - Referencia
 - Literatura hispana
 - Idiomas
+_hash_origen: 72379a96c2977b48a83b2c9d9b577a8a2c37fa420614e156236409c087f1ed12
 ---
 
 Il mondo si divide in due categorie di persone: chi impara una nuova lingua al giorno solo per averla sentita parlare al bar, e tutti gli altri. Sfortunatamente, la stragrande maggioranza degli esseri umani appartiene a questo secondo gruppo. Se anche voi ne fate parte, e vi trascinate da anni in frustranti corpo a corpo con l’inglese, sappiate che vi siete finalmente imbattuti nel libro che potrà ribaltare la situazione una volta per tutte. Scritto e disegnato da una delle artiste più amate negli Stati Uniti, questo originale manuale di lingua guida il lettore attraverso le insidie dell’inglese in 17 impeccabili lezioni. Passerete dall’alfabeto ai phrasal verbs senza incappare in un attimo di noia, e studiando condizionali, verbi irregolari e altre amenità scoprirete che la grammatica può avere tutto un altro sapore. Specialmente quando è condita di corrosivo senso dell’umorismo e irresistibili illustrazioni.

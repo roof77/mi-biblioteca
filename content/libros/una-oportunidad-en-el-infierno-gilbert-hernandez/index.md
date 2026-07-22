@@ -14,6 +14,8 @@ series:
 - The Fritz B-Movie Books
 editoriales:
 - La Cúpula
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Una oportunidad en el infierno
@@ -99,6 +101,7 @@ generos_traducidos:
 - Drama
 - Noir
 - Terror
+_hash_origen: 1c8e4655a2fb30eac15bba142712484e173d01ec125e0245c609c054fc8f977e
 ---
 
 Una oportunidad en el infierno, la novela gráfica de Beto Hernandez, es un claro cambio de rumbo de su obra Love and Rockets. El libro se inicia en un entorno inhóspito, una ciudad sin nombre en cuyo vertedero se arroja a los marginados y a los hijos no deseados. La pequeña Princesa es una de las habitantes y el recuerdo de los sucesos brutales de los cuales es testigo, la perseguirán durante toda su vida. Ya de adulta, Princesa parece haberse instalado en una vida confortable -completada con un atractivo y triunfador marido- pero, atormentada por su pasado y obsesionada con querer encontrar a su padre, es incapaz de adaptarse al confort de la vida burguesa. Poco a poco, Hernandez nos revela que el nuevo entorno de Princesa es tan letal como el del que es incapaz de escapar.

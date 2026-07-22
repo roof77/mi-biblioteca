@@ -7,6 +7,8 @@ autores:
 - Ben Brooks
 editoriales:
 - Blackie Books
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Hurra
@@ -67,6 +69,7 @@ premios:
 generos_traducidos:
 - Ficción
 - Literatura británica
+_hash_origen: eb0ebb7fae5c6c93810d5916e7d845e745268b7c969bc641a9c38ee1173c198a
 ---
 
 Hurra por la hermana que salta desde un aparcamiento de varias plantas y lleva ropa interior sin combinar. Hurra por imaginar un entierro al que van Harry Potter, las últimas vaquitas marinas y los dos Murakamis. Hurra por dormir hasta tarde, las cervezas para desayunar y los universos paralelos donde todo es un poco mejor. Hurra por los tatuajes importantes hechos con tinta de boli y aguja de coser. Hurra por el padre que vive en una tienda de campaña y por la madre que siempre dice «yo también tengo derecho a salir». Hurra por la huida a París, Berlín y Barcelona. 

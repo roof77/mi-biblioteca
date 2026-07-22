@@ -18,6 +18,8 @@ series:
 - Blackwater
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carles Andreu
   rol: translator
@@ -121,6 +123,7 @@ generos_traducidos:
 - Ficción histórica
 - Gótico sureño
 - Histórico
+_hash_origen: 71fc6a853e1c701f6b13889859a1ff60527dae75fc4b624e44a399b65510e60a
 ---
 
 Mientras Perdido se recupera de la inundación, se propone la construcción de un dique que impida una nueva catástrofe. Sin embargo con las obras comenzarán las corrientes impredecibles y las desapariciones. Mientras tanto, en el clan Caskey, la matriarca Mary-Love ve cómo sus intereses chocan con los de Elinor, su misteriosa nuera. Las tensiones entre ambas amenazan con destruir el pueblo entero. En Perdido se avecinan grandes cambios, y las consecuencias serán devastadoras.

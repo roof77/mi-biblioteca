@@ -17,6 +17,8 @@ series:
 - Foundation (Publication Order)
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Albert Solé
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Space Opera
 - Espacio
 - Novela
+_hash_origen: f1f1e648f555de241bf626c0625c52ca512be23aaaba0860b370bc199896b802
 ---
 
 Al compás de una trama dramática y sugestiva, Asimov narra la apasionante peripecia de sus personajes más entrañables: Hari Sheldon, padre de la Fundación y creador de la teoría de la psicohistoria; Cleón I, vanidoso y astuto emperador del Imperio Galáctico, predestinado a ser el último miembro de una gloriosa dinastía; Eto Demerzel, misteriosa eminencia gris de palacio y verdadero detentador del poder, y Wanda Sheldon, la extraña e inteligente mujer a quien Hari confía su creación más ambiciosa: la omnipotente Segunda Fundación...

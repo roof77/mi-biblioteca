@@ -4,12 +4,16 @@ tags:
 - Manga
 - Comics
 - Clásico
+- Absurdo
+- Humor
 autores:
 - Akira Toriyama
 series:
 - Dr.スランプ [Dr. Slump]
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Dr. Slump Ultimate Edition, Vol. 07 (Dr. Slump Kanzenban, #7)'
@@ -72,6 +76,9 @@ generos_traducidos:
 - Manga
 - Comics
 - Clásico
+- Absurdo
+- Humor
+_hash_origen: bf2a5c7aa4c51429b179a8a51ddade3710e7a3a8be9e47add71e208e47731b9e
 ---
 
 Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!

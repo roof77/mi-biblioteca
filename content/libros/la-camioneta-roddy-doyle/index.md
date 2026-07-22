@@ -20,6 +20,8 @@ series:
 - The Barrytown Trilogy
 editoriales:
 - Alfaguara
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Antonio Resines
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Ficción Literaria
 - Siglo XX
 - Literatura
+_hash_origen: de748a7a5adadfb46ff7c83800c4a8b52bd6026b0598490382deda2f8f76cc83
 ---
 
 Jimmy Rabbitte, Sr. is unemployed, spending his days alone and miserable. When his best friend, Bimbo, also gets laid off, they keep by being miserable together. Things seem to look up when they buy a decrepit fish-and-chip van and go into business, selling cheap grub to the drunk and the hungry--and keeping one step ahead of the environmental health officers.

@@ -17,6 +17,8 @@ series:
 - My Favorite Thing Is Monsters
 editoriales:
 - Reservoir Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Montse Meneses Vilar
   rol: translator
@@ -88,6 +90,7 @@ generos_traducidos:
 - Ficción histórica
 - Queer
 - LGTBIQ+
+_hash_origen: b0b5157579e4435eccb9a05615a1a6ae8c62402975d7549515381a912a021e84
 ---
 
 LOS AÑOS DE APRENDIZAJE DE KAREN REYES LLEGAN A SU FIN

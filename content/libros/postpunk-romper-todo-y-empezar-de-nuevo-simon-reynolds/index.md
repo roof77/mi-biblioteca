@@ -16,6 +16,8 @@ colaboradores:
 - Matías Battistón
 editoriales:
 - Caja Negra
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Matías Battistón
   rol: Translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Cultura Pop
 - Siglo XXI
 - Ensayo
+_hash_origen: 23f008bb72fb751c07892f7e3c8d514c043ef9a0086675b74f74b22287ee88a5
 ---
 
 Si bien existen cientos de libros que documentan aquellos años en los que el punk desafió al status quo de la música con su nihilismo de tres acordes y la ética do it yourself, Postpunk. Romper todo y empezar de nuevo es el primero en recuperar a aquellas bandas que supieron ver en las condiciones generadas por el punk la oportunidad para establecer una verdadera ruptura con la tradición y experimentar por fuera de los estrechos parámetros del rock. Entregados a la tarea de profundizar la revolución iniciada por el punk, grupos como PiL, Joy Division, The Fall, The Slits, Devo, The Residents, Throbbing Gristle o Liquid Liquid exploraron territorios previamente desconocidos al incorporar las técnicas de producción del dub y la música disco, las radicales estrategias compositivas del krautrock, la música contemporánea y el free jazz, y el groove y la economía sonora del funk. Pero no solo de música se alimentó el postpunk: Cabaret Voltaire tomó prestado su nombre de Dada; Pere Ubu adoptó el suyo de Alfred Jarry; Gang of Four, inspirado por Brecht y Godard, trató de deconstruir el rock; los letristas absorbieron la ciencia ficción radical de J.G. Ballard, Philip K. Dick y William S. Burroughs; y bandas como The Pop Group o Contortions se inspiraron en el teatro de la crueldad de Artaud para romper las barreras entre el público y el escenario. Al purismo estridente del punk, el postpunk le opuso eclecticismo e hibridez. Y a su tradicionalismo rockero, un imperativo de cambio constante.

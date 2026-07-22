@@ -5,6 +5,8 @@ autores:
 - Vicky Gatekeeper
 editoriales:
 - Proyecto Estefanía
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La encrucijada de Desert Hole
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: c49bd9748d7cd8920ebd57053d992c33382f03a00c8879a6458d5f7affdb45c9
 ---
 
 

@@ -11,6 +11,8 @@ colaboradores:
 - Bożena Zaboklicka
 editoriales:
 - Acantilado
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Francesc Miravitlles
   rol: Translator
@@ -87,6 +89,7 @@ generos_traducidos:
 - Ficción
 - Humor
 - Relatos
+_hash_origen: a7653226e03892d9a82d7e89cf6a206d973323dcdaff53178743555c59014a59
 ---
 
 Seguida con gran devoción, sobre todo en Polonia y Alemania, pero también en Francia e Italia, la obra de Slawomir Mrozek, formada básicamente por narraciones y obras de teatro, se caracteriza por una astuta ironía y la frecuentación genial del absurdo. Ahora, con "La vida difícil" "treinta y siete absorbentes y lúcidos cuentos divertidos hasta la hilaridad", el lector se verá sumergido en su particularísimo y fascinante mundo narrativo, marcado por la parodia y el humor, donde podrá encontrar una cruel y sarcástica vivisección del género humano. Slawomir Mrozek (Borzecin, Polonia, 1930) estudió arquitectura, historia del arte y cultura oriental. Antes de darse a conocer como escritor, obtuvo un cierto éxito como periodista y dibujante satírico. A partir de 1957, su carrera literaria se desdobla en dos facetas muy definidas, la de autor dramático que le ha merecido un reconocimiento universal y un extraordinario éxito popular y la de narrador. Entre sus relatos destacan, además de los presentes, los recogidos en "Juego de azar" (Acantilado, 2001), "Dos cartas" (Acantilado, 2003) y "El árbol" (Acantilado, 2003).

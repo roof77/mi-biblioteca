@@ -16,6 +16,8 @@ colaboradores:
 - Benito Gómez Ibáñez
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Benito Gómez Ibáñez
   rol: Translator
@@ -102,6 +104,7 @@ generos_traducidos:
 - Crime real
 - Siglo XX
 - Ficción Literaria
+_hash_origen: bb45ec8e18f99d89d28908ed7857161280dc129093e281730f496e3d35e2fcbf
 ---
 
 Música para camaleones, un libro que Truman Capote presenta como una obra de literatura documental, bucea con implacable lucidez en la poesía y el horror de la vida; es el espléndido resultado de una necesidad de comunicación directa entre lector y materia narrativa, que Truman Capote buscó febrilmente para conseguir una escritura «sencilla y límpida como un arroyo de montaña». Una prosa en la que pudiera mantenerse al margen del tema tratado, sin influir con su estilo, juicios y opiniones. En palabras suyas: hacer del lector un observador o, mejor aún, el testigo de una experiencia verdadera que, contada bajo tal óptica, resultara mucho más subyugante que si el autor la interpretase al modo clásico.

@@ -15,6 +15,8 @@ colaboradores:
 - Haizea Beitia
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Haizea Beitia
   rol: Translator
@@ -86,6 +88,7 @@ generos_traducidos:
 - Salud
 - Referencia
 - Medicina
+_hash_origen: 022cbd4a404269c4a3ebc3131ba29ca32698727448d8968737e54b75b8e10fdc
 ---
 
 La brontofobia, o el miedo patológico a las tormentas, se considera un terror infantil, pero son muchos más los adultos afectados. La erotomanía, u obsesión amorosa es tanto la angustia incontrolable por el amor no correspondido como el autoengaño de sentirnos deseados por alguien. La gerascofobia, emparentada con el conocido como síndrome de Peter Pan, describe la aversión ante la vejez o el envejecimiento de los que amamos. La coreomanía es la necesidad imperante de bailar sin tregua hasta caer rendido.Más de la mitad de la población mundial padece nomofobia, el pánico desmedido a no tener el teléfono móvil a mano. A todos, sin excepción, nos obsesiona algo. Mientras la sociedad considera defectos imperdonables las fobias y manías de sus individuos, tan solo entenderlas puede ayudarnos a comprendernos y comprender a quienes nos rodean. Para reconciliarnos con nosotros mismos. Para sentirnos un poco menos solos.

@@ -10,6 +10,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Anghara (Indigo #8) II'
@@ -74,6 +76,7 @@ generos_traducidos:
 - Fantasía
 - Ficción
 - Ciencia Ficción
+_hash_origen: 823f0578abbdf43b27fe9a7f477373d3095e084e07fa1dc3376b98eaca887d67
 ---
 
 Parece como si la larga búsqueda de Índigo estuviera a punto de finalizar. Seis enfrentamientos han quedado atrás, y la muchacha regresa por fin a casa. 

@@ -16,6 +16,8 @@ series:
 - All Creatures Great and Small
 editoriales:
 - Grijalbo Mondadori
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Un veterinario en apuros
@@ -108,6 +110,7 @@ generos_traducidos:
 - Clásico
 - Literatura británica
 - Comedia
+_hash_origen: b7ca7209c93dc5cc9f58444186747334b19c9531b25f0ea681e6fe3dcca24e10
 ---
 
 Un nuevo libro de James Herriot, una colección de historias sacadas de su vida como veterinario en los hermosos valles del condado inglés de York. Veterinario recién titulado, relata las diversas situaciones en que se ve inmerso a causa del ejercicio de su profesión. Junto con ello, describe con gran maestría y, a la vez, mucha sencillez, a los pacientes que debe atender y las condiciones que los rodean; así mismo, se detiene en la observación de las personalidades tan dispares, en algunos casos, de sus dueños. 

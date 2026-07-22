@@ -15,6 +15,8 @@ autores:
 - Terry Southern
 editoriales:
 - Capitán Swing
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de A La Rica Marihuana Y Otros Sabores
@@ -110,6 +112,7 @@ generos_traducidos:
 - Periodismo
 - Sátira
 - Ficción americana
+_hash_origen: 41f4c5c505ad2413707b2a55c1e1a311e6275b7a5791666c2348d7f8ebad9110
 ---
 
 Esta recopilación de escritos, artículos y entrevistas en torno a la droga, la música, la política exterior norteamericana, la CIA, el periodismo, la moral convencional, etc; nos revela una mente descarada, elegante y muy en la onda. A través de ellos se detecta con gran sagacidad la sensibilidad de la década de los setenta.

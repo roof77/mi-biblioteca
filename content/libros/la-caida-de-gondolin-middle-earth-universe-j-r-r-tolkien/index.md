@@ -19,6 +19,8 @@ series:
 - Tales of Middle Earth
 editoriales:
 - Minotauro
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Alan  Lee
   rol: Illustrator
@@ -120,6 +122,7 @@ generos_traducidos:
 - Mitología
 - Adultos
 - Literatura
+_hash_origen: fe72a9daa9199aa7628c6297eceb355a2e66c329fa3bbf7aca94fafaddf895a6
 ---
 
 En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo. Por un lado está Morgoth, el mal más absoluto, que está al mando de un enorme poder militar que controla desde su fortaleza en Angband. En su oposición está Ulmo, el segundo Vala más poderoso. Trabaja secretamente en la Tierra Media para apoyar a los Noldor, el grupo de elfos entre los que se contaban Húrin y Túrin Turambar.

@@ -11,6 +11,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Avatar (Indigo, #6)'
@@ -80,6 +82,7 @@ generos_traducidos:
 - Ficción
 - Ciencia Ficción
 - Aventuras
+_hash_origen: 479d1b9d7bbee4102a49c52d047b38bffd3d031afa11dd39de54c246cd2a9f87
 ---
 
 En su eterna búsqueda para liberar al mundo del mal que ella misma desató sobre él, Índigo ha sido penitente, mensajera, peregrina..., y ahora, quizá un avatar de los difuntos. 

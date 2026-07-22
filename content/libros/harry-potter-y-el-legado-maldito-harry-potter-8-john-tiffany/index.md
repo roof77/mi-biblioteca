@@ -20,6 +20,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Jack Thorne
   rol: Author
@@ -124,6 +126,7 @@ generos_traducidos:
 - Aventuras
 - Viaje en el tiempo
 - Drama
+_hash_origen: 970041c19e3207b39aa725739debd5f8bc16f334201eef822cffa9e079cf881e
 ---
 
 Ser Harry Potter nunca ha sido tarea fácil, menos aún desde que se ha convertido en un ocupadísimo empleado del Ministerio de Magia, un hombre casado y padre de tres hijos. 

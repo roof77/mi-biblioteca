@@ -13,6 +13,8 @@ autores:
 - Groucho Marx
 editoriales:
 - Maxi-Tusquets
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Groucho y Yo
@@ -77,6 +79,7 @@ generos_traducidos:
 - Comedia
 - Autobiografía
 - Historia
+_hash_origen: 2f6666446df126aea33c6e719bdefb06de7f42b2aa68bfd2952fc7f6757da055
 ---
 
 Groucho y su yo, fundidos aquí en uno solo, escribieron, como era inevitable suponer, un libro que sólo puede escribirse como…, bueno, indescriptible. También será inevitable, si el lector siente la curiosidad por saber a ciencia cierta quiénes y cómo son Groucho y el yo-de-Groucho, que compre y lea estas memorias muy particulares, porque nosotros tan sólo podremos adelantarle aquí que, aunque uno y otro sean de naturaleza profundamente similar, también son, paradójicamente, muy distintos. En tanto que Groucho, ese incómodo insumiso, entrometido, criticón e insolente mujeriego, dinamita la sociedad, siembra el absurdo y el desconcierto por doquier y no comprende cómo alguien puede pertenecer a un club del que él sea socio, el yo-de-Groucho no piensa sino en medrar y enriquecerse en esa misma sociedad que dice despreciar y se arrima a cualquiera con tal de que le introduzca en el club más selecto. Pero lo cierto es que los dos gozan por igual del don privilegiado de hacernos morir de risa…

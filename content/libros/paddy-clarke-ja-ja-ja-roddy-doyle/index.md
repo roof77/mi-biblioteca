@@ -15,6 +15,8 @@ autores:
 - Roddy Doyle
 editoriales:
 - FisicalBook
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Paddy Clarke, ja, ja, ja
@@ -87,6 +89,7 @@ generos_traducidos:
 - Ficción histórica
 - Literatura
 - Siglo XX
+_hash_origen: 4a447a8a6a4cffc2971aed9122b800b6069736a6c2cb35ffb43ba3c05cfb5a20
 ---
 
 "Sometimes when nothing happened it was really getting ready to happen." Irish Paddy rampages through Barrytown streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always for the better.

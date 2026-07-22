@@ -12,6 +12,8 @@ autores:
 - Nick Drnaso
 editoriales:
 - Granta Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Sabrina
@@ -106,6 +108,7 @@ generos_traducidos:
 - Crimen
 - Contemporaneo
 - EEUU
+_hash_origen: 620c83b6cc24d38841fb1c11d500e9bce0e14529278f3a6b8e4ae19cbb43b9fb
 ---
 
 WHERE IS SABRINA?

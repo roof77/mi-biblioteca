@@ -34,6 +34,8 @@ colaboradores:
 - Newell Convers Wyeth
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Joseph Conrad
   rol: Author
@@ -154,6 +156,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 77dd7a708a6efa2f0c1915d4b030a4cf3785571156e96adfcf8fdf8f6a25ecd0
 ---
 
 La narrativa de aventuras, a diferencia de la literatura fantástica y de terror, que abunda en relatos breves, ha preferido desde sus orígenes homéricos la extensión de una novela para narrar las diferencias, y a menudo insólitas o exóticas, peripecias de un héroe que, de vueltas de su viaje iniciático, ya no volverá a ser el mismo y crecerá interiormente. No obstante esta preferencia por el relato largo, determinados autores, muchos de ellos escritores anglosajones de aventuras que vivieron a caballo entre el xix y el xx, se sirvieron también del cuento y la novela corta para contar de un modo menos prolijo o más puntual las andanzas del héroe. Mil y una aventuras reúne los mejores relatos de aventuras publicados a lo largo de dieciséis años en las diferentes colecciones de Valdemar, en particular El Club Diógenes y Avatares. La antología recoge cuentos de autores como Kipling, Stevenson, Conrad o Melville, ampliamente reconocidos dentro de la literatura general, junto a otros relatos de autores menos conocidos, o menos valorados (por su dedicación a la literatura popular), como Conan Doyle, Wells o Bierce. La recopilación incluye tres narraciones, Billy Budd (de Melville), Gaspar Ruiz (de Conrad) y El hombre que pudo reinar (de Kipling), que por su extensión podrían considerarse novelas breves, pero que, debido a su tensión argumental, habitualmente se leen de un tirón, como el resto de los relatos.

@@ -18,6 +18,8 @@ series:
 - Нашествие монголов
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Василий Ян
   rol: Author
@@ -108,6 +110,7 @@ generos_traducidos:
 - Clásico
 - Novela
 - Drama
+_hash_origen: 6e2891ee3c0cf1dae8c36dda20a3039de5c865fda0d9ae0bedd6945446d5b7d8
 ---
 
 Vasili Yantchevetski -Vasili Yan- (1874-1954), escritor de novela histórica ruso poco conocido en Occidente debido a que la mayor parte de su carrera literaria se desarrolló durante la era soviética, sintió una gran fascinación y curiosidad por la historia del pueblo mongol tras contemplar las espléndidas ruinas de un mundo antiguo arrasado siete siglos atrás por sus imparables hordas de jinetes.

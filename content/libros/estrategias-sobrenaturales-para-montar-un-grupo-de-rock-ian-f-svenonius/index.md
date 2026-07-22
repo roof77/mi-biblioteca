@@ -14,6 +14,8 @@ autores:
 - Ian F. Svenonius
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Estrategias Sobrenaturales Para Montar Un Grupo De Rock
@@ -87,6 +89,7 @@ generos_traducidos:
 - Psicología
 - Contracultura
 - Ensayo
+_hash_origen: f2c590a9469f1565f18af6189d158c456a461218db589737fc643d2ab3cf542a
 ---
 
 Pero qué tienen que ver...

@@ -15,6 +15,8 @@ autores:
 - Owen Wister
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de El Virginiano: Un caballero de las llanuras'
@@ -103,6 +105,7 @@ generos_traducidos:
 - Literatura
 - Histórico
 - Novela
+_hash_origen: 7a062152c2837f5067a51a2fbd6239921dd80d434f5c7d04e446a2610484e9d8
 ---
 
 Historiadores y críticos coinciden en considerar El Virginiano (1902), de Owen Wister, como la gran novela americana iniciadora del western, como la obra fundacional del género. Aunque ya en el siglo XIX podemos encontrar en la literatura norteamericana algunas incursiones en el tema del Oeste de grandes escritores como Mark Twain, Bret Harte u O’Henry, lo cierto es que sus obras aún no habían definido al gran protagonista del género, el cowboy.

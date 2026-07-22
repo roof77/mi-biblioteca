@@ -9,6 +9,8 @@ series:
 - The Complete Spider-Man Strips
 editoriales:
 - Panini Comics España (Marvel Comics)
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Spiderman: Las tiras completas 1'
@@ -61,6 +63,7 @@ premios:
 generos_traducidos:
 - Comics
 - Superheroes
+_hash_origen: a0890fc1125d53ee1fcc06e0433feecc791eee0f73cdfd9dc19f4790b5d395e8
 ---
 
 Collecting John Romita Sr., and Stan Lee's fantastic run of Spider-Man daily newspaper strips from 1977-1981, this book pits the webbed wonder against a whole host of foes from a classic era.

@@ -16,6 +16,8 @@ series:
 - New York Trilogy
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La trilogía de Nueva York
@@ -89,6 +91,7 @@ generos_traducidos:
 - Nueva York
 - Clásico
 - Crimen
+_hash_origen: f0b2419e252d61cad6ff2deb1a30a01ec23b203474f40060f8a7f8870e8d180e
 ---
 
 Barcelona. 23 cm. 295 p. Encuadernación en tapa dura de editorial con sobrecubierta ilustrada. Auster, Paul 1947-. The New York trilogy. Traducción de Maribel de Juan ; prólogo de Juan Bonilla. Traducción  New York trilogy .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario.  8422679205

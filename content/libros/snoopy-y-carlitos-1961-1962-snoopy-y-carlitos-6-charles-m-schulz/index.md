@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Guillermo Ruiz
   rol: Translator
@@ -113,6 +115,7 @@ generos_traducidos:
 - Tiras
 - Novela gráfica
 - Ficción
+_hash_origen: b384315771fc86c0e65ce42f9ae9f403df75ba335301a40b0af49beca7f58dcd
 ---
 
 Una tira clásica e icónica

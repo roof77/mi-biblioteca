@@ -12,6 +12,8 @@ autores:
 - Daniel Clowes
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Ghost World
@@ -92,6 +94,7 @@ generos_traducidos:
 - Coming of age
 - Contemporaneo
 - Humor
+_hash_origen: 7f53a1850897af07286fcd64c6464ee4fceb66d3ea0d61a249f430d3bb4f2f97
 ---
 
 Publicada originalmente entre 1993 y 1997 en la emblemática revista Eightball, "Ghost World" es una serie que funciona desde el ángulo en que se le mire: ya sea como obra artística, o como crítica social. Los personajes de Enid Coleslaw y Rebecca Doppelmeyer se transforman, desde el primero de los ocho números que conforman la colección, en resúmenes descarnados del sentir de toda una generación marcada por el sinsabor de lo cotidiano, y que a menudo se ve amenazada por su propio futuro. Aquí se trata de pasar corriendo por la vida, esperando no tropezar. Y eso ya supone un pequeño triunfo.

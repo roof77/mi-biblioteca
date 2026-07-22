@@ -7,6 +7,8 @@ colaboradores:
 - Javier Hernandez Ayensa
 editoriales:
 - Liburuak
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Javier Hernandez Ayensa
   rol: Translator
@@ -55,6 +57,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 74ea598bb726486d09388dd279ff2b42d2c1f05f72f88078553a2ed48474f9f4
 ---
 
 

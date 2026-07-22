@@ -18,6 +18,8 @@ series:
 - Robot
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Rosa Sánchez de Naveira
   rol: Translator
@@ -118,6 +120,7 @@ generos_traducidos:
 - Misterio
 - Novela
 - Space Opera
+_hash_origen: 88ea1efd911b3ebc8f89efc31508ef5f131af71216abb201eef95d5a13fa4a51
 ---
 
 En Robots e Imperio vemos cómo el futuro del universo corre peligro. Aunque se han debilitado las fuerzas de los siniestros Spacers, el doctor Kelden Amadiro no ha olvidado -ni perdonado- su humillante derrota a manos de Elijah Baley, el adorado héroe de la población terrestre. Amadiro ansía la venganza y está más decidido que nunca a consumar la destrucción del planeta Tierra.

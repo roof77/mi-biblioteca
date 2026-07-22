@@ -15,6 +15,8 @@ autores:
 - Saki
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de El insoportable Bassington
@@ -140,6 +142,7 @@ generos_traducidos:
 - Eduardiano
 - Siglo XX
 - Ficción histórica
+_hash_origen: a8880f8f3e516d70540df4cde8a0aff5eda657f255e710d3a379c3924f418df9
 ---
 
 Considerado como el Oscar Wilde de su tiempo,

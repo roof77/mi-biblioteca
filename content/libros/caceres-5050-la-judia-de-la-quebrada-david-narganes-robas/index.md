@@ -1,10 +1,15 @@
 ---
 title: Cáceres 5050. La judía de la quebrada
-tags: []
+tags:
+- Ficción histórica
+- España
+- Contemporáneo
 autores:
 - David Narganes Robas
 editoriales:
 - Círculo Rojo Editorial
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de Cáceres 5050. La judía de la quebrada
@@ -51,7 +56,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Ficción histórica
+- España
+- Contemporáneo
+_hash_origen: 26692596d222c698701675415ef93a37b1c61d59f7e3e80c88c466ca72904c49
 ---
 
 Es una novela coral que se desarrolla en plena Edad Media. Daniel vuelve a Casseres a hacerse cargo de la herencia de su padre, muerto poco tiempo antes. El reencuentro con Alba, su amor del pasado, y con Abraham, un viejo mago que la protege, le hacen replantearse su vida. Una extraña enfermedad que asola la ciudad le permite descubrir el misterio que envuelve a los viejos amores imposibles de Abraham y María, plagados de elementos mágicos y de sacrificios necesarios

@@ -18,6 +18,8 @@ series:
 - 'The Long London Quintet '
 editoriales:
 - Nocturna Ediciones
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Juan Trejo
   rol: translator
@@ -91,6 +93,7 @@ generos_traducidos:
 - Libros sobre libros
 - Fantasía histórica
 - Histórico
+_hash_origen: 4615935a63e78937fd320e5e639972b196c89f10d41a6e44badd29053b803106
 ---
 
 Corre el año 1949 en Londres. Entre la niebla tóxica de la ciudad deambula Dennis Knuckleyard, un joven librero especializado en el negocio de segunda mano. Un día, en uno de sus encargos, Dennis descubre un libro que no existe. Es una obra ficticia, creada en una novela. Sin embargo, él la tiene en sus manos. ¿Cómo es posible?

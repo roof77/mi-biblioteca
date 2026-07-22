@@ -14,6 +14,8 @@ autores:
 - Susanna Hislop
 editoriales:
 - Errata naturae
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Atlas de las constelaciones
@@ -74,6 +76,7 @@ generos_traducidos:
 - Arte
 - Astrología
 - Referencia
+_hash_origen: dcc42f23787a675a0214eb2e191f53a2663e7c6d29725042866c661f54da9619
 ---
 
 Mira hacia arriba: es de noche y sobre tu cabeza hay un lienzo oscuro, repleto de diminutos puntos blancos. Si te fijas bien, puedes unirlos en tu mente, y si lo haces correctamente, conseguirás que se ponga en movimiento un fantástico carnaval de criaturas familiares o salvajes, algunas de ellas míticas, otras divinas. Sus historias, relatadas en incontables lenguas, reverberan aún en nuestras vidas y en nuestros sueños, incluso aquellas que piensas que no conoces o que nunca escuchaste. Lo creas o no, tanto tú como yo estamos hechos de las historias en las estrellas. La escritora Susanna Hislop y la ilustradora Hannah Waldron nos guían por los siglos y las culturas para contarnos todas esas historias, las de las ochenta y ocho constelaciones que componen el cielo nocturno. Una lectura maravillosa y un libro bello como la propia noche.

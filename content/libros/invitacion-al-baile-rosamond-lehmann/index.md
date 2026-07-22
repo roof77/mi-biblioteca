@@ -19,6 +19,8 @@ series:
 - Olivia Curtis
 editoriales:
 - Errata Naturae. Colección El Pasaje de los Panoramas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Regina López Muñoz
   rol: Translator
@@ -122,6 +124,7 @@ generos_traducidos:
 - Siglo XX
 - Romance
 - Novela
+_hash_origen: 7321b9ffbf43d058b897cc886640dd82445fd0effe62e93119337a9a07c8d046
 ---
 
 Un diario para sus pensamientos íntimos, un adorno de porcelana, un billete de diez chelines y un retazo de tela de seda roja para su primer vestido de noche. Éstos son los regalos que Olivia recibe al cumplir diecisiete años. Comienza entonces a soñar con su primer baile, a prepararse para él, a anticiparlo: será un acontecimiento maravilloso, el más importante hasta ahora de su limitada vida social, se dice. Y, sin embargo, también siente algo de miedo: se encuentra, pues, entre la expectación y la incertidumbre. Para su encantadora hermana mayor Kate, ese esperado baile será, sin duda alguna, un triunfo, pero ¿cómo lo vivirá la tímida y algo torpe Olivia?

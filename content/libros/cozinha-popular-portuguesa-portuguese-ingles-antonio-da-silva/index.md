@@ -1,10 +1,15 @@
 ---
 title: Cozinha Popular Portuguesa (Portuguese/Ingles)
-tags: []
+tags:
+- Cocina
+- Portugal
+- Libros de cocina
 autores:
 - Antonio da Silva
 editoriales:
 - Texto Editores
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de Cozinha Popular Portuguesa (Portuguese/Ingles)
@@ -47,7 +52,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Cocina
+- Portugal
+- Libros de cocina
+_hash_origen: 54b4e53f715732aee0c446930854390fcb52f18bb177e80523b1916b4fad443f
 ---
 
 

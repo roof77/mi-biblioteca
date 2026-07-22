@@ -16,6 +16,8 @@ colaboradores:
 - Marcial Souto
 editoriales:
 - Libros del Zorro Rojo
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Marcial Souto
   rol: Translator
@@ -86,6 +88,7 @@ generos_traducidos:
 - Libro de fotos
 - Poesía
 - Clásico
+_hash_origen: 7135ca82df7568273de81d33315fdb8307578feb85183b9adb189404730f155f
 ---
 
 El Demonio, tan brusco e insolente cuando seduce, logra que sus mujeres se entreguen sin reservas y hagan todo el mal que les pide. Por eso las recompensa con lo que más quiere: el Infierno.

@@ -11,6 +11,8 @@ colaboradores:
 - Ana Maria Freitas
 editoriales:
 - Acantilado
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Roser Vilagrassa
   rol: Translator
@@ -85,6 +87,7 @@ generos_traducidos:
 - Ficción
 - Misterio
 - Literatura portuguesa
+_hash_origen: 0dde261557e4209d8ce149f410454cc582b62dc56954c1c899233885a02c12b5
 ---
 
 La pasión de Fernando Pessoa por el género policíaco quedó bien documentada en sus textos: «Uno de los pocos divertimentos intelectuales que persisten en lo que aún le queda de intelectual a la humanidad es la lectura de novelas policíacas. Entre el inestimable y reducido número de horas felices que la Vida me permite pasar, considero que el mejor año es aquél que me permite pasar horas enfrascado, de cabeza y corazón, en las lecturas de Conan Doyle o de Arthur Morrison. Tal vez […] sea motivo de asombro, no que éstos sean mis autores predilectos y de cabecera, sino que confiese que lo son». Para los lectores que compartan con el escritor portugués el amor por el género policíaco, la presente edición recoge todas las novelas policíacas de Pessoa, que él mismo reunió bajo el título Quaresma, descifrador. Estos textos, que el autor fue escribiendo a lo largo de su vida y que son en su mayoría inéditos, nunca habían sido publicados completos, tal como Pessoa tenía previsto, de acuerdo con los esquemas hallados entre los documentos que conforman su legado escrito.

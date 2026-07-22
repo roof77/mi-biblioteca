@@ -9,6 +9,8 @@ colaboradores:
 - Santiago Caruso
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Santiago Caruso
   rol: Illustrator
@@ -90,6 +92,7 @@ premios:
 generos_traducidos:
 - Terror
 - Ficción
+_hash_origen: 98f38f205d87895d2169c7f117149152eec704b60fbddd47f30121085fc0b4fd
 ---
 
 "La ciudad de los muertos" de El Cairo no es un barrio cualquiera, sino el cementerio más grande del planeta, un colosal océano de huesos en el que viven cientos de niños abandonados y en el que acaba de instalarse el emisario de unas fuerzas más antiguas que el hombre, las arenas del desierto y las órbitas caprichosas que trazan los astros en sus ciclos de locura.

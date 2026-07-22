@@ -13,6 +13,8 @@ autores:
 - Bob Woodward
 editoriales:
 - Global Rhythm Press
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Como una moto: La vida galopante de John Belushi (Papel de liar) (Spanish Edition)'

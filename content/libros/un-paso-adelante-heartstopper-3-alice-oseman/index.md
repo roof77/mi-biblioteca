@@ -19,6 +19,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Victoria Simó
   rol: Translator
@@ -103,6 +105,7 @@ generos_traducidos:
 - Ficción
 - Salud mentál
 - Gay
+_hash_origen: dffff02f830c5eccffbf82ecfd53f2947411cb8425e3553a1c6cafaafca815ed
 ---
 
 Charlie nunca pensó que podría gustarle a Nick, pero ahora son novios. Oficialmente. Y Nick incluso se lo ha contado a su madre.

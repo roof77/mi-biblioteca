@@ -16,6 +16,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: José Miguel Pallarés
   rol: Translator
@@ -112,6 +114,7 @@ generos_traducidos:
 - Clásico
 - Tiras
 - Niños
+_hash_origen: 7fb0f86790d451ba45a87a185910194e71faa719a6c7afa47f604282a0c50148
 ---
 
 Libro de historietas encuadernado en cartoné de 368 páginas interiores en blanco y negro más cubiertas en color que contiene la traducción de la tiras diarias y dominicales de la serie Peanuts publicadas en la prensa estadounidense desde Octubre de 1950 hasta Diciembre de 1952, según la edición The Complete Peanuts número 1 publicado por Fantagraphics en USA en 2004. Se pueden decir muchas cosas de Carlitos, la obra maestra de Charles M. Schulz al afirmar que "El mundo de Carlitos es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado". Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes. Un libro imprescindible.

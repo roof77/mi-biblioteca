@@ -17,6 +17,8 @@ series:
 - Maus
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Maus: relato de un superviviente'
@@ -123,6 +125,7 @@ generos_traducidos:
 - Clásico
 - Guerra
 - Holocausto
+_hash_origen: d5403a6852386692a6af9a15b1ca215f2d72d004c9d2633d7decd78cdfb46b56
 ---
 
 "La verdad es que Maus es un libro que uno no puede dejar, ni siquiera para dormir. Cuando dos de los ratones hablan de amor, te conmueve; cuando sufren, lloras. Poco a poco, a través de este relato compuesto de sufrimeinto, humor y los desafíos cotidianos de la vida, uno queda atrapado por el lenguaje de una antigua familia del Este de Europa y es arrastrado por su ritmo suave e hipnótico. Y cuando uno acaba Maus, se siente triste por haber abandonado ese mundo mágico..."

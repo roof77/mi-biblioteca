@@ -18,6 +18,8 @@ series:
 - Crónicas de la torre
 editoriales:
 - SM
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Marcelo Pérez de Muti
   rol: Illustrator
@@ -80,6 +82,7 @@ generos_traducidos:
 - Niños
 - Novela
 - Aventuras
+_hash_origen: 4a7db359c531fedb7939f7849c8f3a0a4cd922e517e49364c772f3907f829776
 ---
 
 Fenris es un elfo muy especial, tiene poderes inexplicables y en las noches de luna llena se transforma en un ser extraordinario; su amor por Shi-Mae y su enfrentamiento con personajes poderosos del Reino de los Elfos marcarán sus aventuras. ¿Cumplirá su destino y llegará a la Torre, situada en el Valle de los Lobos? Libro que muestra fantásticas batallas entre seres sobrenaturales.

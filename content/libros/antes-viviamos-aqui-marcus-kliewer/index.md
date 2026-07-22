@@ -15,6 +15,8 @@ colaboradores:
 - I.C. Salabert
 editoriales:
 - Nocturna Ediciones
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: I.C. Salabert
   rol: Translator
@@ -106,6 +108,7 @@ generos_traducidos:
 - Paranormal
 - LGTBIQ+
 - Adultos
+_hash_origen: cdf56b2a718a66b0f659a46a9d39f0eb8d80f53e263dacfaaa64da5175791746
 ---
 
 Eve y Charlie acaban de mudarse a un viejo caserón en un entorno boscoso y aislado. Un día, mientras Charlie está fuera, llaman a la puerta. Al otro lado hay un hombre con su familia; según dice, vivió allí de pequeño y le gustaría enseñarles la casa a sus hijos. Eve los deja pasar.

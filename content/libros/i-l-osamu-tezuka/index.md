@@ -11,6 +11,8 @@ autores:
 - Osamu Tezuka
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de I.L.
@@ -71,6 +73,7 @@ generos_traducidos:
 - Comics
 - Ficción
 - Literatura japanesa
+_hash_origen: 19ce37af06f38bb3cac70cbae6ee79635d38d53fb838211dc446c66753dab6d8
 ---
 
 "I. L", detrás de estas curiosas iniciales quizás se esconda una diosa, un delirio o un simple maniquí... ¿Quién puede saberlo? I. L es una mujer camaleónica, que toma el rostro del ausente, del muerto o del amado. El joven cineasta Daisaku la recibe de manos del misterioso Conde Alucard. Ángel de la belleza, I. L se convierte, a través de su don de la metamorfosis, en la actriz que siempre ha soñado Daisaku para escenificar momentos de realidad. Cumple así, bajo demanda de sus clientes, el papel de doble de todo aquel que la necesita... Esta obra habla de vida, muerte, amor , traición y odio, revelados cuando cada personaje se enfrenta a sus fantasías, su cobardía o sus miedos.

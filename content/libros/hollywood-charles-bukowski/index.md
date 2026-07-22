@@ -14,6 +14,8 @@ autores:
 - Charles Bukowski
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Hollywood
@@ -105,6 +107,7 @@ generos_traducidos:
 - Contemporaneo
 - Películas
 - Siglo XX
+_hash_origen: 34e4bb989119e76df943d10e8192e7c0dbce5775f4e68972fa39221163f356e6
 ---
 
 Henry Chinaski siempre ha estado en pie de guerra, sin bajar la guardia contra el establishment y sus infinitos tentáculos. Pero en Hollywood no le será nada fácil: John Pinchot, un enloquecido director de cine, se empeña en llevar a la pantalla sus relatos de juventud, o sea la autobiografía de un alcoholico empedernido. Chinaski desconfía del proyecto, aunque acepta a regañadientes escribir el guión de la película.

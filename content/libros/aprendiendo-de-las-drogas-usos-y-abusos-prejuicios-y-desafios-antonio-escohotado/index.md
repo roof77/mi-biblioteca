@@ -10,6 +10,8 @@ autores:
 - Antonio Escohotado
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Aprendiendo de las drogas: Usos y abusos, prejuicios y desafíos'
@@ -73,6 +75,7 @@ generos_traducidos:
 - Ensayo
 - Sociedad
 - Salud
+_hash_origen: 60094d1a5cb40139e9a30240479d81da8387e915e2ba40a846dc9898e74aa0c5
 ---
 
 Divinas para unos, diabólicas para otros, legales e ilegales, las drogas no sólo son el «problema» más peculiar de nuestra época, sino un terreno sembrado de perplejidades. ¿Cabe aprender algo de ellas, o al menos sobre ellas, en vez de simplemente padecer sus efectos? Ofreciendo al lector elementos para que construya su propia respuesta, el autor pasa revista a casi un centenar de compuestos, entre los cuales están las principales sustancias psicoactivas del pasado y el presente: crack, opio, bebidas alcohólicas, tranquilizantes, LSD, heroína, éxtasis, cocaína, marihuana, café, somníferos y un largo etcétera. Aparecido en ediciones previas como "El libro de los venenos" (1990) y "Para una fenomenología de las drogas" (1992), la presente versión ha sido revisada en profundidad, y actualizada con las drogas descubiertas o difundidas posteriormente.

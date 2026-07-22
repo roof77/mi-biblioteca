@@ -5,12 +5,15 @@ tags:
 - Comics
 - Humor
 - Clásico
+- Absurdo
 autores:
 - Akira Toriyama
 series:
 - Dr.スランプ [Dr. Slump]
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)'
@@ -78,6 +81,8 @@ generos_traducidos:
 - Comics
 - Humor
 - Clásico
+- Absurdo
+_hash_origen: 1a44ea7e66c7ecc78068961ecde4b3efb573995f5e027f5aecc9d3a691f13db0
 ---
 
 La primera gran serie de Toriyama tuvo un éxito enorme y ahora ha recibido una nueva traducción. Esta monumental historia de humor no ha  en la curiosa Villa del Pingüino, el gran genio Senbei Norimaki ha creado un robot con forma de chica, pero con una fuerza  Arale, la protagonista de este manga shonen.

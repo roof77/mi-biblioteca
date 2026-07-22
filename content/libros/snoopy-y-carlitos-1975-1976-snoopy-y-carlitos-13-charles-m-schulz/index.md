@@ -16,6 +16,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Ignacio Bentz
   rol: Translator
@@ -109,6 +111,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - Comedia
+_hash_origen: b80ddb28c59353f86b1f0b60e942fc7850ff9335eb268731807955ceced2164f
 ---
 
 Tiras publicadas entre 1975 y 1976 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos  es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado".Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.

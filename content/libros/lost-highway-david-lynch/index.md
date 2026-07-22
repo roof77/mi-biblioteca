@@ -15,6 +15,8 @@ colaboradores:
 - Barry Gifford
 editoriales:
 - Faber & Faber
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Barry Gifford
   rol: Author
@@ -101,6 +103,7 @@ generos_traducidos:
 - Misterio
 - Thriller
 - EEUU
+_hash_origen: 3e13a2a5e6077df330eb0d31db26f8322640ad283584998e36b8c85b5a14130c
 ---
 
 Sitting on Death Row, awaiting execution for the murder of his wife, Fred Madison experiences a shattering headache. The next day, a dazed and confused Pete Dayton is found in Madison's cell. Dayton has no memory of how he came to be there. Madison has gone missing. What follows may be reality or it may be part of a highly organized hallucination that Fred Madison is undergoing. Lost Highway refuses to yield its secrets readily. It communicates, not just through words, but through images and - most of all - through the mental states these words and images conjure up.

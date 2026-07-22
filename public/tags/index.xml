@@ -135,6 +135,27 @@
       <description></description>
     </item>
     <item>
+      <title>Cultura Pop</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/cultura-pop/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/cultura-pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Música</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/m%C3%BAsica/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Referencia</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/referencia/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/referencia/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>EEUU</title>
       <link>http://localhost:1313/mi-biblioteca/tags/eeuu/</link>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
@@ -352,6 +373,13 @@
       <description></description>
     </item>
     <item>
+      <title>Literatura Europea</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/literatura-europea/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/literatura-europea/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fantasmas</title>
       <link>http://localhost:1313/mi-biblioteca/tags/fantasmas/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
@@ -440,13 +468,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/noir/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/noir/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Música</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/m%C3%BAsica/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/m%C3%BAsica/</guid>
       <description></description>
     </item>
     <item>
@@ -569,17 +590,17 @@
       <description></description>
     </item>
     <item>
-      <title>Referencia</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/referencia/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/referencia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Salud</title>
       <link>http://localhost:1313/mi-biblioteca/tags/salud/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/salud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vampiros</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/vampiros/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/vampiros/</guid>
       <description></description>
     </item>
     <item>
@@ -709,6 +730,13 @@
       <description></description>
     </item>
     <item>
+      <title>Contemporáneo</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/contempor%C3%A1neo/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/contempor%C3%A1neo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Guerra</title>
       <link>http://localhost:1313/mi-biblioteca/tags/guerra/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -737,13 +765,6 @@
       <description></description>
     </item>
     <item>
-      <title>Vampiros</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/vampiros/</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/vampiros/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Irlanda</title>
       <link>http://localhost:1313/mi-biblioteca/tags/irlanda/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
@@ -755,13 +776,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/literatura-irlandesa/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/literatura-irlandesa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cultura Pop</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/cultura-pop/</link>
-      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/cultura-pop/</guid>
       <description></description>
     </item>
     <item>
@@ -807,6 +821,13 @@
       <description></description>
     </item>
     <item>
+      <title>Absurdo</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/absurdo/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/absurdo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Adaptaciones</title>
       <link>http://localhost:1313/mi-biblioteca/tags/adaptaciones/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
@@ -835,10 +856,52 @@
       <description></description>
     </item>
     <item>
+      <title>Contracultura</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/contracultura/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/contracultura/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Sureño</title>
       <link>http://localhost:1313/mi-biblioteca/tags/sure%C3%B1o/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/sure%C3%B1o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fragmentario</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/fragmentario/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/fragmentario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metaliteratura</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/metaliteratura/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/metaliteratura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrevistas</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/entrevistas/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/entrevistas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noficción</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/noficci%C3%B3n/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/noficci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perros</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/perros/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/perros/</guid>
       <description></description>
     </item>
     <item>
@@ -888,6 +951,13 @@
       <link>http://localhost:1313/mi-biblioteca/tags/literatura-francesa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/literatura-francesa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extraño</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/extra%C3%B1o/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/extra%C3%B1o/</guid>
       <description></description>
     </item>
     <item>
@@ -982,6 +1052,20 @@
       <description></description>
     </item>
     <item>
+      <title>Drogas</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/drogas/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/drogas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociedad</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/sociedad/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/sociedad/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Literatura Sueca</title>
       <link>http://localhost:1313/mi-biblioteca/tags/literatura-sueca/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
@@ -1059,6 +1143,13 @@
       <description></description>
     </item>
     <item>
+      <title>Sátira</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/s%C3%A1tira/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/s%C3%A1tira/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Amistad</title>
       <link>http://localhost:1313/mi-biblioteca/tags/amistad/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -1101,13 +1192,6 @@
       <description></description>
     </item>
     <item>
-      <title>Contracultura</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/contracultura/</link>
-      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/contracultura/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Siglo XXI</title>
       <link>http://localhost:1313/mi-biblioteca/tags/siglo-xxi/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
@@ -1147,6 +1231,13 @@
       <link>http://localhost:1313/mi-biblioteca/tags/moderno/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/moderno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zombies</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/zombies/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/zombies/</guid>
       <description></description>
     </item>
     <item>
@@ -1227,6 +1318,13 @@
       <description></description>
     </item>
     <item>
+      <title>Erotico</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/erotico/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/erotico/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fantasia</title>
       <link>http://localhost:1313/mi-biblioteca/tags/fantasia/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -1262,13 +1360,6 @@
       <description></description>
     </item>
     <item>
-      <title>Drogas</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/drogas/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/drogas/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Escritura</title>
       <link>http://localhost:1313/mi-biblioteca/tags/escritura/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -1294,13 +1385,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/nativos-americanos/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/nativos-americanos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sátira</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/s%C3%A1tira/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/s%C3%A1tira/</guid>
       <description></description>
     </item>
     <item>
@@ -1336,13 +1420,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/china/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/china/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perros</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/perros/</link>
-      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/perros/</guid>
       <description></description>
     </item>
     <item>
@@ -1409,6 +1486,13 @@
       <description></description>
     </item>
     <item>
+      <title>Salud Mental</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/salud-mental/</link>
+      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/salud-mental/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Arqueología</title>
       <link>http://localhost:1313/mi-biblioteca/tags/arqueolog%C3%ADa/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
@@ -1469,13 +1553,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/postapocal%C3%ADptico/</link>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/postapocal%C3%ADptico/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zombies</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/zombies/</link>
-      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/zombies/</guid>
       <description></description>
     </item>
     <item>
@@ -1584,6 +1661,13 @@
       <description></description>
     </item>
     <item>
+      <title>Mitos De Cthulhu</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/mitos-de-cthulhu/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/mitos-de-cthulhu/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Horror Gótico</title>
       <link>http://localhost:1313/mi-biblioteca/tags/horror-g%C3%B3tico/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -1605,10 +1689,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sociedad</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/sociedad/</link>
-      <pubDate>Tue, 18 Apr 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/sociedad/</guid>
+      <title>Clásicos</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/cl%C3%A1sicos/</link>
+      <pubDate>Tue, 17 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/cl%C3%A1sicos/</guid>
       <description></description>
     </item>
     <item>
@@ -1668,13 +1752,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mitos De Cthulhu</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/mitos-de-cthulhu/</link>
-      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/mitos-de-cthulhu/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Literatura Inglesa</title>
       <link>http://localhost:1313/mi-biblioteca/tags/literatura-inglesa/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
@@ -1686,13 +1763,6 @@
       <link>http://localhost:1313/mi-biblioteca/tags/space-opera/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/space-opera/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Extraño</title>
-      <link>http://localhost:1313/mi-biblioteca/tags/extra%C3%B1o/</link>
-      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/tags/extra%C3%B1o/</guid>
       <description></description>
     </item>
     <item>
@@ -1721,6 +1791,13 @@
       <link>http://localhost:1313/mi-biblioteca/tags/robots/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi-biblioteca/tags/robots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biografías</title>
+      <link>http://localhost:1313/mi-biblioteca/tags/biograf%C3%ADas/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/tags/biograf%C3%ADas/</guid>
       <description></description>
     </item>
     <item>

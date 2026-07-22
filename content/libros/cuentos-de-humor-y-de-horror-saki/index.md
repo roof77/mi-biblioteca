@@ -10,6 +10,8 @@ colaboradores:
 - Rubén Masera
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rubén Masera
   rol: Translator
@@ -103,6 +105,7 @@ generos_traducidos:
 - Humor
 - Ficción
 - Relatos
+_hash_origen: 3c55469ab915674e4f462febcc3d0ffd10dd99643ddf35a001b6a7baa2776a00
 ---
 
 Graham Greene, para quien Héctor Hugh Munro, alias Saki, es nada menos que el mayor humorista en lengua inglesa del siglo XX, cuenta que en la madrugada del 13 de noviembre de 1916, en un cráter de obús cerca de Beaumont-Hamel, se oyó gritar al sargento Munro: «Apagad ese maldito cigarrillo.» Éstas fueron sus últimas palabras; inmediatamente después, una bala le atravesó el cráneo. No podría resumirse mejor la extraordinaria economía de medios que caracteriza los relatos de uno de los genios más ultrajantes de su tiempo. «Si empiezas un relato de Saki, lo terminarás. Cuando lo hayas terminado querrás empezar otro, y cuando los hayas leído todos nunca los olvidarás. Se convertirán en una adicción, porque son mucho más que divertidos» (Tom Sharpe). «Sus mejores historias son siempre más bellas que cualquier obra maestra de cualquier otro escritor» (Roald Dahl). 

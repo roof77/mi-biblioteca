@@ -16,6 +16,8 @@ colaboradores:
 - Javier Calzada
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Javier Calzada
   rol: Translator
@@ -98,6 +100,7 @@ generos_traducidos:
 - Drama
 - Adultos
 - Ficción Literaria
+_hash_origen: 586aa004730a4301d8a3a95712382829cfcb51a2b33f675cb328cd9e26584ef4
 ---
 
 Eva es una mujer satisfecha consigo misma. Es autora y editora de guías de viaje para gente tan urbana y feliz como ella. Casada desde hace años con Franklin, decide, ya cerca de los cuarenta, tener un hijo. Y el producto de tan indecisa decisión será Kevin. Pero, casi desde el comienzo, nada se parece a los inefables mitos familiares de la clase media urbana y feliz. Y cuando nace, Kevin es el típico bebé difícil que tortura a los padres. Y, con el tiempo, se convertirá en el terror de las niñeras, en un adolescente terrible, en el antihéroe a quien nada le interesa sino la belleza de la pura maldad. Y en ese trayecto que va desde los primeros desencantos de Eva hasta la sangrienta epifanía del joven Kevin, dos días antes de cumplir los dieciséis años, el niño es un enigma para su madre, que nunca le ha podido querer. « por su inteligencia, su lucidez, su sentido del humor –extraño, macabro a veces, pero siempre eficaz– y también, desde luego, por la audacia con que ataca uno de los mitos, el de la maternidad feliz, más intocables de la cultura en que vivimos» (Laura Freixas).

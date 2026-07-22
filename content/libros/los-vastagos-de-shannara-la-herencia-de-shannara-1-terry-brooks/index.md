@@ -17,6 +17,8 @@ series:
 - Heritage of Shannara
 editoriales:
 - Acervo
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Los vastagos de Shannara (La herencia de Shannara, #1)'
@@ -85,6 +87,7 @@ generos_traducidos:
 - Ciencia ficción
 - Épico
 - Adultos
+_hash_origen: 88583b240c91b4b9dbf61e3ac0672cccb59bd13e66de1a7a22c5df0c9bb9a805
 ---
 
 Han transcurrido trescientos años desde la muerte de Allanon, y las Cuatro Tierras están deterioradas. Los elfos han desaparecido, y los enanos han sido esclavizados. La Tierra del Sur se halla bajo el régimen totalitario de la Federación, y la magia está rigurosamente prohibida.

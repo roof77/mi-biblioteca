@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Biografías on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/biograf%C3%ADas/</link>
+    <description>Recent content in Biografías on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/biograf%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siniestro Total. Apocalipsis con grelos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/siniestro-total-apocalipsis-con-grelos-jesus-ordovas/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/siniestro-total-apocalipsis-con-grelos-jesus-ordovas/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

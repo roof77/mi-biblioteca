@@ -14,6 +14,8 @@ autores:
 - Chuck Palahniuk
 editoriales:
 - Plaza & Janés
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Monstruos invisibles
@@ -100,6 +102,7 @@ generos_traducidos:
 - Humor
 - Club de lectura
 - Adultos
+_hash_origen: b77fc5e42c9542beab77fc0846d04c3b9547b94a906ece7a89db45195e4e4c37
 ---
 
 Shannon parece tenerlo todo en la vida: belleza, fama, un novio, una gran amiga... Pero cuando un «accidente» la deja completamente desfigurada e incapaz de hablar, pasa de ser un hermoso centro de atracción a convertirse en un monstruo invisible, tan horrible que nadie parece percatarse de su existencia. Nadie, salvo Brandy Alexander, un transexual a quien conoce en el hospital y que le ofrece la oportunidad de encontrar su nuevo destino, a partir de olvidar su pasado y construirse infinitos y simultáneos presentes. Así, tras secuestrar a Manus, su actual ex novio, partirán en una carrera desenfrenada que solo puede conducirlos hacia su aniquilación.

@@ -14,6 +14,8 @@ autores:
 - Meryem El Mehdati
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Supersaurio
@@ -75,6 +77,7 @@ generos_traducidos:
 - Coming of age
 - Mujeres
 - Novela
+_hash_origen: a185efbc90e9f12aa1b011bc054a271a732fad90bfac7a121f35de665a6b2b17
 ---
 
 El debut literario de una autora con una voz única que enhebra humor y melancolía con la precisión de una criatura prehistórica que acaba de probar la sangre humana por primera vez

@@ -16,6 +16,8 @@ colaboradores:
 - Françoise Mouly
 editoriales:
 - Random House Mondadori
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Françoise Mouly
   rol: Author
@@ -105,6 +107,7 @@ generos_traducidos:
 - EEUU
 - Noir
 - Literatura
+_hash_origen: 39465327f74bd3228c3bc4a24ba088469a8cc958c0e9cf73adc0958bf69d9746
 ---
 
 The Wild Party es una tragedia en los días del apogeo del jazz. «La fiesta salvaje es el libro que me convirtió en escritor.»

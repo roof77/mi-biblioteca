@@ -2,12 +2,16 @@
 title: Antología de relatos de miedo (Clásicos ilustrados) (Spanish Edition)
 tags:
 - Terror
+- Antología
+- Clásico
 autores:
 - VVA
 colaboradores:
 - Sebastián Cabrol
 editoriales:
 - Editorial Alma
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Sebastián Cabrol
   rol: Illustrator
@@ -63,6 +67,9 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Terror
+- Antología
+- Clásico
+_hash_origen: 4df2ad2c9e9cab337b28ad55b483b983a2b9870f664caae2cc32ba85fd7bb67f
 ---
 
 La presente selección de relatos nace como un punto de encuentro destinado a hacer disfrutar a todo tipo de lectores, de distintas procedencias y diversidad de gustos literarios, pero unidos por un elemento comú la pasión por los cuentos de miedo.

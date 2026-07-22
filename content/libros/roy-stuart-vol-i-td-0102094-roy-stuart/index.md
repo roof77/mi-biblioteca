@@ -11,6 +11,8 @@ series:
 - Roy Stuart
 editoriales:
 - Taschen
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de ROY STUART VOL. I TD 0102094
@@ -60,6 +62,7 @@ generos_traducidos:
 - Erotismo
 - Arte
 - No Ficción
+_hash_origen: 2bb5f250f61898a51337be0c1727bf53ade27dd5a8e0477b0473c400828086e3
 ---
 
 In turns voyeuristic, in turns narrative, Roy Stuart's photographs, with their disarming explicitness, subvert traditional moral codes and force the viewer to reevaluate his or her preconceived notions of sexuality.

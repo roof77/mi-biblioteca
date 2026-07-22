@@ -7,6 +7,8 @@ autores:
 - Paco Gómez
 editoriales:
 - Fracaso Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los Modlin
@@ -66,6 +68,7 @@ premios:
 generos_traducidos:
 - Literatura hispana
 - No Ficción
+_hash_origen: a237400e290aae078aad8ab513d2d2fb2df0c1eb214b0635b485dce7a0a4fb88
 ---
 
 El libro crowdfunding del año: 609 mecenas, 21.170 € conseguidos y un total de 760 libros adquiridos antes de la impresión. Una vez impreso, vendió en pocos meses más de 2.500 ejemplares.

@@ -2,6 +2,10 @@
 title: 'Omaha, la gata bailarina 1 (Omaha, #1)'
 tags:
 - Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
 autores:
 - Reed Waller
 colaboradores:
@@ -10,6 +14,8 @@ series:
 - Omaha
 editoriales:
 - Astiberri
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Kate Worley
   rol: Author
@@ -77,6 +83,11 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
+_hash_origen: bed3180c45b438e0901debb5302a98779e945ef018ab220f15c9afc9d8223d46
 ---
 
 Omaha, creada y dibujada por Reed Waller y posteriormente escrita por Kate Worley, es una historia magníficamente narrada y centrada en unos personajes ricos y llenos de matices. Pero también es una historia sobre muchas más cosas: la gente joven a principios de los 80, la mafia, la corrupción, el sexo (del de verdad: sensualidad, relaciones, emociones y la exploración constante de la naturaleza del sexo), las discotecas, el baile, la fama, la pérdida y la redención. Pero sobre todo es una historia sobre el amor y la amistad.

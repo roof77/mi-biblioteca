@@ -15,6 +15,8 @@ colaboradores:
 - Xevi Solé
 editoriales:
 - Contra
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Xevi Solé
   rol: Translator
@@ -101,6 +103,7 @@ generos_traducidos:
 - Cultura Pop
 - Arte
 - Periodismo
+_hash_origen: b0b70a6d07cc1edbbb1014bdb18aa3fb6a62f80fbfc3d62b383838bd0ff8941b
 ---
 
 Nuestro grupo podría ser tu vida (Our Band Could Be Your Life), que toma el título de un verso de un tema de The Minutemen y está considerado unánimemente como uno de los mejores libros sobre la música rock jamás escritos, relata la trayectoria musical de trece bandas norteamericanas capitales que dieron lo mejor de sí mismas en la década de los 80. Fueron años convulsos que coincidieron con el mandato del presidente Reagan y su política conservadora y nacionalista, y que, en lo musical, dieron lugar a la particular lectura del punk británico y su consigna del «hazlo tú mismo» por parte de algunas bandas del Nuevo Continente que produjeron un sonido agresivo y a un volumen y velocidad de vértigo.

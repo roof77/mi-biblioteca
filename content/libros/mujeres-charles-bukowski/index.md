@@ -16,6 +16,8 @@ colaboradores:
 - Jorge García Berlanga
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Jorge García Berlanga
   rol: Translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Contemporaneo
 - Humor
 - Siglo XX
+_hash_origen: fad91c266ac41749c34277da5494da1f8a37b01e19d8dc7e41c95c71659a0154
 ---
 
 Este gigantesco maratón sexual es un proceso de aprendizaje, de conocimiento, en el que Bukowski no escatima sarcásticas observaciones de si mismo, y en el que el machismo de textos anteriores queda seriamente erosionado; todo ello unido a incontables borracheras. Bukowski parece sugerir que las alternativas - una carrera mas respetable, literaria o la que fuese - son aún más deshumanizadas.

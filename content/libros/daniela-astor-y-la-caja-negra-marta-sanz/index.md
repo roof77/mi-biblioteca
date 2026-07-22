@@ -3,10 +3,15 @@ title: Daniela Astor y la caja negra
 tags:
 - Ficción
 - España
+- Ficción Literaria
+- Contemporáneo
+- Misterio
 autores:
 - Marta Sanz
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Daniela Astor y la caja negra
@@ -95,6 +100,10 @@ premios:
 generos_traducidos:
 - Ficción
 - España
+- Ficción Literaria
+- Contemporáneo
+- Misterio
+_hash_origen: c010096df0661917b3b8bf96e449292ca8a77b93f2452997dca08fc053490f1d
 ---
 
 Susana Estrada enseña un pecho mientras Enrique Tierno Galván le entrega el galardón concedido por un periódico. Amparo Muñoz es coronada miss Universo y María José Cantudo protagoniza el primer desnudo integral del cine español en La trastienda de Jordi Grau. Marisol aparece desnuda en la portada de Interviú y Bárbara Rey presenta un programa de variedades sentada en un sillón de mimbre a lo Emmanuelle. La jovencísima Sandra Mozarowsky muere al caer desde el balcón de su casa. Los rumores y especulaciones llegan hasta los blogs de la actualidad. Es la época del fantaterror, la tercera vía y el destape. El desnudo femenino se intelectualiza a la vez que se va consolidando como bien de consumo.

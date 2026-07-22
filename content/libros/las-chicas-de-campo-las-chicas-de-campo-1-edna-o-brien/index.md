@@ -19,6 +19,8 @@ series:
 - The Country Girls Trilogy
 editoriales:
 - Errata Naturae
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Regina López Muñoz
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Novela
 - Mujeres
 - Club de lectura
+_hash_origen: f34b53888cc21aced12cbdc9edf0a0b457e9455ebe9a296ef235b2a06ef7ebae
 ---
 
 Irlanda, años 50. Lejos de la capital, Dublín, y en medio de un verde paisaje, bellísimo pero exigente, la joven y aplicada Caithleen ha crecido llena de encanto gracias a la sabiduría y humildad de su madre; una madre obligada, por las duras condiciones del campo, a ser fuerte en cada momento, a sobreponerse a toda desgracia. Pero algo va a suceder que transformará la vida de Caithleen. Y en esa nueva vida, la de la única hija de una familia venida a menos, estará acompañada por su amiga de la infancia Baba, por la sofisticada madre de ésta, por el peculiar Hickey… y por una docena de personajes soberbiamente retratados que hoy día nos siguen pareciendo muy vivos; y entrañables, como en toda vida que merezca la pena rememorar.

@@ -17,6 +17,8 @@ colaboradores:
 - Margarita García de Miró
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Margarita García de Miró
   rol: Translator
@@ -141,6 +143,7 @@ generos_traducidos:
 - Viaje en el tiempo
 - Club de lectura
 - Fantasía
+_hash_origen: cad316e6f4f063df901eb3f00b3b6b583a945232b8fedeb87061077a352914a3
 ---
 
 Matadero Cinco o La cruzada de los niños catapultó a Kurt Vonnegut como uno de los grandes ídolos de la juventud norteamericana y se convirtió de inmediato en un clásico de la literatura contemporánea. Una historia amarga, conmovedora y a la vez divertidísima, de la inocencia confrontada con el apocalipsis, «una novela con ribetes esquizofrénico-telegráficos», en palabras de su autor. Kurt Vonnegut fue hecho prisionero en la Segunda Guerra Mundial y se encontraba en Dresde cuando esta ciudad fue bombardeada y arrasada por la aviación norteamericana; este hecho le marcó profundamente y decidió escribir un libro en torno a ese tema: "Matadero Cinco". 

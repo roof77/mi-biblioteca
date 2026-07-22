@@ -6,6 +6,8 @@ autores:
 - Jaime Hernández
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Locas 2
@@ -60,6 +62,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Comics
+_hash_origen: fc8c1dc341508f944e4dd68c32986a32e5c3ff70d726dbe7913cc1bf132e37e8
 ---
 
 Prosiguen las aventuras cotidianas de Margarita ?Maggie- Chascarrillo, la joven chicana que desde los años ochenta vive, ama, llora y ríe en las viñetas diáfanas de Jaime Hernandez. Secundándola, entre muchos otros, Hopey Glass, punk rocker resistente y su mejor amiga; Terry, que fuera amante de Hopey y que hoy comparte banda de hardcore con ella, Zero y Monica; la melancólica Isabel y su hermano Speedy, que pone a hervir los estrógenos de Maggie; las campeonas de lucha libre Rena Titañon y la tía de Maggie, Vicky Glori, o Rand Race, guaperas de profesión mecánico prosolar? Locas es un mosaico de mujeres fuertes, independientes y tiernas que, historieta a historieta, han compuesto uno de los universos más ricos y vitalistas de la literatura norteamericana contemporánea. Una obra que no sólo legitima el género del ?culebrón?, sino que lo eleva a cotas de calidad artística que nunca antes había conocido.

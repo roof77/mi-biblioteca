@@ -10,6 +10,8 @@ colaboradores:
 - Santiago Caruso
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: José María Nebreda
   rol: Translator
@@ -86,6 +88,7 @@ premios:
 generos_traducidos:
 - Ficción
 - Terror
+_hash_origen: 8c51d779f152d1ca0d72fb834c499cc6fada3a8ef3651df9321d9e35d7b333e2
 ---
 
 La guardia de Jonás: Una historia real de fantasmas contada en forma de novela no es sólo una historia de apariciones inquietantes, también es, como reza el subtítulo, una historia real, autobiográfica, sobre la vida de un grupo de jóvenes marineros que sirven en la Guardia Costera de los Estados Unidos recién terminada la Segunda Guerra Mundial. 

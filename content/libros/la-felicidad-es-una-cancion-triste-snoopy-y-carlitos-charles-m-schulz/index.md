@@ -7,6 +7,8 @@ colaboradores:
 - Marta  Domínguez
 editoriales:
 - SM
+valoraciones:
+- 0.5 - 0.0
 colaboradores_detalle:
 - nombre: Marta  Domínguez
   rol: Translator
@@ -92,6 +94,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 5badc4c86df3c7a079d0796d94cec58f7c7ca03218a18b6f40eb38d6ef516f1f
 ---
 
 La felicidad puede encontrarse en las cosas más inesperadas. Descubre algunas de ellas con Snoopy y los Peanuts. Desde que en la década de los 60 comenzaron a publicarse las tiras de Snoopy y los Peanuts, millones de lectores de todas las edades han disfrutado y compartido las historias de amistad, amor y humor de esta pandilla tan especial.

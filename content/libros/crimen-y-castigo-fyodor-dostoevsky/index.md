@@ -17,6 +17,8 @@ colaboradores:
 - Sergio Hernández-Ranera
 editoriales:
 - Ediciones Akal
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Sergio Hernández-Ranera
   rol: Translator
@@ -142,6 +144,7 @@ generos_traducidos:
 - Crimen
 - Literatura clásica
 - Siglo XIX
+_hash_origen: 144f5e2329941b8e58af1be8cf8ddd14a44a2822ade69d633f3779374b52d892
 ---
 
 ¿Por qué hay que leer Crimen y castigo ? Pues porque Crimen y castigo es el producto de un genio cuyo mundo gira entre la muerte y la locura, porque Dostoievski era un tío que retornaba vivo de aquellos tenebrosos mundos (sus ataques) directamente para escribir historias que también puedan ser devoradas por la juventud del siglo XXI. Y porque Fiódor Mijáilovich Dostoievski ha sido el escritor que ha compuesto los análisis psicológicos más audaces, las caracterizaciones psicológicas más gloriosas. Porque sólo él puede presentar a un juez de instrucción encargado de un caso de asesinato (Zamétov, cuya raíz en ruso significa «observar»), quien se hace amigo del asesino, cosa que siempre chocó en el mundo anglosajón. En un mundo dominado en la actualidad por locos de remate que quebrantan diariamente la vida y los derechos humanos de millones de personas en nombre de la sacrosanta democracia, el genio de Dostoievski, imbuido por la fe, ciento cincuenta años atrás nos dice aquí, a través de su protagonista Raskó «Dios no permite semejantes horrores, pero permite otros. Tal vez no haya Dios». Este personaje, Raskólnikov (raskólnik en ruso significa apóstata), defiende que él no es un asesino por haber matado y robado a una vieja usurera. ¿Quién está más loco y es más asesino? ¿Él, que sólo quiere hacerse con tres mil rublos para labrarse un porvenir digno y huir del hambre que le consume, o el admirado Napoleón (un Bush más brillante) que no duda en machacar a todos con tal de hacer avanzar a la Humanidad? Raskólnikov admite ser un canalla, pero no desea tal condición para los demás?

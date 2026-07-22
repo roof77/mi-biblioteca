@@ -5,6 +5,8 @@ autores:
 - Sesi Sexy
 editoriales:
 - Proyecto Estefanía
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Rey Coyote y los cincuenta de Desert Hole
@@ -52,6 +54,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: df8c0189832fdb5d93b7c077eaeb56cc32b01d55268a07aae78c07766e91bbde
 ---
 
 "Los Thunder Twins empezaron a temblar cuando vieron a Jennifer WildCow abriendo la puerta de la cantina con una patada. Todos intentaron largarse lo antes posible, pero nadie salió de allí hasta que ella lo permitió. Saben que Jennifer es de disparo fácil si le tocan los ovarios. Es mejor enfrentarse a una estampida de búfalos que a la estampa de Jennifer cabreada."

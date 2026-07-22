@@ -5,6 +5,8 @@ autores:
 - Felix Gornam
 editoriales:
 - Bang Ediciones Sl
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de Heroe/ Hero (Spanish Edition)
@@ -48,6 +50,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 77f26c8953fdd6b4f98ebe867e162c53e8ceb298ac3beaf87f131d9a2c9254fb
 ---
 
 

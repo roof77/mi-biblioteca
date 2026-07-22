@@ -10,6 +10,8 @@ series:
 - 500 gerechten
 editoriales:
 - BLUME (Naturart)
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de 500 recetas de sushi
@@ -65,6 +67,7 @@ generos_traducidos:
 - Libros de cocina
 - Cocina
 - Comida
+_hash_origen: 100be33320d503faaa83e37cf79b9273395bd094df387646717f0e289f2f1da1
 ---
 
 Una exhaustiva colección de recetas que le aportarán la confianza necesaria para elegir pescados frescos y otros ingredientes, y fusionarlos en combinaciones deliciosas. Desde decoraciones y rellenos hasta aliños y acompañ toda la información necesaria para preparar sushi en casa. Incluye una guía de los diferentes estilos de sushi e instrucciones para prepararlos, desde los clásicos hasta los populares rollitos que fusionan tendencias. El sushi, elaborado con arroz japonés condimentado y sorprendentes combinaciones de pescado fresco, marisco, tofu y verduras, supone un tentempié deliciosamente sano para disfrutar en cualquier momento del día. Este libro ofrece datos detallados sobre los utensilios y los ingredientes más empleados, así como los condimentos precisos.   Una colección amena de carácter temático con 500 recetas en cada volumen. Éstas son exquisitas, muy claras y fáciles de seguir. Con información detallada sobre aspectos  técnicas, equipo, ingredientes e ideas de presentación.

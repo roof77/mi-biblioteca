@@ -3,12 +3,15 @@ title: 'El libro de Gila: Antología tragicómica de obra y vida'
 tags:
 - Humor
 - Biografía
+- Antología
 autores:
 - Jorge  de Cascante
 colaboradores:
 - Miguel Gila
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Miguel Gila
   rol: Author
@@ -64,6 +67,8 @@ premios:
 generos_traducidos:
 - Humor
 - Biografía
+- Antología
+_hash_origen: 69cebe17ebc35e76bf63837d504fa61074077c25038b6a672fb69413d8b87fd0
 ---
 
 Por fin en un mismo libro la obra y la vida de un autor genial que superó la pobreza, el hambre y la guerra durante los peores momentos de la España del siglo XX defendiéndose con una única arma: la risa. 

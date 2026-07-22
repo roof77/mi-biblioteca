@@ -18,6 +18,8 @@ colaboradores:
 - Santiago Caruso
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Marta Lila Murillo
   rol: Translator
@@ -116,6 +118,7 @@ generos_traducidos:
 - Salud mentál
 - Realismo mágico
 - Enfermedad mentál
+_hash_origen: 082b189994e051936c2aa95d83bc2574460cc7a460269d4df8af7da2e868704f
 ---
 
 India Morgan Phelps –Imp para los amigos– es esquizofrénica. Ya no puede confiar en su propia mente, porque está convencida de que sus recuerdos, de alguna manera, la han traicionado, forzándola a cuestionar su propia identidad.

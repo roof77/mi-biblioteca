@@ -17,6 +17,8 @@ colaboradores:
 - José Rafael Hernández Arias
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: José Rafael Hernández Arias
   rol: Translator
@@ -30,15 +32,24 @@ libro:
   titulo: El hombre que fue Jueves
   url: https://www.goodreads.com/book/show/21522491-el-hombre-que-fue-jueves
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1484014349i/21522491.jpg
-  sinopsis: "Perhaps best known to the general public as creator of the \"Father Brown\" detective stories, G.K. Chesterton\
-    \ (1874-1936) was especially renowned for his wit, rhetorical brilliance and talent for ingenious and revealing paradox.\
-    \ Those qualities are richly brilliant in the present volume, a hilarious, fast-paced tale about a club of anarchists\
-    \ in turn-of-the-century London. \r\n\r\nThe story begins when Gabriel Syme, a poet and member of a special group of philosophical\
-    \ policemen, attends a secret meeting of anarchists, whose leaders are named for the days of the week, and all of whom\
-    \ are sworn to destroy the world. Their chief is the mysterious Sunday - huge, boisterous, full of vitality, a wild personage\
-    \ who may be a Chestertonian vision of God or nature or both. When Syme, actually an undercover detective, is unexpectedly\
-    \ elected to fill a vacancy on the anarchists' Central Council, the plot takes the first of many surprising twists and\
-    \ turns."
+  sinopsis: 'El hombre que fue Jueves, una de las novelas más populares del escritor y polemista británico G.K. Chesterton,
+    pertenece a una variedad literaria peculiar. Aunque su revestimiento externo es el de una ingeniosa trama policíaca, donde
+    el suspense y la sorpresa juegan un papel destacado, la crítica ha creído ver en esta obra una novela de tesis; también
+    una fantasía policíaca, un relato onírico, o un panfleto político.
+
+
+    El fino sentido del humor de Chesterton lanza sus venablos envenenados contra la filosofía de Schopenhauer, encarnada
+    en el profesor de Worms, contra el pensamiento de Nietzsche o la ideología anarquista emergente de su tiempo. Según Chesterton,
+    se trataba de un nuevo tipo de novela, una historia en la que se tipifican pensamientos modernos, pero no con argumentos,
+    sino con incidentes simbólicos: una comedia alegórica.
+
+
+    Su proverbial ingenio le permitió contar dos historias a la vez: una entretenida y superficial, y otra trascendente y
+    enigmática, vinculando los acontecimientos del relato con versículos bíblicos, aunque fue lo suficientemente inteligente
+    para que este mensaje no ahogase la historia: prefirió que la liviandad y el sentido del humor primasen ante cualquier
+    otra consideración al narrar las aventuras del detective y poeta Gabriel Syme en su cruzada fantástica contra una conspiración
+    anarquista, en un Londres emblemático, la ciudad del fin de los días, un enorme Leviatán en el que se libra la batalla
+    definitiva entre el Bien y el Mal.'
 autor:
   nombre: G.K. Chesterton
   rol: Author
@@ -109,8 +120,11 @@ generos_traducidos:
 - Thriller
 - Literatura británica
 - Club de lectura
+_hash_origen: c8654f8d90dfbb95d1dea04f60c377602922434c3efdd929ae2712a222451f15
 ---
 
-Perhaps best known to the general public as creator of the "Father Brown" detective stories, G.K. Chesterton (1874-1936) was especially renowned for his wit, rhetorical brilliance and talent for ingenious and revealing paradox. Those qualities are richly brilliant in the present volume, a hilarious, fast-paced tale about a club of anarchists in turn-of-the-century London. 
+El hombre que fue Jueves, una de las novelas más populares del escritor y polemista británico G.K. Chesterton, pertenece a una variedad literaria peculiar. Aunque su revestimiento externo es el de una ingeniosa trama policíaca, donde el suspense y la sorpresa juegan un papel destacado, la crítica ha creído ver en esta obra una novela de tesis; también una fantasía policíaca, un relato onírico, o un panfleto político.
 
-The story begins when Gabriel Syme, a poet and member of a special group of philosophical policemen, attends a secret meeting of anarchists, whose leaders are named for the days of the week, and all of whom are sworn to destroy the world. Their chief is the mysterious Sunday - huge, boisterous, full of vitality, a wild personage who may be a Chestertonian vision of God or nature or both. When Syme, actually an undercover detective, is unexpectedly elected to fill a vacancy on the anarchists' Central Council, the plot takes the first of many surprising twists and turns.
+El fino sentido del humor de Chesterton lanza sus venablos envenenados contra la filosofía de Schopenhauer, encarnada en el profesor de Worms, contra el pensamiento de Nietzsche o la ideología anarquista emergente de su tiempo. Según Chesterton, se trataba de un nuevo tipo de novela, una historia en la que se tipifican pensamientos modernos, pero no con argumentos, sino con incidentes simbólicos: una comedia alegórica.
+
+Su proverbial ingenio le permitió contar dos historias a la vez: una entretenida y superficial, y otra trascendente y enigmática, vinculando los acontecimientos del relato con versículos bíblicos, aunque fue lo suficientemente inteligente para que este mensaje no ahogase la historia: prefirió que la liviandad y el sentido del humor primasen ante cualquier otra consideración al narrar las aventuras del detective y poeta Gabriel Syme en su cruzada fantástica contra una conspiración anarquista, en un Londres emblemático, la ciudad del fin de los días, un enorme Leviatán en el que se libra la batalla definitiva entre el Bien y el Mal.

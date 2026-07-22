@@ -14,6 +14,8 @@ autores:
 - Eleanor Catton
 editoriales:
 - Siruela
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Las luminarias
@@ -129,6 +131,7 @@ generos_traducidos:
 - Contemporaneo
 - Literatura
 - Novela
+_hash_origen: 9ca3da894610bf01e355e9c2e96ff7bbbb36839040dc6895325c7292bf552799
 ---
 
 «Una novela magnífica: imponente en cuanto a su complejidad estructural, adictiva por su historia y mágica por su forma de recrear un mundo de codicia y oro.»

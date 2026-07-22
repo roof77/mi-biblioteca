@@ -15,6 +15,8 @@ autores:
 - Edward Gorey
 editoriales:
 - Libros del Zorro Rojo
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La niña desdichada
@@ -85,6 +87,7 @@ generos_traducidos:
 - Relatos
 - Oscuro
 - Niños
+_hash_origen: a90e3aca76cc2169cf237c6b36d9dd34222d2f231d96f5cb9b28958afbbcd4fa
 ---
 
 «Charlotte Sophia quedó en manos del abogado de la familia. El abogado la puso de inmediato en un internado. Allí, las maestras la castigaban por cosas que no había hecho. Las otras alumnas le rompían la muñeca, arrancándole piernas y brazos...» Huérfana, atormentada por las compañeras de colegio, esclavizada por un bruto alcohólico, la protagonista de este libro sobrevive, animada sólo por su fuerza infantil, para seguir sufriendo.

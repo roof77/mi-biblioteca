@@ -16,6 +16,8 @@ series:
 - Robot
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los robots de Aurora . (Los Robots del Amanecer)
@@ -124,6 +126,7 @@ generos_traducidos:
 - Fantasía
 - Detectives
 - Novela
+_hash_origen: 06a8e66d06f48c70409d9d0cf719f7f4159e2bdf0e0e92dfa3a32f08bfffa2ec
 ---
 
 Barcelona. 22 cm. 508 p. Encuadernación en tapa dura de editorial. Colección 'Biblioteca Isaac Asimov'. Asimov, Isaac 1920-1992. Traducción del inglés, María Teresa Segur y Hernán Sabaté. Traducción  The robots of dawn. Los robots del amanecer .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario.  8422646242, 9788422646242

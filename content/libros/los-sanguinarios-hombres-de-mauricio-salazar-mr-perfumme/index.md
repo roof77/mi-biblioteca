@@ -5,6 +5,8 @@ autores:
 - Mr.Perfumme
 editoriales:
 - Desclée De Brouwer
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Los sanguinarios hombres de Mauricio Salazar
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: ee2580ff95c4632f8292df2bc7e7eb307122df265c95a9f73905e4dcb65498e7
 ---
 
 

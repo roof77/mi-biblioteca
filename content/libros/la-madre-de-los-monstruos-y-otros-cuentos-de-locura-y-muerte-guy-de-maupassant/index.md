@@ -6,6 +6,8 @@ autores:
 - Guy de Maupassant
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La Madre de los Monstruos y otros cuentos de locura y muerte
@@ -59,6 +61,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Terror
+_hash_origen: 2d140f71e72a29d4c3d5f7235559b31fb9be64699c82e5ce60ba249b5e4906f4
 ---
 
 Cuanto más se adentra Maupassant en lo fantástico, más avanza en lo irreal y más abraza la realidad, su propia realidad, pues cada vez más sus cuentos están compuestos de observaciones hechas sobre sí mismo. Con una lucidez prodigiosa, este cerebro que se licuaba lentamente notaba todo, desde los primeros fenómenos de autoscopia externa (desdoblamiento) hasta los grandes delirios; no es él quien va hacia lo horrible, es lo horrible que camina hacia él. (Paul Morand)

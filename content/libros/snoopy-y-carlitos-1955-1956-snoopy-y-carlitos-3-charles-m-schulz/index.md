@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1955-1956 (Snoopy y Carlitos, #3)'
@@ -115,6 +117,7 @@ generos_traducidos:
 - Ficción
 - Niños
 - Clásico
+_hash_origen: 5ebd637f675376cc4f1571733b37b668e9ddf3e11661d91c500f8d9e3694e15e
 ---
 
 Un obra maestra de las tiras de prensa El tercer volumen de la aclamada serie Snoopy y Carlitos incluye hitos como las primeras palabras pronunciadas por Linus, la primera humillación de Carlitos en un partido de béisbol y la hilarante sucesión de imitaciones por parte de un Snoopy que cada vez se parece más a sí mismo. Todo esto y ¡también "Cochino"!

@@ -14,6 +14,8 @@ colaboradores:
 - Ángeles de los Santos
 editoriales:
 - Periférica
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Ángeles de los Santos
   rol: Translator
@@ -77,6 +79,7 @@ generos_traducidos:
 - Biografía
 - Siglo XIX
 - Downton Abbey
+_hash_origen: 1a63403c4816efe10cca44b2fb3ca4ddcc98fe04d94208f47ddac4975072d6c9
 ---
 
 Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England. This book is a nostalgic study of this vanished world, recreated through interviews, memoirs and letters. The author discusses different households including the estate of the Duke of Portland, who employed more than 30 kitchen staff at Welbeck Abbey and another 32 indoor servants. At the other end of the scale, no respectable villa in the suburbs was without its maid or maids. Domestic service thrived because economic necessity forced larger poor families to put their children into service as one of the few means of feeding and clothing them.

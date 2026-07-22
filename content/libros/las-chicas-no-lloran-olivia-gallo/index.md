@@ -5,6 +5,8 @@ autores:
 - Olivia Gallo
 editoriales:
 - Alpha Decay
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Las chicas no lloran
@@ -59,6 +61,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 944a047e4c8038f1fbb114f17e25b50492fe88dc7f0810e4df00d1932cbac034
 ---
 
 Despúes de un asado familiar, a la hora de viscosa de la siesta, una chica y su novio se escapan para ir a un telo. Después del sexo se mira  en el techo espejado sobre la cama y se ven como un matrimonio anciano. De a ratos, usan un desgano prehistórico, el mismo con el que pasan las fotos de un álbum en Facebook. Él le cuenta cómo su padre lo abofeteó: primero así, después así y de nuevo así, la mímica del golpe humillante que se discribe ihual que la mímica del sexo, esa coreografía antigua y vital que la narradora, a pesar de su juventud, aprece conocer de antes, de otra vida, de otro tiempo y que jamás la obnubila.

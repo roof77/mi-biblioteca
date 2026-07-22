@@ -17,6 +17,8 @@ colaboradores:
 - Ernesto Giménez-Caballero
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Jorge García Berlanga
   rol: Translator
@@ -112,6 +114,7 @@ generos_traducidos:
 - Contemporaneo
 - Poesía
 - Siglo XX
+_hash_origen: 07a0c24b572bd61a6a153ee3825bb0d0df611ed1666f42a7d4592ea48444fe4b
 ---
 
 Una novela autobiográfica, contundente como un preciso uppercut, que nos muestra una visión bien distinta del «Sueño Americano», una visión «desde abajo», desde los pisoteados y humillados: la infancia, adolescencia y juventud de Henry Chinaski, en Los Ángeles, durante los años de la Depresión y la Segunda Guerra Mundial. Un padre brutal que cada día finge acudir puntualmente al trabajo para que sus vecinos no sospechen que está en paro; una madre apaleada por el padre, que sin embargo está siempre de su parte; un tío a quien busca la policía; un mundo de jefes, de superiores aterrorizados por otros superiores. El joven Chinaski algo así como un hermano paria de Holden Cauldfiel, el dulce héroe de Salinger en The Catcher in the Rye (al que Bukowski parece aludir en el título original Ham on Rye) tiene que aprender las reglas implacables de una durísima supervivencia. En este libro inolvidable, escrito con una ausencia total de ilusiones, se transparenta, evitando la autocompasión, una estoica fraternidad con todos los chinaskis, todos los underdogs de la «otra América» de los patios traseros, los bares sórdidos, las oficinas de desempleo.

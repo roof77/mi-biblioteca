@@ -9,6 +9,8 @@ series:
 - Modesty Blaise. Biblioteca Grandes del Cómic
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 0.5 - 0.0
 colaboradores_detalle:
 - nombre: Jim Holdaway
   rol: Illustrator
@@ -77,6 +79,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 0faf5cb9c52aa6f0852fdf2417bd5d1ac8ae8a8ec290c1d9a7865962357c7359
 ---
 
 Contenido:

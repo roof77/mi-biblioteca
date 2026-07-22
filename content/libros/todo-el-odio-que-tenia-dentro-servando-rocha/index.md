@@ -5,6 +5,8 @@ autores:
 - Servando Rocha
 editoriales:
 - La Felguera Editores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Todo el odio que tenía dentro
@@ -91,6 +93,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: dcfe3feeeb236ec71ccb81e70876f97504fb14c66d8eaf4f0ab3a367d38c890a
 ---
 
 A comienzos de los sesenta, tras el estreno de West Side Story, una generación de chavales de la periferia madrileña llenos de ira y con estiletes en los botines, toma las calles e imita a las pandillas de la película. Bailan en los pasillos del cine, agreden a transeúntes, roban coches, prenden fuego a motocicletas, huyen de la policía y protagonizan verdaderas batallas campales con otras bandas. «La misteriosa banda suburbial de los Ojos Negros, de la que todos hablaban y a la que casi nadie había visto en acción —cuenta Moncho Alpuente—, ocupaba el primer puesto de la lista de chicos malos, admirados y temidos por los adolescentes urbanos que glosaban, con más imaginación que datos, sus presuntas hazañas en los recreos escolares».

@@ -15,6 +15,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Harry Potter y la Orden del Fénix (Harry Potter, #5)'
@@ -192,6 +194,7 @@ generos_traducidos:
 - Niños
 - Aventuras
 - Clásico
+_hash_origen: 5acb47c24d1ca2882a45fdd64f1f03c01ba96372c06907328e77aa45aa0cf02d
 ---
 
 Las tediosas vacaciones de verano en casa de sus tíos todavía no han acabado y Harry se encuentra más inquieto que nunca. Apenas ha tenido noticias de Ron y Hermione, y presiente que algo extraño está sucediendo en Hogwarts. En efecto, cuando por fin comienza otro curso en el famoso colegio de magia y hechicería, sus temores se vuelven realidad. El Ministerio de Magia niega que Voldemort haya regresado y ha iniciado una campaña de desprestigio contra Harry y Dumbledore, para lo cual ha asignado a la horrible profesora Dolores Umbridge la tarea de vigilar todos sus movimientos. Así pues, además de sentirse solo e incomprendido, Harry sospecha que Voldemort puede adivinar sus pensamientos, e intuye que el temible mago trata de apoderarse de un objeto secreto que le permitiría recuperar su poder destructivo.

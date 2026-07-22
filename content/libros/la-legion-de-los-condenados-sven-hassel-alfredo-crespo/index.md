@@ -16,6 +16,8 @@ series:
 - Legion of the Damned
 editoriales:
 - Salvat
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La Legión De Los Condenados
@@ -79,6 +81,7 @@ generos_traducidos:
 - Novela
 - Alemania
 - Literatura
+_hash_origen: 54a5cf36e8d5ce1119d135c90d4b2a3baf974af41bd9205f112784d309982125
 ---
 
 Barcelona. 18 cm. 374 p. Encuadernación en tapa blanda de editorial ilustrada. Hassel, Sven 1917-2012. Traducción, Alfredo Crespo. Traducción De fordomtes legion. Guerra mundial, 1939-1945. Novelas .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. 8434533553

@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1971-1972 (Snoopy y Carlitos, #11)'
@@ -103,6 +105,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - EEUU
+_hash_origen: 1b5c7f55d1d7e738a1501d3ba50c15359ccb4bca65be55909bbb8791383b8c9c
 ---
 
 Tiras publicadas entre 1971 y 1972 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos  es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado”.Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.

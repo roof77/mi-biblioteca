@@ -16,6 +16,8 @@ colaboradores:
 - Jaime Valero
 editoriales:
 - Colmena Ediciones
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Jaime Valero
   rol: Translator
@@ -119,6 +121,7 @@ generos_traducidos:
 - Adultos
 - Fantasía
 - Fantasmas
+_hash_origen: 699928e90e01dcd110c2f6b731cb4616fd70f5f47b366b441a5ada18d7482be5
 ---
 
 Algo extraño está ocurriendo en la megatienda de muebles Orsk de Cleveland, Ohio. Cada mañana, al entrar, los empleado se encuentran estanterías Kjërring rotas, vasos de agua Glans hechos trizas y armarios Liripip destrozados. Las ventas comienzan a caer en picado, las cámaras de seguridad no rebelan nada y los gerentes tienen miedo.

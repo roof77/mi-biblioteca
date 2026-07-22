@@ -14,6 +14,8 @@ autores:
 - S.E. Hinton
 editoriales:
 - Santillana Educación, S.L.
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Rebeldes (Spanish Edition)
@@ -96,6 +98,7 @@ generos_traducidos:
 - Ficción realista
 - Contemporaneo
 - Niños
+_hash_origen: cfaa0dae754ef7e7c13dbe6957d2946aeed87047fc98d7457b56cc35c6f8a110
 ---
 
 Una novela tan impactante hoy como cuando se publicó hace cincuenta años. Una historia emocionante e inolvidable sobre chicos de barrio que luchan por salir adelante.

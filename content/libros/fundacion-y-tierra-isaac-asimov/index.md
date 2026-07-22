@@ -15,6 +15,8 @@ series:
 - Foundation (Publication Order)
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Fundación y Tierra
@@ -108,6 +110,7 @@ generos_traducidos:
 - Space Opera
 - Espacio
 - Novela
+_hash_origen: fe2e552a37bd8ce1cb2376c4edbea4e4e19ce062629b11a0f444c34437163834
 ---
 
 Traditional Chinese first edition can be found HERE

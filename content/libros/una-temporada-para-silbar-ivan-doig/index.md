@@ -18,6 +18,8 @@ series:
 - Two Medicine Country
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Juan Tafur
   rol: Translator
@@ -117,6 +119,7 @@ generos_traducidos:
 - Adultos
 - Ficción adulta
 - Novela
+_hash_origen: 8de9a4a908c7bc9714bca743282cdcf32fa94d09390d557a8feda2257f72c4d3
 ---
 
 “No cocina, pero tampoco muerde”. Así comienza el anuncio en el que Rose Llewellyn, una viuda de “buenas costumbres y disposición excepcional”, se ofrece en el otoño de 1909 como ama de llaves; la frase capta de inmediato la atención de Oliver Milliron, un viudo con tres hijos y poca maña en las tareas domésticas, que la contrata para poner un poco de orden en su casa de Marias Coulee, Montana.

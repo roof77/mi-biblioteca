@@ -13,6 +13,8 @@ series:
 - Bill, the Galactic Hero
 editoriales:
 - Grijalbo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Bill, Héroe Galáctico: el final de la epopeya'
@@ -22,13 +24,32 @@ libro:
   titulo: 'Bill, Héroe Galáctico: el final de la epopeya'
   url: https://www.goodreads.com/book/show/16067113-bill-h-roe-gal-ctico
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1358597464i/16067113.jpg
-  sinopsis: BILL - the army's made him what he is today - the perfect Starship Trooper, proud possessor of two right arms
-    and a lockerful of feet suitable for every occasion.  BILL - this time he really put his foot (the Swiss-Army one with
-    the special attachments, secret compartments, collapsible mess-kit and condom-dispenser) right in it.  BILL's been volunteered
-    to join a suicide squad run by Captain Cadaver to the well-known hell-hole planet of Eyerack. The orders are DEATH OR
-    GLORY - and GLORY made a point of never returning the invitation to the war. So. Can this really be IT. The Long Goodbye?
-    Zero Hour? Harmonicas at dawn? The end of a brilliantly undistinguished career of military mishaps? What can I tell you?  This
-    IS BILL's final incoherent adventure!
+  sinopsis: 'Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto
+    peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo,
+    el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos
+    derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar
+    poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas,
+    y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados
+    rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo
+    de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables
+    y emocionantes pruebas...
+
+
+    ¡EL FINAL DE LA EPOPEYA!
+
+
+    Todo lo bueno se acaba, y la inspiración de los autores también. De modo que esta es ¡ay! la última entrega de las aventuras
+    de Bill por esos mundos de Dios. Pero, a modo de traca final, Bill será el héroe -muy a pesar suyo- de una gran batalla,
+    el primo en tercer grado de todas las batallas: la que librará el Imperio en legítima defensa contra el corrupto y ateo
+    gobierno de Ira-¡aj!
+
+
+    Bill bombardeará con misiles inteligentes objetivos del planeta (que tiene apetitosas minas de neutornes) y será hecho
+    prisionero.
+
+
+    ¿Saldrá felizmente de peligrosas muertes, peligrosas mujeres y peligrosas bebidas? Todo ello lo conocerá el lector unas
+    páginas antes de que aparezca en este libro la palabra FIN.'
 autor:
   nombre: Harry Harrison
   rol: Author
@@ -75,6 +96,15 @@ generos_traducidos:
 - Aventuras
 - Sátira
 - Comedia
+_hash_origen: 7e7b45923cf1ffa23f7bb867a79d2458ea9b8b7e7769dabc87e27d95cfadfa8f
 ---
 
-BILL - the army's made him what he is today - the perfect Starship Trooper, proud possessor of two right arms and a lockerful of feet suitable for every occasion.  BILL - this time he really put his foot (the Swiss-Army one with the special attachments, secret compartments, collapsible mess-kit and condom-dispenser) right in it.  BILL's been volunteered to join a suicide squad run by Captain Cadaver to the well-known hell-hole planet of Eyerack. The orders are DEATH OR GLORY - and GLORY made a point of never returning the invitation to the war. So. Can this really be IT. The Long Goodbye? Zero Hour? Harmonicas at dawn? The end of a brilliantly undistinguished career of military mishaps? What can I tell you?  This IS BILL's final incoherent adventure!
+Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo, el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas, y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables y emocionantes pruebas...
+
+¡EL FINAL DE LA EPOPEYA!
+
+Todo lo bueno se acaba, y la inspiración de los autores también. De modo que esta es ¡ay! la última entrega de las aventuras de Bill por esos mundos de Dios. Pero, a modo de traca final, Bill será el héroe -muy a pesar suyo- de una gran batalla, el primo en tercer grado de todas las batallas: la que librará el Imperio en legítima defensa contra el corrupto y ateo gobierno de Ira-¡aj!
+
+Bill bombardeará con misiles inteligentes objetivos del planeta (que tiene apetitosas minas de neutornes) y será hecho prisionero.
+
+¿Saldrá felizmente de peligrosas muertes, peligrosas mujeres y peligrosas bebidas? Todo ello lo conocerá el lector unas páginas antes de que aparezca en este libro la palabra FIN.

@@ -16,6 +16,8 @@ colaboradores:
 - John Casey
 editoriales:
 - Alpha Decay
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Albert Fuentes
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Sureño
 - Gótico sureño
 - Clásico
+_hash_origen: 19a7245c368a15edd881407f93814ad0b7e435fbc7d07a5a4a14d8ffc8258576
 ---
 
 Presentación de John Casey

@@ -8,6 +8,8 @@ autores:
 - James Warner Bellah
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Un tronar de tambores y otras historias de la caballería americana
@@ -80,6 +82,7 @@ generos_traducidos:
 - Oeste
 - Ficción
 - Relatos
+_hash_origen: 02b82d7d5770f9b41adfa6a750a61e97da0e7e4345e409f32ce3b44b6667121d
 ---
 
 James Warner Bellah (1899-1976) nació en Nueva York y tuvo una agitada vida militar. Participó en la Primera Guerra Mundial con el ejército canadiense, y en la Segunda sirvió en el staff de Lord Louis Mountbaten y con el general Chindits en Birmania. Acabó retirándose con el rango de coronel. Bellah nos dejó un buen puñado de novelas y relatos de tema militar, ambientados en la Frontera o en la Guerra de Secesión, además de relatos de «capa y espada», memorias y guiones para el cine.

@@ -17,6 +17,8 @@ series:
 - Mort Cinder
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Alberto Breccia
   rol: dibujo
@@ -98,6 +100,7 @@ generos_traducidos:
 - Fantasía
 - Ficción histórica
 - Literatura hispana
+_hash_origen: d48f4101026657c613df4aab47d84dee1b067d94a7bcb2426863392e6085a1bd
 ---
 
 Edición respetuosa con la original, al contrario de la previa de Lumen, en libro, y de otras editoriales. Incluye, también, el guión “Diligencia a cuchillo” y un argumento inacabado de H.G. Oesterheld, ambos inéditos con anterioridad.

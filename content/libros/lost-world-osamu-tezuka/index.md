@@ -12,6 +12,8 @@ colaboradores:
 - 手塚治虫
 editoriales:
 - Ediciones Glénat España
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: 手塚治虫
   rol: Author
@@ -73,6 +75,7 @@ generos_traducidos:
 - Novela gráfica
 - Ciencia ficción
 - Ficción
+_hash_origen: eeb26aa53cad5b1cfd951d106e967c4ff592ade668ddcec5a39640129c8d78b2
 ---
 
 ¡Mamango, el planeta que en su día se separó de la Tierra y partió hacia el espacio, vuelve a acercarse a nuestro mundo después de un viaje de cinco millones de años! ¿¡Cómo es la vida en Mamango vista por los valientes exploradores que arriesgan su vida para conseguir las poderosas piedras de energía que se ocultan en sus entrañas!? ¡He aquí uno de los títulos de Tezuka que dejó una profunda huella en la historia del cómic japonés!

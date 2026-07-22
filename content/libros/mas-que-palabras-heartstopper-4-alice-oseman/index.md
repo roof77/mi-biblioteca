@@ -19,6 +19,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Victoria Simó
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Ficción
 - Salud mentál
 - Gay
+_hash_origen: 22867cb7702e11fbdbbc24822b6c48a04255302876084ff61364c2da9e78b132
 ---
 
 Charlie nunca pensó que podría gustarle a Nick, pero resulta que ahora son pareja. De forma oficial. Pero no solo eso, también cree que está preparado para decirle esas dos palabras que le provocan vértigo: te quiero.

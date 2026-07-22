@@ -14,6 +14,8 @@ autores:
 - Christopher Moore
 editoriales:
 - La Factoría de Ideas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Aleta
@@ -80,6 +82,7 @@ generos_traducidos:
 - Club de lectura
 - Ficción adulta
 - Fantasía urbana
+_hash_origen: 86965aa7b62ef589b2ab01a55dcba752640594b17845e1957e6eb8a929fd1692
 ---
 
 ¿Por qué cantan las ballenas jorobadas? Tal es la cuestión que motiva al biólogo marino y a su tripulación a documentar y fotografiar a esos grandes y húmedos mamíferos. Hasta el extraordinario día en que una ballena levanta la cola en el aire y muestra un mensaje escrito con gigantescas letras mayúsculas: «QUE TE DEN». Claro, Nate se pregunta si no habrá pasado demasiado tiempo observando bajo un sol de justicia… ya que nadie más lo ha visto; ni su compañero de aventuras, ni su impertinente asistente científico, ni siquiera el rastafari fumeta de a bordo. Cuando llegan las copias de las fotografías, y falta esa en la cual la ballena levanta la cola, se convence de que sucede algo muy raro.

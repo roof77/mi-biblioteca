@@ -15,6 +15,8 @@ autores:
 - James    Ross
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Mal dadas
@@ -86,6 +88,7 @@ generos_traducidos:
 - Pulp
 - Thriller
 - Gótico sureño
+_hash_origen: 00d7e078233905f96bf9089aa64cb91e694d88945aa0125866546f28f209401b
 ---
 
 Durante la Gran Depresión, en Corinth, Carolina del Norte, no hay mucho que el joven granjero Jack McDonald pueda hacer además de beber una cerveza tras otra. Sin un céntimo y con una amenaza de embargo, Jack no duda en aceptar el empleo que su viejo compañero de colegio Smut Milligan le ofrece en su recién inaugurado salón de carretera, un lugar donde se sirve alcohol de fabricación casera, se juegan partidas clandestinas de cartas y se alquilan cabañas por horas. El continuo desfile de paisanos por el salón proporciona a Milligan buenos rendimientos, a menudo en forma de dinero, otras veces en forma de averiguaciones que, llegada la hora de liquidar deudas para seguir con el negocio, podrían resultar de vital importancia. Cuando el astuto y codicioso Smut ponga en práctica su brutal plan, a Jack le resultará difícil mantenerse al margen.

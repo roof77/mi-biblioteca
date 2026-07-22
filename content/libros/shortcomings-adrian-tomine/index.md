@@ -16,6 +16,8 @@ series:
 - Optic Nerve
 editoriales:
 - Mondadori
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: ROBERTO; FALCO MIRAMONTES
   rol: Translator
@@ -84,6 +86,7 @@ generos_traducidos:
 - Adultos
 - Asiaticoamericano
 - LGTBIQ+
+_hash_origen: 3886a48c9e8ae4a60496adf6afc78ecd179e47a2f18053f22f71a142cb2c63f2
 ---
 
 Las tribulaciones de un vigilante japonés-americano, antiasiático y consumado cinéfilo.

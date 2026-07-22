@@ -17,6 +17,8 @@ series:
 - Library of America
 editoriales:
 - Nórdica
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: José Manuel Álvarez Flórez
   rol: Translator
@@ -107,6 +109,7 @@ generos_traducidos:
 - Club de lectura
 - Literatura
 - Historia
+_hash_origen: 581e52f77211dbc4df28407dc4059664aae1f71ced5884ba00048bb19ca2f333
 ---
 
 «Mi plan era claro, conciso y razonable, creo yo. He viajado por diversas partes del mundo durante muchos años. En Estados Unidos vivo en Nueva York, o me voy a Chicago o a San Francisco. Pero Nueva York no es más los Estados Unidos de lo que París es Francia o Londres es Inglaterra. Así que descubrí que no conocía mi propio país. Yo, un escritor estadounidense, que escribía sobre Estados Unidos, estaba trabajando de memoria, y la memoria es, en el mejor de los casos, un depósito defectuoso y deformado. No había oído el habla del país, ni olido la hierba ni los árboles ni las alcantarillas, ni visto sus cerros ni sus aguas, ni su color ni la calidad de su luz. Sabía de los cambios sólo por los libros y los periódicos. Pero, aparte de eso, llevaba veinticinco años sin sentir el país.» 

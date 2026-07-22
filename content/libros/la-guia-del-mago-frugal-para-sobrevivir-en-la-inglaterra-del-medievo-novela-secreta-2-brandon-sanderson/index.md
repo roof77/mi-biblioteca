@@ -17,6 +17,8 @@ colaboradores:
 - Steve Argyle
 editoriales:
 - Nova
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Manu Viciano
   rol: Translator
@@ -124,6 +126,7 @@ generos_traducidos:
 - Aventuras
 - Ficción histórica
 - Mágia
+_hash_origen: 57c0170f0a140bd0bc955867851eeca901825f278d36f00f9e893dcd8fa9446c
 ---
 
 La fascinante aventura de un mago amnésico enfrentado a las diabluras de un viaje en el tiempo.

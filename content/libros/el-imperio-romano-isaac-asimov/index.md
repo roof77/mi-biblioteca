@@ -12,6 +12,8 @@ series:
 - Historia Universal Asimov
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de El Imperio Romano
@@ -96,6 +98,7 @@ generos_traducidos:
 - Historia antigua
 - Historia romana
 - Historia del mundo
+_hash_origen: 06f8c714723813ef6ce4e1791686d34b71ec7f9f475481a470b53f24bd630c24
 ---
 
 La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana. 'EL IMPERIO ROMANO' expone las grandes líneas de desarrollo histórico de esta potencia del mundo antiguo desde la proclamación de Augusto como emperador hasta la caída del Imperio Romano de Occidente y la instauración de los reinos germánicos.

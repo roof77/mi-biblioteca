@@ -17,6 +17,8 @@ series:
 - Foundation (Publication Order)
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de TRILOGÍA DE LAS FUNDACIONES. Fundación. Fundación e Imperio. Segunda Fundación
@@ -118,6 +120,7 @@ generos_traducidos:
 - Novela
 - Ficción especulativa
 - Espacio
+_hash_origen: e69d9ae263b57f6bc83516e55fa03ac835ca3e61590fe43e75b785616e6c8146
 ---
 
 "El hombre se ha dispersado por toda la galaxia. La capital del Imperio es Trántor, nido de intrigas y corrupción. Gracias a su ciencia, fundada en el estudio matemático de los hechos históricos y el comportamiento de las masas, el psicohistoriador Hari Seldon prevé la caída del Imperio y el retorno a la barbarie durante varios milenios. A fin de reducir este período de barbarie a mil años, Seldon decide crear una Fundación en un extremo de la galaxia."

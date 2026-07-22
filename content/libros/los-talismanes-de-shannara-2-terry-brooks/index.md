@@ -15,6 +15,8 @@ series:
 - Heritage of Shannara
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los Talismanes de Shannara 2
@@ -79,6 +81,7 @@ generos_traducidos:
 - Aventuras
 - Ciencia ficción
 - Mágia
+_hash_origen: dd23063f30a34886dba6bebc0b6571513418eb33153826340fd2616f2c01e6ff
 ---
 
 »Walker atmete die Luft ein, schloss seine Augen und entschwebte zu einem Ort tief in sich selbst. Krieg ritt jetzt vorbei, ganz scharfe Kanten und Dornen, glitzernde Rüstung und schwarze Höhlungen. Walker ignorierte das Schattenwesen. Schritt für Schritt ging er den Plan durch, den er ersonnen hatte. Dieses Mal würde nichts dem Zufall überlassen bleiben. Er würde erfolgreich sein, oder er würde ... «

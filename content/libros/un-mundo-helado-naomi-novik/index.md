@@ -16,6 +16,8 @@ colaboradores:
 - Julio Hermoso
 editoriales:
 - Planeta
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Julio Hermoso
   rol: Translator
@@ -144,6 +146,7 @@ generos_traducidos:
 - Mágia
 - Adultos
 - Club de lectura
+_hash_origen: cc0be06f149a9d1aa5579972ed90a60c02069b0d7f41dec73d392a78d0eb02f1
 ---
 
 La familia de Miryem se halla al borde de la pobreza, hasta que ella se hace cargo de la situación y no tarda en ganarse la reputación de ser capaz de convertir la plata en oro. 

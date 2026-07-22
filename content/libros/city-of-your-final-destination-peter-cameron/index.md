@@ -14,6 +14,8 @@ autores:
 - Peter    Cameron
 editoriales:
 - Fourth Estate
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de City of Your Final Destination
@@ -96,6 +98,7 @@ generos_traducidos:
 - LGTBIQ+
 - Novela
 - Queer
+_hash_origen: 65c2c968c44726a1f88fdae36369be5ffa40eebfd63739af31def2be2c4d1319
 ---
 
 This startling, beautiful novel set in South America explores the mysterious concepts of love and home. 'If The City of your Final Destination were eligible for the Man Booker Prize I would be pressing for it to be on the shortlist.' Salley Vickers, The Times Omar has won an award to write the authorised biography of a celebrated yet obscure writer, Jules Gund. But first he must gain the approval of Gund's literary  his widow, his mistress and his brother. Not allowing himself time for reflection, Omar acts against instinct and flies to the family's dilapidated mansion in Uruguay. If he cannot win their approval, he will lose his award, his job and, perhaps, his redoubtable girlfriend. Once there, he disturbs the uneasy intimacy of the world Gund has left behind and changes it for ever. 'A tender story -- told with huge doses of wit and humour -- about both destinations and destiny.' Lucia Graves, Daily Telegraph 'This is one to relish for its subtle dialogue, evocation of a languid, dreamy place and the sly, submerged comedy of random events.' Tamsin Dean, Sunday Telegraph 'A joy to read.' Ross Gilfillan, Daily Mail

@@ -14,6 +14,8 @@ colaboradores:
 - Regina López Muñoz
 editoriales:
 - Muñeca infinita editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Regina López Muñoz
   rol: translator
@@ -79,6 +81,7 @@ generos_traducidos:
 - Judaismo
 - Biografía
 - Club de lectura
+_hash_origen: 112e60dc2ea6446afc0201c96aea7531b54c5bfcb54ad11920bce29820bf0ca1
 ---
 
 Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma tan fascinante y estilizada que parece ficción. A partir de la última etapa de la vida de sus padres, la autora retrocede en el tiempo: los comienzos de su familia en Ucrania, su infancia en el Nueva York de los años cuarenta, las aventuras familiares en las comunidades judías de Harlem y el Bronx compartiendo una ideología comunista a la que se aferran contra viento y marea. Estos episodios registran los actos de desafío amoroso de una hija en su camino hacia la independencia. La fragilidad de la amistad, el poder del amor, el papel de la mala suerte en la vida..., temas universales en un libro desgarradoramente divertido.

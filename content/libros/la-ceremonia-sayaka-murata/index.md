@@ -14,6 +14,8 @@ autores:
 - Sayaka Murata
 editoriales:
 - Duomo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La ceremonia
@@ -84,6 +86,7 @@ generos_traducidos:
 - Ficción Literaria
 - Literatura asiática
 - Ásia
+_hash_origen: b2e207343987346adeee7729694ee0704d55a80c36b79dca29e8e1970293730d
 ---
 
 Historias de amor extraño, amistades sinceras y la naturaleza inquietante de la existencia humana.

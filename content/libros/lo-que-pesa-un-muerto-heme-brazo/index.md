@@ -5,6 +5,8 @@ autores:
 - Heme Brazo
 editoriales:
 - Proyecto Estefanía
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Lo que pesa un muerto
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 102927c7075ddc0fcca28a9e1e715d28367a700cd25b2eacc06684ecced6f5e2
 ---
 
 

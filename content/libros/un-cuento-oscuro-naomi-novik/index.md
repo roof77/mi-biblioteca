@@ -16,6 +16,8 @@ colaboradores:
 - Julio Hermoso
 editoriales:
 - Planeta
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Julio Hermoso
   rol: Translator
@@ -128,6 +130,7 @@ generos_traducidos:
 - Adaptaciones
 - Alta fantasía
 - Adultos
+_hash_origen: 15968d66368dc643dcfa1f389a4a38bed18e0b3c5d61e48c7d931b3a121064cd
 ---
 
 Agnieszka tiene un don: es capaz de romper, manchar o perder cualquier cosa que lleve puesta en cuestión de segundos. Vive en el valle con su familia y es feliz en su pequeño y asilvestrado hogar. Pero la maligna y retorcida presencia del Bosque se cierne desde hace años sobre todos ellos. Para protegerse, el pueblo confía en el poder de un misterioso mago conocido como el Dragón, el único capaz de controlar con su magia el poder del Bosque. A cambio de protección, pide una sola cosa: cada diez años podrá escoger a una chica y se la llevará a su torre, un destino casi tan terrible como caer presa del Bosque.

@@ -5,6 +5,8 @@ autores:
 - Ana María Herrera y Ruiz de la Herrán
 editoriales:
 - Edimat Libros
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: Portada de Manual de cocina
@@ -52,6 +54,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 45ba9d6840a03bf0dba70d606dd6ab12e99f75c7aba9a3424abb07c6d760306f
 ---
 
 La primera edición del Manual de cocina se publicó en 1950, se escribió bajo dos principios: que los ingredientes de las recetas resultasen baratos y asequibles, y que las recetas fueran de sencilla preparación pero de calidad. Desde entonces, este recetario no ha perdido ninguna vigencia y hoy en día es el gran manual de la cocina popular española.

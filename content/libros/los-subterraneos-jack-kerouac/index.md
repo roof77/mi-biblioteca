@@ -15,6 +15,8 @@ colaboradores:
 - Juan Rodolfo Wilcock
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Juan Rodolfo Wilcock
   rol: Translator
@@ -104,6 +106,7 @@ generos_traducidos:
 - Siglo XX
 - Ficción Literaria
 - Romance
+_hash_origen: f416eb59b1babfe2018e14492c2bf6546c9bbc7d674a954545b31ab1e5684b85
 ---
 
 En San Francisco, ciudad a la que Kerouac llegó en 1953, antes de alcanzar la fama, los días y las noches son habitadas por el jazz, el alcohol y las drogas, por unos seres que cabalgan entre la desesperación absoluta y las ilusiones mas descabelladas. Ese será el escenario que enmarcará la historia de amor entre el escritor Leo Percepied (una nueva encarnación de Kerouac) y una muchacha negra, Mardou Fox, «el ángel negro, desesperado y sombrío, de este mundo subterráneo de Frisco».

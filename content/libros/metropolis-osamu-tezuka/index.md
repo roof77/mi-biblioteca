@@ -15,6 +15,8 @@ colaboradores:
 - Kumar Sivasubramanian
 editoriales:
 - Dark Horse Manga
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Kumar Sivasubramanian
   rol: Translator
@@ -79,6 +81,7 @@ generos_traducidos:
 - Fantasía
 - Clásico
 - Literatura japanesa
+_hash_origen: 718f206537506e97096fd66104be070bb36d5209f43880eee30c3c174e44ada9
 ---
 
 From Osamu Tezuka, creator of Astro Boy, comes Metropolis, the legendary 1949 graphic novel that inspired the animate fame that floor audiences and critics alike. In the not-so-far-off future, a beautiful, artificially created girl — unaware of her non-human background :— searches for non-existant parents she believes must exist, wandering alone in a world populated by humans and by the slave driven robots who serve them.

@@ -13,6 +13,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1957-1958 (Snoopy y Carlitos, #4)'
@@ -110,6 +112,7 @@ generos_traducidos:
 - Tiras
 - Ficción
 - Clásico
+_hash_origen: b4a9d4f792d03a4d4bb9d667d3dd0dc74a97cbd12e4a84035fc2c8b150d2bdd0
 ---
 
 Un clásico de las tiras de prensa Cuarta entrega de la serie Carlitos y Snoopy, que comprende las tiras publicadas de los Peanuts durante los años 1957 y 1958. En ellas, Snoopy envidia la seguridad que la manta le produce a Linus, se prodiga en mimos e imitaciones, participa en el equipo de voleibol y, hacia el final del libro, comienza a dormir sobre el techo de su propia casita. 

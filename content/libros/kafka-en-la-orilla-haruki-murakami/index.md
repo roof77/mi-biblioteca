@@ -17,6 +17,8 @@ colaboradores:
 - Lourdes Porta Fuentes
 editoriales:
 - Tusquets
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Lourdes Porta Fuentes
   rol: Translator
@@ -154,6 +156,7 @@ generos_traducidos:
 - Clásico
 - Literatura
 - Ficción Literaria
+_hash_origen: c229d4b057ca2ed73aeaa26101d1f3155e70b94d025e34b8c397c2c4734d0b75
 ---
 
 Kafka Tamura se va de casa el día en que cumple quince años. Le llevan a ello las malas relaciones con su padre –un famoso escultor convencido de que su hijo repetirá el aciago sino de Edipo– y el vacío producido por la ausencia de su madre; se dirigirá al sur del país, donde encontrará refugio en una peculiar biblioteca y conocerá a la misteriosa señora Saeki. Sus pasos se cruzan con los de otro personaje, Satoru Nakata, sobre quien se ha abatido la tragedia: de niño, durante la segunda guerra mundial, sufrió un accidente del que salió con secuelas y dificultades para comunicarse... salvo con los gatos.

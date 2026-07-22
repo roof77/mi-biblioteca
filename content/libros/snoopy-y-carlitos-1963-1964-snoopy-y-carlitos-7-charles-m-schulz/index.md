@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1963-1964 (Snoopy y Carlitos, #7)'
@@ -111,6 +113,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - Niños
+_hash_origen: 418d95bdb91124d5b22842af502432ee37bf648bbe27faa329673c1da379007d
 ---
 
 El séptimo volumen de Snoopy y Carlitos nos presenta a los hermanos Números, unos personajes que nos harán vivir las historias más surrealistas, y a Lucy que monta su puesto de consultas psicológicas por solo un penique. ¿Quién podrá resistirse a ser humillado públicamente por ella? Seguro que Carlitos no.

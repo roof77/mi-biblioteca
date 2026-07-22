@@ -15,6 +15,8 @@ autores:
 - Sara  Torres
 editoriales:
 - Reservoir Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Lo que hay
@@ -94,6 +96,7 @@ generos_traducidos:
 - Lesbianismo
 - Mujeres
 - Romance
+_hash_origen: f8c80c9bc2c9a6b7170d21b7600b5fb614be364533337780ee748203dcacbfa9
 ---
 
 Uno de los diez mejores debuts del año según El Cultural: una memoria sobre el duelo, el deseo y el amor entre mujeres, madres e hijas

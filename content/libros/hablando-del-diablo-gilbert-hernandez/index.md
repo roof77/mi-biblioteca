@@ -15,6 +15,8 @@ traductores:
 - Lorenzo F. Díaz
 editoriales:
 - La Cúpula
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Hablando del diablo
@@ -24,13 +26,15 @@ libro:
   titulo: Hablando del diablo
   url: https://www.goodreads.com/book/show/12537023-hablando-del-diablo
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1315320362i/12537023.jpg
-  sinopsis: There's a peeping tom prowling the neighborhood. Eyewitness reports vary, but one thing is agreed he wears a devil
-    mask.This is the story of Val Castillo, a promising gymnast with a strange hobby. She is secretly the neighborhood peeping
-    tom. At first she is alone in this, but when a male friend discovers her doings he joins her into a dark journey of spying
-    and making discoveries about their neighbors that may have been better left alone. Especially secrets that threaten all
-    involved. Like Val spying on her own father and stepmother in their bedroom. This snowballs into a journey darker than
-    even the most cynical would care to endure.* Collects the six-issue miniseries.* Ranked as one of The Comics Journal 's
-    "Best of 2007"!
+  sinopsis: 'Hay un mirón rondando el vecindario. Los testigos tienen versiones diferentes, pero en una cosa están todos de
+    acuerdo: lleva una máscara del demonio.
+
+
+    Esta es la historia de Val Castillo, una prometedora gimnasta con un extraño hobby: es el mirón secreto del vecindario.
+    Al principio está sola en esto, pero cuando un amigo suyo descubre lo que está haciendo, se une a ella en el oscuro viaje
+    de espiar y hacer descubrimientos sobre los vecinos, que quizá hubiera sido mejor que hubiesen permanecido ignotos. Especialmente
+    los secretos que son amenazadores pala los implicados, como Val espiando a su propio padre y a su madrastra en su dormitorio.
+    Esta historia desemboca en un viaje mucho más oscuro que el que hasta el más cínico hubiese podido soportar.'
 autor:
   nombre: Gilbert Hernández
   rol: Author
@@ -95,6 +99,9 @@ generos_traducidos:
 - Thriller
 - Oscuro
 - Manga
+_hash_origen: 01968df352fde3d6a76b31e498fc4adeab5a85527d5934b903cce32f5db5db92
 ---
 
-There's a peeping tom prowling the neighborhood. Eyewitness reports vary, but one thing is agreed he wears a devil mask.This is the story of Val Castillo, a promising gymnast with a strange hobby. She is secretly the neighborhood peeping tom. At first she is alone in this, but when a male friend discovers her doings he joins her into a dark journey of spying and making discoveries about their neighbors that may have been better left alone. Especially secrets that threaten all involved. Like Val spying on her own father and stepmother in their bedroom. This snowballs into a journey darker than even the most cynical would care to endure.* Collects the six-issue miniseries.* Ranked as one of The Comics Journal 's "Best of 2007"!
+Hay un mirón rondando el vecindario. Los testigos tienen versiones diferentes, pero en una cosa están todos de acuerdo: lleva una máscara del demonio.
+
+Esta es la historia de Val Castillo, una prometedora gimnasta con un extraño hobby: es el mirón secreto del vecindario. Al principio está sola en esto, pero cuando un amigo suyo descubre lo que está haciendo, se une a ella en el oscuro viaje de espiar y hacer descubrimientos sobre los vecinos, que quizá hubiera sido mejor que hubiesen permanecido ignotos. Especialmente los secretos que son amenazadores pala los implicados, como Val espiando a su propio padre y a su madrastra en su dormitorio. Esta historia desemboca en un viaje mucho más oscuro que el que hasta el más cínico hubiese podido soportar.

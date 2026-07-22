@@ -16,6 +16,8 @@ colaboradores:
 - Javier Calvo
 editoriales:
 - Alpha Decay & Pálido Fuego
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Javier Calvo
   rol: Translator
@@ -145,6 +147,7 @@ generos_traducidos:
 - Novela
 - Adultos
 - Club de lectura
+_hash_origen: 51eb215a247635aeeab67786c61d00650f3469ebf40c668dfd1caf787d8c7ace
 ---
 
 Will Navidson, un famoso fotoperiodista premiado con el Pulitzer, se traslada con su familia a una casa en el entorno rural de Virginia en un intento de salvar su matrimonio, seriamente perjudicado por sus viajes continuos y su adicción al trabajo. Además de Navidson, la familia está compuesta por la hermosa ex-modelo Karen Green y los dos hijos pequeños de ambos. Muy pronto, Will descubre que la casa presenta una anomalía arquitectónica singular: su espacio interior es ligeramente más grande que el que debería ocupar según sus dimensiones exteriores. Este es el arranque de "El expediente Navidson", un fascinante documento que narra los sucesos acaecidos en la casa de Ash Tree Lane, es decir "La casa de hojas".

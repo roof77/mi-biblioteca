@@ -10,6 +10,8 @@ autores:
 - Elisa Victoria
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Otaberra
@@ -69,6 +71,7 @@ generos_traducidos:
 - España
 - Literatura hispana
 - Novela
+_hash_origen: 3ce1e8296235f0e196272f93e53d4abe49d622a92ada047854e218031e087e7c
 ---
 
 Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para ella no existe. El tiempo quedó detenido en Otaberra.

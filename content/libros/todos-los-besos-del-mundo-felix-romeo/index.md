@@ -5,6 +5,8 @@ autores:
 - Félix Romeo
 editoriales:
 - Xordica
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Todos los besos del mundo
@@ -56,6 +58,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: d907aa631eac84aa9b32cf827f10627db243090bf098a4fd7f08a52a4bc9271e
 ---
 
 Todos los besos del mundo es una selección de los mejores cuentos que Félix Romeo publicó a lo largo de casi veinte años en distintos medios y que no habían sido recopilados hasta ahora.

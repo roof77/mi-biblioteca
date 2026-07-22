@@ -1,10 +1,16 @@
 ---
 title: Rip Kirby 1949-1951 nº 03/12 (Cómics Clásicos NO) (Spanish Edition)
-tags: []
+tags:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
 autores:
 - Alex Raymond
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1949-1951 nº 03/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -67,7 +73,12 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
+_hash_origen: c3cf208f253853bca00e5527b918d983ca9d555f1d38e9f733a9ee137a0bbeab
 ---
 
 Alex Raymond destacó por el especial cuidado con que trataba a sus personajes secundarios. Villanos o amigos, protagonistas o no, hasta el último de los personajes que aparecieron en Rip Kirby tuvieron un desarrollo que no descuidaba ningún aspecto, desde el tratamiento gráfico al diseño de su carácter. Los episodios que incluye este volumen son un buen ejemplo de ese carió y esmero. Conoceremos más del fiel pero a veces incógnito mayordomo y fiel asistente de Rip, Desmond. La intrigante pero seductora Pagan Lee o, sobre todo, la vuelta del terrible "Triturador" también serán el centro de otras historias, en las que Raymond demostrará que no hay nada como un gran villano para que el héroe sea todavía más brillante. Y siempre con la elegancia en el trazo del gran maestro, que supera episodio a episodio todos los calificativos que se puedan encontrar.

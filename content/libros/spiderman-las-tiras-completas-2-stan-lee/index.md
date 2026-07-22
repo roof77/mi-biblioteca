@@ -13,6 +13,8 @@ series:
 - The Complete Spider-Man Strips
 editoriales:
 - Panini Comics España (Marvel Comics)
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: John Romita Sr.
   rol: Author
@@ -77,6 +79,7 @@ premios:
 generos_traducidos:
 - Superheroes
 - Comics
+_hash_origen: 526693872d14218b3bcb7ad0240add98271a04339d77b3508d91385251004be6
 ---
 
 What's black and white and red and blue all over? Long thought lost to avid arachnophiles, three years' worth of Spider-Man's newspaper adventures - from January 1977 to January 1980 - are collected in their entirety for the first time across two volumes! Spiderdom's top talents set the web-slinger up with daily doses of enemies old and new, from Kraven the Hunter to the Rattler!

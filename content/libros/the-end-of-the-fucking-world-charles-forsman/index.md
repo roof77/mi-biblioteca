@@ -14,6 +14,8 @@ series:
 - The End of the Fucking World
 editoriales:
 - Faber & Faber
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de The End of the Fucking World
@@ -73,6 +75,7 @@ generos_traducidos:
 - Contemporaneo
 - Crimen
 - Romance
+_hash_origen: 43ce611d751b0b959fb5897a6ba5a0b17f19f50012eaa3662c3ceab682650670
 ---
 
 'At 16, I pretended to fall in love with Alyssa.'

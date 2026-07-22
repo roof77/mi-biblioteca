@@ -12,6 +12,8 @@ colaboradores:
 - Roberto Falcó Miramontes
 editoriales:
 - Reservoir Books
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Roberto Falcó Miramontes
   rol: Translator
@@ -112,6 +114,7 @@ generos_traducidos:
 - Ficción
 - EEUU
 - Humor
+_hash_origen: 1c5094a2a52fc359ddc5f4391bc93cb7720bc85c48720d9c671c0ab3e68aa1d5
 ---
 
 Con su magistral factura técnica y su poderosa imaginación, Daniel Clowes crea en esta novela gráfica el microcosmos de Ice Haven, un espacio caleidoscópico donde se refleja la mezquindad humana. El secuestro del pequeño David Goldberg en el pueblecito de Ice Haven es la excusa argumental que usa Clowes para construir una magistral y compleja reflexión sobre el ser humano, sus motivaciones y la creación. Reseñ

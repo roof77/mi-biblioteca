@@ -17,6 +17,8 @@ series:
 - Blackwater
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Carles Andreu
   rol: translator
@@ -98,6 +100,7 @@ generos_traducidos:
 - Misterio
 - Gótico sureño
 - Thriller
+_hash_origen: cc0696820a4324258052139ade7b1ec346d0a64c50508ab4ced3f7684f72e7f7
 ---
 
 1958. Pasan los años entre suntuosas fiestas, uniones insólitas y estremecedoras revelaciones, pero nada traerá paz a la familia Caskey. Saben que, tras la calma, siempre aguarda una nueva tormenta. Algo terrible se cierne sobre Perdido, sus habitantes y su río. Ha llegado el momento de la profecía.

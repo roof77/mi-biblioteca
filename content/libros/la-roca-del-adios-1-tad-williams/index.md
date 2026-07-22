@@ -18,6 +18,8 @@ series:
 - Memory, Sorrow, and Thorn
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Herminia Dauer
   rol: Translator
@@ -92,6 +94,7 @@ generos_traducidos:
 - Jovenes adultos
 - Épico
 - Mágia
+_hash_origen: 714360cde15b5895fa30c88fd4b9e2681e524584766f22efa3a299ac89fa01c3
 ---
 
 The second book in the trilogy that launched one of the most important fantasy writers of our time.

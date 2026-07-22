@@ -18,6 +18,8 @@ series:
 - The Broken Earth
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: David Tejera Expósito
   rol: Translator
@@ -149,6 +151,7 @@ generos_traducidos:
 - Club de lectura
 - Alta fantasía
 - LGTBIQ+
+_hash_origen: 3e9c6f4b6e522bfabeb6f1ac94f2806c3b18a9f48287e586b9fd817b61503e94
 ---
 
 La quinta estación es la primera novela de «La Tierra Fragmentada», serie que mezcla fantasía y ciencia ficción, y que ha hecho merecedora a su autora de dos Premios Hugo a la mejor novela consecutivos: 2016 por la presente y 2017 por El portal de los obeliscos (La Tierra Fragmentada 2).

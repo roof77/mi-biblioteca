@@ -16,6 +16,8 @@ colaboradores:
 - Paz Pruneda Gonzálvez
 editoriales:
 - Minotauro
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Paz Pruneda Gonzálvez
   rol: Translator
@@ -130,6 +132,7 @@ generos_traducidos:
 - Paranormal
 - Misterio
 - Adultos
+_hash_origen: 10fd0e706b2ec10d521d2842dbc7ca6312b40aeb21362374bdcf5b3e8bd44f0e
 ---
 
 A Patricia Campbell su existencia nunca le ha parecido tan insignificante. Su marido es un adicto al trabajo, sus hijos adolescentes tienen su propia vida, su suegra senil necesita cuidados constantes, y siente que siempre va un paso por detrás de su interminable lista de cosas por hacer. Lo único que la mantiene viva es su club de lectura, un pequeño grupo de mujeres de Charleston unidas por su amor a las novelas de crímenes reales. En esas reuniones se habla de todo: desde la familia Manson a asuntos de sus propias familias.

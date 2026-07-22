@@ -5,6 +5,8 @@ autores:
 - Elsa Veiga
 editoriales:
 - Tres Hermanas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Me desperté con dos inviernos a los lados
@@ -56,6 +58,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 6230b42d70cc22fbca5f85822e6ed6ea66276257eb09642b11d11784c9ac3fea
 ---
 
 La joven Cara Piqueres vive con su familia en una gran ciudad y lleva una existencia aparentemente normal, pero cuando llega la noche, y el padre regresa a casa, precedido siempre por la Sombra, comienza la pesadilla. Gracias a los cuentos que le narra su hermano Nato a los pies de la cama, antes de dormirse, y a su imaginación, Cara intentará esquivar el dolor y la ira que se instala a diario en el hogar.

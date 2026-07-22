@@ -13,6 +13,8 @@ autores:
 - David Michaelis
 editoriales:
 - Es Pop Ediciones
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Schulz, Carlitos y Snoopy: Una biografía'
@@ -86,6 +88,7 @@ generos_traducidos:
 - Arte
 - Humor
 - Cultura Pop
+_hash_origen: a6264e4d0db11bc65338c3db3c0fb81288348ea2c6d0f91cbafddd2b563d7182
 ---
 
 Charles M. Schulz, el historietista más leído y querido de todos los tiempos, sigue siendo, diez años después de su fallecimiento, una de las figuras más incomprendidas y a la vez influyentes de la cultura norteamericana. David Michaelis nos presenta la primera crónica completa de la vida de un hombre brillante y hasta ahora desconocido; una historia de creación artística, a la vez que retrato íntimo de un genio que contribuyó a moldear la imaginación de Norteamérica.

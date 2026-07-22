@@ -20,6 +20,8 @@ series:
 - Peter Pan
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Arthur Rackham
   rol: Ilustrator
@@ -108,6 +110,7 @@ generos_traducidos:
 - Jovenes adultos
 - Siglo XX
 - Colegio
+_hash_origen: eed30f7d7a052da2a8dc433d5ab9e513cb817d1c09c97ae082a6aa90c02af665
 ---
 
 El germen de esta fantasía inolvidable se gestó en los paseos que Barrie daba por los jardines de Kensington junto con los hijos pequeños de un matrimonio amigo, a los que contaba historias de hadas. Peter Pan en los jardines de Kensington (1906) es el título del relato donde aparece por primera vez Peter Pan, y en él se nos revelan las costumbres de las hadas del jardín de Kensington y la historia de un bebé que dejó de ser un niño como los demás para jamás crecer y quedarse a vivir en el parque. Peter Pan y Wendy (1911), como todo el mundo sabe, es la historia de tres niños ingleses que una noche, tras recibir la visita de un extraño ser que tiene poderes mágicos y se llama Peter Pan, salen volando con él hasta llegar al sorprendente país de donde procede: la isla de Nunca Jamás. Allí, acompañados por el hada Campanilla, vivirán divertidas y peligrosas aventuras entre indios, fieras y una banda de piratas capitaneada por un archivillano llamado capitán Garfio.

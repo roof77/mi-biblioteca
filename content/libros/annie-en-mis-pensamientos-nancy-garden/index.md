@@ -18,6 +18,8 @@ colaboradores:
 - Paola Garrido
 editoriales:
 - Kakao Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: María Gay Moreno
   rol: Translator
@@ -105,6 +107,7 @@ generos_traducidos:
 - Contemporaneo
 - Gay
 - Coming of age
+_hash_origen: ca31b84b77dae2c5737447e8e88b5afaed2145211a011f22f9114558cfc9d896
 ---
 
 Cuando Liza conoce a Annie en un museo de Nueva York, no sabe qué pensar de esa chica tan extraña a la que le gusta cantar, las leyendas artúricas y las plantas... pero sabe que se siente muy cerca de ella.

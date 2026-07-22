@@ -42,6 +42,8 @@ colaboradores:
 - E.T.A. Hoffmann
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Charles Nodier
   rol: Author
@@ -206,6 +208,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Terror
+_hash_origen: 14bad7ae873f978a767b67b7f1d97e64e39de88a375817823dcac9796e43e3bb
 ---
 
 Con la edición de Felices Pesadillas (número 200 de esta colección)

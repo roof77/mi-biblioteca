@@ -10,6 +10,8 @@ colaboradores:
 - Rubén Martín
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rubén Martín
   rol: Translator
@@ -75,6 +77,7 @@ generos_traducidos:
 - Oeste
 - Ficción
 - Ficción histórica
+_hash_origen: 78cc03515ebbc8aecd8b50adac5bfa5ab17fff333de0b67014da8f0a77246d85
 ---
 
 Cornetas al atardecer apareció por entregas en el Saturday Evening Post en 1943 y fue llevada al cine en 1952 en una película dirigida por Roy Rowland.

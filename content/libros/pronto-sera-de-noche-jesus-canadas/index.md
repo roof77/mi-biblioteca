@@ -7,6 +7,8 @@ autores:
 - Jesús Cañadas
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Pronto será de noche
@@ -86,6 +88,7 @@ premios:
 generos_traducidos:
 - Terror
 - Literatura hispana
+_hash_origen: d86258547528cbae89e8f3dcaa02b2152bfd5f1361ba021466ddba468201114a
 ---
 
 "Pronto será de noche, pero no habrá diferencia. El cielo seguirá teniendo ese color incómodo. El fuego que baila en las ventanas sacará a la ciudad de su ceguera. Será de noche, pero no estará oscuro. Caerán pájaros muertos del aire. Golpeando el suelo con un sonido de guantes empapados."

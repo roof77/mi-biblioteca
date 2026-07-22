@@ -16,6 +16,8 @@ series:
 - The Wicked Years
 editoriales:
 - Planeta
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: 'Portada de Wicked: Memorias de una bruja mala (Los años malvados, #1)'
@@ -92,6 +94,7 @@ generos_traducidos:
 - Brujas
 - Mágia
 - Ficción adulta
+_hash_origen: 10c4f3c1839e44c4ff3e437d5c0bc49634977c3e34cc99e7950edc93dde4663b
 ---
 
 En un pueblo de pescadores de Munchkinland nace Elphaba, un bebé de piel verde y dientes de tiburón con los que arranca los dedos a la comadrona. Elphaba crecerá para convertirse en la Malvada Bruja del Oeste, una persona ingeniosa, irritable y poco comprendida que pone en tela de juicio todas nuestras nociones preconcebidas sobre la naturaleza del bien y del mal.

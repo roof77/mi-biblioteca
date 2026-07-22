@@ -8,13 +8,12 @@ colaboradores:
 - Raúl Ruiz
 editoriales:
 - Dilatando Mentes Editorial
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Raúl Ruiz
   rol: Cover Art
   url: https://www.goodreads.com/author/show/246203.Ra_l_Ruiz
-cover:
-  image: cover.jpg
-  alt: 'Portada de Infestación: una historia cultural de las casas encantadas'
 date: '2021-07-15'
 libro:
   id: 59133077
@@ -72,6 +71,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Terror
+_hash_origen: 0dfc6695eac62b78d09828eed6d4475c2746c00e7d790b2d6ab218821a852e29
 ---
 
 Laberintos arquitectónicos. Largos pasillos en sombras. Puertas que jamás se cierran.

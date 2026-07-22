@@ -17,6 +17,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Creciendo contigo (Heartstopper #5)'
@@ -98,6 +100,7 @@ generos_traducidos:
 - Ficción
 - Gay
 - Salud mentál
+_hash_origen: 7d109c67524087d9661693a5cce376803c7ada7aa9cf9eec1da67e3c3705994c
 ---
 
 Una nueva entrega de la aclamada serie Heartstopper repleta de sentimientos.

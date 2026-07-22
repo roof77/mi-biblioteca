@@ -20,6 +20,8 @@ series:
 - Roald Dahl's Tales of the Unexpected
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Carmelina Payá
   rol: Translator
@@ -113,6 +115,7 @@ generos_traducidos:
 - Jovenes adultos
 - Niños
 - Literatura
+_hash_origen: 61278d5a60e37e271cfe657d5c5dccf75f556f0eec4e750c70d46a61ca1216df
 ---
 
 La personalísima obra de Roald Dahl es cada vez más conocida y apreciada en España. Relatos de lo inesperado es quizá su libro más universalmente famoso, en el que demuestra de forma plena la afirmación: «La mente de Roald Dahl es inequívocamente malévola y perversa» (The Washington Post). En efecto, el autor despliega de manera magistral su mortífero ingenio y su macabro sentido del humor a lo largo de estos cuentos, rematados con desenlaces tan imprevistos como certeros. Este libro dio lugar a una célebre serie televisiva cuyos episodios estaban presentados por el propio Roald Dahl.

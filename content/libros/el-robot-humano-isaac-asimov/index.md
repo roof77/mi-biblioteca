@@ -21,6 +21,8 @@ series:
 - Robot
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Baldomero Porta
   rol: Translator
@@ -131,6 +133,7 @@ generos_traducidos:
 - Novela
 - EEUU
 - Ingeniería
+_hash_origen: 7348628126288908641bbc46a6e2e7fd58790fb24f8412a87107ec4e3cb755a1
 ---
 
 Integra los relatos "Madre Tierra" e "Imagen en un espejo", junto con las novelas "Las cavernas de acero" y "El sol desnudo".

@@ -16,6 +16,8 @@ colaboradores:
 - Anna Hernández del Blanco
 editoriales:
 - Capitán Swing
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Anna Hernández del Blanco
   rol: Translator
@@ -82,6 +84,7 @@ generos_traducidos:
 - Histórico
 - Humor
 - Adultos
+_hash_origen: 08d16058658002fdea19f5ed1d8dcb965e771fc50dbfaf090c49c3e330209a1f
 ---
 
 'Based on the popular research project Whores of Yore, and written with her distinctive humour and wit, A Curious History of Sex draws upon Dr Kate Lister's extensive knowledge of sex history. From medieval impotence tests to twentieth-century testicle thefts, from the erotic frescoes of Pompeii, to modern-day sex doll brothels, Kate unashamedly roots around in the pants of history, debunking myths, challenging stereotypes and generally getting her hands dirty.'

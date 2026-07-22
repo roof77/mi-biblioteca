@@ -16,6 +16,8 @@ series:
 - Hollywood Babylon
 editoriales:
 - Maxi-Tusquets
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Hollywood Babilonia II (Spanish Edition)
@@ -79,6 +81,7 @@ generos_traducidos:
 - Arte
 - Crimen
 - Cultura Pop
+_hash_origen: fd176b2bdb247cc75ff75bcf243f5451c229505c9260c92f45ec199ee1b321c9
 ---
 
 Algo más acerca de la «verdadera historia» de esa pequeña ciudad del Oeste llamada Tinseltown, que, por fabricar sueños, saltaría a la fama en los años veinte para convertirse en un lugar legendario, poblado de personajes no menos fabulosos. Y Kenneth Anger accedió a excavar una vez más en su también legendario archivo de coleccionista obstinado. Y aquí, en este segundo volumen de Hollywood Babilonia, vuelve los focos hacia la otra cara de esos rostros de celuloide, devastada por el alcohol y la droga, marcada por algún odio asesino, animada por inimaginables pequeños vicios, inconfesables todos.

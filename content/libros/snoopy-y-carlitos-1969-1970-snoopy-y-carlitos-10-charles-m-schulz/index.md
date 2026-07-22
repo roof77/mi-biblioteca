@@ -13,6 +13,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1969-1970 (Snoopy y Carlitos, #10)'
@@ -109,6 +111,7 @@ generos_traducidos:
 - Tiras
 - Ficción
 - Clásico
+_hash_origen: 7ae1429cebab2622095d097681fabff1f8cf19eaabae6f50b96f89b2a0b99889
 ---
 
 Tiras publicadas entre 1969 y 1970 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitosá es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado".Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.

@@ -14,6 +14,8 @@ autores:
 - George Saunders
 editoriales:
 - Seix Barral
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Zorro 8 (Biblioteca Formentor) (Spanish Edition)
@@ -90,6 +92,7 @@ generos_traducidos:
 - Naturaleza
 - Humor
 - Ficción adulta
+_hash_origen: 44391176b3db3d622ae8ef3a5998edf16dc2866725426a441d1785e422886290
 ---
 
 Una fábula ecologista ilustrada en la mejor tradición de Roald Dahl y La colina de Watership, en una preciosa edición de regalo para todos los públicos.

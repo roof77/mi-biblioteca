@@ -9,6 +9,8 @@ series:
 - Elmore Leonard's Western Roundup
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Hombre / Que viene Valdez
@@ -73,6 +75,7 @@ premios:
 generos_traducidos:
 - Oeste
 - Ficción
+_hash_origen: 4814d8c97eccfe37c26438b239a452ac99c273bb0fc93e69f1bce3cfc07d0055
 ---
 
 Hombre fue llevada al cine en 1967 por Martin Ritt, con Paul Newman como protagonista, y Que viene Valdez en 1971 por Edwin Sherin, con Burt Lancaster. Con treinta y siete novelas, veinte de ellas llevadas al cine o la televisión, Elmore Leonard, nacido en Nueva Orleans en 1925, se encuentra entre los autores más relevantes de la narrativa de género negro contemporánea. Menos conocida para el lector europeo es su faceta como escritor de western, género con el que debutó en 1953 con la novela TheBounty Hunters, y que siguió cultivando con siete novelas más y multitud de relatos.

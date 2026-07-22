@@ -18,6 +18,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gemma Gallart
   rol: Translator
@@ -101,6 +103,7 @@ generos_traducidos:
 - Fantasía épica
 - Literatura hispana
 - Épico
+_hash_origen: f120b20dbf623e8be9f434d5ade9ca3360c6ca1eb91a2cabc5700a423c9a18d9
 ---
 
 Siete demonios, siete seres maléficos, arrojarán otra vez a la humanidad a la tenebrosa historia de su propia necedad, a menos que sea destruidos. Y Anghara, hija-de-Kalig, ya no es Anghara. Ahora su nombre es Índigo -el color del luto- y su hogar es el mundo entero porque ha perdido todo derecho sobre el reino en el que nació. En éste gobierna otro señor y la leyenda de la Torre de los Pesares ha dejado de existir por expreso deseo de la Madre Tierra, que ordenó que todo recuerdo de la caída de la Torre se borrase de la memoria de las gentes. Es por eso que el nuevo rey pide a sus bardos que compongan tristes baladas sobre las fiebres que acabaron con las vidas de la antigua dinastía de Kalig, sin sospechar que un miembro de ella sigue con vida.

@@ -11,6 +11,8 @@ autores:
 - Daniel Clowes
 editoriales:
 - Fulgencio Pimentel
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Paciencia
@@ -115,6 +117,7 @@ generos_traducidos:
 - Ciencia ficción
 - Viaje en el tiempo
 - Romance
+_hash_origen: 8ef442b88c69c04d77c2ffab614c98cbd3444738bfaf84da053b9b958ee00d57
 ---
 
 Paciencia significa el regreso del autor más influyente de las últimas décadas, tras más de cinco años de silencio. El multipremiado autor de Ghost World y David Boring firma aquí su obra más extensa y ambiciosa, un thriller de ciencia ficción, sentido y brutal por momentos, en el que Clowes observa por vez primera a sus semejantes con optimismo y hasta con benevolencia, abriendo una puerta a la esperanza que en anteriores trabajos solo podíamos intuir. Quizá su paternidad en 2007 o la operación a corazón abierto que sufrió en 2009 tengan algo que ver con ello. Lo que no ofrece duda es que las 180 páginas de Paciencia contienen uno de los relatos más complejos y emocionantes que haya creado hasta la fecha, un vertiginoso destilado de todos los elementos quintaesencialmente propios de su autor, los mismos que lo han convertido en una de las figuras esenciales del cómic independiente contemporáneo.

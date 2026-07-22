@@ -15,6 +15,8 @@ colaboradores:
 - Jesús Zulaika Goicoechea
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Jesús Zulaika Goicoechea
   rol: Translator
@@ -93,6 +95,7 @@ generos_traducidos:
 - Literatura
 - Contemporaneo
 - Ficción Literaria
+_hash_origen: f6555002fbbab87ebfc7865ea7349e0839646a4aa06bb92f499e3d8439666e64
 ---
 
 En ¿Quieres hacer el favor de callarte, por favor?, su primer libro de relatos, que escribió y reescribió a lo largo de quince años y que le supuso la consagración inmediata, Raymond Carver renovó la forma del relato breve hasta darle proporciones de haiku y sin que esta utilización radical de la elipsis le haga perder ninguna fuerza. Todo lo contrario, los relatos de Carver poseen, quizá precisamente por su mismo carácter fragmentario, una inesperada capacidad de provocar una impresión fortísima, una indeleble conmoción.

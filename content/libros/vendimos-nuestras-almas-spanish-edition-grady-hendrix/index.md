@@ -16,6 +16,8 @@ colaboradores:
 - Víctor Ruiz Aldana
 editoriales:
 - Minotauro
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Víctor Ruiz Aldana
   rol: Translator
@@ -122,6 +124,7 @@ generos_traducidos:
 - Adultos
 - Sobrenatural
 - Contemporaneo
+_hash_origen: dbf45aadec4c40bade024506ee63548e201342ff57cd94e1dd358a71f03e183b
 ---
 
 Un viaje épico hacia el corazón de un país paranoico dominado por las pastillas y las conspiraciones que parece haber perdido su propia alma. Todas las mañanas, Kris Pulaski se despierta en medio de un infierno. En los 90, era la guitarrista solista de Dürt Würk, un grupo de heavy metal que rozó el éxito con los dedos hasta que el cantante principal, Terry Hunt, emprendió una carrera en solitario que lo lanzó al estrellato y dejó que sus compañeros se pudrieran en la irrelevancia. Ahora Kris trabaja como gerente nocturna del Best Western; está agotada, arruinada y deprimida. Sin embargo, un día todo  un sobrecogedor acto violento pone su vida patas arriba, y comienza a sospechar que Terry no solo saboteó la banda. Kris se lanza a la carretera con la esperanza de reunir a Dürt Würk y enfrentarse al hombre que le arruinó la vida. Su viaje la llevará desde el cinturón industrial de Pensilvania hasta un satánico festival de música, pasando por un centro de rehabilitación para celebridades. Vendimos nuestras almas es una furiosa power ballad sobre la importancia de no tirar nunca la toalla, un viaje épico hacia el corazón de un país paranoico dominado por las pastillas y las conspiraciones que parece haber perdido su propia alma. Grady Hendrix se ha convertido en un ídolo de masas, una estrella de rock de la literatura de género que consigue conectar con el público a través del terror, el humor, la cultura pop y la crítica social.  «El metal no muere nunca. El metal no retrocede. El metal no se rinde.»

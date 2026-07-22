@@ -16,6 +16,8 @@ colaboradores:
 - James Andrew Miller
 editoriales:
 - Little, Brown Paperbacks
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: James Andrew Miller
   rol: Author
@@ -90,6 +92,7 @@ generos_traducidos:
 - TV
 - Memorias
 - Historia oral
+_hash_origen: 7243578bc92a644d266e13a4e0f3b0f798fe0e1fcb8992081d3372fca21b1ad1
 ---
 
 "When a young writer named Lorne Michaels talked NBC executives into taking a chance on a new weekend late-night comedy series, nobody really knew what to expect - not even Michaels. But Saturday Night Live, launched in 1975 and still thriving today, would change the face of television. It introduced brash new stars with names like Belushi, Radner, Chase, and Murray; trashed taboos that had inhibited TV for decades; and had such an impact on American life, laughter, and politics that even presidents of the United States had to take notice." Now, Tom Shales and author James Andrew Miller bring together stars, writers, guest hosts, contributors, and craftsmen for the first-ever oral history of Saturday Night Live, from 1974, when it was just an idea, through 2002, when it has long since become an institution. In their own words, dozens of personalities recall the backstage stories, behind-the-scenes gossip, feuds, foibles, drugs, sex, struggles, and calamities, including personal details never before revealed. Shales and Miller have interviewed a galaxy of stars, including Mike Myers, Chris Rock, Bill Murray, Tom Hanks, Adam Sandler, Chevy Chase, Will Ferrell, Dan Aykroyd, Steve Martin, Jon Lovitz, Jane Curtin, Billy Crystal, Martin Short, Dana Carvey, Tina Fey, Jimmy Fallon, Chris Kattan, Julia Louis-Dreyfus, Garrett Morris, Molly Shannon, Damon Wayans, Chris Elliott, Julia Sweeney, Norm Macdonald, and Paul Simon - plus writers like Al Franken, Conan O'Brien, Larry David, Rosie Shuster, Jack Handey, Robert Smigel, Don Novello, and others who got their big breaks as part of the SNL team.

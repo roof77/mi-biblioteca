@@ -15,6 +15,8 @@ autores:
 - Robertson Davies
 editoriales:
 - Penguin Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de High Spirits
@@ -98,6 +100,7 @@ generos_traducidos:
 - Literatura canadiense
 - Siglo XX
 - Halloween
+_hash_origen: abcf9e27f076ea3ccae541585d414b1c55e067dad085b02a6c4fbc9512a0bbdd
 ---
 
 Robertson Davies first hit upon the notion of writing stories when he joined Massey College as Master in 1963. The necessity for entertainment at the College's Gaudy Night, the annual Christmas party, resulted in the creation of a 'spooky story' which Professor Davies read aloud to the gathering. That story, "Revelations From a Smoky Fire', is the first story of this collection. A tradition quickly became established and, for eighteen years, Davies delighted and amused the Gaudy Night guests with his tales of the supernatural.

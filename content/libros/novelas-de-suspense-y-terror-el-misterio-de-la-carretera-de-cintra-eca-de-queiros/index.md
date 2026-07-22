@@ -18,6 +18,8 @@ series:
 - Contos Policiais
 editoriales:
 - Signo Editores
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: María del Mar Osuna Pérez
   rol: Translator
@@ -99,6 +101,7 @@ generos_traducidos:
 - Crimen
 - Novela
 - Siglo XIX
+_hash_origen: 53e45c8491e9910f10ebdbc6756ddd87242069d3c8de9619958647e210bca1f7
 ---
 
 Nesta Obra, que pode considerar-se o primeiro romance policial português, Eça de Queirós, com a colaboração de Ramalho Ortigão, faz alternar o mistério, o crime, o adultério e a crítica de costumes, numa sucessão de lances folhetinescos que prendem a atenção até ao fim.

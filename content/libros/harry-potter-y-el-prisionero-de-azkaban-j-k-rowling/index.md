@@ -15,6 +15,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: Portada de Harry Potter y el prisionero de Azkaban
@@ -210,6 +212,7 @@ generos_traducidos:
 - Niños
 - Aventuras
 - Clásico
+_hash_origen: c596d4e572457be3f37e224d24e77c79c96d5acf2dbd27cfef518bf786e265c9
 ---
 
 Por la cicatriz que lleva en la frente, sabemos que Harry Potter no es un niño como los demás, sino el héroe que venció a lord Voldemort, culpable de la muerte de sus padres. Desde entonces, Harry no tiene más remedio que vivir con sus pesados tíos y su insoportable primo Dudley, todos ellos muggles, o sea, personas no magas.

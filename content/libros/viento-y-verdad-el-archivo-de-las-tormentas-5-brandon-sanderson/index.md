@@ -19,6 +19,8 @@ series:
 - The Stormlight Archive
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Manu Viciano
   rol: Translator
@@ -128,6 +130,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Épico
 - Aventuras
+_hash_origen: fbebb930a9cf8da4ce96e3ef6359c79d798c7dda4967176969a97718dbb801d3
 ---
 
 La esperada y explosiva conclusión del primer arco de El Archivo de las Tormentas, la emblemática obra maestra de la fantasía épica de Brandon Sanderson, con más de diez millones de lectores en todo el mundo.

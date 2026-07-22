@@ -17,6 +17,8 @@ colaboradores:
 - Catalina Martínez Muñoz
 editoriales:
 - Alba Editorial
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Catalina Martínez Muñoz
   rol: Translator
@@ -124,6 +126,7 @@ generos_traducidos:
 - Misterio
 - Crime real
 - Thriller
+_hash_origen: 73bdcfb9c30c0174d8d38b36d6ea8f1407b6779fcd3ec9663a6046d6f2c0d797
 ---
 
 Esta novela, escrita en 1934 y un éxito de ventas en su día, reconstruye el llamado «misterio de Penge», que estremeció a la sociedad victoriana de 1877. Harriet es una mujer de treinta y dos años, elegante y adinerada, ya en posesión de su propia herencia; pero es también lo que «los vecinos del pueblo» de donde procede su madre llaman «tontita». Esta alma cándida y simple conoce un día, mientras pasa una temporada en casa de unos parientes pobres, a Lewis Oman, empleado en una casa de subastas, el cual no tarda en pedir su mano. «Las mujeres me encuentran atractivo», le dice a la madre de Harriet, que solo ve en él a un vulgar cazafortunas y que trata por todos los medios de impedir la boda. Sin embargo, ésta se celebra… y Harriet, a merced de su marido y de la familia de éste, entra en una pesadilla que nadie habría sido capaz de imaginar. 

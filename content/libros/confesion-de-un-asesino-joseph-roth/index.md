@@ -17,6 +17,8 @@ colaboradores:
 - Juan José Solar
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Juan José Solar
   rol: Translator
@@ -91,6 +93,7 @@ generos_traducidos:
 - Drama
 - Alemania
 - Rusia
+_hash_origen: 46176c1a09b561cc9d4e21348e54248abe023a1ad7dc2d23b5a3e2fafc3e7774
 ---
 
 A este libro se le ha llamado la «novela rusa» de Joseph Roth y es una de las obras maestras de su madurez. Durante una noche interminable, en un local de París donde se refugian los náufragos de la primera emigración rusa, un auditorio fascinado escucha la confesión de un tenebroso personaje, hijo ilegítimo de un príncipe ruso, y ex agente de la temible policía secreta de los zares. Una confesión que es también una fábula sobre el Mal y su poder hipnótico de atrapar a sus víctimas en historias circulares y obsesivas que se estrechan inexorablemente como nudos corredizos. Un Mal metafísico e irreductible que adopta una forma particularmente rusa: una oscura convivencia entre la delación, el rencor, la abyección erótica y el ansia de confesar, de ser castigado. Joseph Roth nos ofrece una de las más convincentes figuras del Diablo moderno, un ser melifluo que pasa con extrema soltura de agente de la policía zarista a la de Lenin, guiando con dulzura a sus elegidos hacia un infierno perfumado, pero que desvela lenta e implacablemente su auténtica atrocidad. Un lugar en el que el protagonista penetra sin apenas darse cuenta, ya que en su umbral refulge un noble sentimiento: la exigencia de una «justicia absoluta»... una exigencia temeraria en un mundo diabólicamente falsificado.

@@ -24,6 +24,8 @@ colaboradores:
 - John Burke
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Jesús Palacios
   rol: Edición
@@ -139,6 +141,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Terror
+_hash_origen: 85dbe13d98bd701b6e2e436896a3bfcde7b1d93b2262bf7c8b46826553218ae5
 ---
 
 Los muertos que vuelven de la tumba, a menudo con afán vengador, han adoptado diversas formas en la literatura fantástica de los dos últimos siglos, dotándola de sus iconos más populares: los fantasmas, vampiros y momias del siglo XIX, y los modernos zombis del XX.

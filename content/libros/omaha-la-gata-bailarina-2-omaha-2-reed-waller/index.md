@@ -1,6 +1,11 @@
 ---
 title: 'Omaha, la gata bailarina 2 (Omaha, #2)'
-tags: []
+tags:
+- Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
 autores:
 - Reed Waller
 colaboradores:
@@ -9,6 +14,8 @@ series:
 - Omaha
 editoriales:
 - Astiberri
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Kate Worley
   rol: Author
@@ -73,7 +80,13 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
+_hash_origen: 750f6f5650741ad22e08c128d8fe4f4e90d4bd0b870b646aa4b91fb13f8c4469
 ---
 
 Omaha, creada y dibujada por Reed Waller y posteriormente escrita por Kate Worley, es una historia magníficamente narrada y centrada en unos personajes ricos y llenos de matices. Pero también es una historia sobre muchas más cosas: la gente joven a principios de los 80, la mafia, la corrupción, el sexo (del de verdad: sensualidad, relaciones, emociones y la exploración constante de la naturaleza del mismo), las discotecas, el baile, la fama, la pérdida y la redención. Pero sobre todo es una historia sobre el amor y la amistad. Omaha y su novio Chuck exploran su relación en un mundo cambiante y sórdido de clubs, drogas, prostitución y dinero fácil. Waller y Worley consiguen transmitir al lector la pasión cuando Chuck y Omaha están juntos, hacerle envidiar la igualdad y camaradería que comparten cuando están juntos y el dolor que sienten cuando están separados. En este segundo volumen, los personajes abandonan la soleada California para regresar a Mipple City. Mientras, el idílico romance entre Chuck y Omaha comienza a deshacerse. Un dramático acto de violencia tendrá consecuencias a largo plazo en las vidas del grupo protagonista.

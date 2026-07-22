@@ -5,6 +5,8 @@ autores:
 - Thomas / Santana López Hürlimann
 editoriales:
 - Tropismos
+valoraciones:
+- 3.0 - 2.5
 cover:
   image: cover.jpg
   alt: Portada de La señorita Stark
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: be01d85c2103119adb18b304a663fa095e79124482443b3cec687ec186833f79
 ---
 
 Rare book

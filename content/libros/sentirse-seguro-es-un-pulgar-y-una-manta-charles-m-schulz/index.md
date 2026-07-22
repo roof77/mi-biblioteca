@@ -5,6 +5,8 @@ autores:
 - Charles M. Schulz
 editoriales:
 - Ediciones SM, Mexico
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de Sentirse seguro es un pulgar y una manta
@@ -84,6 +86,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: e678c1e00e19b43f6cea45307c40525a800e6ccf1fb466f7efe771ad3cce1292
 ---
 
 ¿Seguro que sabes lo que es sentirse seguro? Decúbrelo con Snoopy y los Peanuts.

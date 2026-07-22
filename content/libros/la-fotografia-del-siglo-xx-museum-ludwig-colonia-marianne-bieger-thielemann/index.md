@@ -22,6 +22,8 @@ colaboradores:
 - Nina Zschocke
 editoriales:
 - Taschen
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Gérard A. Goodrow
   rol: Author
@@ -100,6 +102,7 @@ generos_traducidos:
 - Diseño
 - Colecciones
 - Alemania
+_hash_origen: 3cb0e1ad539c63edce14d55844076fbfc3a4c16c38f87417717f68aab11f12a9
 ---
 
 Una de las colecciones de fotografía contemporánea más importantes del mundo, la colección del Museum Ludwig de Colonia, nos invita en este libro a contemplar sus tesoros: arte conceptual, abstracción, fotografía documental.

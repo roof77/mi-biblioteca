@@ -16,6 +16,8 @@ series:
 - A Love Story
 editoriales:
 - La Factoría de Ideas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de ¡Muérdeme!
@@ -78,6 +80,7 @@ generos_traducidos:
 - Terror
 - Fantasía urbana
 - Romance
+_hash_origen: 006aef45701b2328b70b38b44bd06e981c2265d21a6ebcd9e2d960c6962f008b
 ---
 
 Ahora que sus antiguos amos vampiros, Jody y Thomas, están fuera de combate, la joven Abby Normal se ha erigido en Señora Sustituta de la noche San Francisco... Un papel que se le queda un poco grande a esta adolescente gótica salida, aspirante a vampira y fashion victim, sobre todo ahora que la ciudad ha sido invadida por una caterva de gatitos chupasangres que se han propuesto dejar secos a todos los indigentes y prostitutas con los que se cruzan. Menos mal que Steve, su “dulce amor ninja” y Jared, su mejor amigo gay, están ahí para... ¿ayudarla?

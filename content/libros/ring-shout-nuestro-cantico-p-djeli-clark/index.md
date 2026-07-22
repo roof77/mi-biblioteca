@@ -16,6 +16,8 @@ colaboradores:
 - Raúl García Campos
 editoriales:
 - Obscura
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Raúl García Campos
   rol: Translator
@@ -142,6 +144,7 @@ generos_traducidos:
 - Adultos
 - Ciencia ficción
 - Club de lectura
+_hash_origen: ea77a5b41075a7c388385f65d66475b805caea2eb2686b6c4f5a274d30e1d0d9
 ---
 
 Una fantasía histórica oscura y de lo más sonada con un final apoteósico que da un giro sobrenatural al reino del terror del Ku Klux Klan. En 1915, el estreno de la película El nacimiento de una nación deja a todo un país bajo un terrible hechizo; los temores de la población blanca se ven realizados en la gran pantalla, y las filas del Klan se  multiplican drásticamente. Hoy, los Ku Klux, su ejército de monstruos encapuchados, marchan por el país infundiendo miedo y diseminando odio, y con un plan que podría desatar el infierno sobre la Tierra. Afortunadamente, Maryse Bordeaux tiene una espada mágica y un propósito. Cuando no desafía la Ley Seca pasando whisky de contrabando, combate a los Ku Klux junto a sus compañeras de lucha: Chef, una Harlem Hellfighter y Sadie, una tiradora deslenguada. Cuando algo terrible comienza a cocerse en Georgia, la resistencia decide que hay que poner fin a esta guerra de una vez por todas. ¿Podrá Maryse acabar con el Klan antes de que su odio consuma el mundo?

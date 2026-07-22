@@ -18,6 +18,8 @@ series:
 - Foundation (Publication Order)
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Albert Solé
   rol: Translator
@@ -121,6 +123,7 @@ generos_traducidos:
 - Space Opera
 - Espacio
 - Novela
+_hash_origen: 1b2b5b355e1ed00d57adb977547b56fc2e1c20bc34856e2f5d856766f840d6a0
 ---
 
 Preludio a la Fundación es el primer libro del «Ciclo de la Fundación», tercer bloque de la célebre «Saga de la Fundación», la serie que catapultó al autor en lo más alto de la ciencia ficción.

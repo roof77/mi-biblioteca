@@ -3,6 +3,8 @@ title: Bienvenidos al bizarro
 tags:
 - Bizarro
 - Humor
+- Antología
+- Extraño
 autores:
 - Laura Lee Bahr
 colaboradores:
@@ -21,6 +23,8 @@ colaboradores:
 - Marta Maldonado
 editoriales:
 - Orciny Press
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Garrett Cook
   rol: Author
@@ -118,6 +122,9 @@ premios:
 generos_traducidos:
 - Bizarro
 - Humor
+- Antología
+- Extraño
+_hash_origen: 10f65ecc863c0465c37f7225166c1d71a1b7805549e250518d62d6f5a1b80c26
 ---
 
 ¡Anunciado en televisión!*

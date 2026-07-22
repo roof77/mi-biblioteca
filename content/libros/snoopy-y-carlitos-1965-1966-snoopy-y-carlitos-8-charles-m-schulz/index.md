@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1965-1966 (Snoopy y Carlitos, #8)'
@@ -112,6 +114,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - Comedia
+_hash_origen: 3bbd90d1fa3c3cc8a25562ebf60aad2a49afedcfa1bcf459522097b4d96a0dc0
 ---
 
 Snoopy es un símbolo y referencia cultural a nivel mundial.

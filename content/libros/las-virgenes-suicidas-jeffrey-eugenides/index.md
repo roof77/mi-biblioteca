@@ -17,6 +17,8 @@ colaboradores:
 - Roser Berdagué
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Roser Berdagué
   rol: Translator
@@ -104,6 +106,7 @@ generos_traducidos:
 - Club de lectura
 - Novela
 - Adultos
+_hash_origen: 621aee612de34aa4a0a0ef35615f37ae9b47433aeb3e25ba52e34a576b092495
 ---
 
 En menos de un año y medio, las cinco hermanas Lisbon, adolescentes de entre trece y diecisiete años, se suicidaron.

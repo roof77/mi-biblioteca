@@ -5,6 +5,8 @@ autores:
 - Various
 editoriales:
 - Jot Down
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Jot down 100: series juveniles'
@@ -57,6 +59,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 4adac12d162b4a13204f4d458b31e84f30ef7a094ac28d72371093d03876f614
 ---
 
 JOT DOWN 100: Series Juveniles es una guía a todo color de cien series juveniles imprescindibles según el criterio de los redactores de Jot Down, que recorre el universo teen desde Mazinguer Z y Sensación de vivir hasta Hora de aventuras y Gumball, con ilustraciones originales de Moderna de Pueblo, Diego Cuevas, Paula Bonet, Eider Agüero, Daniel Miñana, Joaquín Reyes y Ximena Maier y una entrevista a Juan Carlos Concha director del Festival Internacional de Cine de Animación de Barcelona (Non Stop Barcelona Animació).

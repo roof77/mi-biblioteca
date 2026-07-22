@@ -15,6 +15,8 @@ autores:
 - Poppy Z. Brite
 editoriales:
 - La Factoría de Ideas
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de El alma del vampiro (Spanish Edition)
@@ -103,6 +105,7 @@ generos_traducidos:
 - Queer
 - Fantasía urbana
 - Sobrenatural
+_hash_origen: 69f7ff6d51cf1f2d825b4927d4277cc7c314c89c35e8b289f4de3d27a6b0a35b
 ---
 
 Tres bebedores de sangre llegan a un bar de Nueva Orleans para entregarse a una noche de desenfreno y lujuria. Cuando se marchan, su líder, Zillah, deja detrás a una joven adolescente, embarazada de un vástago cuyo nacimiento habrá inevitablemente de significar su muerte. Quince años después, su hijo vive con unos padres adoptivos, preguntándose como cualquier otro adolescente por qué es tan diferente a los demás. Pronto descubrirá que, en su caso, la verdadera respuesta es terriblemente sobrenatural.

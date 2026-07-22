@@ -16,6 +16,8 @@ colaboradores:
 - Sergi G. Oset
 editoriales:
 - Orciny Press
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Sergi Álvarez
   rol: Author
@@ -116,6 +118,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Bizarro
+_hash_origen: ec6461566cb47338c5bd99f83831daa2b3ca694a6fedb495d88d2075ce3259e6
 ---
 
 «Si no estás en el Inner Circle, te estás perdiendo nuevas voces de la literatura que desafían el statu quo. Es refrescante no leer lo mismo de siempre, además de ser rematadamente divertido. Una comunidad muy recomendable» ~ Sabrina Rodríguez

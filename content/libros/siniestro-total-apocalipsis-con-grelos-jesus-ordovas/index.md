@@ -1,10 +1,15 @@
 ---
 title: Siniestro Total. Apocalipsis con grelos
-tags: []
+tags:
+- Noficción
+- Música
+- Biografías
 autores:
 - Jesús Ordovás
 editoriales:
 - Ediciones Guía de Música
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Siniestro Total. Apocalipsis con grelos
@@ -57,7 +62,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Noficción
+- Música
+- Biografías
+_hash_origen: 05fe209be11765d83e54ecb1d4588ac07503ed1051b1543534a506e49e360024
 ---
 
 

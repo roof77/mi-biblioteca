@@ -14,6 +14,8 @@ autores:
 - M.C. Escher
 editoriales:
 - Taschen
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de M. C. Escher: Estampas y Dibujos'
@@ -93,6 +95,7 @@ generos_traducidos:
 - Historia
 - Fotografía
 - Colecciones
+_hash_origen: fe6c68f687482eb9ea042c5c29058ef467cf6ae44dc4547f64a63033ad91efbe
 ---
 
 Recopilación de reproducciones de estampas y dibujos del artista holandés Maurits Cornelis Escher (1898-1972).

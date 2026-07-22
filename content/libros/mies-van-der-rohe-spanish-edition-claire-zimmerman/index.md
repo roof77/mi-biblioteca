@@ -12,6 +12,8 @@ series:
 - Taschen Basic Architecture
 editoriales:
 - Taschen
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Mies van der Rohe (Spanish Edition)
@@ -63,6 +65,7 @@ generos_traducidos:
 - Arte
 - No Ficción
 - Colecciones
+_hash_origen: 26a4db1b5b56ec5ae304a470b634c25fdc7f3f4fbd8e90a71e20be1c760f4271
 ---
 
 Köln. 23 cm. 96 p. : principalmente il. Encuadernación en tapa blanda de editorial. Traducción, Amparo Conde Pérez. Bibliografía. Mies van der Rohe, Ludwig (. 1886-1969). Arquitectura-. S. XX .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario.  3822828580; 9783822828588

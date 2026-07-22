@@ -10,6 +10,8 @@ autores:
 - Lorenzo Silva
 editoriales:
 - Destino
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La flaqueza del bolchevique
@@ -68,6 +70,7 @@ generos_traducidos:
 - Ficción
 - Drama
 - Literatura hispana
+_hash_origen: 2fe5abb28784a9e0b9af3a0aa0a24fb74b38ff8acf28f60172524089df204181
 ---
 
 El protagonista y narrador de esta historia se empotra contra el descapotable de una irritante ejecutiva en lunes a las ocho de la mañana. Ciertamente, él se distrajo un poco, pero ella no tenía por qué frenar en seco ni, desde luego, escupirle todos los insultos del diccionario. Por ello, y para hacer soportables las tardes de aquel bochornoso verano, decide dedicarse " al acecho y aniquilación moral de Sonsoles". La flaqueza del bolchevique sería una novela absolutamente cómica si no fuera por el carácter inquietante que adquiere a medida que se complican las argucias del protagonista. Una historia a caballo entre la comedia, la intriga y el melodrama.

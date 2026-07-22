@@ -14,6 +14,8 @@ autores:
 - Dorothy M. Johnson
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Indian Country
@@ -80,6 +82,7 @@ generos_traducidos:
 - EEUU
 - Colegio
 - Nativo americano
+_hash_origen: 605d8ec6e4685cf39aa348f12b4bccffb93a934ba951632ff3ddcf0552e7376c
 ---
 
 Pocos amantes del cine western son conscientes de que clásicos del género como La diligencia (1939), Las aventuras de Jeremiah Johnson (1972), Fort apache (1948), o Un hombre llamado caballo (1970) están basados en novelas y relatos de autores como Ernest Haycox, Vardis Fisher, James Warner Bellah o Dorothy M. Johnson, escritores casi desconocidos entre los lectores españoles de hoy. El género literario del western no está suficientemente valorado en nuestro país debido a su identificación con productos destinados a un consumo masivo en kioscos. La narrativa western cuenta, sin embargo, con precursores de la talla de Bret Harte, Mark Twain, Jack London o Ambrose Bierce.

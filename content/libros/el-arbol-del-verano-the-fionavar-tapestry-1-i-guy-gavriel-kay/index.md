@@ -18,6 +18,8 @@ series:
 - The Fionavar Tapestry
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Teófilo de Lozoya
   rol: Translator
@@ -90,6 +92,7 @@ generos_traducidos:
 - Aventuras
 - Mágia
 - Arturiano
+_hash_origen: 5cb94f7375fcbad8a542aecb3f406cc82cc98f79c2f9df4f6a3f7d125f905257
 ---
 
 Imaginemos que existen mundos alternativos, situados en universos paralelos, los cuales están normalmente desconectados. Sin embargo, en ocasiones, puede producirse una "intersección" entre dos de ellos, lo que permite pasar de un mundo a otro. Y eso es lo que sucede cuando cinco jóvenes canadienses son apartados de sus vidas cotidianas y trasladados a Fionavar, el "primero" y el más perfecto de esos mundos alternativos. Allí rige la magia y sus habitantes se debaten entre la Luz y las Tinieblas.

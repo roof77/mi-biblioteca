@@ -18,6 +18,8 @@ series:
 - Gormenghast
 editoriales:
 - Ático de los Libros
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Luis Domènech
   rol: Translator
@@ -118,6 +120,7 @@ generos_traducidos:
 - Literatura
 - Literatura británica
 - Siglo XX
+_hash_origen: 8caad32cfa8437099ec801195943bc1ffbd04ba9dc95eb3765fb772ac78e2d2f
 ---
 
 Un heredero ha nacido en Gormenghast El castillo de Gormenghast es el hogar de la antigua dinastía de los condes Groan, un lugar tan enorme, grande como una ciudad, que ninguno de sus habitantes ha recorrido todos sus recovecos. Allí nos encontramos con seres  un noble melancólico, el septuagésimo sexto conde Groan, que gobierna el castillo; su esposa, envuelta en una nube de gatos blancos; su hija, alocada y soñadora entre viejos juguetes, libros y retazos de tela; figuras horripilantes que supervisan las cocinas, y jóvenes que incuban la rebelión. Pero algo une a estos  sus cuerpos y psiques son una materialización del castillo, igual que el castillo es una concreción de su ser. Para ellos, no hay vida concebible fuera de esos pasillos de piedra, salones, torres y desvanes. El nacimiento de un heredero varón, Titus Groan, traerá, no obstante, la amenaza de un cambio. Mervyn Peake es una figura capital de la literatura inglesa. Su saga de Gormenghast, que se inicia con Titus Groan, es una grandiosa hazaña de la literatura fantástica, y cuenta con multitud de incondicionales en todo el mundo.

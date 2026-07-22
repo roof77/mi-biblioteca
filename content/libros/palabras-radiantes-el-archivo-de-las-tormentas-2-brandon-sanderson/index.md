@@ -18,6 +18,8 @@ series:
 - The Stormlight Archive
 editoriales:
 - Nova
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Rafael Marín Trechera
   rol: Translator
@@ -145,6 +147,7 @@ generos_traducidos:
 - Épico
 - Ciencia Ficción
 - Aventuras
+_hash_origen: fcee154844cc72dbb86586cf82e628d62d34a9f7aef23906b7be3121871b34e5
 ---
 
 Palabras radiantes es la continuación de Camino de los reyes, la aclamada primera parte de la serie en diez volúmenes The Stormlight Archive. En ella retrocedemos seis años en el tiempo, cuando un asesino, entre cuyos primeros objetivos se halla Dalinar, mata al rey alezi. Kaladin está al mando de los guardaespaldas reales, un puesto controvertido por su baja condición, y debe proteger al rey y a Dalinar, al tiempo que dominar, en secreto, los nuevos y extraordinarios poderes vinculados a sus honorspren. Shallan tiene la misión de impedir el fin de las Desolaciones. Las Llanuras Quebradas tienen la respuesta; en ellas los parshendi están convencidos, gracias a su líder, de arriesgarlo todo en una apuesta desesperada...

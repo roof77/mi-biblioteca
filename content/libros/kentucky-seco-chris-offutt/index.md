@@ -15,6 +15,8 @@ colaboradores:
 - Javier Lucini
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Javier Lucini
   rol: Transaltor
@@ -79,6 +81,7 @@ generos_traducidos:
 - Literatura
 - Ficción histórica
 - Ficción Literaria
+_hash_origen: 70b4a4795cbe62793efe81ea3400004e1135bec481c76bc751f8cb45360551e6
 ---
 
 Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados Unidos y el título de los nueve relatos ambientados en una pequeña comunidad sin nombre de los montes Apalaches, un lugar inhóspito, pero de gran belleza, en el que tener estudios se considera un signo de arrogancia y donde la caza no es precisamente un deporte. Pecadores convertidos en predicadores, jugadores con malas pulgas, ancianos que viven en el bosque y prefieren la compañía de los animales a la de los hombres, hijos sin padres, familias en las que nadie trabaja y albañiles que cultivan marihuana para sobrevivir protagonizan historias duras y reales de gente humilde pero orgullosa. 

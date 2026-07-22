@@ -17,6 +17,8 @@ series:
 - The Saga of Arturo Bandini
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Antonio-Prometeo Moya
   rol: Translator
@@ -89,6 +91,7 @@ generos_traducidos:
 - Contemporaneo
 - Siglo XX
 - Colecciones
+_hash_origen: ca1aa16933192497a2d25880998a3cbf08c05a19717627a490629f3601fa32ff
 ---
 
 A los dieciocho años, Arturo Bandini vive con su madre y su hermana, dos beatas, en San Pedro, el puerto de Los Ángeles. Trabaja en empleos duros y mal pagados que no puede soportar, y vive obsesionado por el sexo, su único alivio. En la biblioteca municipal se procura libros de Nietzsche o Schopenhauer que apenas comprende mientras sueña con ser un gran escritor. Y, tras un primer intento fallido, una novela torpe, se dispone a escribir sugran obra y parte, camino de Los Ángeles, dispuesto acomerse el mundo. Ésta fue la primera novela escrita por Fante, enviada en su día a la editorial Knopf, que la rechazó (probablemente porque el argumento, a mediados de los años treinta, se consideró demasiado atrevido); su viuda la descubrió póstumamente entre sus papeles y se editó en 1983.

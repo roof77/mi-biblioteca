@@ -21,6 +21,8 @@ series:
 - The Cosmere Universe
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ernanda Souza
   rol: Illustrator
@@ -121,6 +123,7 @@ generos_traducidos:
 - Aventuras
 - Mágia
 - Ciencia Ficción
+_hash_origen: 528383d5054dcd13bdb753615009edf380b65d5e1b2c76e20e72d1bf6ddff58d
 ---
 
 Hace años tenía compañeros de armas y una causa en la que creer, pero ahora el hombre que se hace llamar Nómada solo conoce la vida a la fuga. Obligado a saltar de un mundo a otro en el Cosmere cada vez que la implacable Brigada Nocturna le gana demasiado terreno, Nómada acaba en un nuevo planeta y de inmediato se ve implicado en la trifulca entre un tirano y los rebeldes que solo pretenden evitar que los conviertan en esclavos sin mente. Y todo bajo la amenaza constante de un amanecer cuyo calor derrite la misma piedra. Incapaz de comprender su idioma, ¿sabrá navegar el conflicto y obtener el suficiente poder para saltar fuera del planeta antes de que su mente o su cuerpo paguen el precio definitivo?

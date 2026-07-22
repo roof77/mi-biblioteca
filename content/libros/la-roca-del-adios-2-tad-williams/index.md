@@ -16,6 +16,8 @@ series:
 - Memory, Sorrow, and Thorn
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La Roca del Adios 2
@@ -86,6 +88,7 @@ generos_traducidos:
 - Jovenes adultos
 - Épico
 - Mágia
+_hash_origen: ae0cc6fd707d44d0e1ff501e4e08ac90fe80c546ac5d157eb9bc7561b0618731
 ---
 
 The second book in the trilogy that launched one of the most important fantasy writers of our time.

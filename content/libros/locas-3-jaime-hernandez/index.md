@@ -6,6 +6,8 @@ autores:
 - Jaime Hernández
 editoriales:
 - La Cúpula
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: Portada de Locas 3
@@ -60,6 +62,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Comics
+_hash_origen: a1c5a1ffc38117f7476256f1c70d6159a07ec2cb9705adb2ddd41258490efc8c
 ---
 
 Hopey está en paradero desconocido y alguien ha decidido que su foto decorando los cartones de zumo podría ser un buen reclamo para dar con ella. Maggie, mientras tanto, sigue lidiando con su propio sino, reencontrándose con su pasado, con la historia de su vida, arrepintiéndose de esto y aquello, peleando con esos kilos de más y echándole ganas al porvenir. El influjo de ambas es decisivo para el ambiente que se respira en las calles de Hoppers, aunque ninguna tiene muy claro que ese sea su lugar en el mundo?

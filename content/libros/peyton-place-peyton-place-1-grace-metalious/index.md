@@ -17,6 +17,8 @@ series:
 - Peyton Place
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Peyton Place (Peyton Place, #1)'
@@ -118,6 +120,7 @@ generos_traducidos:
 - Chick lit
 - Contemporaneo
 - Siglo XX
+_hash_origen: 3761098c6ecb1e0ae7c79114174a536fea5a106629ba711efe8f9440bf4be6d3
 ---
 
 Pueblo pequeño, infierno grande. Grace Metalious no sólo desgració la vida de sus vecinos con la publicación, en 1956, de Peyton Place, fenómeno editorial que borró la distinción entre alta y baja cultura cuando confundir ambas cosas aún no estaba de moda. En opinión de muchos, sin este libro no habrían existido Melrose Place y Twin Peaks. Algunos paladines de la utilidad incluso estiman que Peyton Place dio empuje al movimiento feminista estadounidense y ocasión de revisar la hipocresía moral de la época. Pero gracias a este incordio de libro, Metalious también se ganó la muerte social y, según el parecer de sus biógrafos, la cirrosis que acabaría con ella a los treinta y nueve años. La autora había buscado la fama, y la parábola acaba con sus últimas palabras: «Ten cuidado con lo que deseas, porque podrías conseguirlo».

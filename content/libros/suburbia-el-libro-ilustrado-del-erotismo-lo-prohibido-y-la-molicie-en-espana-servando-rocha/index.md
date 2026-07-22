@@ -5,6 +5,8 @@ autores:
 - Servando Rocha
 editoriales:
 - La Felguera Editores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España
@@ -60,6 +62,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: d742e68d5192cfb94e895116a1d5aabcd50b5112e60c3e30c40334f7188a8657
 ---
 
 Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «depravados», desde la sicalipsis de fin de siglo hasta la brutalidad de la transición, cuando los quioscos se llenaron de chicas con esvásticas y cuero negro.

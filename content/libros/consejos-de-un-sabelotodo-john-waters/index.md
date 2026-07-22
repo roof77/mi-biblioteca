@@ -16,6 +16,8 @@ colaboradores:
 - Pablo Marín
 editoriales:
 - Caja Negra
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Pablo Marín
   rol: Translator
@@ -98,6 +100,7 @@ generos_traducidos:
 - LGTBIQ+
 - Queer
 - Autobiografía
+_hash_origen: 8f5368828ab333d72e2ca6aac96aef0df26fab9a697b73e152b128233790a3f5
 ---
 
 "Pertenecemos a una suerte de club, una periferia lunática orgullosa de agruparse. Existe un camino a la desgracia muy gozoso allá afuera y, si me permiten ser su gurú, les enseñaré cómo triunfar en la insanidad hasta tomar control de su baja autoestima", escribe Waters, y nos invita a seguir sus instrucciones en esta suerte de manual queer para el buen vivir. Como ya lo había demostrado en "Mis modelos de conducta" y "Carsick", el Pontífice del Trash tiene una gran habilidad para hacer que los desagradable coexista con lo sofisticado, y que lo desviado halle su propia forma de realización. Aquí hay capítulos enteros dedicados a cómo desarrollar el gusto musical, cómo construir una casa brutalmente fea y moderna, cómo confesar amor sin involucrar responsabilidades afectivas, y cómo comportarse en los aviones o en las ciudades balnearias, acompañados de un puñado de escritos sobre aspectos cruciales de su trayectoria: el pasaje de Baltimore a Hollywood, el trato con los protagonistas de sus películas y los grandes estudios de cine y la trastienda de los rodajes y estrenos.

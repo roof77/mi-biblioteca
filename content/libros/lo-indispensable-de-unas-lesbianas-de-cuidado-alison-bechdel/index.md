@@ -16,6 +16,8 @@ series:
 - Dykes to Watch Out For
 editoriales:
 - Reservoir Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Lo indispensable de Unas lesbianas de cuidado
@@ -95,6 +97,7 @@ generos_traducidos:
 - Feminismo
 - Humor
 - Gay
+_hash_origen: 77b60b3071f26df035c0dfe892594764770a4ace0832551bd9e5af52596025b5
 ---
 
 "La narración de la autora se muestra ágil, vivaz y corrosivamente ácida ante el lector y sus trazos se perfilan hasta definir un perfecto mosaico que te transporta hasta la casa de Bechdel." Inés Martín Rodrigo, ABC"Divertida, irreverente y valiente." Publishers Weekly"Me sorprendió el gran dominio literario que aquella mujer poseía para mostrar, lejos de los estereotipos al uso, el lado más cotidiano y a veces hasta cómico de la homosexualidad femenina." Felipe Hernández Cava, El Mundo"Sus lesbianas chifladas parecen más cuerdas que cualquiera de nosotros,además de bellas." Dwight Garner, The New York Times"De Alison Bechdel se dice que es, desde que publicó su primera tira cómica en 1983,  una "institución contracultural", y se cita la opinión de una revista, Comics Journal, que sostiene que su arte "destila los placeres de Friends y The Nation; reconocemos nuestro mundo en ella, con sus penas y alegrías". Doy estas referencias porque el  mundo de la novela gráfica me resulta totalmente ajeno y seguramente me hubiera perdido esta historia si un compañero del periódico (Javier Rodríguez Marcos) no me la hubiera recomendado con insistencia." José Andrés Rojo, EL PAÍS"Bechdel me parece la mejor. Gráficamente es de veras innovadora. Su utilización de los mapas para mostrar la geografía de la acción es muy brillante. También es una extarordinaria narradora." Bryan Appleyard, The Times "El géneroautobio(gráfico) desde una perspectiva femenina ha tenido dos momentos importantes en los últimos tiempos: el primero fue Persépolis, la historia con la que la iraní Marjane Satrapi ha cosechado fama universal [...], y el segundo Fun Home, de la norteamericana Allison Bechdel." Jaime Rodríguez Z., Quimera

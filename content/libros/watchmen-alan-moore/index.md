@@ -20,6 +20,8 @@ series:
 - Watchmen
 editoriales:
 - Norma Editorial (DC Comics)
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Dave Gibbons
   rol: dibujo
@@ -139,6 +141,7 @@ generos_traducidos:
 - Clásico
 - Superheroes
 - Distopía
+_hash_origen: 8a68927db81772a3e7106bb7caf0c25614e1897f3db66997ef4fe37e2fb0d827
 ---
 
 A mediados de los 80, Watchmen revolucionó el concepto del cómic en los Estados Unidos. La obra abrió otros campos a los habituales de la historieta y llegó a todo tipo de lectores conviertiéndose en el primer cómic en ganar el prestigioso premio Hugo. Watchmen es, sin duda, una de las grandes obras maestras de este medio de expresión.

@@ -15,6 +15,8 @@ autores:
 - Jeffrey Eugenides
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Middlesex
@@ -137,6 +139,7 @@ generos_traducidos:
 - Queer
 - Novela
 - Literatura
+_hash_origen: f63c581ca98204c189b605ad5b3bc89bef2ccc0c9f5d60234ed7ec802fdd5f14
 ---
 
 Cal Stephanides decide contar su historia, revelar su secreto. Porque Cal, como Tiresias, ha vivido como mujer y como hombre. Todo comienza en 1922, cuando los abuelos de Cal huyen tras la guerra. Se instalan en América, en casa de su prima Lina y su marido. Las dos parejas tendrán a sus hijos casi al mismo tiempo, y estos hijos, en un juego de consanguinidades, se casarán y serán los padres de Cal. Que cuando nace es Calliope, y parece destinada a encarnar la leyenda sobre esas niñas que cuando llegaban a una cierta edad se transformaban en hombres. Y así comienza la esperadísima segunda novela de Jeffrey Eugenides, un caleidoscopio de historias que abarca ocho décadas en la historia de una familia. Es uno de los intentos más ambiciosos y logrados de escribir ese oscuro objeto del deseo literario, la Gran Novela Americana. En esta ocasión, con magníficos ecos homéricos.

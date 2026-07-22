@@ -1,10 +1,16 @@
 ---
 title: Rip Kirby 1953-1954 nº 05/12 (Cómics Clásicos NO) (Spanish Edition)
-tags: []
+tags:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
 autores:
 - Alex Raymond
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1953-1954 nº 05/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -67,7 +73,12 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
+_hash_origen: 032f288dc33f3254d389456a1c6264ce800ba89bff34b6adc1fb68c63bf185ea
 ---
 
 La aventuras de Rip Kirby prosiguen y, cada vez más, el exotismo se abre paso en la serie. Desde la aventura marinera de "El oro del Capitán" al pequeño país de Mythania, el detective es cada vez más viajero, lo que no quita que Raymond siga demostrando sus habilidades en el dibujo con episodios llenos de glamour como "La chica del almanaque" o "La gran carrera", donde el genial dibujante hace toda una demostración de calidad inigualable. Pero, sin desmerecer ninguno de los episodios de este volumen, hay que destacar por la importancia en la trama y por su calidad "La muerte de Pagan Lee". Volvemos a reencontrarnos con uno de los grandes personajes de la serie en su saga más famosa, en la que se da un vuelco radical a la relación entre Rip y Pagan. En seis tiras que pasarán a la historia del cómic, Raymond, gracias a su dominio de la iluminación y las sombras, consigue una atmósfera brumosa, irreal que logra que la tensión dramática sea inigualable.

@@ -12,6 +12,8 @@ colaboradores:
 - David Langford
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Albert Solé
   rol: Contributor
@@ -78,6 +80,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: c6e8caceffaece698ca52204209994a13b89a4d14c7e56f933088ce9d3ef6023
 ---
 
 Este volumen es un complemento de la Biblioteca Asimov.

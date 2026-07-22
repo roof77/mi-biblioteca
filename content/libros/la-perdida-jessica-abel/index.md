@@ -12,6 +12,8 @@ autores:
 - Jessica Abel
 editoriales:
 - Astiberri
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de La Perdida
@@ -81,6 +83,7 @@ generos_traducidos:
 - Adultos
 - Jovenes adultos
 - Latinos
+_hash_origen: 7bc270023cffa7424599c8021c4c7122884624c44c13bcddce239eb6f5db4392
 ---
 
 Carla, una norteamericana distanciada de su padre mexicano, decide ir a la capital del país azteca para “encontrarse a sí misma”. Se instala en casa de un antiguo ligue que sigue las huellas de sus héroes William S. Burroughs y Jack Kerouac por los bares de la ciudad. Harry se toma con buen humor la reaparición de Carla en su vida hasta que se da cuenta de que ésta, que se pasa los días empapándose de la ciudad, explorando la casa de Frida Kahlo y aprendiendo español, no tiene intención de largarse.

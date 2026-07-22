@@ -15,6 +15,8 @@ colaboradores:
 - Pablo Sauras
 editoriales:
 - Alba Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Pablo Sauras
   rol: Translator
@@ -81,6 +83,7 @@ generos_traducidos:
 - Ficción histórica
 - EEUU
 - Histórico
+_hash_origen: 6d38b7deb9cb5aa76cff4c83937b302fc571949bb771509664c67b7e57669485
 ---
 
 En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que su abuelo ha fallecido y le ha dejado un millón de dólares. Apenas se ha recuperado de la sorpresa cuando, poco después, muere un tío suyo del que apenas ha oído hablar y se entera de que en su testamento lo ha nombrado heredero de casi siete millones de dólares. Pero con una condición: en el plazo de un año, sin hacer donaciones benéficas, ni apuestas ni especulaciones, y sin decírselo a nadie, tiene que haberse gastado hasta el último centavo de la primera herencia recibida de su abuelo. Brewster tendrá, pues, que aprender a ser millonario tan rápido como a precipitarse en la ruina… pero descubre que, a veces, el dinero no es tan fácil de quemar. Beneficios inesperados y golpes de «mala suerte» incrementan, en vez de disminuir, su fortuna, y su repentina fama de excéntrico y derrochador pone en peligro su relación con la chica de la que está enamorado.

@@ -14,6 +14,8 @@ series:
 - Ambrose Bierce
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Marta Lila Murillo
   rol: Translator
@@ -79,6 +81,7 @@ generos_traducidos:
 - Ficción
 - Misterio histórico
 - Crimen
+_hash_origen: 0830dc730cc4ca67bf2cbeac3c188883ce35b7a1dc0c53ca709ea908c51ce075
 ---
 
 San Francisco, finales de la década de 1880. Un joven auxiliar de imprenta y aspirante a reportero, Tom Redmond, se une al temido escritor y editor del semanario satírico The Hornet, Ambrose Bierce, para investigar una serie de brutales asesinatos de prostitutas cometidos en un barrio de la emergente ciudad. El asesino, conocido como el Destripador de Morton Street, deja siempre un naipe del palo de picas sobre los cuerpos desnudos de sus víctimas. Las conjeturas iniciales, así como las pruebas practicadas, apuntan a que tras la salvaje cacería podría estar una poderosa familia de nuevos ricos de dudosa integridad aliada con los inmorales y a menudo violentos propietarios del monopolio del ferrocarril. Para Tom Redmond, que teme por la vida de la joven por la que se siente atraído, resolver el misterio es de importancia capital; para «el amargo» Bierce es sólo una nueva oportunidad para alimentar su guerra particular contra los magnates de la minería y de la todopoderosa Southern Pacific Railroad y sus políticos títeres.

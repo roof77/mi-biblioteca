@@ -16,6 +16,8 @@ colaboradores:
 - Maribel de Juan
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Maribel de Juan
   rol: Translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Siglo XX
 - Clásico
 - Ficción americana
+_hash_origen: 018127f8d4f097376e6cd94372c574113446e9eba7a7e2f90060d8d42e58bb0b
 ---
 
 Cuando Jim Nashe es abandonado por su mujer, se lanza a la vida errante. Antes ha recibido una inesperada herencia de un padre que nunca conoció y que le permitirá vagabundear por América en un Saab rojo, el mejor coche que nunca tuvo. Nashe va de motel en motel, goza de la velocidad, vive en una soledad casi completa y experimenta la gozosa y desgarradora seducción del desarraigo absoluto. 

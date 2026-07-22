@@ -15,6 +15,8 @@ series:
 - Hollywood Babylon
 editoriales:
 - Tusquets
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Hollywood Babilonia
@@ -75,6 +77,7 @@ generos_traducidos:
 - Cultura Pop
 - Crimen
 - Histórico
+_hash_origen: 885916093bbbf7fdd21f8f9f61bafdd3bcdca001e1f4007db14a985da409ce92
 ---
 
 nunca hasta ahora se habia exhibido con tal crudeza la realidad que oculta la espejeante fachada de esta fabrica de suenos. Hollywood babilionia, con su azarosa historia de prohibiciones y pirateria , ha pasado finalmente a ser hoy un ilbro casi lehendario

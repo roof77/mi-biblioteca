@@ -18,6 +18,8 @@ series:
 - Blackwater
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carles Andreu
   rol: translator
@@ -123,6 +125,7 @@ generos_traducidos:
 - Misterio
 - Gótico sureño
 - Histórico
+_hash_origen: 60d85dbbf6054de89a8bbe2edfced9767609e0a6c60cd45e4432dbe57e203d90
 ---
 
 Una saga matriarcal. Mujeres poderosas que luchan por el dominio durante generaciones. Una atmósfera única para una lectura adictiva. Un retrato realista con toques sobrenaturales. Escritura magistral y visual en un ambicioso proyecto entre el pulp y HBO.

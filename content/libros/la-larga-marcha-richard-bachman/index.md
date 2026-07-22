@@ -17,6 +17,8 @@ colaboradores:
 - Hernán Sabaté Vargas
 editoriales:
 - Martínez Roca
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Stephen  King
   rol: Author
@@ -126,6 +128,7 @@ generos_traducidos:
 - Adultos
 - Suspense
 - Club de lectura
+_hash_origen: 1bdd31065996948d8c20e95f2123a014748ef278bafac240d454d80b02f9c738
 ---
 
 Una inquietante novela futurista donde la realidad supera a la fantasía más terrorífica. 

@@ -5,6 +5,8 @@ autores:
 - Jim Holdaway
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de Modesty Blaise 1. La trampa de Gabriel
@@ -49,6 +51,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 513d8e4e39322e5020ea64dec86e7ed0e8f05b06c5687f7c04545a93944a7501
 ---
 
 

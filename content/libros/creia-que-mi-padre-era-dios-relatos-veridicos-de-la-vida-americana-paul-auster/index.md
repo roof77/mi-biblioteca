@@ -16,6 +16,8 @@ colaboradores:
 - Cecilia Ceriani
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Cecilia Ceriani
   rol: Translator
@@ -87,6 +89,7 @@ generos_traducidos:
 - Biografía
 - Literatura
 - Contemporaneo
+_hash_origen: 1da0ede96d76ff422e651e2ca6efb038a0ecfff9a3c7ca1b259f72fcba7eaee8
 ---
 
 Una propuesta inusual: Paul Auster invitó a los oyentes a participar en un programa de radio contando una historia verdadera. La respuesta fue abrumadora: más de cuatro mil relatos de los que Auster seleccionó ciento ochenta, y que componen un volumen extraordinario. La mayoría de las historias son intensos fragmentos narrativos que combinan sucesos ordinarios y extraordinarios. Unas son divertidas, como la historia de cómo el perro de un miembro del Ku Klux Klan apareció corriendo por la calle durante el desfile anual del Klan y le arrebató la capucha a su amo. Otras son misteriosas, como la historia de una mujer que vio cómo un pollo blanco caminaba por una calle de Portland, Oregón, subía a saltos los escalones de un porche, llamaba a la puerta y entraba tranquilamente en la casa.

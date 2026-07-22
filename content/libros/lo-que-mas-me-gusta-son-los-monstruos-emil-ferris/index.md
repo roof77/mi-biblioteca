@@ -15,6 +15,8 @@ series:
 - My Favorite Thing Is Monsters
 editoriales:
 - Reservoir Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Lo que más me gusta son los monstruos
@@ -156,6 +158,7 @@ generos_traducidos:
 - Ficción histórica
 - LGTBIQ+
 - Queer
+_hash_origen: c3f960fb9e492ae0f923188a8fa8594c8c01f750a760286222fa12f66a2dc2bb
 ---
 
 Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que se rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.

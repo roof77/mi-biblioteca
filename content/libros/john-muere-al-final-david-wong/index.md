@@ -19,6 +19,8 @@ series:
 - John Dies at the End
 editoriales:
 - Valdemar Insomnia
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Marta Lila Murillo
   rol: Translator
@@ -116,6 +118,7 @@ generos_traducidos:
 - Fantasía urbana
 - Paranormal
 - Sobrenatural
+_hash_origen: e46d7346108100c8c3fd1afa45068836eb944329e89fe66e6612a1387406b82e
 ---
 
 STOP:

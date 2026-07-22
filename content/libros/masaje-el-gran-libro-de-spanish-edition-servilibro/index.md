@@ -5,6 +5,8 @@ autores:
 - Servilibro
 editoriales:
 - Susaeta Ediciones, S.A.
+valoraciones:
+- 3.0 - 2.5
 cover:
   image: cover.jpg
   alt: Portada de Masaje (El Gran Libro de...) (Spanish Edition)
@@ -58,6 +60,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 0c44fc625902f85135c8accc1b1c60c64cc92540c76244da13b42aa540062dcb
 ---
 
 This illustrated guide to therapeutic massage techniques presents both Eastern and Western methods, including shiatsu and Swedish. Clear, step-by-step instructions guide beginners through the basic techniques and act as a useful refresher for more experienced masseurs and masseuses. Massages geared toward individuals of different ages are described, as are other innovative techniques such as reflexology and those that utilize physiotherapy. This is a complete, practical manual for all those interested in the subject. Esta guía ilustrada de técnicas de masaje terapéutico presenta métodos orientales y occidentales, incluyendo el shiatsu y el masaje sueco. Claras instrucciones paso a paso enseñan a los principiantes las técnicas básicas y serán un recuerdo útil para los masajistas más expertos. Masajes especializados para individuos de diferentes edades se describen, así como otras técnicas innovadoras como la reflexología y aquellas que utilizan la fisioterapia. Éste es un manual completo y práctico para cualquiera interesado en este tema.

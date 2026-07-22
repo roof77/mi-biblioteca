@@ -11,6 +11,8 @@ series:
 - Rip Kirby
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1947-1949 nº 02/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -78,6 +80,7 @@ generos_traducidos:
 - Comics
 - Novela gráfica
 - Misterio
+_hash_origen: 396efef63b789115c117af342025e735a6bc3debdfab9b0a53c3e894864bcdfd
 ---
 
 Rip Kirby se adentra en el terrible problema del tráfico de bebes, un turbio asunto que empañaba el glamour de las candilejas de Hollywood y que recordaba a todos que el país seguía saliendo de una dura guerra. "El rapto de Shawn" es una dura intriga que Alex Raymond resuelve con su elegancia habitual y que demuestra que, más allá del glamour que muchos vieron en las historietas de Kirby, sigue existiendo la denuncia social que caracterizó al género negro en los años 30 y 40. Y en este volumen encontraremos también el primer periplo inglés del afamado detective, que auxiliará a la todopoderosa Scottland Yard en la resolución de un extraño asesinato en "La nadadora desaparecida". "El tercer sospechoso" y "El otro amor de Honey" cierran este segundo volumen donde el creador de "Flash Gordon" y "Jungle Jim" alcanza unas cuotas de calidad artísticas inigualables.

@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1959-1960 (Snoopy y Carlitos, #5)'
@@ -113,6 +115,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - EEUU
+_hash_origen: 14cab4beaca93e2e5822853f55315170fb83ff7488724f27125d1b6d0266b639
 ---
 
 Un tira clásica e icónica Quinta entrega de la serie Snoopy y Carlitos, que comprenden las tiras publicadas de los Peanuts durante los años 1959 y 1960. En ellas, Snoopy empieza a ocupar su residencia en lo alto de su caseta, Linus pasa toda la noche en vela quejándose de que ha sido víctima de una falsa doctrina y Lucy saca una taquilla y ofrece consulta siquiátrica a 5 céntimos. 

@@ -13,6 +13,8 @@ autores:
 - Alan Le May
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Centauros del desierto
@@ -95,6 +97,7 @@ generos_traducidos:
 - Histórico
 - Películas
 - Novela
+_hash_origen: 55c8e6e2d2d843a32c19095136895111cb874522c9e7c88f12e177fe225b361f
 ---
 
 Alan Le May, nacido en Indianápolis en 1899, participó en la I Guerra Mundial y se licenció en Filosofía en la Universidad de Chicago. Su contribución a la literatura western consta de una quincena de novelas y una cincuentena larga de relatos, así como guiones de cine. Casi al final de su carrera, Le May escribió una obra maestra, Centauros del desierto (The Searchers, 1954), que dos años después llevó al cine el legendario director John Ford.

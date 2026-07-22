@@ -13,6 +13,8 @@ autores:
 - María Fernanda Ampuero
 editoriales:
 - Páginas de Espuma
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Sacrificios humanos
@@ -77,6 +79,7 @@ generos_traducidos:
 - Gótico
 - Adultos
 - Literatura hispana
+_hash_origen: bb29b0fe3a340e591f0be1f782b9451f5a17b171491e074406473b833091042b
 ---
 
 María Fernanda Ampuero se ha convertido en una de las voces indispensables de la literatura latinoamericana. Su libro Pelea de gallos (2018) ha sido en estos tres años todo un fenómeno que forma parte de una labor creativa, social y política de algunas escritoras a través de sus libros. Siete ediciones en español y varias traducciones a diferentes idiomas han convertido a este libro y a su autora en protagonista de esta nueva ola. Su segundo libro, Sacrificios humanos surge de este compromiso social y político en un contexto en el que todos podemos ser sacrificados, pero casi siempre son los mismos: migrantes, exiliados, mujeres... Una voz poderosa, radical, sangrante; unas historias que cuestionan nuestra mirada y nuestra conciencia para obligarnos a observan delante de nosotros la violencia, la muerte, el desarraigo, la manipulación... La fuerza de una escritora única que va a volver a llamar a nuestra puerta.

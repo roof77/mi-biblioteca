@@ -15,6 +15,8 @@ colaboradores:
 - Montse Meneses Vilar
 editoriales:
 - Alpha Decay
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Montse Meneses Vilar
   rol: Translator
@@ -128,6 +130,7 @@ generos_traducidos:
 - Crimen
 - África
 - Adultos
+_hash_origen: 648c9c82fc3c9505b9bf55e22b8b12c771275a471a3c85f8248d517034be7b4d
 ---
 
 Ayoola tiene un serio problema con sus novios: cuando se cansa de ellos, cuando le decepcionan, o a veces sin motivo aparente, los mata. Ya lleva tres, lo cual la convierte, en cierta manera, en una asesina en serie. La única que lo sabe es su hermana Korede, que movida por un amor fraternal cada vez más en el alambre, ha ayudado a Ayoola a eliminar pistas, cubrir sus pasos y, en definitiva, evitar que se descubra que aquellas misteriosas desapariciones de hombres jóvenes que se están produciendo en Lagos llevan su marca letal. Por si la situación no fuera suficientemente complicada, Korede contempla horrorizada cómo su hermana empieza a salir con el hombre de sus sueños –el médico del hospital en que trabaja como enfermera–, por lo que deberá replantearse su rol de cómplice, si no quiere que este triángulo amoroso termine en un baño de sangre.

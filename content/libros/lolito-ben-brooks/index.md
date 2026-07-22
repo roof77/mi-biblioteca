@@ -17,6 +17,8 @@ colaboradores:
 - Zulema Cosuo
 editoriales:
 - Blackie Books
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Zulema Cosuo
   rol: Translator
@@ -101,6 +103,7 @@ generos_traducidos:
 - Comedia
 - Literatura británica
 - Novela
+_hash_origen: c42910429829e0d1449dfe4fae42eaadd482d2ff5cbd314aaca50a0c641796a7
 ---
 
 Etgar tiene todo por hacer y sin embargo no quiere hacer nada. Etgar tiene problemas de adolescente y miedos de adulto. Etgar solo quiere ver documentales marinos y comedias sin muerte, pero clica en los vídeos virales más sádicos. Etgar es aún un crío, pero ya escribe cartas imaginarias a sus hijos que no nacerán. Etgar querría beber siempre té con Nesquik, pero vacía una botella de alcohol tras otra.

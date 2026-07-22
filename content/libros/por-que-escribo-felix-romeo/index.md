@@ -5,6 +5,8 @@ autores:
 - Félix Romeo
 editoriales:
 - Xordica
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Por qué escribo
@@ -55,6 +57,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 0eb64810df592f6d3731a179294f4efb50e3c663f3562e75c7b54913c8112861
 ---
 
 Por qué escribo reúne los artículos de carácter más autobiográfico o personal de Félix Romeo, uno de los escritores más poderosos y singulares de su generación. En sus textos periodísticos Romeo defiende los valores universales de la democracia y critica el relativismo, aparecen el zaragozano que idea proyectos para su ciudad y busca sus propios referentes en el pasado, el polemista que no duda en poner en entredicho libros de autores "intocables", el paseante de las ciudades del mundo, o el pensador que no necesita cambiar de registro para transitar de las ideas generales a los afectos particulares. Félix Romeo ofrece en estos textos una voz firme y a la vez íntima de la que emanará el resto de su escritura.

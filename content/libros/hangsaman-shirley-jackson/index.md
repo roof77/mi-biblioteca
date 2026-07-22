@@ -17,6 +17,8 @@ colaboradores:
 - Maia Figueroa Evans
 editoriales:
 - Minúscula
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Maia Figueroa Evans
   rol: Translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Siglo XX
 - Novela
 - Coming of age
+_hash_origen: 3fb0e48e14669650180fc844e1061cb38ff9b08a7d13987a0456ef72959320fd
 ---
 
 Natalie Waite tiene diecisiete años. Nacida en el seno de una familia asfixiante constituida por el padre, escritor mediocre y egocéntrico, y la madre, un ama de casa neurótica, llega el día en que se marcha a estudiar. Es posible que justo antes de irse pasara algo que no quiere o no puede contar. Pronto, ya en la universidad, su vida se transformará en un aterrador juego de espejos. Exploración magistral y perturbadora de la psique de una adolescente atribulada, Hangsaman (1951) se ha descrito como una novela de formación y también como una novela de campus, pero esas definiciones se quedan cortas. Aunque incluye elementos de ambas, además de un toque satírico, las vicisitudes de la protagonista acontecen en el límite con la pesadilla. La narración rezuma ambigüedad. La realidad es esquiva. Tratándose de Shirley Jackson, la oscuridad está siempre al acecho.

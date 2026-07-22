@@ -11,6 +11,8 @@ autores:
 - Daniel Clowes
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de ¡Pussey!
@@ -91,6 +93,7 @@ generos_traducidos:
 - Humor
 - EEUU
 - Arte
+_hash_origen: 56ce75a6e527cba112cbea598eaea4554ea9e4312e0bb18d0de9037866909f47
 ---
 
 Dan Pussey es el prototipo de freak de los cómics, uno de esos tarados que meten los tebeos en bolsas protectoras, un inadaptado de sexualidad disfuncional que acabará convertido en el dibujante estrella de Infinity Comics Group. Y es bien sabido que si hay algo más lamentable que un fanático de los cómics, eso es un dibuja nte de cómics montado en el dólar. ¡Pussey! es el cómic más cruel jamás dibujado sobre el mundo del cómic. Y es que este mundillo se venía mereciendo un repaso. Una mirada antropológica que llamase a las cosas por su nombre y pusiera sobre la mesa el patetismo de autores, lectores, editores, libreros y demás fauna que habita este gueto estúpido que más quisiera tener algo que ver con el ARTE. Si tienes fantasías escapistas con hombres musculosos en traje de malla?¡Lee ¡Pussey! y dejarás de preguntarte por qué las mujeres no perciben tu hipersensibilidad! Si eres un gafapasta estructuralista, posmoderno y molón? ¡Pussey! te ofrece la posibilidad de leer entre líneas como sólo tú sabes hacerlo!

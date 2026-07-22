@@ -1,10 +1,15 @@
 ---
 title: ¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado
-tags: []
+tags:
+- Noficción
+- Drogas
+- Sociedad
 autores:
 - Juan Carlos Uso
 editoriales:
 - Libros Crudos
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de ¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado
@@ -54,7 +59,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Noficción
+- Drogas
+- Sociedad
+_hash_origen: 91f81a670672f02c284057d9cd7ab253491da277def559fe744c4e9cd7a9dc19
 ---
 
 Urdida desde hace casi dos siglos, la teoría del envenenamiento opiáceo de la población con fines políticos ha ido saltando de un lado al otro del tablero sociocultural a lo largo de la historia. Finalizada la Segunda Guerra Mundial, con la creación del nuevo orden global y la asunción del prohibicionismo como asentado modelo de conducta en los estados modernos, su articulación se reconfiguró en el crisol holístico de la contracultura, propalándose a partir de entonces en el formato puramente conspiracional: «Sistema vs. ciudadano».

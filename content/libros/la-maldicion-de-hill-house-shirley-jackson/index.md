@@ -16,6 +16,8 @@ colaboradores:
 - Carles Andreu Saburit
 editoriales:
 - Minúscula
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carles Andreu Saburit
   rol: Translator
@@ -108,6 +110,7 @@ generos_traducidos:
 - Club de lectura
 - Thriller
 - Fantasmas
+_hash_origen: 2f1ff42326dc048a62069adb8b89569fe1b4e98162af1f6355462bf678a3c3d4
 ---
 
 Cuatro personajes llegan a un viejo y laberíntico caserón conocido como Hill House. Son el doctor Montague, un estudioso de lo oculto que busca pruebas de fenómenos psíquicos en casas encantadas, y tres personas a quienes el doctor ha reclutado para llevar a cabo un experimento.

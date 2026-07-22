@@ -16,6 +16,8 @@ colaboradores:
 - Rubén Martín Giráldez
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rubén Martín Giráldez
   rol: Translator
@@ -92,6 +94,7 @@ generos_traducidos:
 - Sobrenatural
 - Adultos
 - Thriller
+_hash_origen: 6c8fa6c38c1981acf8afb164045e1d1d695585e663e3f738fc49c470d458ae22
 ---
 
 En la periferia de nuestra existencia, acechando desde oscuridades más profundas que el Cosmos y que se extienden más allá del círculo de luz de nuestra hoguera y del calor de la conciencia, existen cosas extrañas... magia negra, cultos abyectos, rituales obscenos y entidades abominables que operan al amparo de las sombras. Los Hijos de la Vieja Sanguijuela llevan con nosotros desde tiempos inmemoriales. Y nos aman.

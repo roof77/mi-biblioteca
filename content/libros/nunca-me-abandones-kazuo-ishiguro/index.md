@@ -16,6 +16,8 @@ colaboradores:
 - Jesús Zulaika
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Jesús Zulaika
   rol: Translator
@@ -140,6 +142,7 @@ generos_traducidos:
 - Clásico
 - Romance
 - Novela
+_hash_origen: 89d45a2cd31e0592a0250083b8007139b5e3052ea1a14b0bd4a022799530ae98
 ---
 
 A primera vista, los jovencitos que estudian en el internado de Hailsham son como cualquier otro grupo de adolescentes. Practican deportes, o tienen clases de arte donde sus profesoras se dedican a estimular su creatividad. Es un mundo hermético, donde los pupilos no tienen otro contacto con el mundo exterior que Madame, como llaman a la mujer que viene a llevarse las obras más interesantes de los adolescentes, quizá para una galería de arte, o un museo. Kathy, Ruth y Tommy fueron pupilos en Hailsham y también fueron un triángulo amoroso. Y ahora, Kathy K. se permite recordar cómo ella y sus amigos, sus amantes, descubrieron poco a poco la verdad. El lector de esta espléndida novela, utopía gótica, irá descubriendo que en Hailsham todo es una representación donde los jóvenes actores no saben que lo son, y tampoco saben que no son más que el secreto terrible de la buena salud de una sociedad.

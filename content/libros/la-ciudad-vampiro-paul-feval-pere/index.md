@@ -17,6 +17,8 @@ colaboradores:
 - Jacobo Rodriguez
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Jacobo Rodriguez
   rol: Translator
@@ -90,6 +92,7 @@ generos_traducidos:
 - Humor
 - Siglo XIX
 - Horror gótico
+_hash_origen: 1e494da099b0f00358acf743da3b814f2f8169f381fe1b555a1174fcf0c5468a
 ---
 
 La Ciudad Vampiro es una obra maestra del humor negro, hasta un grado tan exacerbado que hace pensar en los cuentos de Apollinaire o los delirios de bande dessiné propios de Jean-Pierre Jeunet o Marc Caro y que a pesar de su tono paródico funciona como una alucinada narración fantástica, como novela de horrores grotescos y estrambóticos, como una pesadilla surreal y gozosamente absurda.

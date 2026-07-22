@@ -18,6 +18,8 @@ colaboradores:
 - José Manuel Álvarez
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ángela Pérez
   rol: Translator
@@ -133,6 +135,7 @@ generos_traducidos:
 - EEUU
 - Contemporaneo
 - Viajes
+_hash_origen: 480ea32b41eb3f003fea19fc12cdecb9460111125afd3ec2ad54dc0b08faf395
 ---
 
 "Miedo y asco en Las Vegas" es la obra más enloquecida de Hunter S. Thompson, figura legendaria del nuevo periodismo y creador del llamado periodismo «gonzo», en el que el autor se convierte en el centro de la acción. Una acción delirante la de esta ejemplar historia de arrojo frente a las más aciagas circunstancias: de la misma manera que los caballeros de la Tabla Redonda se lanzaban en pos del Santo Grial envueltos en una armadura de poder sobrenatural, Hunter S. Thompson entró en Las Vegas pertrechado con un arsenal verdaderamente mágico de «nefandas sustancias químicas» en su búsqueda del Sueño Americano. Sus peligrosos enfrentamientos, dopado hasta las cejas, con los empleados de casinos, camareros, policías especializados en narcóticos y demás representantes de la Mayoría Silenciosa, segregan un humor alucinado y un clima de terror muy infrecuentes. Porque ésta es la verdadera historia de un hombre que pasó una temporada en el infierno... y vivió para contarlo.

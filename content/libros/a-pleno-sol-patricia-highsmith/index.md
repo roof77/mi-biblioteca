@@ -16,6 +16,8 @@ series:
 - Ripley
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de A pleno sol
@@ -131,6 +133,7 @@ generos_traducidos:
 - Suspense
 - Italia
 - Novela
+_hash_origen: d9bb009d2b51fecf6c8164e41cbceee0e6631b88ffc0ce6a7afd6217966b1fb0
 ---
 
 En A pleno sol, la más célebre novela de Patricia Highsmith, aparece su más fascinante personaje: el inquietante y amoral Tom Ripley, figura prototípica de un género que Highsmith inventó, que se sitúa entre la novela policíaca y la novela negra, entre Graham Greene y Raymond Chandler, donde el más trepidante suspense se aúna a un vertiginoso análisis psicológico. Mr. Greenleaf, un millonario americano, le pide a Tom Ripley que intente convencer a su hijo Dickie de que regrese al hogar. Tom acepta el encargo –de paso pone tierra por medio a posibles problemas policiales– y encuentra a Dickie y a su amiga Marga, con quienes establece una turbia relación que desemboca en el crimen y el engaño.

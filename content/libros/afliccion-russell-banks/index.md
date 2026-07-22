@@ -15,6 +15,8 @@ colaboradores:
 - Benito Gómez Ibáñez
 editoriales:
 - Anagrama
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Benito Gómez Ibáñez
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Misterio
 - EEUU
 - Suspense
+_hash_origen: 92d73760dcf2aa0591770afadfc190250bb8c31c4b0d89efea2c120b5f42db28
 ---
 
 Con Aflicción, una novela inolvidable que ha sido comparada con una tragedia griega, damos a conocer en España a uno de los mejores escritores norteamericanos contemporáneos, Russell Banks.

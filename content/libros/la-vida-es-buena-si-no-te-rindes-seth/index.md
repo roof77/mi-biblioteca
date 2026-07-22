@@ -10,6 +10,8 @@ autores:
 - Seth
 editoriales:
 - Ediciones Sins Entido
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La vida es buena si no te rindes
@@ -78,6 +80,7 @@ generos_traducidos:
 - Ficción
 - Canada
 - Adultos
+_hash_origen: 5e87f8bdb7b77f151f5ea4332920865ed45ad6a0296b0dfb44efbd4d8b065d15
 ---
 
 En La vida es buena si no te rindes, Seth emprende aquí un viaje en busca de sí mismo y del sentido de la vida a través de la obra de Kalo, un historietista olvidado de los años cuarenta y cincuenta a quien descubrió por casualidad en un número antiguo de The New Yorker.

@@ -5,6 +5,8 @@ autores:
 - Garth Ennis
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 0.5 - 0.0
 cover:
   image: cover.jpg
   alt: Portada de UNIVERSO DC:HITMAN Nº2 (Spanish Edition)
@@ -78,6 +80,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 5061447092f08f3e628a968d3bae7682098692b41d8807fc3a8cca645c3d2668
 ---
 
 

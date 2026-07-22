@@ -19,6 +19,8 @@ series:
 - Hoid's Travails
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Lyon Howard
   rol: Illustrator
@@ -123,6 +125,7 @@ generos_traducidos:
 - Alta fantasía
 - Piratas
 - Adultos
+_hash_origen: b41e03a600f464afa24440e547f17af78220732c8eb8e6f7bd608cd75993d608
 ---
 
 En su isla natal sobre un océano verde esmeralda, la única vida que Trenza conoce es sencilla, marcada por el placer de coleccionar las tazas que traen los marineros de tierras lejanas y escuchar las historias que le cuenta su amigo Charlie. Pero cuando el padre de Charlie se lo lleva en barco para buscarle esposa y sucede una catástrofe, Trenza deberá colarse como polizona en un barco y partir en busca de la hechicera que habita en el mortífero mar de Medianoche. Sobre unos océanos de esporas repletos de piratas, ¿podrá Trenza abandonar su tranquila vida y crearse un lugar en un océano donde una sola gota puede significar la muerte instantánea?

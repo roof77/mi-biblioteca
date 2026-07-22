@@ -14,6 +14,8 @@ series:
 - '笑う吸血鬼 Warau kyūketsuki #1-2'
 editoriales:
 - Ediciones Glénat España
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La sonrisa del vampiro
@@ -80,6 +82,7 @@ generos_traducidos:
 - Comics
 - Japón
 - Vampiros
+_hash_origen: 54b61d577e7ee656709350bd5ab2ee929ad847569def72ff421ecac34aa283ea
 ---
 
 Vampiros adolescentes sedientos de sangre y sexo protagonizan esta impactante obra de un autor que jamás deja indiferente. Esta fue la primera obra de Maruo publicada en esta colección y su éxito nos decidió a continuar con la difusión de su obra.

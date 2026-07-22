@@ -17,6 +17,8 @@ colaboradores:
 - José Ángel de Dios García
 editoriales:
 - Dilatando Mentes Editorial
+valoraciones:
+- 3.0 - 2.5
 colaboradores_detalle:
 - nombre: José Ángel de Dios García
   rol: Translator
@@ -92,6 +94,7 @@ generos_traducidos:
 - Relatos
 - Lesbianismo
 - Contemporaneo
+_hash_origen: 5e9b4fc85b90159287741e3ee43a6b16d947d6e84491c1e3f92b39514062e452
 ---
 
 ¿Qué has hecho hoy para merecer tus ojos?

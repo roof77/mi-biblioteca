@@ -16,6 +16,8 @@ autores:
 - L. Sprague de Camp
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Lovecraft. Una Biografía
@@ -85,6 +87,7 @@ generos_traducidos:
 - Siglo XX
 - Literatura
 - Memorias
+_hash_origen: f5f0278ba6ea3ede8fe27a281241ad283e1c504ba5195902f8f594781bebf50e
 ---
 
 This biography relates a paradoxical, ironic literary life--that of Howard Phillips Lovecraft, who never had a book of stories published in his lifetime, but who became a best-selling author after death; who died in obscure poverty, convinced of his failure, but who is now hailed as an important writer of the 20th century; who was a self-proclaimed misanthrope, but who collected a circle of devoted friends who remember him fondly as one of the kindest & most delightful people they ever knew. The author relates his peculiar upbringing, bizarre habits & preferences, his tragicomic careers, his role in the development of science fiction & his posthumous triumph--revealing how this strange neurotic man transformed his nightmares into the wonderful stories that have made him an influential & important literary figure. 

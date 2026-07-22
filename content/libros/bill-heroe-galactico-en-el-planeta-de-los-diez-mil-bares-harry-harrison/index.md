@@ -15,6 +15,8 @@ series:
 - Bill, the Galactic Hero
 editoriales:
 - Grijalbo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Bill, Héroe Galáctico, en el planeta de los diez mil bares
@@ -24,18 +26,25 @@ libro:
   titulo: Bill, Héroe Galáctico, en el planeta de los diez mil bares
   url: https://www.goodreads.com/book/show/16094124-bill-h-roe-gal-ctico-en-el-planeta-de-los-diez-mil-bares
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1358597328i/16094124.jpg
-  sinopsis: 'BARWORLD! For all the years that BILL had served in the Troopers, with all the hard beds, hard heads and no creds,
-    any booze on offer was probably embalming fluid, or worse. BARWORLD! An assignment there promised bubbly, brandy and beer
-    galore - enough to give BILL''s right arms (both of them) at last some idea of just what they were for.
+  sinopsis: 'Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto
+    peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo,
+    el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos
+    derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar
+    poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas,
+    y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados
+    rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo
+    de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables
+    y emocionantes pruebas...
 
 
-    But that was before Uncle Nancy''s Cross-Dressing Emporium. And the Time/Space Resonation Nexus. And the Hippy from Hell.
+    EN EL PLANETA DE LOS DIES MIL BARES
 
 
-    They were enough to completely alter a person''s perceptions of reality.
-
-
-    And, like, totally bum him out.'
+    ¡Por fin una aventura a la medida de Bill! Persiguiendo un hippie terrorista que cobardemente se refugia en el tiempo,
+    Bill va a parar a Mundobar, un planeta especializado en los placeres etílicos. ¡Felicidad de todos los sabores y con todas
+    las graduaciones! Pero poco dura la alegría en la casa del pobre, y así Bill será arrastrado por su fatal sino a planetas
+    escenario y a una Nueva York nazi. Si las de Bill no fueran aventuras tan reales como la realidad misma, sólo parecerían
+    delirios alcohólicos.'
 autor:
   nombre: Harry Harrison
   rol: Author
@@ -84,12 +93,11 @@ generos_traducidos:
 - Ciencia Ficción
 - Aventuras
 - Novela
+_hash_origen: e20f201d69e6df51ffcbbbc36954f7965c334af9e1bf953916c5d2cb8f5f0f4e
 ---
 
-BARWORLD! For all the years that BILL had served in the Troopers, with all the hard beds, hard heads and no creds, any booze on offer was probably embalming fluid, or worse. BARWORLD! An assignment there promised bubbly, brandy and beer galore - enough to give BILL's right arms (both of them) at last some idea of just what they were for.
+Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo, el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas, y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables y emocionantes pruebas...
 
-But that was before Uncle Nancy's Cross-Dressing Emporium. And the Time/Space Resonation Nexus. And the Hippy from Hell.
+EN EL PLANETA DE LOS DIES MIL BARES
 
-They were enough to completely alter a person's perceptions of reality.
-
-And, like, totally bum him out.
+¡Por fin una aventura a la medida de Bill! Persiguiendo un hippie terrorista que cobardemente se refugia en el tiempo, Bill va a parar a Mundobar, un planeta especializado en los placeres etílicos. ¡Felicidad de todos los sabores y con todas las graduaciones! Pero poco dura la alegría en la casa del pobre, y así Bill será arrastrado por su fatal sino a planetas escenario y a una Nueva York nazi. Si las de Bill no fueran aventuras tan reales como la realidad misma, sólo parecerían delirios alcohólicos.

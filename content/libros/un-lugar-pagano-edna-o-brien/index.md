@@ -15,6 +15,8 @@ autores:
 - Edna O'Brien
 editoriales:
 - Errata naturae
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Un lugar pagano
@@ -89,6 +91,7 @@ generos_traducidos:
 - Novela
 - Adultos
 - Mujeres
+_hash_origen: 2f2c3a917607defce60b2840aa5d72e65b2701d26dad08884ba38c21a9b78bb0
 ---
 
 He aquí una de las grandes novelas irlandesas de todos los tiempos, comparada a menudo con el Retrato del artista adolescente de James Joyce, y tan emocionante como Dublineses. Una joven recuerda su difícil, y a la vez fascinante, niñez en la Irlanda rural de los años treinta y cuarenta: los rituales de la vida en el pueblo, las personas que conoció y amó, la encantadora belleza del paisaje. Pero también recuerda qué la llevó a abandonar su hogar para siempre, aquel instante exacto: el indecible misterio de su familia.

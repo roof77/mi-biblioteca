@@ -12,6 +12,8 @@ series:
 - Historia Universal Asimov
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La República Romana
@@ -97,6 +99,7 @@ generos_traducidos:
 - Historia antigua
 - Historia romana
 - Historia del mundo
+_hash_origen: 0f287e43e9e26cd92428e8e7d3099d91c07d079a3a22d8520db1677a3e773cac
 ---
 
 La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana. «La República Romana» abarca el lapso transcurrido entre la fundación de Roma en 753 a.C. y el 29 a.C. -momento en el que Octavio se hace con el poder absoluto-, y comprende el periodo monárquico, el ascenso de Roma a gran potencia tras su triunfo en las Guerras Púnicas y las diferentes guerras civiles que pusieron fin al periodo republicano.

@@ -17,6 +17,8 @@ series:
 - The Vinegar Works
 editoriales:
 - Libros del Zorro Rojo
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los pequeños macabros
@@ -87,6 +89,7 @@ generos_traducidos:
 - Comics
 - Niños
 - Clásico
+_hash_origen: c87d9aef38f6df710e8c03b1d60866184ff103dba5bf454e812da59371665596
 ---
 
 Un recorrido macabro por el abecedario más siniestro que puedas imaginar. No hay momento para la compasión, pero si te gusta el humor negro, ¡este es tu libro!

@@ -14,6 +14,8 @@ autores:
 - Herman Melville
 editoriales:
 - Austral
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Moby Dick
@@ -141,6 +143,7 @@ generos_traducidos:
 - EEUU
 - Siglo XIX
 - Literatura clásica
+_hash_origen: e57e31880d84aa577f228e3040a1a7f17c2146924885ce12d9360a0c546b36f3
 ---
 
 Widely considered one of the great American novels, Herman Melville’s masterpiece went largely unread during his lifetime and was out of print at the time of his death in 1891. 

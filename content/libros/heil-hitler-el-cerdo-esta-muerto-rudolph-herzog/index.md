@@ -16,6 +16,8 @@ traductores:
 - Begoña Llovet Barquero
 editoriales:
 - Capitán Swing
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Heil Hitler, el cerdo está muerto
@@ -79,6 +81,7 @@ generos_traducidos:
 - Literatura alemana
 - Holocausto
 - Historia militar
+_hash_origen: b013c7315c6aec1b861f271cec8bd79f4d4e77b19e5475d4ea1b8d867ad7b7fa
 ---
 
 Debido a la trágica dimensión de los horrores cometidos por el régimen nazi mucha gente tiene dificultades para adoptar una mirada cómica sobre Hitler y el nazismo. Cada vez que alguien lo hace es acusado de restar importancia y trivializar el Holocausto, pero lo cierto es que hay una larga historia de chistes al respecto. En este libro, el primero sobre la comedia y la sátira en el Tercer Reich, Herzog reúne todas las manifestaciones del humor: caricaturas, cabaret, espectáculos de variedades, entretenimiento, películas, canciones pop y musicales. De esta manera nos muestra cómo la imagen ridícula del Führer no fue en absoluto una invención de la posguerra.

@@ -15,6 +15,8 @@ colaboradores:
 - Patrick   Carr
 editoriales:
 - Global Rhythm Press
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Patrick   Carr
   rol: Author

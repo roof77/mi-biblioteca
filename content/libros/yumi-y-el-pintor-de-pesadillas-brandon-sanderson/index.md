@@ -19,6 +19,8 @@ series:
 - Hoid's Travails
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Manu Viciano
   rol: Translator
@@ -112,6 +114,7 @@ generos_traducidos:
 - Club de lectura
 - Jovenes adultos
 - Fantasía épica
+_hash_origen: 930d41522ed8e2281627fac67fc94178db3758a060b1fb4d5f069b2a77629d4f
 ---
 
 Una historia apasionante ambientada en el Cosmere y narrada por Hoid, en la que dos personas de mundos totalmente distintos deben avenirse y colaborar si quieren salvar sus mundos de la ruina.

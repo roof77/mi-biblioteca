@@ -14,6 +14,8 @@ autores:
 - Billie Holiday
 editoriales:
 - Tusquets
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Lady sings the Blues
@@ -81,6 +83,7 @@ generos_traducidos:
 - Historia
 - Afroamericanos
 - Raza
+_hash_origen: be7e5067a4993d2491ae3d2bb78a0c8a79fda83d09a56a332ca83db0bde18223
 ---
 
 Cuando Eleanora Holiday, más conocida por Billie, o Lady Day para los amigos, murió en un hospital de Nueva York en 1959, dejaba tras de sí una de las carreras más míticas y deslumbrantes de la historia del jazz. Desde los miserables inicios en Baltimore, los primeros trabajos como criada, el intento de violación a los diez años, la prostitución, la discriminación racial, la drogadicción, los múltiples pleitos y estancias en la cárcel, el engaño por parte de casi todos los hombres que la trataron, su vida aparece jalonada por una serie de episodios que fraguaron su leyenda. Billie Holiday nos cuenta con conmovedora sinceridad en estas memorias —escritas en colaboración con su amigo y pianista William Dufty—, en las que también se revive la más esplendorosa época del jazz en los clubes de Harlem, la radio y los estudios de grabación, las giras maratonianas y las jam-sessions al lado de músicos legendarios como, entre otros, Duke Ellington, Louis Amstrong, Benny Goodman, Count Basie, Lester Young o Artie Shaw.

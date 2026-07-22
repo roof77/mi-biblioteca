@@ -19,6 +19,8 @@ series:
 - V for Vendetta
 editoriales:
 - Norma Editorial (Vertigo Comics)
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: David   Lloyd
   rol: dibujo e idea
@@ -100,6 +102,7 @@ generos_traducidos:
 - Clásico
 - Política
 - Fantasía
+_hash_origen: 2e509b5c7629746261112b9af47c9c51bae98636ff405a6787a013d73630586e
 ---
 
 Segunda traducción española de la serie de DC Comics V for Vendetta, realizada en base a la reedición que en USA fue incluida dentro del sello "Vertigo", de la misma editorial.

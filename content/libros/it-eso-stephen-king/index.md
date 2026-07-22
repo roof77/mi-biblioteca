@@ -13,6 +13,8 @@ autores:
 - Stephen  King
 editoriales:
 - Plaza & Janés
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de It (Eso)
@@ -154,6 +156,7 @@ generos_traducidos:
 - Misterio
 - Adultos
 - Paranormal
+_hash_origen: 14d2f18163a61d074fc44fa8aaf82f5abda524a8b413227bd55fc78d758ca34e
 ---
 
 It es, hasta la fecha, la novela más ambiciosa de Stephen King, quien ha empleado cuatro años en escribirla, logrando perfeccionar de un modo muy personal las claves del género. Fruto de un cruce entre Lovecraft y Flaubert, It constituye, además de una perfecta pesadilla, un curioso experimento literario, en el que se funde la novela gótica con la literatura de iniciación y cuyo resultado es un libro fascinante.

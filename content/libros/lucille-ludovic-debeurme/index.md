@@ -17,6 +17,8 @@ series:
 - 'Lucille '
 editoriales:
 - Norma Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Manel Domínguez
   rol: Translator
@@ -96,6 +98,7 @@ generos_traducidos:
 - Jovenes adultos
 - Romance
 - Drama
+_hash_origen: e1856304dc64bc6131a9d20ea62c8e36b79ce98757ffeb74b37d0d76c8b105a4
 ---
 
 Page après page, Ludovic Debeurme nous invite à suivre au quotidien Lucille et Arthur, deux adolescents pour qui la vie n'est ni facile, ni douce. C'est avec justesse, émotion et pudeur qu'il va faire de nous des témoins, jamais des voyeurs, de ces deux vies chahutées. À travers ce récit âpre, rigoureux et sans concession, Ludovic Debeurme ne joue pas le jeu du pathos ou du désespoir, au contraire il sait avec grand talent mettre en lumière la subtilité des sentiments de ses personnages, faire surgir l'énergie, la tendresse et l'amour qui pourront permettre à ces deux êtres en perdition de renaître. En laissant au lecteur le temps d'appréhender ces personnages, en s'attachant à toutes les complexités de leur deux personnalités, Ludocvic Debeurme réussit à nous amener à un troublant sentiment de proximité avec ceux-ci.

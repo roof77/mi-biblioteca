@@ -17,6 +17,8 @@ colaboradores:
 - Güido Sender Montes
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Güido Sender Montes
   rol: Translator
@@ -109,6 +111,7 @@ generos_traducidos:
 - Pulp
 - Deportes
 - EEUU
+_hash_origen: 5843e0246a85d5699715b3c8fa5cb1aec954c61522a907a4878a1b9684ef9371
 ---
 
 Con treinta y dos años, Frank Mansfield es uno de los mejores galleros de Estados Unidos. En los reñideros del Sur su nombre hace zozobrar las apuestas. Frank es fanfarrón, impulsivo y pendenciero; pero para ser el número uno hay que tener cabeza. Con el Premio al Gallero del Año entre ceja y ceja, la más alta distinción de la gallística norteamericana, Frank se jura no volver a abrir la boca hasta su consagración. Solo él conoce el motivo de su mudez, aunque en el primitivo mundo de las peleas de gallos, un mundo de hombres regido por normas ancestrales en el que «un apretón de manos obliga tanto como una declaración jurada ante notario», nadie se molestará en averiguarlo. En cambio a Mary Elizabeth, tras muchos años esperando abnegada a que su prometido dejara los gallos, volviera al pueblo y sentara cabeza, le queda poca paciencia, y esa extraña mudez está a punto de agotarla. Frank sabe que en el pueblo hay muchos gañanes deseosos de llevar a Mary Elizabeth al altar; si ha de volver junto a ella, puede que esté ante su último intento de conseguir lo que más ha deseado en su vida. 

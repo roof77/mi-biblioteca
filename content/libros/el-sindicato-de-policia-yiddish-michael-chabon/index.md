@@ -14,6 +14,8 @@ autores:
 - Michael Chabon
 editoriales:
 - DeBolsillo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de El sindicato de policía Yiddish
@@ -141,6 +143,7 @@ generos_traducidos:
 - Club de lectura
 - Fantasía
 - Ficción Literaria
+_hash_origen: 420750fdcfbcaac9eefac48edf5bd96dbd8764d4eafeb427a4afe22df0b51b74
 ---
 
 El sindicato de policía Yiddish. Durante sesenta años, los judíos y sus descendientes han prosperado en el distrito federal de Sitka, en Alaska, un provisional asilo donde viven seguros como refugiados de la fallida fundación, en 1948, del Estado de Israel. Corren tiempos difíciles para ser judío. La vida es dura, pero ¿cuánto no lo ha sido?... Rabinos que se convierten al crimen, delincuentes que creen en Dios y el detective de homicidios Meyer Landsman, que solo cree en su botella. Su matrimonio, su carrera, su adición a la bebida, problemas que no necesita... y, además, está el cuerpo de ese hombre, en el vestíbulo, con un agujero en la cabeza...

@@ -18,6 +18,8 @@ series:
 - Persepolis
 editoriales:
 - Norma Editorial
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Albert Agut Iglesias
   rol: Translator
@@ -141,6 +143,7 @@ generos_traducidos:
 - Feminismo
 - Irán
 - Club de lectura
+_hash_origen: f1abdb49429e0cd3c8eb6b4bf809bde19d58da3b924ea753f1b7eb918100e6e6
 ---
 
 Marjane Satrapi, una de las artistas iraníes más aclamadas, galardonada con varios premios entre los que destacan el Premio al Autor Revelación 2001 y Mejor Guión 2002 en el Festival Internacional de Cómoc de Angoulème, nos ofrece un relato autobiográfico sobre su infancia en Irán, que es a su vez un excelente testimonio histórico de un pueblo y una época. Gracias a su gran carga emotiva, crítica e irónica, Persépolis se ha convertido en un cómic de referencia.

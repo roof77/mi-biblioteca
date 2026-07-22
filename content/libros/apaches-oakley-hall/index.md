@@ -3,12 +3,16 @@ title: Apaches
 tags:
 - Oeste
 - Ficción
+- Ficción histórica
+- Aventuras
 autores:
 - Oakley Hall
 series:
 - Legends West
 editoriales:
 - Galaxia Gutenberg
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Apaches
@@ -70,6 +74,9 @@ premios:
 generos_traducidos:
 - Oeste
 - Ficción
+- Ficción histórica
+- Aventuras
+_hash_origen: 20ae13abdd797d02773922416cd868837f59b30f43983e2dfcebeed9a3fe9a9c
 ---
 
 Apaches completa la monumental trilogía de Oakley Hall sobre el Oeste americano, después de las novelas ya traducidas al español Warlock y Bad Lands (Galaxia Gutenberg, 2009 y 2011).

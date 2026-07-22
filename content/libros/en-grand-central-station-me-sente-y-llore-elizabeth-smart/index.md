@@ -17,6 +17,8 @@ colaboradores:
 - Laura Freixas
 editoriales:
 - Periférica
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Laura Freixas
   rol: Translator
@@ -88,6 +90,7 @@ generos_traducidos:
 - Literatura
 - Mujeres
 - Siglo XX
+_hash_origen: 9f98133439148ed3b9d70d9d7a3a06fd623fe6689d05e0b77bf17b7a2a6b11c2
 ---
 
 Esta novela autobiográfica, publicada por primera vez en 1945, y que muy pronto se convertiría en un verdadero libro de culto al ser traducida a numerosos idiomas, narra con un lenguaje prodigioso, lleno de imágenes tan originales como potentes, la pasión de su autora por un hombre casado del que se enamoraría incluso antes de conocerlo personalmente.

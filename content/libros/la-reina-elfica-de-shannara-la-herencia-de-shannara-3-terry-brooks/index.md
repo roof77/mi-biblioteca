@@ -17,6 +17,8 @@ series:
 - Heritage of Shannara
 editoriales:
 - Acervo
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de La reina élfica de Shannara (La herencia de Shannara #3)'
@@ -84,6 +86,7 @@ generos_traducidos:
 - Ciencia ficción
 - Épico
 - Adultos
+_hash_origen: a2c31cc275aa1d54cea82f3c5982548924ca3159833e2e8b10223ce7f794cc07
 ---
 
 "¡Encuentra a los elfos y haz que regresen al mundo de los hombres!", le ordenó a Wren el espíritu de Allanon cuando los vástagos de Shannara se reunieron con él en el Cuerno de Hades. Ella sabía que era casi imposible llevar a cabo esta tarea. Los elfos habían desaparecido de la Tierra del Oeste hacía mas de cien años. No quedaba ni rastro de su antigua ciudad de Arbolon. Nadie daba noticias de ellos, hasta que al fin encontró a la Víbora, una mujer vieja y ciega que le indicó un lugar en la costa de la Barrera Azul.

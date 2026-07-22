@@ -15,6 +15,8 @@ colaboradores:
 - Enrique Maldonado Roldán
 editoriales:
 - Capitán Swing
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Enrique Maldonado Roldán
   rol: Translator
@@ -84,6 +86,7 @@ generos_traducidos:
 - Crime real
 - Historia
 - Afroamericanos
+_hash_origen: 9b075240c0a57c53a307210c7d13541fd4a165576aff44442e26a25f8e7c0459
 ---
 
 A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Slim, el último antihéroe del gueto, no podía acudir a una librería sino a una peluquería o a una tienda de licores afroamericana. Pimp. Memorias de un chulo (1967) es un tipo diferente de historia estadounidense, la historia de un joven decidido a tomar lo que la sociedad no quiere dar. Un retrato hirviente, sucio y crudo de la brutalidad, la astucia y la codicia de un proxeneta en los bajos fondos de Chicago. Una sonora advertencia contada por un auténtico superviviente que, casi 50 años después, estremece como el primer día.

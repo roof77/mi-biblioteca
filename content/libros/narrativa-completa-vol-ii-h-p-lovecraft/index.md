@@ -18,6 +18,8 @@ series:
 - 'Narrativa completa Lovecraft '
 editoriales:
 - Valdemar
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Juan Antonio Molina Foix
   rol: Editor
@@ -103,6 +105,7 @@ generos_traducidos:
 - Clásico
 - Ficción
 - Ciencia ficción
+_hash_origen: 3b0276f376e1a09bcd43d261285ebdbc6782511c360eb0705a36af32709a0580
 ---
 
 Howard Phillips Lovecraft (1890-1937) fue un ave nocturna y un cazador de sueños. Nació en Providence (Nueva Inglaterra), donde vivió la mayor parte de su corta vida, que dedicó a contemplar las estrellas, leer con avidez cuanto caía en sus manos y, sobre todo, escribir (poesía, ensayo, relatos y una ingente correspondencia). Al refugiarse en su hermético mundo onírico, Lovecraft se embarcó en un viaje sin retorno hacia una nueva dimensión: el miedo cósmico, el «terror de los espacios infinitos», que estremecía a Pascal. Lo que caracteriza la ficción lovecraftiana es la utilización de elementos de la tradición gótica reinterpretados en términos científicos. Sus relatos expresan la soledad y la pequeñez de la condición humana en un universo infinito y amoral, azaroso y hostil, carente de significado y angustiosamente ajeno a nuestras preocupaciones y cavilaciones. «Lovecraft fue –como dijo el escritor Fritz Leiber– el Copérnico del relato de horror. Desplazó el foco del temor sobrenatural del hombre y su pequeño mundo y sus dioses, a las estrellas y a los negros e insondables abismos del espacio intergaláctico». En el universo lovecraftiano siempre hay una presencia amenazadora, pero no se sabe bien qué es.

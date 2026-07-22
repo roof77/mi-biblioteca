@@ -17,6 +17,8 @@ series:
 - Winnie-the-Pooh
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ernest H. Shepard
   rol: Illustrator
@@ -118,6 +120,7 @@ generos_traducidos:
 - Libro de fotos
 - Jovenes adultos
 - Relatos
+_hash_origen: a1f6f7042a04ee5f945b252b9d454e6a93c1a0155e17533ffe36dc0c0f22c182
 ---
 
 Winny de Puh es, junto con el Alicia de Carrol, el Peter Pan de Barrie y El viento en los sauces de Kenneth Grahame, uno de los cuatro grandes clásicos de la literatura infantil, una obra maestra tan apta para niños de menos de diez años como para adultos de un buen nivel cultural. A.A. Milne, el escritor de estas divertidas historias protagonizadas por Christopher Robin -su verdadero hijo- y su oso de peluche Winny, nació en Londres en 1882, y sus primeros trabajos aparecieron en la popular revista satírica Punch. Fue autor dramático, ensayista, y escribió dos novelas policiacas, un par de libros de rimas infantiles, y sobre todo las dos historias, Winny de Puh y El Rincón de Puh, que le dieron fama universal y que hemos reunido en este volumen. 

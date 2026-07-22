@@ -5,6 +5,8 @@ autores:
 - Óscar Sacristán
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Quien ríe el último... Más cuentos de humor aparecidos en Valdemar
@@ -59,6 +61,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 39417046a3e6821d6d89aa4a81d5715f2f4c4d1c5c2a71dc139d53ef79b311da
 ---
 
 Tras la excelente acogida de la antología de relatos de humor Con la risa en los huesos, publicada en esta misma colección con el número 259, y con la intención de prolongar las felices carcajadas de sus lectores, Valdemar ha preparado una segunda entrega en la misma línea: Quien ríe el último...

@@ -13,6 +13,8 @@ colaboradores:
 - Mikhail Zagoskin
 editoriales:
 - Nevsky Prospects
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Antony Pogorelsky
   rol: Author
@@ -112,6 +114,7 @@ premios:
 generos_traducidos:
 - Literatura rusa
 - Relatos
+_hash_origen: 1a64fc04ade22520075860786b044ea19823235def498bdf84a5af888fbeef69
 ---
 
 Adoradores del diablo, hombres lobo, locura y magia. A principios del siglo diecinueve, muchos escritores rusos comenzaron a interesarse por los cuentos tradicionales de su país, y a escribir historias que reflejaban el trasfondo de locura e inestabilidad del carácter ruso. Fueron los instigadores de la tradición de escritura gótica que ha florecido en oposición a la literatura realista a lo largo de los pasados doscientos años.

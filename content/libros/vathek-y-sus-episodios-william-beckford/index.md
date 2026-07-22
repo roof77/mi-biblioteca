@@ -15,6 +15,8 @@ colaboradores:
 - Stéphane Mallarmé
 editoriales:
 - Valdemar
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Stéphane Mallarmé
   rol: Prefacio
@@ -89,6 +91,7 @@ generos_traducidos:
 - Siglo XIIX
 - Terror
 - Clásico
+_hash_origen: 722023530cf517bc21249e3bcb83f5487940b7800424832632236266576dbf64
 ---
 
 Tres días y dos noches bastaron a William Beckford (1760-1844) para escribir Vathek (1787), una rara obra maestra del horror gótico que adopta la forma de un cuento oriental.

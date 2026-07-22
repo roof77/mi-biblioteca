@@ -15,6 +15,8 @@ colaboradores:
 - Joan-Josep Mussarra
 editoriales:
 - Minotauro
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Joan-Josep Mussarra
   rol: Translator
@@ -93,6 +95,7 @@ generos_traducidos:
 - Espacio
 - Adultos
 - Comedia
+_hash_origen: 8192e7e177b9e1399484f310a065b2a59137174c162c1c44494d6891287a6464
 ---
 
 Una sátira brillante sobre la exploración espacial y el fracaso estadounidense. 

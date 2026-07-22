@@ -5,6 +5,8 @@ autores:
 - Various
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Green Lantern: Amanecer y Ocaso'
@@ -14,15 +16,23 @@ libro:
   titulo: 'Green Lantern: Amanecer y Ocaso'
   url: https://www.goodreads.com/book/show/13174607-green-lantern
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403680799i/13174607.jpg
-  sinopsis: L'Anello del Potere di una Lanterna Verde, l'arma più potente dell'universo, sceglie solo coloro che sono in grado
-    di vincere la paura. Quando Abin Sur, la Lanterna Verde del settore spaziale 2814, si schiantò con la sua astronave sulla
-    Terra, capì che era il momento di passare il testimone di smeraldo a un terrestre degno di tale compito. L'anello scelse
-    Hai Jordan, un pilota d'aerei che stava attraversando un periodo difficile della sua vita. Una volta proclamato nuovo
-    portatore, Jordan scoprì a poco a poco di essere parte di un qualcosa di molto più grande. Nuovi personaggi e luoghi entrarono
-    a far parte della sua  i Guardiani, Oa, Sinestro, Kilowog e altri ancora. Si allenò, maturò e acquisì un'esperienza che
-    lo rese il migliore del Corpo delle Lanterne Verdi, un esercito di soldati con il compito di proteggere l'universo. Hai
-    Jordan diventò la migliore Lanterna Verde della Terra. Ma fu anche colui che tradì il Corpo e uccise tutte le Lanterne
-    Verdi nel peggior momento della sua vita.
+  sinopsis: 'El anillo de poder de un Green Lantern, el arma más poderosa del universo, solo acude en busca de alguien que
+    esté más allá del miedo. Cuando Abin Sur, el Green Lantern del sector espacial 2814, se estrelló en la Tierra, supo que
+    era el momento de pasar el manto esmeralda a un humano que fuera digno de semejante tarea. El anillo eligió a Hal Jordan,
+    un piloto aéreo que estaba viviendo un momento de incertidumbre en su vida. Una vez elegido como nuevo portador, Jordan
+    descubrió poco a poco el legado al que acababa de formar parte. Desde los Guardianes hasta Oa, pasando por Sinestro o
+    Kilowog. Entrenó, maduró y adquirió una experiencia que lo encumbraron a lo mejor del Cuerpo de Green Lanterns, un ejército
+    de soldados dedicados a proteger el universo.
+
+
+    Hal Jordan fue el mejor Green Lantern de la Tierra, sin lugar a dudas. Y también fue el que traicionó a todo el Cuerpo
+    y mató a todos los Green Lantern en su peor momento.
+
+
+    Green Lantern: Amanecer y ocaso presenta la historia completa del alzamiento y caída de Hal Jordan, desde su origen como
+    Green Lantern hasta su caída entre los escombros de su ciudad, por Keith Giffen, Gerard Jones, Jim Owsley, Ron Marz, M.D.
+    Bright y Daryl Banks. Además, la edición se complementa con la última voluntad y testamento del personaje, por Joe Kelly,
+    Brent Anderson y Bill Sienkiewicz'
 autor:
   nombre: Various
   rol: Author
@@ -61,6 +71,11 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: fab8c394d549829c0413788a9b201a2c49cad78069c0ab5acbc9c02c0bc1f8c5
 ---
 
-L'Anello del Potere di una Lanterna Verde, l'arma più potente dell'universo, sceglie solo coloro che sono in grado di vincere la paura. Quando Abin Sur, la Lanterna Verde del settore spaziale 2814, si schiantò con la sua astronave sulla Terra, capì che era il momento di passare il testimone di smeraldo a un terrestre degno di tale compito. L'anello scelse Hai Jordan, un pilota d'aerei che stava attraversando un periodo difficile della sua vita. Una volta proclamato nuovo portatore, Jordan scoprì a poco a poco di essere parte di un qualcosa di molto più grande. Nuovi personaggi e luoghi entrarono a far parte della sua  i Guardiani, Oa, Sinestro, Kilowog e altri ancora. Si allenò, maturò e acquisì un'esperienza che lo rese il migliore del Corpo delle Lanterne Verdi, un esercito di soldati con il compito di proteggere l'universo. Hai Jordan diventò la migliore Lanterna Verde della Terra. Ma fu anche colui che tradì il Corpo e uccise tutte le Lanterne Verdi nel peggior momento della sua vita.
+El anillo de poder de un Green Lantern, el arma más poderosa del universo, solo acude en busca de alguien que esté más allá del miedo. Cuando Abin Sur, el Green Lantern del sector espacial 2814, se estrelló en la Tierra, supo que era el momento de pasar el manto esmeralda a un humano que fuera digno de semejante tarea. El anillo eligió a Hal Jordan, un piloto aéreo que estaba viviendo un momento de incertidumbre en su vida. Una vez elegido como nuevo portador, Jordan descubrió poco a poco el legado al que acababa de formar parte. Desde los Guardianes hasta Oa, pasando por Sinestro o Kilowog. Entrenó, maduró y adquirió una experiencia que lo encumbraron a lo mejor del Cuerpo de Green Lanterns, un ejército de soldados dedicados a proteger el universo.
+
+Hal Jordan fue el mejor Green Lantern de la Tierra, sin lugar a dudas. Y también fue el que traicionó a todo el Cuerpo y mató a todos los Green Lantern en su peor momento.
+
+Green Lantern: Amanecer y ocaso presenta la historia completa del alzamiento y caída de Hal Jordan, desde su origen como Green Lantern hasta su caída entre los escombros de su ciudad, por Keith Giffen, Gerard Jones, Jim Owsley, Ron Marz, M.D. Bright y Daryl Banks. Además, la edición se complementa con la última voluntad y testamento del personaje, por Joe Kelly, Brent Anderson y Bill Sienkiewicz

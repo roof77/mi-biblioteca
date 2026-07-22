@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1953-1954 (Snoopy y Carlitos, #2)'
@@ -116,6 +118,7 @@ generos_traducidos:
 - Tiras
 - Clásico
 - Niños
+_hash_origen: 29c3707a2d0ea195cddd2a8e4016699c87e5396dfaea0f79fc71129e912e1774
 ---
 
 La obra clásica de Charles M. Schulz, recopilada en 25 tomos.  La segunda entrega de una de las recuperaciones más imprescindibles del  el mundo de Carlitos, Snoopy y el resto de personajes que componen este universo tan rico y personal. Las tiras diarias y las planchas dominicales de este volumen se centran en los años 1953 y 1954 y permiten al lector apreciar cada vez más la evolución psicológica y gráfica de los personajes. 

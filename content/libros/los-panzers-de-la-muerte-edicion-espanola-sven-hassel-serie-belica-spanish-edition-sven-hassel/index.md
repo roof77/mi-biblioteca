@@ -16,6 +16,8 @@ series:
 - Legion of the Damned
 editoriales:
 - MHAbooks
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de LOS PANZERS DE LA MUERTE: Edición española (Sven Hassel serie bélica) (Spanish Edition)'
@@ -95,6 +97,7 @@ generos_traducidos:
 - Literatura
 - Aventuras
 - Histórico
+_hash_origen: 3055dea2c0d84650bcd9cb550817ab7e5899eb50fe94c2c73a7d0ad69dedf019
 ---
 
 “UNA GRAN NOVELA BELICA” ALAN SILITOE   Los soldados del Regimento Panzer no. 27 están de retirada. Tienen que participar en el horroroso desescombro después de que las bombas aliadas hayan llovido sobre las ciudades alemanas. Las orugas de los tanques surcan por las estepas de Rusia debajo el garfio helado del invierno en una marcha de la muerte, que no parece tener fin. Miles de desterrados llenan las carreteras. Cazas rusos como carniceros vienen chirriando a baja altura y transforman la corriente de refugiados en un macabro grito hacia el cielo.  Sven Hassel fue mandado a un batallón de castigo como soldado raso en el ejercito alemán. Con un realismo cercano y brutal narra las atrocidades de la guerra, los crímenes de los nazis y el humor cínico y tosco de los soldados. Con unas ventas superiores a los 50 millones de ejemplares son los libros de guerra más vendidos en el mundo.  

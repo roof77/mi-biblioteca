@@ -18,6 +18,8 @@ series:
 - Pippi Långstrump
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Blanca Ríos
   rol: Translator
@@ -99,6 +101,7 @@ generos_traducidos:
 - Humor
 - Aventuras
 - Literatura sueca
+_hash_origen: 0cebd45151f0c9867e05a8b9161688d658ae60f3f7cdee868f7dd86142a863dd
 ---
 
 Pippi Calzaslargas es la niña que todos querríamos ser: vive sin obligaciones, en una casa enorme, con un caballo y un mono. Dedica todo su tiempo a dar rienda suelta a su desbordante imaginación.

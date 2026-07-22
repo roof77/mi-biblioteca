@@ -15,6 +15,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gemma Gallart
   rol: Translator
@@ -94,6 +96,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Aventuras
 - Fantasía oscura
+_hash_origen: dd61fd24743451464abaf1c54967681d5e284faf8e53cfbeca1530a3fb8e8ecb
 ---
 
 Este quinto volumen de la colección Índigo nos traslada a las heladas tierras del norte, a El Reducto, hogar del desaparecido amor de Índigo, el joven Fenran.

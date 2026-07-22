@@ -17,6 +17,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Olga Marín Sierra
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Clásico
 - EEUU
 - Comedia
+_hash_origen: 2b6e57697298ea7e3236f90cf345613158b05c38b0fd1cf50d1d875f653f87dd
 ---
 
 Tiras publicadas entre 1977 y 1978 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos  es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado".Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.

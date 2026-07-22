@@ -15,6 +15,8 @@ autores:
 - Pascal Mercier
 editoriales:
 - Austral
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Tren nocturno a Lisboa
@@ -89,6 +91,7 @@ generos_traducidos:
 - Ficción Literaria
 - Contemporaneo
 - Viajes
+_hash_origen: 10619f289ed79a23c656a09b68c450c79f7cd8c9d1809a4a51bd941530f65da3
 ---
 
 Rare book

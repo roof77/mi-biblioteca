@@ -16,6 +16,8 @@ series:
 - Memory, Sorrow, and Thorn
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de La Torre del Ángel Verde (Añoranzas y pesares, #4)'
@@ -77,6 +79,7 @@ generos_traducidos:
 - Épico
 - Aventuras
 - Adultos
+_hash_origen: a3c0d7943f2601a125d66ac65a93a279a2ebe651969592cbbaf2451b67586d29
 ---
 
 Mientras los malvados secuaces del Rey de la Tormenta se preparan para llevar a cabo la culminación de sus negras artes de magia y el rey Elías se hunde cada vez más en ese tenebroso mundo de pesadilla, los fieles aliados del príncipe Josua luchan desesperadamente para reunir sus fuerzas. Por su parte, algunos miembros de la desbaratada Alianza del Pergamino se congregan para intentar descubrir misterios de un pasado ya olvidados.

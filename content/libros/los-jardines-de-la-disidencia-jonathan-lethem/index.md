@@ -17,6 +17,8 @@ colaboradores:
 - Cruz Rodríguez Juiz
 editoriales:
 - Literatura Random House
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Cruz Rodríguez Juiz
   rol: translator
@@ -95,6 +97,7 @@ generos_traducidos:
 - Club de lectura
 - EEUU
 - Judaismo
+_hash_origen: bee4590740b08a3af7085c49dd8f56584b100c320407cb982f94c14d131b1fe4
 ---
 
 En esta novela, Lethem cuenta un periplo que atraviesa tres generaciones neoyorquinas, ninguna de ellas nada modélicas debido a sus convicciones, pues en éstas sus filiaciones incluyen el marxismo, el hippismo y el activismo político. 

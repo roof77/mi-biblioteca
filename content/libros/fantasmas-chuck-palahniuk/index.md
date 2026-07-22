@@ -14,6 +14,8 @@ autores:
 - Chuck Palahniuk
 editoriales:
 - Random House Mondadori
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Fantasmas
@@ -94,6 +96,7 @@ generos_traducidos:
 - Novela
 - Adultos
 - EEUU
+_hash_origen: 37d84f8dfd2a6384ecc6e698bf610787504316befe8d7338c824e7b8e55801d2
 ---
 
 Un grupo de escritores acuden, tras leer un anuncio en la prensa, a un retiro para artistas donde supuestamente darán rienda sueltaa su imaginación. Inmersos en un escenario aislado de las preocupaciones mundanas, los escritores llegan dispuestos a escribir su obra maestra. No obstante, la colonia de escritores resulta ser un lugar apartado del mundo, un viejo teatro abandonado, donde la comida, la electricidad y los suministros básicos son bienes escasos. En estas condiciones precarias, los protagonistas comenzarán a escribir historias terroríficas hasta llegar a un grado de maquinación diabólico, y alzarse ante la masa como héroes de una película documental.

@@ -13,6 +13,8 @@ autores:
 - Phoebe Gloeckner
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Vida de una niña
@@ -83,6 +85,7 @@ generos_traducidos:
 - Mujeres
 - Biografía
 - Feminismo
+_hash_origen: e54e098ad1211cbc52711835b4965ec1d321c3bb68e3adc67bdf9dae079f78bb
 ---
 
 Conjunto de historietas que tienen como nexo común el personaje de Minnie.

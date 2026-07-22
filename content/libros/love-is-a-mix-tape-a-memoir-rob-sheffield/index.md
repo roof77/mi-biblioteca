@@ -13,6 +13,8 @@ autores:
 - Rob Sheffield
 editoriales:
 - Piatkus Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Love is a Mix Tape: A Memoir'
@@ -81,6 +83,7 @@ generos_traducidos:
 - Club de lectura
 - Autobiografía
 - Cultura Pop
+_hash_origen: 251ba44e155df42a2cf0cec7c7b4c75a216af4c623e7f5a3a68a023626b6d1e4
 ---
 
 In this stunning memoir, Rob Sheffield, a veteran rock and pop culture critic and staff writer for Rolling Stone magazine, tells the story of his musical coming of age, and how rock music, the first love of his life, led him to his second, a girl named Renee. Rob and Renee's life together - they wed after graduate school, both became music journalists, and were married only five years when Renee died suddenly on Mother's Day, 1997 - is shared through the window of the mix tapes they obsessively compiled. There are mixes to court each other, mixes for road trips, mixes for doing the dishes, mixes for sleeping - and, eventually, mixes to mourn Rob's greatest loss. The tunes were among the great musical output of the early 1990s - Pearl Jam, Nirvana, Pavement, Yo La Tengo, REM, Weezer - as well as classics by The Rolling Stones, The Beatles, Aretha Franklin and more. Mixing the skilful, tragic punch of Dave Eggers and the romantic honesty of Nick Hornby, LOVE IS A MIX TAPE is a story of lost love and the kick-you-in-the-gut energy of great pop music.

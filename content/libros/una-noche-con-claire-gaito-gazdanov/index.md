@@ -14,6 +14,8 @@ autores:
 - Gaito Gazdanov
 editoriales:
 - Nevsky Prospects
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Una noche con Claire
@@ -95,6 +97,7 @@ generos_traducidos:
 - Guerra
 - Ficción histórica
 - Coming of age
+_hash_origen: 0fcba1037088352adb9cc7237f70541d8700f4cb3762dcc5315dfbc05e92a5aa
 ---
 
 Gaito Gazdánov (Georgi Ivánovich Gazdánov, 1903-1971) nació en la familia de un guardabosques, razón por la cual se trasladó a lo largo y ancho de Rusia con su padre. Antes de haber cumplido los dieciséis años había vivido en San Petersburgo, Siberia, Tver, Póltava y Járkov en Ucrania. Cuando se declaró la Guerra Civil después de la Revolución, Gazdánov se unió al Ejército Blanco y, cuando éste fracasó, abandonó Rusia en dirección a Crimea, pasó una temporada en Turquía, y al cabo terminó en París. Ejerció un gran número de trabajos sin importancia, e incluso vivió en la calle durante algún tiempo hasta que consiguió trabajo como conductor de taxi por la noche, lo que le permitía escribir durante el día. 

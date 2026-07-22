@@ -15,6 +15,8 @@ autores:
 - Jonathan Lethem
 editoriales:
 - Grijalbo Mondadori
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de La fortaleza de la soledad
@@ -95,6 +97,7 @@ generos_traducidos:
 - Fantasía
 - Club de lectura
 - Coming of age
+_hash_origen: ae6732f4ca5eda080585b3568072eaf48a715984be37361c930315cfe97a569c
 ---
 
 La fortaleza de la soledad cuenta la historia de Dylan Ebdus. Ebdus llega a Boreum Hill, Brooklyn, durante la primera mitad de los setenta; un niño blanco de una familia de hippies que se establecen con el beneplácito de la fundadora de la comunidad blanca local. La madre de Dylan, Rachel, una mujer bohemia y pronta a llegar a las manos, abandona poco después a su marido Abraham, un quijotesco pintor que lleva toda su vida haciendo una película con sus pinturas abstractas y que sobrevive pintando portadas para ediciones de ciencia ficción de bolsillo. Las peripecias de Dylan para sobrevivir a lo largo de toda su educación secundaria en un barrio de negros, así como sus días de ser apalizado simplemente por el dinero de su almuerzo parecen llegar a su fin cuando conoce a su hermano espiritual Mingus Rude, un negro que le introduce en otros mundos.

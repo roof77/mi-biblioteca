@@ -17,6 +17,8 @@ series:
 - The Last Picture Show
 editoriales:
 - Gallo Nero
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de La última película (La última película, #1)'
@@ -91,6 +93,7 @@ generos_traducidos:
 - Club de lectura
 - Ficción Literaria
 - EEUU
+_hash_origen: bc186bfa06b797ce73ead3db153f53d25e024acac36dcfe2aeac42e45754a08b
 ---
 
 “A veces Sonny se sentía como si fuera el único ser humano del pueblo. Era una desagradable sensación que solía experimentar por la mañana temprano cuando las calles estaban completamente vacías, como cierta mañana de sábado de noviembre.” 

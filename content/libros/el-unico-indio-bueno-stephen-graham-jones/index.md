@@ -19,6 +19,8 @@ series:
 - The Only Good Indians
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rafael Martín Coronel
   rol: Illustrator
@@ -154,6 +156,7 @@ generos_traducidos:
 - Misterio
 - Club de lectura
 - Paranormal
+_hash_origen: 42f3e4a24725bf44314b2d0c311294ac7f4f53aa198a3ad46c26506f32f27aa0
 ---
 
 Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven atrapados entre una sociedad que los rechaza y las tradiciones anquilosadas de su tribu, que han intentado dejar atrás.

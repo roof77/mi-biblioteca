@@ -1,10 +1,15 @@
 ---
 title: 'Brutalismos: Enciclopedia De Músicas Secretas y Vandalismo Pop'
-tags: []
+tags:
+- Música
+- Cultura Pop
+- Referencia
 autores:
 - Various
 editoriales:
 - La Felguera Editores
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Brutalismos: Enciclopedia De Músicas Secretas y Vandalismo Pop'
@@ -52,7 +57,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Música
+- Cultura Pop
+- Referencia
+_hash_origen: 7320a697ec8fac329f46022032ef8178877697e0f7743b8ba32ca224511e0d82
 ---
 
 

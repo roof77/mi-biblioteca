@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literatura Europea on Mi biblioteca</title>
+    <link>http://localhost:1313/mi-biblioteca/tags/literatura-europea/</link>
+    <description>Recent content in Literatura Europea on Mi biblioteca</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mi-biblioteca/tags/literatura-europea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuentos completos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/cuentos-completos-joseph-roth/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/cuentos-completos-joseph-roth/</guid>
+      <description>&lt;p&gt;En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua alemana más importantes del siglo xx, diseminó su talento en periódicos y revistas, en centenares de artículos, en novelas canónicas como La marcha Radetzky y Job, y en cuentos magistrales como los que presenta esta edición única en castellano. El volumen incluye las diecinueve narraciones que han llegado hasta nosotros del gran escritor austrohúngaro, entre las que hay varias inéditas en castellano y otras tantas clásicas, en una nueva traducción. De «El alumno aventajado», su primer cuento publicado en 1916, a «La leyenda del santo bebedor», pasando por «El Leviatán», la última parábola de Roth, o «El busto del emperador», su hermoso y melancólico homenaje al imperio perdido. El lector podrá descubrir también cuentos y fragmentos asombrosos, hasta ahora desconocidos, como «Mendel, el aguador», «Carrera» o «La casa rica de enfrente». Y ofrecemos tres piezas de no ficción –una carta y dos artículos– en las que Roth, cosa rara en él, enunció su manera de entender la literatura. Como le dijo a su colega Benno Reifenberg: «Yo dibujo el rostro de la época». La traducción de Alberto Gordo hace justicia al peculiar ritmo de la prosa de Joseph Roth, que dijo de sí mismo: «Solo sé escribir bien y rápido». De ahí lo afilado de su prosa, a veces telegráfica, siempre precisa, a menudo sin ornamentos, pero capaz del lirismo más puro y conmovedor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -15,6 +15,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gemma Gallart
   rol: Translator
@@ -94,6 +96,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Fantasía oscura
 - Épico
+_hash_origen: a4a8ea0e26eeb400b5cba818d6f3c19d56638412af908927591ed39865aea740
 ---
 
 Todavía quedan muchos demonios que vencer…

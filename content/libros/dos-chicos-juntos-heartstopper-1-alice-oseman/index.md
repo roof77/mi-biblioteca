@@ -18,6 +18,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Victoria Simó
   rol: translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Comics
 - Ficción
 - Gay
+_hash_origen: 2c3fe65d4fe8fa976603e1fbdbaa4c3ad02182c91b1d8eb8842a1b19a57f5cfe
 ---
 
 Dos chicos se conocen. Se hacen amigos. Se enamoran. ¿Por qué nos empeñamos en hacer complicadas las emociones más sencillas?

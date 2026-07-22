@@ -13,6 +13,8 @@ series:
 - The Posthumous Papers of the Pickwick Club
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Papeles póstumos del Club Pickwick,1
@@ -93,6 +95,7 @@ generos_traducidos:
 - Literatura británica
 - Novela
 - Victoriano
+_hash_origen: b8cd30dfa752b9aa42ac2a1c9150d2ca8aed45c4bbca3aac5910f9c00b32e115
 ---
 
 La aparición en entregas mensuales de PAPELES PÓSTUMOS DEL CLUB PICKWICK a partir de marzo de 1836 significó para CHARLES DICKENS (1812-1870) su consagración como escritor y su salto a la fama. La jocosa visión de Mr. Pickwick y la narración de sus divertidas peripecias constituyen a la vez una despedida de la superficie amable de la sociedad preindustrial y un ingreso subrepticio en la ruidosa, prepotente y contradictoria sociedad victoriana que por entonces vivía sus albores. La invención de personajes que con el paso del tiempo habrían de convertirse en arquetipos para describir comportamientos cotidianos y la descripción de escenarios y ambientes, a la vez retrato de una realidad histórica y modelo de transfiguración artística, son los mayores logros de esta célebre novela de Dickens, repartida en la presente edición en tres volúmenes (L 5605, L 5606 y L 5607).

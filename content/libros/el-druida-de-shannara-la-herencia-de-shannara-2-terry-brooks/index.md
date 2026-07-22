@@ -16,6 +16,8 @@ series:
 - Heritage of Shannara
 editoriales:
 - Acervo
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de El druida de Shannara ((La herencia de Shannara #2)'
@@ -82,6 +84,7 @@ generos_traducidos:
 - Mágia
 - Ciencia ficción
 - Épico
+_hash_origen: 0593cdd537c7b3660c203fc521ffd7b02907848872623035504620fd0234e244
 ---
 
 Cuando el espíritu de Allanon convocó al Cuerno de Hades a los cuatro vástagos de Shannara: Par, Coll, Wren y Walker Bo, para pedirles que se opusieran al creciente control que las misteriosas y perversas sombras ejercían sobre Las Cuatro Tierras, envenenándolas y esterilizándolas, encargó al último la restauración de Paranor, la desaparecida Fortaleza de los druidas. Para cumplir su misión, Walker necesita la Piedra Élfica Negra, pero su búsqueda lo condujo a una trampa. Después…

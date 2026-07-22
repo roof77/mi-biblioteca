@@ -17,6 +17,8 @@ traductores:
 - Marta Lila Murillo
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Grimscribe: Vidas y obras'
@@ -94,6 +96,7 @@ generos_traducidos:
 - Antología
 - Colecciones
 - Ficción especulativa
+_hash_origen: ca818b0534bb4694b19c6261e4a95aa192465103d98c1239afa1bc73273cbda4
 ---
 
 Thomas Ligotti, «el secreto mejor guardado de la literatura de horror contemporánea», según el Washington Post, nació en Detroit en 1953 y estudió en la universidad estatal de Michigan. Ha trabajado como editor asociado de la editorial Gale hasta 2001, año en que fijó su residencia en Florida. En 1986 apareció su primera colección de relatos: Songs of a Dead Dreamer, a la que sucedió Grimscribe: Vidas y obras en 1991, Noctuario (Gótica nº 90) en 1994 y Teatro Grottesco en 2006. En 2010 apareció su inclasificable ensayo La conspiración contra la especie humana (Valdemar/Intempestivas nº 27), una extraña combinación de guía de la literatura de horror y tratado de filosofía nihilista. Descendiente en línea directa de Edgar Allan Poe y Howard Phillips Lovecraft, con quienes compone la insana, justa y necesaria Trinidad de la moderna Literatura Fantástica y Extraña, Thomas Ligotti es un escritor de ficción sobrenatural sin excusas ni condiciones, devenido ya en un clásico.

@@ -16,6 +16,8 @@ colaboradores:
 - Encarna Gómez Castejón
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Encarna Gómez Castejón
   rol: Translator
@@ -101,6 +103,7 @@ generos_traducidos:
 - Filosofía
 - Ficción Literaria
 - Siglo XX
+_hash_origen: 2e2abfa4ae790eb600c0055d123588a0bb472b7d8387125f2bc1df1d5e9641c8
 ---
 
 Una visión feroz y sarcástica del presente a través de dos hermanastros cuarentones, Michel, un investigador en biología que vive como un monje, ha renunciado al sexo y sólo pasea para ir al supermercado, y Bruno, profesor de literatura, consumidor de pornografía, misógino, racista y virtuoso del resentimiento. Una novela demoledora sobre una generación derrotada de la mano del más contundente escritor francés vivo.

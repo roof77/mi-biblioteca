@@ -21,6 +21,8 @@ series:
 - Middle Earth
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Luis Domènech
   rol: Translator
@@ -153,6 +155,7 @@ generos_traducidos:
 - Literatura
 - Novela
 - Jovenes adultos
+_hash_origen: 5ed13a3b8290b8f5e41265b563e88f87b07d092a25194d71eee5c9aee977df47
 ---
 
 La vigorosa prosa épica y el rico universo literario de J. R. R. Tolkien gira en torno a un tema básico: la inevitable corrupción que apareja todo poder y el subsiguiente combate entre las fuerzas del bien y del mal, inequívoco reflejo del eterno conflicto que dirimen las civilizaciones y los hombres desde los albores de la historia. Magistrales novelas que plasman el sólido ideario lingüístico, poético y filosófico de uno de los autores más importantes de nuestro tiempo.

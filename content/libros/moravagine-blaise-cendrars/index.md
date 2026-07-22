@@ -17,6 +17,8 @@ colaboradores:
 - Felipe González Vallarino
 editoriales:
 - Alfaguara
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Felipe González Vallarino
   rol: translator
@@ -108,6 +110,7 @@ generos_traducidos:
 - Ficción Literaria
 - Siglo XX
 - Filosofía
+_hash_origen: ef5988c19fc58b0703718eb31e5f0152ee3e2f9177d0432ac5b9a37db6d19207
 ---
 
 «¿Cómo puedo convencer a los escépticos de que fui deslumbrado por Moravagine? ¿Cómo explicar cuando uno sabe inmediatamente y sin dudar que algo le gusta?» HENRY MILLER

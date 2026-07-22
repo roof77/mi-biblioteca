@@ -16,6 +16,8 @@ series:
 - Papillon
 editoriales:
 - Plaza & Janés
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Papillon
@@ -86,6 +88,7 @@ generos_traducidos:
 - Historia
 - Francia
 - Crimen
+_hash_origen: b6c55abd6ed498e6b92186ae875ac15c1781b8a429bba53e10d255dc91d65de7
 ---
 
 Esplugas de Llobregat Barcelona. 20 cm. 605 p., 1 h. Encuadernación en tapa dura de editorial con sobrecubierta ilustrada. Colección 'La Vida es Rio'. Presentado por Jean Pierre Castelnau, seguido de Papillon o la Literatura oral por Jean-Francois Revel Traducción de Domingo Pruna y Vicente Villacampa. Charrière, Henri 1906-1973. Presentado por Jean Pierre Castelnau, seguido de Papillón o la literatura oral, por Jean-François Revel Traducción de Domingo Pruna y Vicente Villacampa. Presentado por Jean-Pierre Castelnau seguido de Papillon o La Literatura Oral por Jean-François Revel Traducción de Domingo Pruna y Vicente Villacampa. Revel, Jean-François. 1924-2006. Presentado por Jean-Pierre Castelnau, seguido de Papillon o la Literatura oral por Jean-Francois Revel Traduccion de Domingo Pruna y Vicente Villacampa .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. ISBN: 8401340152

@@ -13,6 +13,8 @@ colaboradores:
 - Maribel de Juan
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Maribel de Juan
   rol: Translator
@@ -86,6 +88,7 @@ generos_traducidos:
 - Drama
 - Relatos
 - Novela
+_hash_origen: 5c68bb6368d73b142e5b9ff4d55974f6401dc0123954f73c1389d93ffc0ca891
 ---
 
 Seducido por un relato de Paul Auster, el director de cine Wayne Wang lo convenció para que escribiera el guión de una película. El resultado, que combina la ascética elegancia de Wang y la inteligente imaginación del «más importante novelista de ideas de nuestros días» (Kirkus Review), es Smoke, premio especial del jurado y Oso de Plata en el festival de cine de Berlín. Protagonizada por Harvey Keitel y William Hurt, cuenta la historia de un novelista, un vendedor de cigarros y un adolescente negro que busca a su padre, en un entramado de destinos cruzados que acabarán por modificarse unos a otros de muy austeriana manera.

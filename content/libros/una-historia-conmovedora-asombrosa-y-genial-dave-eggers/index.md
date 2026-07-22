@@ -15,6 +15,8 @@ autores:
 - Dave Eggers
 editoriales:
 - Mondadori
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Una historia conmovedora, asombrosa y genial
@@ -106,6 +108,7 @@ generos_traducidos:
 - Novela
 - Ficción Literaria
 - EEUU
+_hash_origen: 1d731e242046e4be3d8f15b7808a4edb310afdbe0d260faef1e2f7828f414d42
 ---
 
 Tras la muerte de sus padres, Dave se encuentra de un día para otro al cuidado de su hermano Toph, de ocho años. Lo que en principio parece un acontecimiento devastador se transforma en un revulsivo: la vida está llena de infinitas posibilidades y el mundo es un lugar demasiado grande y excitante como para hacerlo esperar, así que Dave vende la casa familiar y emprende con su hermano un viaje por carretera en busca del sol californiano.

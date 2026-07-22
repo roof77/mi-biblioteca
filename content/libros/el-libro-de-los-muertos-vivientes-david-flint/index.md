@@ -1,10 +1,15 @@
 ---
 title: El libro de los muertos vivientes
-tags: []
+tags:
+- Zombies
+- Terror
+- Referencia
 autores:
 - David Flint
 editoriales:
 - Ma Non Troppo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de El libro de los muertos vivientes
@@ -48,7 +53,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Zombies
+- Terror
+- Referencia
+_hash_origen: 4d112cb6654869344a4637fdeec76100ac6c5e2497a59fd7f46873d5ab4eeabe
 ---
 
 Rare book

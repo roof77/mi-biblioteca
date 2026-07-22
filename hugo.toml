@@ -13,6 +13,7 @@ buildExpired = false
   colaborador = "colaboradores"
   serie = "series"
   editorial = "editoriales"
+  valoracion = "valoraciones"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -39,6 +40,11 @@ buildExpired = false
   name = "Editoriales"
   url = "/editoriales/"
   weight = 30
+
+[[menu.main]]
+  name = "Valoraciones"
+  url = "/valoraciones/"
+  weight = 35
 
 [[menu.main]]
   name = "Etiquetas"

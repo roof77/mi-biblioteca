@@ -19,6 +19,8 @@ colaboradores:
 - William Womack
 editoriales:
 - Nevsky Prospects
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Marian Womack
   rol: Translator
@@ -94,6 +96,7 @@ generos_traducidos:
 - Novela
 - Ciencia Ficción
 - Fantasía
+_hash_origen: c509fda1f7c6b4e1f05368dccb71b2c1bb845d4ea57d531d4f1f8416325c3f9e
 ---
 
 Estrella Roja (1908) es una delirante fantasía utópica en la que un viaje a Marte se convierte en una alegoría sobre la creación de un estado soviético. Repleto de ingenios mecánicos como el video-teléfono, las góndolas voladoras, y por supuesto el viaje interplanetario, la novela antecede en el tiempo la automatización de la producción e incluso la fusión atómica. Siguiendo la estela de las novelas clásicas de ciencia ficción de principios de siglo, Estrella Roja no desdeña al mejor Julio Verne y se trata, como en el caso del escritor francés, de un maravilloso ejemplo del fenómeno literario recientemente bautizado como “steam-punk inconsciente”.

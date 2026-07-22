@@ -21,6 +21,8 @@ series:
 - 'Narrativa completa Lovecraft '
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Juan Antonio Molina Foix
   rol: Editor
@@ -112,6 +114,7 @@ generos_traducidos:
 - Pulp
 - Ficción
 - Literatura
+_hash_origen: 8009dddde9bfaa48e5277bdcf4d7fd5537faa0cf0435e08c524985071da27651
 ---
 
 Edición de Juan Antonio Molina Foix. Traducción de Juan Antonio Molina Foix, Francisco Torres Oliver y José María Nebreda 

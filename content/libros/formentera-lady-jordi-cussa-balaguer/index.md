@@ -5,6 +5,8 @@ autores:
 - Jordi Cussà Balaguer
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Formentera Lady
@@ -56,6 +58,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 452b8ac288157e0baf08f3f4d7875e8953f0b5fcd0e82ab336359fa738051e88
 ---
 
 Niel, Ona y Àsia vivieron en los años ochenta una juventud frenética entre Cataluña y las islas Pitiusas. Gozaron sin mesura del sexo, la música y las drogas hasta que cayeron en el pozo de la adicción. Treinta años después, instalados en el «tedio decepcionado de los cincuenta» y con muchas cicatrices en el alma, deciden revisitar esa época turbulenta mediante la escritura de un libro. Un libro que, con sus historias de tráficos grandes y pequeños, reencuentros mágicos y funestos, renaceres y recaídas, ofrece un retrato implacable de una generación que vivió al límite y pagó un alto precio por sus excesos. 

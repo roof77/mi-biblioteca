@@ -13,6 +13,8 @@ traductores:
 - Hugo Camacho
 editoriales:
 - Orciny Press
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Porno religioso improvisado
@@ -78,6 +80,7 @@ generos_traducidos:
 - Ficción
 - Vampiros
 - Novela
+_hash_origen: 70e45c25b439e73ded99d7d46152d49227929bde7e3c08d663dd01caadf1e4d3
 ---
 
 Cuando Dominique Colt asesinó de manera brutal a su prometido y a su amante gay en el transcurso de un juego sexual, no tenía ni idea de las calamidades por las que la directora Madeline Hunter pasaría años después para filmar una película independiente sobre la masacre.

@@ -12,6 +12,8 @@ colaboradores:
 - Agostina Marchi
 editoriales:
 - Caja Negra
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Agostina Marchi
   rol: Translator
@@ -73,6 +75,7 @@ generos_traducidos:
 - Historia
 - Cultura Pop
 - Siglo XXI
+_hash_origen: 02c465b8fac7a40daf839d17e5a3e93a9bcc9f9b613c1f83a4153307163ab26a
 ---
 
 ara sus detractores, la música disco nunca fue más que el desfile de celebridades de Studio 54, la empalagosa música de los Bee Gees o el chico humilde de origen italiano de Fiebre de sábado por la noche que es transportado al firmamento por la sola virtud de su atuendo y pasos de baile. Sin embargo, en este libro Peter Shapiro revela que detrás de ese espectáculo de narcisismo, indulgencia y frivolidad se esconde una historia pocas veces contada, la historia oculta de un género nacido de la convergencia de las culturas marginales de los homosexuales, los afroamericanos y los inmigrantes latinos e italianos, en una época en la que el fracaso de la utopía hippie había dado lugar a la exclusión y la guerra de pandillas. “Glamour entendido como acto de rebeldía”, el disco le dio un nuevo sentido a la idea de comunidad al promover la integración racial, sexual y de clase en la pista de baile.

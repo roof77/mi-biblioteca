@@ -17,6 +17,8 @@ series:
 - Absolute Swamp Thing by Alan Moore
 editoriales:
 - Plaza & Janés
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Stephen R. Bissette
   rol: dibujo
@@ -94,6 +96,7 @@ generos_traducidos:
 - Fantasía
 - Superheroes
 - Manga
+_hash_origen: 7da013d7c7a823d91dd4f41282847dec348d1d56797c0c1161fc41a34d2b9006
 ---
 
 BAJO TIERRA, SE OYEN VOCES AMORTIGUADAS Y ATRONADORAS. BAJO EL MAR, SE VEN UNAS LUCES TERRIBLES. Y LAS ONDAS SE EXPANDEN POR TODO ESTADOS UNIDOS...

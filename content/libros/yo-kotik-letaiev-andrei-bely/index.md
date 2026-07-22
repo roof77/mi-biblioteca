@@ -11,6 +11,8 @@ autores:
 - Andrei Bely
 editoriales:
 - Nevsky Prospects
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Yo, Kótik Letáiev
@@ -89,6 +91,7 @@ generos_traducidos:
 - Novela
 - Siglo XX
 - Literatura
+_hash_origen: 000004cc3f4735dd3e97d718ff277dd4a4cc5be5d09bfd307e188a90887d69db
 ---
 
 La publicación de las obras La paloma de plata y Petersburgo, la novela más conocida de su autor, no fueron hechos aislados. Ambas pertenecen a una idea mayor de conjunto, un tríptico inmenso sobre Rusia y su dualidad occidental-oriental, que concluye con la presente novela, hasta ahora inédita en castellano. 

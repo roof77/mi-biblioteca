@@ -1,10 +1,16 @@
 ---
 title: Vainica Doble
-tags: []
+tags:
+- Noficción
+- Música
+- Entrevistas
+- Biografía
 autores:
 - Fernando Márquez Chinchilla
 editoriales:
 - Libros Walden
+valoraciones:
+- 3.0 - 2.5
 cover:
   image: cover.jpg
   alt: Portada de Vainica Doble
@@ -59,7 +65,12 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Noficción
+- Música
+- Entrevistas
+- Biografía
+_hash_origen: 6e84863f84d5ebd733684e3f5996d79688e7332442fe90f13943640505e3a903
 ---
 
 Libros Walden y LaFonoteca reeditan una versión actualizada y ampliada del libro de Fernando Márquez sobre "Vainica Doble" publicado originalmente en 1983.En el verano del 82, Fernando Márquez ‘El Zurdo’ recibe el encargo de escribir un libro sobre Vainica Doble para la colección Los Juglares de Ediciones Júcar. El libro es ahora reeditado treinta y cinco años después de su publicación y lo hace ampliado con un capítulo nuevo del autor, repasando la obra de Vainica Doble posterior al libro original, un nuevo prólogo de Esther Peñas, nueva portada, cómics de Rubenimichi y Juan Carlos Eguillor y nuevas opiniones sobre el grupo escritas por Lorena Álvarez, Paco Clavel, César Sánchez o Teresa Iturrioz, que se unen así a las que en 1983 escribieron Jaime de Armiñán, Kiki D’Aki, Juan de Pablos o Caballero Bonald. Pero lo mejor del libro son las entrevistas que el autor mantuvo con Carmen Santonja y Gloria Van Aerssen, charlas de brasero y mesa camilla en las que hablan de ellas, de sus desatinos y de sus desajustes, así como de sus hallazgos y sus analogías de prodigio, con ternura y humor. La ternura les aleja de lo insustancial; el humor, de la gravedad pomposa de ciertos cráneos privilegiados.Una de las más acertadas definiciones de Vainica Doble que recoge este libro es la de Jaime Chá Son todo eso que los demás corrompen intentando ser.

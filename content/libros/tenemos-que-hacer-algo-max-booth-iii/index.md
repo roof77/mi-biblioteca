@@ -16,6 +16,8 @@ colaboradores:
 - Shaila Correa
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Mariñe Pérez
   rol: Illustrator
@@ -82,6 +84,7 @@ generos_traducidos:
 - LGTBIQ+
 - Relatos
 - Queer
+_hash_origen: 37769d2e0e8ea1569152b6ad3b6c68bc4dd9136c4152a74ed51ec6ddae36af1c
 ---
 
 Si desprecias a tu familia, lo peor que te puede pasar es tener que encerrarte con ellos en un cuarto de baño por una alerta de tornado. Nada puede salir bien de ahí.

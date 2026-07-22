@@ -15,6 +15,8 @@ colaboradores:
 - Jaime Zulaika
 editoriales:
 - Anagrama
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Jaime Zulaika
   rol: Translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Autobiografía
 - Familia
 - Adultos
+_hash_origen: 1831cc0e41fa1306a141860b5a0791eab9f4944209b60e0416de0ba5045896eb
 ---
 
 La adopción de A. M. Homes fue apalabrada antes de que naciera. Su madre biológica era una mujer soltera que mantenía una relación con un hombre mucho mayor, casado y con hijos. Este libro es la historia de lo que sucedió cuando, treinta años después, sus padres biológicos la buscaron. La autora cuenta cómo sus padres establecieron contacto con ella, lo que sucedió después (su madre la asediaba) y lo que consiguió reconstruir de la historia de sus vidas. Su madre no se casó nunca ni tuvo más hijos y murió de una dolencia renal; el padre, que al principio insinuó que la integraría en su familia, nunca lo hizo. El relato da entonces un salto de varios años, hasta el momento en que Homes se obsesionó con averiguar todo lo posible sobre sus cuatro padres, contrató a investigadores y pasó horas examinando hemerotecas, archivos municipales y árboles genealógicos en sitios web. «Es un libro apasionante, demoledor y furiosamente bue-no, escrito con una sinceridad de la que pocos seríamos capaces» (Zadie Smith).

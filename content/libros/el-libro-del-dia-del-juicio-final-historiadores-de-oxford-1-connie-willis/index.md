@@ -19,6 +19,8 @@ series:
 - Oxford Time Travel
 editoriales:
 - ZETA
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Rafael Marín Trechera
   rol: Translator
@@ -149,6 +151,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Medievo
 - Ficción especulativa
+_hash_origen: fa713799b7264210f3a352197e10bd421e115171aeb3a9f70ad1056767a2de35
 ---
 
 A mediados del siglo XXI, Kivrin, una audaz estudiante de historia, decide viajar en el tiempo para estudiar "in situ" una de las eras más mortíferas y peligrosas de la historia humana: la Edad Media asolada por la Peste Negra. Pero una crisis que enlaza extrañamente pasado, presente y futuro atrapa a Kivrin en uno de los años más peligrosos de la Edad Media, mientras sus compañeros de Oxford en el año 2054, atacados de repente por una enfermedad desconocida, intentan infructuosamente rescatarla. Perdida en una época de superstición y de miedo, Kivrin descubre que se ha convertido en un improbable Angel de Esperanza durante una de las horas más oscuras de la historia.

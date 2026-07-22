@@ -16,6 +16,8 @@ series:
 - Plainsong
 editoriales:
 - Planeta Pub Corp
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Plainsong
@@ -114,6 +116,7 @@ generos_traducidos:
 - Ficción adulta
 - Familia
 - Adultos
+_hash_origen: b6144c5b5e39f688bdf925299298b1d21cae77ae4c69b6198c222caf902b2342
 ---
 
 Barcelona. 21 cm. 314 p. Encuadernación en tapa blanda de editorial ilustrada. Colección 'Boulevard'. Traducción de Agustín Vergara y Cristina Pagès. Traducción  Plainsong. Boulevard (Barcelona) .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario.  8408034456

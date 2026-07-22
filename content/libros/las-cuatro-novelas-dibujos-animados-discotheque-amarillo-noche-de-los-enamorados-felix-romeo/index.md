@@ -5,6 +5,8 @@ autores:
 - Félix Romeo
 editoriales:
 - DeBolsillo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Las cuatro novelas: Dibujos animados / Discothèque / Amarillo / Noche de los enamorados'
@@ -55,6 +57,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 2deaaa1925a9969b64d1add0a3fe0aabc64937ad3793cf9f332e59c9ae2ac6b7
 ---
 
 Este libro reúne la obra novelística de una figura insólita en la cultura española: Félix Romeo, inagotable divulgador cultural, generoso aglutinador de generaciones, traductor de maestros secretos y narrador sobresaliente. Sus cuatro novelas -Dibujos animados, Discothèque, Amarillo y Noche de los enamorados- confluyen en un volumen único, que aspira a convertirse en el legado intelectual de un apasionado de los libros y uno de los principales renovadores de las letras castellanas.«Su envergadura intelectual le convertía en un suceso único.»David Trueba«Sería fácil compararlo con los protagonistas de las novelas de Saul Bellow, con uno de esos intelectuales desmesurados que, como Humboldt o Ravelstein, parecen encarnar toda la magnificencia contradictoria del ser humano.»Javier Cercas

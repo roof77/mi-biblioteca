@@ -18,6 +18,8 @@ series:
 - Discworld
 editoriales:
 - DeBolsillo
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Cristina Macía Orio
   rol: Translator
@@ -129,6 +131,7 @@ generos_traducidos:
 - Mágia
 - Alta fantasía
 - Sátira
+_hash_origen: 764c706d428f2285b442e77562f95742dec91b2ddc378866c349e55f7ee4f5e2
 ---
 
 La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos, la mendicidad y la prostitución para tenerlos controlados. El Gremio de Asesinos y el de Ladrones reciben una cuota de asesinatos y robos 'razonables', y el sistema funciona con normalidad. Excepto para la Guardia Nocturna, que se ha visto reducida a tres hombres: el capitán Sam Vimes, el sargento Colon y el cabo Nobby Nobbs. La institución está degradada y envilecida.

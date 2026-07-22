@@ -17,6 +17,8 @@ colaboradores:
 - José Manuel Álvarez Flórez
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Ángela Pérez
   rol: Translator
@@ -134,6 +136,7 @@ generos_traducidos:
 - Novela
 - EEUU
 - Ficción Literaria
+_hash_origen: 04e39854cbd418db33a23983ec36f05f8cde0156c5a42817a7f98d0798712612
 ---
 
 El protagonista de esta novela es uno de los personajes más memorables de la literatura norteamericana: Ignatius Reilly -una mezcla de Oliver Hardy delirante, Don Quijote adiposo y santo Tomás de Aquino perverso, reunidos en una persona-, que a los treinta años aún vive con su estrafalaria madre, ocupado en escribir una extensa y demoledora denuncia contra nuestro siglo, tan carente de "teología y geometría" como de "decencia y buen gusto"; un alegato desquiciado contra una sociedad desquiciada. Por una inesperada necesidad de dinero, se ve "catapultado en la fiebre de la existencia contemporánea", fiebre a la que Ignatius añadirá unos cuantos grados más.

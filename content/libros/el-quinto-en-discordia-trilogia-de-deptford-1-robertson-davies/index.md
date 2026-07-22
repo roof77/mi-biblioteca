@@ -20,6 +20,8 @@ series:
 - The Deptford Trilogy
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Valentí Puig
   rol: Contributor
@@ -116,6 +118,7 @@ generos_traducidos:
 - Literatura canadiense
 - Colegio
 - Club de lectura
+_hash_origen: 71ea4b601ee9e75696e21bfe24a61c86557853d048c86208526264e190d0dfb1
 ---
 
 Alrededor de la misteriosa muerte del magnate canadiense Boy Staunton se teje la trama de esta novela. La narración corre a cargo de Dunstan Ramsay, amigo desde la infancia de Staunton, quien al intentar aclarar las circunstancias de su muerte no tendrá más remedio que enfrentarse al relato de su propia vida. Desde el principio de la historia, Ramsay ejerce una influencia mística y no del todo inocua en cuantos le rodean: acciones en apariencia inocentes -una pelea con bolas de nieve o el aprendizaje de trucos de cartas- se revelarán como acontecimientos decisivos en las vidas de otros.

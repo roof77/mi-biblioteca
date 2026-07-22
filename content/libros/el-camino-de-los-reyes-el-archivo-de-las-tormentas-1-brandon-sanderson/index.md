@@ -18,6 +18,8 @@ series:
 - The Stormlight Archive
 editoriales:
 - Nova
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Rafael Marín Trechera
   rol: 'Translator '
@@ -141,6 +143,7 @@ generos_traducidos:
 - Mágia
 - Épico
 - Aventuras
+_hash_origen: bf830e91a9d0f1cdb418b3904828f392c78a0821ab6ca72d1b5623cf793e1bab
 ---
 
 Una obra maestra tan ambiciosa como fascinante 

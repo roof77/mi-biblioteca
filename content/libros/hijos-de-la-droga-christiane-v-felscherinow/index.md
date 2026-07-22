@@ -16,6 +16,8 @@ colaboradores:
 - Joaquín Adsuar Ortega
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Kai Hermann
   rol: Author
@@ -87,6 +89,7 @@ generos_traducidos:
 - Alemania
 - Drogas
 - Contemporaneo
+_hash_origen: 255539bbc0df18935137ab6728f1739357eacf31be8d731294fb4d41a238775e
 ---
 
 Colección 'Yo, Christiane F.', numero coleccion([1]). Onda Joven.

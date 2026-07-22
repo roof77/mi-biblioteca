@@ -16,6 +16,8 @@ colaboradores:
 - Tomás Hijo
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Manuel de los Reyes
   rol: translator
@@ -96,6 +98,7 @@ generos_traducidos:
 - Relatos
 - Jovenes adultos
 - Índigenas
+_hash_origen: e3fba18013b3c21b34c045a1213c0a1fe81c6454d3e34e055b2379542acafaf3
 ---
 
 Un grupo de amigos deciden gastarle una broma a otra de sus amigas que acaba de empezar a trabajar en unos cines. La broma no sale bien y se desata una matanza.

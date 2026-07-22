@@ -17,6 +17,8 @@ series:
 - The Indian Lake Trilogy
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Manuel de los Reyes
   rol: Translator
@@ -124,6 +126,7 @@ generos_traducidos:
 - Adultos
 - Índigenas
 - Contemporaneo
+_hash_origen: 0e6ba5ae07f6212165ae4e646bc068783bbf6daf915307ea7c8b93b01d5c4c63
 ---
 
 Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock, Idaho, un pueblo situado al lado del lago Indian. En la otra orilla del lago se encuentra el Campamento Sangriento —donde tuvo lugar una masacre hace cincuenta años— y Terra Nova, un moderno Camelot a la americana. Cuando empieza a morir gente, solo ella parece saber qué esta sucediendo gracias a todo su conocimiento sobre películas de terror. Jade elige a Letha Mondragon, hija de uno de los fundadores de Terra Nova, como la chica final que se enfrentará y vencerá al asesino, pero la vida real se rige por sus propias normas y a Jade no le quedará más remedio que afrontarlo.

@@ -9,6 +9,8 @@ autores:
 - Terry  Jones
 editoriales:
 - Taschen
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Fashion Now 2
@@ -58,6 +60,7 @@ generos_traducidos:
 - No Ficción
 - Diseño
 - Arte
+_hash_origen: 0706d842f6de51063eb1a9033c7053beff029f0524bcff321671627468a48540
 ---
 
 .

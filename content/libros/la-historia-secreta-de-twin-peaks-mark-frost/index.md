@@ -18,6 +18,8 @@ series:
 - Twin Peaks
 editoriales:
 - Planeta
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: María José Díez Pérez
   rol: Translator
@@ -81,6 +83,7 @@ generos_traducidos:
 - Ficción histórica
 - Crimen
 - Paranormal
+_hash_origen: babae5ec53ecabd1c794f157230fc45124667ae4a5fe26158226866739d4d937
 ---
 
 Directamente de las manos del co-creador de la serie «Twin Peaks», uno de los mayores logros de la televisión moderna, nos llega una novela que no sólo profundiza en los misterios de esta excéntrica localidad, enriqueciendo la original, sino que preparara a los lectores para su inminente

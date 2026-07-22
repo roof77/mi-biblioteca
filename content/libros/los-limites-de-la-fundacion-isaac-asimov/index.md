@@ -5,6 +5,8 @@ autores:
 - Isaac Asimov
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los límites de la Fundación
@@ -84,6 +86,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 8d7ce2bb11f834b2f5b6304eada1280633ac57e44e48570c6ec5d57f176ee3d9
 ---
 
 Barcelona. 18 cm. 475 p. Encuadernación en tapa blanda de editorial ilustrada. Colección 'Libro amigo', numero coleccion(1062. Ciencia ficción). Traducción Foundation's edge. Asimov, Isaac 1920-1992. Foundation's edge. Traducción, M. Teresa Segur. Segur, María Teresa .. Este libro es de segunda mano y tiene o puede tener marcas y señales de su anterior propietario. 8402102735, 9788402102737

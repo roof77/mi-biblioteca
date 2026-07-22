@@ -19,6 +19,8 @@ series:
 - The Cornish Trilogy
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Concha Cardeñoso
   rol: Translator
@@ -105,6 +107,7 @@ generos_traducidos:
 - Música
 - Siglo XX
 - Contemporaneo
+_hash_origen: e359b7ddb83cd5fba647831d9a132a04783424792fd24680983bb89dc36e7900
 ---
 
 La fundación constituida con el legado del mecenas Francis Cornish ha decidido acometer uno de sus primeros proyectos: la representación de Arturo de Britania, una ópera inconclusa de E.T.A. Hoffmann. La encargada de realizar la tarea será Hulda Schnakenburg, una brillante y peculiar estudiante de doctorado, que contará con la ayuda de Simon Darcourt en la redacción del libreto. Desgraciadamente los trabajos se complican de tal manera que los involucrados en el proyecto parecen estar representando el argumento de la ópera y hacen buena la cita de Hoffmann que dice «La lira de Orfeo abre las puertas del otro mundo». 

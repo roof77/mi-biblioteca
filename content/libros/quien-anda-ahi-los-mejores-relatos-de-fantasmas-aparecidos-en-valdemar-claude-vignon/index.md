@@ -25,6 +25,8 @@ colaboradores:
 - Daniel Defoe
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Robert Bloch
   rol: Author
@@ -138,6 +140,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 1c4dfa34431dd42f44ba42278a2ceb8fe05b520c34688aded903037de93c863e
 ---
 
 Los fantasmas, los espectros o aparecidos, los muertos que no encuentran la paz en sus tumbas y regresan al mundo de los vivos, han poblado desde siempre nuestras peores pesadillas. Pero es sin duda a partir del Romanticismo y su fascinación por todo lo sobrenatural cuando se establece la visión moderna del fantasma. La presente antología recopila los mejores relatos de fantasmas publicados por Valdemar a lo largo de más de veinte años, y ha tenido en cuenta la evolución histórica del relato moderno de fantasmas, así como sus distintas corrientes, por lo que reune relatos de Nodier, Le Fanu o Margaret Oliphant, con una perspectiva más tradicional y folclórica del mundo espectral, junto a contribuciones más personales de autores consagrados como Stoker, Maupassant o Conan Doyle, sin olvidar las historias de «especialistas» más recientes como M.R. James o E.F. Benson, que tratan de alejarse de los escenarios clásicos de ruinas y pasadizos trayendo el horror a la paz de la vida cotidiana. 

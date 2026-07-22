@@ -1,10 +1,16 @@
 ---
 title: Rip Kirby 1954-1956 nº 06/12 (Cómics Clásicos NO) (Spanish Edition)
-tags: []
+tags:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
 autores:
 - Alex Raymond
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1954-1956 nº 06/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -68,7 +74,12 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
+_hash_origen: caf17906c6b4254e1493fd57db783045e7938c2ce8a38d184fc1daf34e32c8bd
 ---
 
 Una de las asignaturas pendientes del mercado actual es la recuperación de clásicos, no por nostalgia sino por normalización del mercado ya que si entendemos el cómic como arte, las obras clave deben estar disponibles en dicho mercado. Entre estas obras por recuperar existen muchas tiras de prensa norteamericanas que en los últimos años habían desaparecido prácticamente del mercado. Dentro de la Biblioteca Grandes del Cómic se abre un nuevo camino que permitirá recuperar estas grandes obras. Empezaremos con la Biblioteca Grandes del Có Rip Kirby con la que redescubriremos la obra cumbre de Alex Raymond. Una obra encuadrada en el género policíaco en la que Raymond marcó las pautas de lo que sería el cómic de los años cincuenta y sesenta, marcando un antes y un después en el medio. Rip Kirby, copiado hasta la saciedad, es un cómic ágil de meticulosa narrativa y, sobre todo, original y absorbente. Es una obra para todos los públicos en el mejor sentido de la expresión.

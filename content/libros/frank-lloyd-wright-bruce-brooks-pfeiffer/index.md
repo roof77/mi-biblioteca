@@ -1,5 +1,5 @@
 ---
-title: Frank LLoyd Wright
+title: Frank Lloyd Wright
 tags:
 - Arquitectura
 - Arte
@@ -11,20 +11,32 @@ autores:
 - Bruce Brooks Pfeiffer
 editoriales:
 - Taschen
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
-  alt: Portada de Frank LLoyd Wright
+  alt: Portada de Frank Lloyd Wright
 date: '2008-01-01'
 libro:
   id: 9131810
-  titulo: Frank LLoyd Wright
+  titulo: Frank Lloyd Wright
   url: https://www.goodreads.com/book/show/9131810-frank-lloyd-wright
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327659072i/9131810.jpg
-  sinopsis: The American architect Frank Lloyd Wright (1867-1959) exerted unique influence on the architecture of the first
-    half of the 20th century. This volume presents the whole range of his extraordinarily prolific output and shows clearly
-    how his view of the world was a common factor throughout the rich diversity of his oeuvre. From his early prairie houses
-    to the Guggenheim Museum in New York, Frank Lloyd Wright saw man as the focal point of an architecture closely bound up
-    with nature.
+  sinopsis: 'Las obras estelares del mejor arquitecto de Estados Unidos
+
+
+    Un edificio de Frank Lloyd Wright (1867-1959) es inequívocamente personal, pero a la vez evoca toda una época. Los diseños
+    de Wright, notables por su excepcional armonía con el entorno y el uso de acero y cristal para trastocar la interfaz interior/exterior,
+    marcaron la entrada en la modernidad, además de asegurarle un lugar en los anales de la historia de la arquitectura.
+
+
+    Esta exquisita compilación a partir de la monografía publicada anteriormente por TASCHEN reúne los proyectos más importantes
+    de la vasta obra, que desarmó los estándares de la arquitectura, del arquitecto más famoso de Estados Unidos. Gracias
+    al acceso ilimitado a los archivos de la Fundación Frank Lloyd Wright en Taliesin West (Arizona), esta colección explora
+    a fondo los diseños de Wright, tanto los que materializó como los que quedaron en papel. Así, encontramos desde sus primeras
+    casas de la pradera, las casas usonianas y la extraordinaria Casa de la cascada, hasta los años de Tokio y sus diseños
+    de edificios administrativos y centros de oración, y destacados proyectos posteriores, como el Museo Guggenheim de Nueva
+    York o las fantásticas visiones de un mañana mejor de la «ciudad viviente».'
 autor:
   nombre: Bruce Brooks Pfeiffer
   rol: Author
@@ -65,6 +77,11 @@ generos_traducidos:
 - No Ficción
 - Biografía
 - Diseño
+_hash_origen: 790dd9208efc6c4a526d1d901425f133a682a6b646b68801fab0c93d8ecb75b2
 ---
 
-The American architect Frank Lloyd Wright (1867-1959) exerted unique influence on the architecture of the first half of the 20th century. This volume presents the whole range of his extraordinarily prolific output and shows clearly how his view of the world was a common factor throughout the rich diversity of his oeuvre. From his early prairie houses to the Guggenheim Museum in New York, Frank Lloyd Wright saw man as the focal point of an architecture closely bound up with nature.
+Las obras estelares del mejor arquitecto de Estados Unidos
+
+Un edificio de Frank Lloyd Wright (1867-1959) es inequívocamente personal, pero a la vez evoca toda una época. Los diseños de Wright, notables por su excepcional armonía con el entorno y el uso de acero y cristal para trastocar la interfaz interior/exterior, marcaron la entrada en la modernidad, además de asegurarle un lugar en los anales de la historia de la arquitectura.
+
+Esta exquisita compilación a partir de la monografía publicada anteriormente por TASCHEN reúne los proyectos más importantes de la vasta obra, que desarmó los estándares de la arquitectura, del arquitecto más famoso de Estados Unidos. Gracias al acceso ilimitado a los archivos de la Fundación Frank Lloyd Wright en Taliesin West (Arizona), esta colección explora a fondo los diseños de Wright, tanto los que materializó como los que quedaron en papel. Así, encontramos desde sus primeras casas de la pradera, las casas usonianas y la extraordinaria Casa de la cascada, hasta los años de Tokio y sus diseños de edificios administrativos y centros de oración, y destacados proyectos posteriores, como el Museo Guggenheim de Nueva York o las fantásticas visiones de un mañana mejor de la «ciudad viviente».

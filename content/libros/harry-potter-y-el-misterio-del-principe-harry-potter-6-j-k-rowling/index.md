@@ -17,6 +17,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Gemma Rovira Ortega
   rol: Translator
@@ -160,6 +162,7 @@ generos_traducidos:
 - Niños
 - Aventuras
 - Clásico
+_hash_origen: ff188ad152f8365888faeb5e2c9561cc7c8920a95caac45fbba6f3d41d632986
 ---
 
 Con dieciséis años cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra. Elegido capitán del equipo de Quidditch, los entrenamientos, los exámenes y las chicas ocupan todo su tiempo, pero la tranquilidad dura poco. A pesar de los férreos controles de seguridad que protegen la escuela, dos alumnos son brutalmente atacados. Dumbledore sabe que se acerca el momento, anunciado por la Profecía, en que Harry y Voldemort se enfrentarán a muerte: «El único con poder para vencer al Señor Tenebroso se acerca... Uno de los dos debe morir a manos del otro, pues ninguno de los dos podrá vivir mientras siga el otro con vida.». El anciano director solicitará la ayuda de Harry y juntos emprenderán peligrosos viajes para intentar debilitar al enemigo, para lo cual el joven mago contará con la ayuda de un viejo libro de pociones perteneciente a un misterioso príncipe, alguien que se hace llamar Príncipe Mestizo.

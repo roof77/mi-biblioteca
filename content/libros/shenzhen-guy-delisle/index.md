@@ -13,6 +13,8 @@ autores:
 - Guy Delisle
 editoriales:
 - Astiberri
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Shenzhen
@@ -82,6 +84,7 @@ generos_traducidos:
 - Memorias
 - Ásia
 - Canada
+_hash_origen: 9e63baa99a6ed9eea196d73cae0e49bf6a734b25380c67d24f0fd2641fe5b225
 ---
 
 Shenzhen, ciudad elegida por Deng Xiao Ping como campo de pruebas de la llamada "economía socialista de mercado", ha pasado de los 30,000 habitantes que tenía en 1980 a cerca de 10 millones en la actualidad, convirtiéndose en una de las ciudades más dinámicas de China y una de las megalópolis del mundo. 

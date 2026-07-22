@@ -7,6 +7,8 @@ colaboradores:
 - Dmitri Grigoróvich
 editoriales:
 - Nevsky Prospects
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Dmitri Grigoróvich
   rol: Author
@@ -65,6 +67,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 5bc7a2bdaba000aa9317b29a70dd7ecf6e973f7cb1029f491ab00e47afd0d718
 ---
 
 Grigoróvich tuvo la fortuna de codearse con las principales figuras literarias de su época, tanto como escritor como con su puesto de secretario durante dos décadas en la Sociedad para la Promoción de las Artes de San Petersburgo. Como resultado de su pertenencia a los círculos íntimos de varios autores como Turguéniev, Dostoievski o Chéjov, a quien descubrió y animó a escribir, le fue posible coleccionar una serie de bocetos y de retratos de los principales escritores y artistas en la forma de sus recuerdos, ahora reunidos por vez primera en nuestro país. Dichas Memorias literarias nos ofrecen la oportunidad de comprender mejor a los grandes genios de la literatura rusa del siglo diecinueve, cómo vivían y trabajaban.

@@ -11,6 +11,8 @@ autores:
 - Chester Brown
 editoriales:
 - Astiberri
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Nunca me has gustado
@@ -80,6 +82,7 @@ generos_traducidos:
 - No Ficción
 - Autobiografía
 - Canada
+_hash_origen: 79d8bcec9276b5c8cac96a5dc683a70423e7201f8068f926cdc58069037e4ec0
 ---
 
 Nominada a mejor obra extranjera en el XXVI Salón Internacional del cómic de Barcelona.

@@ -12,6 +12,8 @@ autores:
 - Frederik Peeters
 editoriales:
 - Astiberri
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Píldoras azules
@@ -87,6 +89,7 @@ generos_traducidos:
 - Romance
 - Contemporaneo
 - Biografía
+_hash_origen: 880d09a83ba62adc6cba787939b68599ebe98b3cf0f340abda7442f9c7dd4e89
 ---
 
 Frederik conoce a Cati. Es seropositiva como su hijo de tres años. Ambos deben someterse a una terapia triple. Se inicia para el joven una relación tamizada por la ansiedad y las preguntas pero iluminada por la "admiración amorosa" que siente hacia la joven, por su coraje y por su deseo de vivir...Este libro en blanco y negro sobre el amor en tiempos de sida, escepcional por su tono desprovisto del menor atisbo de autocompasión, es también un conmovedor testimonio sobre el poder de los sentimientos y sobre la búsqueda de la felicidad contra viento y marea.

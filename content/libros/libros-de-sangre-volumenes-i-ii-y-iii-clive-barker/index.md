@@ -20,6 +20,8 @@ series:
 - Books of Blood
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Jesús Palacios
   rol: Introducción
@@ -128,6 +130,7 @@ generos_traducidos:
 - Colecciones
 - Sobrenatural
 - Splatterpunk
+_hash_origen: ed010ef79ad1cdbda9f790d903a895d3f17b2d30eb02fe85a2d6e3f4421a5027
 ---
 
 Clive Barker nació en Liverpool en 1952 y estudió inglés y filosofía antes de convertirse a los treinta y tres años en el gran renovador de la ficción de terror con la publicación de una serie de relatos agrupados en varios volúmenes bajo el título genérico de LIBROS DE SANGRE. Aparte de su dedicación al género, Barker también ha sido y es un prolífico artista gráfico e ilustrador, además de director de cine y autor teatral habitual de la escena independiente londinense. Clive Barker contribuyó con sus primeros relatos a la evolución del género de horror al introducir el sexo y la violencia de un modo gráfico y brutal, recreándose en la descripción de los horrores más tortuosos, físicos y viscerales, reforzando así en buena medida el arsenal literario del cuento de miedo.

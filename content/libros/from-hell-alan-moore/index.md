@@ -19,6 +19,8 @@ series:
 - From Hell
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Eddie Campbell
   rol: Author
@@ -114,6 +116,7 @@ generos_traducidos:
 - Crimen
 - Misterio
 - Histórico
+_hash_origen: 9633f401299fad71b9954004b2d0c41f2d81d56bdaeb6188b65471dca33a4f9c
 ---
 
 Edición de la obra completa de Moore y Campbell revisada y complementada con comentarios de Alan Moore en esta revisitación del mito de Jack el Destripador, a su vez disección despiadada de la sociedad victoriana.

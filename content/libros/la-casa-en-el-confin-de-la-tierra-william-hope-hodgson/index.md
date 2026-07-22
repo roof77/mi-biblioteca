@@ -16,6 +16,8 @@ colaboradores:
 - Francisco Torres Oliver
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Francisco Torres Oliver
   rol: Translator
@@ -88,6 +90,7 @@ generos_traducidos:
 - Ciencia ficción
 - Lovecraftiano
 - Sobrenatural
+_hash_origen: c5febbebacfd9f422572106e75210177c7358dc04ab3af039f9199c893964939
 ---
 
 William H. Hodgson (1875-1918) es sin duda uno de los representantes más originales de lo que se ha dado en llamar "cuento materialista de terror". La asombrosa facilidad de Hodgson para recrear atmósferas angustiosas y oprimentes fascinó a H.P. Lovecraft y los escritores de su círculo. A propósito de esta obra, decía Lovecraft: "La casa en el confín de la Tierra (1908) -quizá la mejor de todas las obras de Hodgson- trata de un caserón solitario y temido de Irlanda, que constituye el centro de espantosas fuerzas del trasmundo, y soporta el asedio de híbridas y blasfemas anormalidades que surgen de secretos abismos inferiores. Los vagabundos del espíritu  del narrador durante ilimitados años-luz del espacio cósmico y kalpas de eternidad, y su asistencia a la destrucción final del sistema solar, son algo casi único en la literatura fantástica. Por lo demás, a lo largo de la historia se pone de manifiesto la capacidad del autor para sugerir horrores vagos y emboscados en un escenario natural".

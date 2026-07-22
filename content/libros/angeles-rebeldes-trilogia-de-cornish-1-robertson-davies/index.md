@@ -19,6 +19,8 @@ series:
 - The Cornish Trilogy
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Concha Cardeñoso
   rol: Translator
@@ -110,6 +112,7 @@ generos_traducidos:
 - Dark Academia
 - Contemporaneo
 - Club de lectura
+_hash_origen: f1ce10404d74732bf02a6daa0d11a25937894c60b58a358ad67cf0c58d0f42a2
 ---
 
 La Universidad de San Juan y el Espíritu Santo, adormecida en su absorbente vida académica, se revoluciona con el regreso del brillante y malvado profesor Parlabane y con el complicado legado que la universidad acaba de recibir de Arthur Cornish, uno de los más importantes coleccionistas de arte canadienses del siglo XX. Las suspicacias entre los albaceas del testamento de Cornish—los profesores Hollier, McVarish y Darcourt—se acrecientan al descubrir entre los objetos del legado un manuscrito inédito de Rabelais. La codicia que va a desatar el preciado manuscrito revelará el verdadero carácter de cada uno de los personajes de la novela. Con esta historia de intriga Davies nos pasea por la vida académica, el mecenazgo, la alquimia, el coleccionismo, y la tradición gitana. Aunque puede ser leída independientemente, esta novela es el primer libro de la Trilogía de Cornish.

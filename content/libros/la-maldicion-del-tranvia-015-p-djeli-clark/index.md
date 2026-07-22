@@ -18,6 +18,8 @@ series:
 - Dead Djinn Universe
 editoriales:
 - Duermevela
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rebeca Cardeñoso
   rol: Translator
@@ -105,6 +107,7 @@ generos_traducidos:
 - Ciencia ficción
 - Fantasía urbana
 - Ucronía
+_hash_origen: 33b194856c2d0b02eb451832d84461d564b33ecbe4170233c29e6460bbf13921
 ---
 
 Año: 1912

@@ -11,6 +11,8 @@ autores:
 - Seth
 editoriales:
 - Random House Mondadori
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de George Sprott, 1894-1975
@@ -82,6 +84,7 @@ generos_traducidos:
 - Canada
 - Arte
 - Manga
+_hash_origen: 555e48a95756e14376fc86ef786b1c88388910c16efd9c41c5cd6c6aeafd1331
 ---
 
 George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es un clásico, un tesoro." The Washington Post.

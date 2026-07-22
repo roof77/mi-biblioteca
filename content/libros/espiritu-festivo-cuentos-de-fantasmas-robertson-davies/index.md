@@ -15,6 +15,8 @@ autores:
 - Robertson Davies
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Espíritu festivo: Cuentos de fantasmas'
@@ -103,6 +105,7 @@ generos_traducidos:
 - Literatura canadiense
 - Siglo XX
 - Halloween
+_hash_origen: 5a4c9b1ddadbbd1f27990b1604a8cc032f2ad1b2771681ff51a8881324a34ad4
 ---
 
 «A pesar de la afición que he tenido toda la vida a los cuentos de fantasmas jamás se me ocurrió escribir ninguno hasta que fui a Massey College, facultad y residencia universitaria de la Universidad de Toronto, en 1963. Por Navidad celebrábamos siempre una fiesta a la que invitábamos a algunos amigos y era preciso dar algo de espectáculo.

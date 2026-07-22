@@ -10,6 +10,8 @@ colaboradores:
 - Henry Oliver
 editoriales:
 - Simon and Schuster
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Henry Oliver
   rol: Author
@@ -69,6 +71,7 @@ generos_traducidos:
 - Música
 - No Ficción
 - Arte
+_hash_origen: 5b904e8e0e1e67c2e1a0bb629deb8521cad06c05cb76d4c60922737638e32041
 ---
 
 ONCE, T-shirts were just unadorned undergarments. But with the evolution of screen printing and the birth of band merchandising, T-shirts became so much cooler. Now every band with an ounce of savvy knows the importance of T-shirts not only as a lucrative sideline but also as a means of self-promotion and a way for fans to show their allegiance.

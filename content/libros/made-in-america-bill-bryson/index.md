@@ -13,6 +13,8 @@ autores:
 - Bill Bryson
 editoriales:
 - Black Swan
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Made in America
@@ -78,6 +80,7 @@ generos_traducidos:
 - Linguistica
 - Historia americana
 - EEUU
+_hash_origen: cc8bd79806908a44314bdfdb876d6f2440d48111a967207ce8c33172551058c7
 ---
 
 This book turns away from the highways and byways of middle America for a fast, exhilarating ride along the Route 66 of American language and popular culture.

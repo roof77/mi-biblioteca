@@ -15,6 +15,8 @@ colaboradores:
 - Lorenzo F. Díaz
 editoriales:
 - Ático de los Libros
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Lorenzo F. Díaz
   rol: Translator
@@ -147,6 +149,7 @@ generos_traducidos:
 - Crimen
 - Ficción histórica
 - Adultos
+_hash_origen: 256b8730df74f15312ad376534de528c95a159d2d5a09c1b005039d848fa19bf
 ---
 
 Una extraordinaria mezcla de Agatha Christie, Atrapado en el tiempo, Origen y Black Mirror.

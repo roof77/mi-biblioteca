@@ -15,6 +15,8 @@ colaboradores:
 - Tony Kushner
 editoriales:
 - Astiberri
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Tony Kushner
   rol: Introduction
@@ -111,6 +113,7 @@ generos_traducidos:
 - Ficción histórica
 - Gay
 - Histórico
+_hash_origen: a3b7ec3fe6971353c255b891dbf77c8847b7f3b2d332152e3960f5a6f8451ccb
 ---
 
 Stuck Rubber Baby transcurre durante los años 60 en el sur de los Estados Unidos, cuando Kennedy era presidente, las luchas por los derechos civiles estaban en su apogeo y la discriminación estaba a la orden del día. El protagonista de esta historia parcialmente autobiográfica es Toland Polk, un joven blanco sin rumbo rodeado por la olla a presión del racismo y la segregación que, por si fuera poco, es gay, aunque se niegue a admitírselo incluso a sí mismo. A través de su encuentro con todo tipo de gente, Toland se verá obligado a asumir quién es él realmente y el mundo en el que vive.

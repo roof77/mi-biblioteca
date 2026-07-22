@@ -10,6 +10,8 @@ series:
 - Colección Universo DC
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Universo DC: Hitman Nº 1'
@@ -86,6 +88,7 @@ generos_traducidos:
 - Comics
 - DC
 - Novela gráfica
+_hash_origen: f1531b4778f6b6545efb9a03414e12c2cd2307deb89902f41a5bf00a4618c92a
 ---
 
 Contiene The Demon v3 Annual #2, The Batman Chronicles #4, Hitman #1-17 y Hitman Annual #1 USA

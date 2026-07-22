@@ -15,6 +15,8 @@ series:
 - Photo Poche
 editoriales:
 - Thames & Hudson
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Merry A. Foresta
   rol: Introduction
@@ -85,6 +87,7 @@ generos_traducidos:
 - EEUU
 - Biografía
 - Referencia
+_hash_origen: cd64eb2b562fb20e769173007afa618ce102a42b01edc71004d43818498f8898
 ---
 
 He was soon experimenting with different processes—solarization, negative images, multiple exposures—and in 1921 he created the "rayograph." This volume collects together the best of his experimental work, as well as portraits of some of the most important figures in modern art. 

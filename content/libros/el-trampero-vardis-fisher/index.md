@@ -15,6 +15,8 @@ autores:
 - Vardis Fisher
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de El Trampero
@@ -91,6 +93,7 @@ generos_traducidos:
 - EEUU
 - Nativos americanos
 - Novela
+_hash_origen: ac1d311c8556490d2fc2e4165166ee0e79791dfe59eb451d3711020dbe6d1696
 ---
 
 El Trampero fue llevado al cine en Las aventuras de Jeremiah Johnson (1972), de Sydney Pollack, protagonizada por Robert Redford y con guión de John Millius.

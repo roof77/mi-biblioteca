@@ -11,6 +11,8 @@ series:
 - Roy Stuart
 editoriales:
 - Taschen
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Roy Stuart, Vol.2
@@ -69,6 +71,7 @@ generos_traducidos:
 - Erotismo
 - No Ficción
 - Arte
+_hash_origen: 7394b3c7fb887408c6628c0d767ae1678e4639b41507226fc8d755e16532a30f
 ---
 
 In his second book for TASCHEN, Roy Stuart produced photos that were both finely crafted compositions and highly charged representations of desire, without slipping into the tired stereotypes of pornography and the degrading portrayals that genre normally offers up.

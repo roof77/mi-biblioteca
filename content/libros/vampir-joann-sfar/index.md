@@ -17,6 +17,8 @@ series:
 - Grand Vampire
 editoriales:
 - Fulgencio Pimentel
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rubén Lardín
   rol: Translator
@@ -99,6 +101,7 @@ generos_traducidos:
 - Ficción
 - Terror
 - Romance
+_hash_origen: 1a798be3c9ec32d486c464da6a331cd66ce18c0cc614b51037f633c608bcfe72
 ---
 
 Fernand es un vampiro enamoradizo que solo muerde con un colmillo, para evitar dejar demasiadas marcas en sus (consentidas) víctimas. Fernand es un poco ridículo cuando vuela y su problema no son los cazadores de vampiros, sino acabar de aclarar sus ideas para decidirse por alguna de las muchas muchachas con las que no puede evitar flirtear. Y conseguir, claro, que el amor le sea correspondido. Este libro es un bestiario amoroso: los motores que mueven a los vampiros, hombres árbol, golems y brujas novatas que pueblan sus páginas no son el terror y la venganza, sino la pasión y la búsqueda de la propia identidad. Amparado en un argumento romántico y humorístico que tiene más que ver con su propia vida y su familia, el autor desarrolla un relato que es a la vez comedia de situación y fábula universal, abordando temas como el amor y la pérdida, el deseo y la sensualidad, en una narración de largo aliento cargada de humanidad y que conecta con el público de toda edad y condición. Lo hace con ayuda de su dibujo orgánico, apremiante y vivo, heredero de otros grandes como Sempé y Quentin Blake, y lo hace además gracias a la naturalidad aparentemente improvisada de sus chispeantes diálogos.

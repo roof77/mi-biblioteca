@@ -14,6 +14,8 @@ autores:
 - Joyce Carol Oates
 editoriales:
 - Punto de Lectura
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Mamá
@@ -84,6 +86,7 @@ generos_traducidos:
 - Familia
 - EEUU
 - Club de lectura
+_hash_origen: bf4e0a9dc0a96bf592059a4c8f23c85e3eaab35f0dc51b7f49d0ddc3f31b64ea
 ---
 
 Nikki Eaton, single, thirty-one, sexually liberated, and economically self-supporting, has never particularly thought of herself as a daughter. Yet, following the unexpected loss of her mother, she undergoes a remarkable transformation during a tumultuous year that brings stunning horror, sorrow, illumination, wisdom, and even—from an unexpected source—a nurturing love.

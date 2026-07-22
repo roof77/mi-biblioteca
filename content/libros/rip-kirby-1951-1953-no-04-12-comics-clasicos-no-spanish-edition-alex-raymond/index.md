@@ -1,10 +1,16 @@
 ---
 title: Rip Kirby 1951-1953 nº 04/12 (Cómics Clásicos NO) (Spanish Edition)
-tags: []
+tags:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
 autores:
 - Alex Raymond
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1951-1953 nº 04/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -67,7 +73,12 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Clásicos
+- Misterio
+- Tiras
+_hash_origen: 202fad365dd221687dce517765bd9e2c03c6e0c48805bb69e454d68ee4a45283
 ---
 
 La intriga del dominio psicológico de las sectas en "El Gran U", el exotismo del lejano desierto de "Duelo en el desierto" o el protagonismo de un Desmond que toma el papel de detective en ausencia de Kirby en "Música Infernal" podrían ser excelentes razones para leer los episodios de "Rip Kirby" incluidos en este volumen, pero por encima de todos, hay que descubrirse ante "La traición de Dedos Moray", uno de los momentos clásicos de la serie donde el círculo entre Pagan Lee, "Dedos" Moray y Mangler se cerrará en un sorprendente arco argumental en el que los secundarios toman el papel principal y Kirby acude tan sólo como testigo de un terrible drama de odios y pasiones. Raymond desarrolla con genialidad una trama donde Pagan Lee debe enfrentarse a su oscuro pasado, en un crescendo continuo de tensión que mantenía al lector en ansiedad hasta la tira diaria del día siguiente.

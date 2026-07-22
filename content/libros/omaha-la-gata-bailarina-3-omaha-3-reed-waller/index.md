@@ -1,6 +1,11 @@
 ---
 title: 'Omaha, la gata bailarina 3 ( Omaha, #3)'
-tags: []
+tags:
+- Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
 autores:
 - Reed Waller
 colaboradores:
@@ -11,6 +16,8 @@ series:
 - Omaha
 editoriales:
 - Astiberri
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Kate Worley
   rol: Author
@@ -83,7 +90,13 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Comics
+- Erotico
+- Romance
+- Fantasia
+- Ficción
+_hash_origen: 852c224dd9b9830743053df87e71e46584994252e68edf2c246e91735224e4ef
 ---
 
 "Omaha es una historia sobre la vida y el amor que está llena de verdad". Terry Moore

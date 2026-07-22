@@ -13,6 +13,8 @@ series:
 - Love and Rockets Library
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Locas 1 (Love & Rockets, #1)'
@@ -79,6 +81,7 @@ generos_traducidos:
 - LGTBIQ+
 - Ciencia ficción
 - Queer
+_hash_origen: e4ea7f481c5fdaf7435f076910cdde1c70aef3f528cdab76e49c75b1f86457a4
 ---
 
 Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de los 80, durante la eclosión del punk como revulsivo al rock mustio y anquilosado que imperaba en el panorama. Nuestra quinceañera se ve de pronto conectando plenamente con la anarquía, la vitalidad y el idealismo de la movida hardcore, gracias a la cual conoce y se hace amiga de Hopey Grass, otra punkie antiautoritaria. Entre ambas se establecerá una relación temperamental y tumultuosa. A través de sus vivencias conjuntas e individuales, asistiremos a su proceso de madurez como mujeres. Las historietas de Locas funcionan individualmente y por acumulación, creando a través de las vidas de sus protagonistas un exuberante mosaico narrativo. Las capacidades de Jaime Hernandez para caracterizar a sus personajes con detalles psicológicos y culturales, para dotar de dignidad a sus hombres y mujeres de clase trabajadora, crean un universo complejo pero que a la vez respira naturalidad, algo nunca visto en el ámbito del cómic hasta entonces. Su ritmo y su habilidad para componer la acción ponen de manifiesto que Jaime no es sólo uno de los mejores dibujantes que ha dado el medio, sino también un maestro a la hora de contar historias.

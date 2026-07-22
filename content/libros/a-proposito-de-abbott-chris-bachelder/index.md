@@ -13,6 +13,8 @@ colaboradores:
 - Ismael Attrache Sánchez
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ismael Attrache Sánchez
   rol: Translator
@@ -82,6 +84,7 @@ generos_traducidos:
 - Humor
 - Contemporaneo
 - Literatura
+_hash_origen: b1a90eddf9c0b2fabb4955fc8643063f9e7d48f4c13e6ce0a83fe1343aad6676
 ---
 
 Abbott es un profesor universitario de vacaciones, padre exhausto de una niña de dos años, marido de una embarazada insomne y amo de un perro miedoso.

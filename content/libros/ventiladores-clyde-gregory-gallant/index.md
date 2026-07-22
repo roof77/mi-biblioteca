@@ -13,6 +13,8 @@ series:
 - Clyde Fans
 editoriales:
 - Ediciones Sins Entido
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Ventiladores Clyde
@@ -65,6 +67,7 @@ generos_traducidos:
 - Canada
 - Novela
 - EEUU
+_hash_origen: 2495fe91d63731816019cf3bb14f9031a27da818b90b2df08d065b87baa641a8
 ---
 
 Tras "La vida es buena si no te rindes", Seth se adentra de nuevo en un relato de ritmo pausado y tono melancólico. En esta ocasión, el hilo conductor es el monólogo interior de un comercial jubilado que recuerda sus primeros años en la profesión.

@@ -16,6 +16,8 @@ colaboradores:
 - Marta Alcaraz
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Marta Alcaraz
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Ficción americana
 - Moderno
 - Oscuro
+_hash_origen: 1c06f282cf507cdea1dee3793ab28a533f46845973dbfb63ba13918be5203a20
 ---
 
 Peter Jernigan tiene poco más de cuarenta años, vive en un barrio residencial de Nueva Jersey con su hijo adolescente, Danny, y trabaja en una inmobiliaria neoyorquina. Inteligente pero con escaso éxito, Jernigan naufraga en una adocenada vida de la que no consiguen sacarlo ni sus adicciones ni su sarcasmo. Su estrafalaria manera de relacionarse con los demás y la reciente muerte de su mujer lo arrastran a una tortuosa decadencia. Parece que las cosas pueden empezar a cambiar cuando conoce a Martha Peretsky, la madre divorciada de la novia de su hijo, e inician una prometedora relación. 

@@ -10,6 +10,8 @@ autores:
 - Richard Lloyd
 editoriales:
 - Contra
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Material inflamable
@@ -73,6 +75,7 @@ generos_traducidos:
 - No Ficción
 - Memorias
 - Historia
+_hash_origen: 28bcd1b4d5124bbb2fc4cbfb394eb77359f68198f587d709e442cdb69915fcbb
 ---
 
 Richard Lloyd vivió en carne propia una de las épocas más fértiles y convulsas de la historia del rock. A partir de una serie de recuerdos, traumas, experiencias al límite y pensamientos entre visionarios y delirantes a modo de intensos fogonazos, el mítico guitarrista y fundador del grupo Television da buena cuenta de la gestación de uno de los mejores discos de rock de todos los tiempos: el seminal Marquee Moon (1977), cuyo diálogo-batalla de guitarras con Tom Verlaine marcó un antes y un después en la historia de la música popular. En estas páginas arrebatadas, también se reviven momentos fundamentales de la escena musical de finales de los setenta, como el auge del mítico club neoyorquino CBGB —un antro cuya programación Lloyd animó personalmente y que dio lugar a los primeros conciertos de los Ramones, Blondie, Talking Heads o los propios Television— y encuentros inolvidables con Jimi Hendrix, Keith Moon, Buddy Guy, John Lee Hooker, Keith Richards o Led Zeppelin.

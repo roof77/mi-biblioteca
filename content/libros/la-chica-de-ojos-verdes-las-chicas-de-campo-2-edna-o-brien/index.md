@@ -19,6 +19,8 @@ series:
 - The Country Girls Trilogy
 editoriales:
 - Errata Naturae
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Regina López Muñoz
   rol: Translator
@@ -103,6 +105,7 @@ generos_traducidos:
 - Mujeres
 - Coming of age
 - Clásicos modernos
+_hash_origen: 53ed2f6cfad37589cf1911260ba1cdd1d1be4c0fa29bcdd7bf8142be5accfff1
 ---
 
 Caithleen (luego Kate) y Baba, dos amigas irlandesas —encantadoras unas veces, contradictorias otras—, se han instalado, tras una adolescencia de paisajes rurales e internados, en una excéntrica pensión de Dublín. Bajo las luces de la gran ciudad, sus vidas giran y se agitan en torno al tumulto y la confusión de las nuevas amistades, las madrugadas fuera de casa, las aventuras y desventuras, y los amoríos insignificantes.

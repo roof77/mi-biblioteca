@@ -17,6 +17,8 @@ colaboradores:
 - Gabriela Bustelo
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gabriela Bustelo
   rol: Translation
@@ -132,6 +134,7 @@ generos_traducidos:
 - Literatura
 - Novella
 - Coming of age
+_hash_origen: 58e8ba0ab602be6376331c4c1ad093fd1f1acbf2bcc376582c4705e92a34e4a0
 ---
 
 William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de Illinois, en el que dos familias comparten muchas cosas, tantas que los celos llevan finalmente a un asesinato. El crimen sacude la comunidad y rompe la amistad que unía a dos niños solitarios: el narrador de la novela -un chico que ha perdido a su madre recientemente- y Cletus, hijo del homicida; tras el suceso no volverán a hablarse. Al narrador esa ruptura le afectará, pero no será hasta mucho después, casi cincuenta años más tarde, cuando se de cuenta de cuánto le ha marcado y vuelva sobre aquellos hechos: sobre su amistad con Cletus y sobre los acontecimientos que precedieron al asesinato. Si en Vinieron como golondrinas Maxwell retrató la infancia y primera adolescencia y en La hoja plegada mostró el paso de la adolescencia a la edad adulta, en Adiós, hasta mañana explora las misteriosas fuerzas que nos obligan a examinar nuestro pasado. Construida a partir de sus recuerdos juveniles, Adiós, hasta mañana está considerada como su mejor novela, por la que obtuvo el American Book Award en 1980. Ahora se presenta en una nueva traducción.

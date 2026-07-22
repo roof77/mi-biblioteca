@@ -16,6 +16,8 @@ colaboradores:
 - Shaila Correa
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Shaila Correa
   rol: Translator
@@ -81,6 +83,7 @@ generos_traducidos:
 - Adultos
 - Oscuro
 - Fantasmas
+_hash_origen: a7cfec3a73dcb288c60ccf36a38a8780fa0f26de1005e7f524e7a0d937a5694d
 ---
 
 Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noche. Pero a principios de los 90 las descargas no son del todo fiables, y terminan viendo el suicidio televisado de un político. A partir de este momento, el hombre muerto de la cinta los acosa sin descanso, se les aparece en sueños y les tienta con la idea de morir. Solo buscan librarse de él, pero se darán cuenta de que han emprendido un camino del que no hay retorno. ¿Qué pueden hacer para detenerlo? Cualquier cosa que intenten, solo conseguirá enredarlos aún más en las fauces sanguinolientas del hombre muerto.

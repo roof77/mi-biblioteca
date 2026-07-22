@@ -16,6 +16,8 @@ traductores:
 - Jesús Zulaika
 editoriales:
 - Anagrama
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de La trama nupcial
@@ -142,6 +144,7 @@ generos_traducidos:
 - Literatura
 - EEUU
 - Ficción adulta
+_hash_origen: 827d6230f381436874159f3dcb2aa81a544bf5004e1a296dbe0815d6fe2bbbe6
 ---
 
 Estamos a principios de los años ochenta del siglo pasado. Madeleine Hanna, una romántica incurable que está escribiendo su tesis sobre el amor en Jane Austen y George Eliot. También ella se convertirá en protagonista de una historia de amor apasionada, dolorosa e intensa. Porque en su vida aparecerán dos hombres muy diferentes. Leonard Bankhead, solitario, carismático y brillante estudiante de ciencias, y Mitchell Grammaticus, estudiante de teología atormentado por las dudas. Una vez finalizada la universidad, el triángulo se mantendrá, obligándoles a enfrentarse con el final de la juventud y a reflexionar sobre el sentido último de la vida y la verdadera naturaleza del amor.

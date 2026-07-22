@@ -18,6 +18,8 @@ series:
 - Legends West
 editoriales:
 - Galaxia Gutenberg
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Benito Gómez Ibáñez
   rol: Translator
@@ -94,6 +96,7 @@ generos_traducidos:
 - EEUU
 - Histórico
 - Ficción Literaria
+_hash_origen: a2417bf9208661dee0c853a53fc87eaf6ab8341e81bf9483ab49351a5e34616b
 ---
 
 Agosto de 1880. La canícula y la densa neblina desdibujan los contornos de la ciudad fronteriza de Warlock,un lugar huérfano de ley donde el robo, las reyertas y elcrimen están a la orden del día. El puesto de ayudante del sheriff pesa como una maldición sobre quien se atreve a ocuparlo; pocos tienen el valor de intervenir enlas trifulcas entre mineros borrachos y fulleros, y menos aún de enfrentarse a la banda de cuatreros liderada por Abe McQuown. Pero un nuevo pistolero ha llegado a la ciudad. Armado con sus Colt Frontiers de oro, Clay Blaisedell acepta el reto que le ofrece el Comité de Ciudadanos de ser el nuevo comisario de Warlock. Pero tal vez su temple y sus revólveres no sean suficientes para implantar el orden en una ciudad que devora a un hombre cada mañana.

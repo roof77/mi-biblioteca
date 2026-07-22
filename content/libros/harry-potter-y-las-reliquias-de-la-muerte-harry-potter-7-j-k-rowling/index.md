@@ -15,6 +15,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Harry Potter y las Reliquias de la Muerte (Harry Potter, #7)'
@@ -207,6 +209,7 @@ generos_traducidos:
 - Niños
 - Aventuras
 - Clásico
+_hash_origen: 2f1c4ca280794b64dead723dccf85b1a230bf8174a07353178df16dda9fa358d
 ---
 
 La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el encantamiento protector que lo mantiene a salvo. El anunciado enfrentamiento a muerte con lord Voldemort es inminente, y la casi imposible misión de encontrar y destruir los restantes Horrocruxes más urgente que nunca. Ha llegado la hora final, el momento de tomar las decisiones más difíciles. Harry debe abandonar la calidez y seguridad de La Madriguera para seguir sin miedo ni vacilaciones el inexorable sendero trazado para él. Consciente de lo mucho que está en juego, sólo dentro de sí mismo encontrará la fuerza necesaria que lo impulse en la vertiginosa carrera para enfrentarse con su destino.

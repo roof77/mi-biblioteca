@@ -13,6 +13,8 @@ series:
 - Peepshow
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Pobre cabrón
@@ -44,7 +46,7 @@ detalles:
   editorial: La Cúpula
   formato: null
   paginas: null
-  idioma: null
+  idioma: Spanish; Castilian
   isbn: '8478336907'
   isbn13: '9788478336906'
   publicacion: null
@@ -69,6 +71,7 @@ generos_traducidos:
 - No Ficción
 - Biografía
 - Autobiografía
+_hash_origen: 51e6a382cfd1fd27af6f4a1a10194c5a1816ec62e69e0d765967e218484fe1ac
 ---
 
 Obsédé sexuel, dur au mal, âpre au gain, pingre et jaloux... voici Joe Matt ! Dans Le Pauvre Type, Joe a une copine, Trish, mais il fantasme sur une copine à elle et poursuit sans vergogne ses pratiques masturbatoires. Comme d'habitude, Joe fait part à ses amis Seth et Chester Brown de ses délires égocentriques lors de longues discussions au café, devenues l'une de ses marques de fabrique.

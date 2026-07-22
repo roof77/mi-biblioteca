@@ -50,6 +50,8 @@ colaboradores:
 - E.T.A. Hoffmann
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Charles Nodier
   rol: Author
@@ -230,6 +232,7 @@ generos_traducidos:
 - Relatos
 - Fantasía
 - Gótico
+_hash_origen: 21dd7df1ff9aedb4e40a1accd359cf65818fbf1fe3201ac5e95673e79ee48b9f
 ---
 
 Tras quince años de labor ininterrumpida en el inagotable campo de la literatura fantástica y de terror, la editorial Valdemar ha llegado a reunir en sus colecciones -especialmente Gótica y El Club Diógenes- cerca de mil relatos de terror cuyos autores han volcado su peculiar genio y buen hacer con el sano y loable objetivo de «meter miedo» (acelerar el pulso, suspender la respiración...) a sus asombrados y agradecidos lectores. Felices pesadillas pretende ser tan sólo, y nada menos, el crisol en el que se ha mezclado lo más granado de esta cosecha  la quintaesencia del miedo. Reúne esta antología, más representativa que exhaustiva, cuarenta relatos de otros tantos autores, y el lector descubrirá en ella, pues así se ha pretendido, los temas clásicos de los cuentos de  la muerte, los fantasmas, el diablo, los vampiros, los sabios psicópatas, la venganza, la fatalidad... El aficionado a los cuentos de terror encontrará en este volumen una buena guía para sumergirse en las oscuras aguas del género, un atlas de una geografía fantástica que se parece mucho a nuestra propia mente, uno de los mejores candidatos a acompañar nuestras noches de insomnio o a poblar el vacío anaquel de un náufrago en una isla desierta. «Felices pesadillas es una de las mejores antologías del género fantástico y sobrenatural. La editorial Valdemar premia así a sus lectores al reunir en estas páginas cuarenta joyas representantivas del tesoro que administra [...] He leído en mi vida muchas docenas de antologías de cuentos de terror pero me atrevo a decir que ésta las supera a todas, tanto por su generosa amplitud como por el tino de la selección» (Fernando Savater, El País).

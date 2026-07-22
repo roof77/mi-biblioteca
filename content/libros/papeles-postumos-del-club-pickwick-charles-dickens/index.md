@@ -16,6 +16,8 @@ colaboradores:
 - Manuel Ortega y Gasset
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Manuel Ortega y Gasset
   rol: Translator
@@ -123,6 +125,7 @@ generos_traducidos:
 - Literatura británica
 - Ficción histórica
 - Novela
+_hash_origen: d9aeae000c960dd55216babb359152bd4569acca504318a8a1037a2667b8f242
 ---
 
 La aparición en entregas mensuales de PAPELES PÓSTUMOS DEL CLUB PICKWICK a partir de marzo de 1836 significó para CHARLES DICKENS (1812-1870) su consagración como escritor y su salto a la fama. La jocosa visión de Mr. Pickwick y la narración de sus divertidas peripecias constituyen a la vez una despedida de la superficie amable de la sociedad preindustrial y un ingreso subrepticio en la ruidosa, prepotente y contradictoria sociedad victoriana que por entonces vivía sus albores. La invención de personajes que con el paso del tiempo habrían de convertirse en arquetipos para describir comportamientos cotidianos y la descripción de escenarios y ambientes, a la vez retrato de una realidad histórica y modelo de transfiguración artística, son los mayores logros de esta célebre novela de Dickens, repartida en la presente edición en tres volúmenes (L 5605, L 5606 y L 5607).

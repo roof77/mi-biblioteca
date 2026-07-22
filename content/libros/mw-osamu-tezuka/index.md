@@ -17,6 +17,8 @@ series:
 - MW
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de MW
@@ -79,6 +81,7 @@ generos_traducidos:
 - Literatura japanesa
 - Seinen manga
 - Crimen
+_hash_origen: 84c128d723b7b7a840d3e38d464f7d6c67de9de75b003431fd49f89f41e47acc
 ---
 
 En MW, Tezuka aborda temas como la homosexualidad, la corrupción política, las bombas por parte de la izquierda más radical y el mayor escándalo descubierto en 1974 en el que entonces primer ministro japonés aceptó un soborno de millones de dólares de una empresa de armamento norteamericana.

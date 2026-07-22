@@ -14,6 +14,8 @@ autores:
 - Charles      White
 editoriales:
 - Penniman Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Ooooh, My Soul!!! La explosiva vida de Little Richard
@@ -80,6 +82,7 @@ generos_traducidos:
 - Religión
 - Afroamericanos
 - LGTBIQ+
+_hash_origen: 40774c012074b941c8e5a32d94a1cc14fd6ca1be6d7767092c11424537cc486f
 ---
 
 Cuando Little Richard irrumpió en la escena musical de los años cincuenta ya nada volvió a ser igual. Su insólita imagen, su voz inimitable y su salvaje piano, liberaron de sus inhibiciones a millones de jóvenes, negros y blancos. Sus actuaciones eran tan explosivas que nadie pensó que el hombre de carne y hueso podía llegar a ser tan fascinante como su figura pública. Este libro de Charles White revela la extraordinaria historia y las sucesivas vidas de Richard Wayne Penniman. Sin ahorrar detalles sobre su indomable infancia y adolescencia en un pueblo del profundo Sur, su apabullante vida sexual, su relación de amor/odio con el rock’n’roll o sus problemas con las drogas, White ofrece un fidedigno retrato -a ratos crudo, a ratos hilarante- del Melocotón de Georgia. La personalidad de Richard, tan libérrima y compleja como arrolladora, consiguió pulverizar todos los tabúes raciales y sexuales de la época hasta convertirse en la fuerza primigenia del rock’n’roll. Elvis Presley se refería a él como “el más grande”. Otis Redding lo describió como “mi inspirador”. James Brown lo consideraba su ídolo.

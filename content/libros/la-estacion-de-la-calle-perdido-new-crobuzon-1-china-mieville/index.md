@@ -19,6 +19,8 @@ series:
 - New Crobuzon
 editoriales:
 - La Factoría de Ideas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carlos Lacasa Martín
   rol: Translator
@@ -163,6 +165,7 @@ generos_traducidos:
 - Ficción extraña
 - Ciencia Ficción
 - Ficción especulativa
+_hash_origen: cdc01263991c90154722274e605067894d43c44148ad35c01fa0adca0ade4a38
 ---
 
 La metrópolis de Nueva Crobuzon se extiende desde el centro del mundo. Humanos, mutantes y razas arcanas malviven en la penumbra bajo sus chimeneas, donde el río se torna viscoso por los afluentes artificiales, donde las fábricas y fundiciones amartillan la noche. Durante más de mil años, el Parlamento y su brutal milicia han gobernado una vasta economía de obreros y artistas, espías y soldados, magos, yonquis y prostitutas. Pero acaba de llegar un extraño con el bolsillo lleno y una demanda imposible. De forma torpe, inadvertida, algo impensable es liberado. 

@@ -15,6 +15,8 @@ colaboradores:
 - Zulema Couso
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Zulema Couso
   rol: Translator
@@ -81,6 +83,7 @@ generos_traducidos:
 - Historia
 - Feminismo
 - Memorias
+_hash_origen: 3826680a8a1a84d8a2a44dfc656ba6060c9f9c5ee13ffb767366811c2703a224
 ---
 
 Dirty Dancing nos enseñó que, sí, las mujeres abortan. La princesa prometida nos enseñó que el amor verdadero no es un cuento de hadas. Cazafantasmas nos enseñó que la amistad masculina no tiene por qué ser inmadura. Todo en un día nos enseñó que siempre habrá clases sociales. No sabíamos que las películas que nos cambiaron la vida también nos estaban preparando para las luchas de hoy. Un ensayo revelador. «Adoro estas películas porque son desternillantes, tiernas e inteligentes, porque son divertidas. Son Buenas, con B mayúscula, y también están infravaloradas. Estas películas no solo nos hicieron felices, sino que nos enseñaron mucho más que las películas de hoy en día. Sí, La fuerza está en ti, Lone Starr, por citar una de las películas de los ochenta que me gustaba tanto de niña que vi la cinta hasta que quedó destrozada. Pero les debo a estas películas que la fuerza esté en mí. Gracias a ellas, la verdadera fuerza de los ochenta siempre será intensa en nosotros.»

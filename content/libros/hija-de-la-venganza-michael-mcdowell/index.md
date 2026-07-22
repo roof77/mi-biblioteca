@@ -15,6 +15,8 @@ colaboradores:
 - Pedro Oyarbide
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Carles Andreu
   rol: Translator
@@ -103,6 +105,7 @@ generos_traducidos:
 - Histórico
 - Gótico
 - EEUU
+_hash_origen: 4212cf51bba275cd7d767f5ed7b810ac6efb731b55158bb221f49ba39c218418
 ---
 
 Cuando en 1871 la intrépida y arruinada Philomela Drax recibe una carta de su abuelo en la que le confiesa temer por su vida a causa de una familia sin escrúpulos, los Slape, no duda en acudir en su ayuda.

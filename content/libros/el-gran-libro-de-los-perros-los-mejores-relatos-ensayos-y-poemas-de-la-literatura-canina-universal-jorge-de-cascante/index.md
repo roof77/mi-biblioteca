@@ -1,6 +1,9 @@
 ---
 title: 'El gran libro de los perros: Los mejores relatos, ensayos y poemas de la literatura canina universal'
-tags: []
+tags:
+- Animales
+- Perros
+- Antología
 autores:
 - Jorge  de Cascante
 colaboradores:
@@ -46,6 +49,8 @@ colaboradores:
 - Muriel Spark
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Alexandre Reverdin
   rol: Illustrator
@@ -215,7 +220,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Animales
+- Perros
+- Antología
+_hash_origen: 09f5c57629de7fd6414e5cbc652c1bb4b7bd286636e49afcefd8c5b68110df7f
 ---
 
 «El Gran Libro de los Perros» es la referencia número 100 de la colección Blackie Books de ensayo y novela. Un homenaje a la literatura canina y a dos perros en particular: Blackie y Lino, a quien debemos la existencia de esta editorial. Este volumen recoge setenta y seis piezas largas y doscientas citas perrunas, cada una de un autor o autora distinto, y de todo tipo de pelaje literario: de Virginia Wolf a Neil Gaiman, Lord Dunsany, Anaïs Nin, Donald Barthelme, Beatrix Potter, Jean-Claude Carrière, Joy Williams, Valle Inclán, Grace Paley, Liv Ullmann, Saul Bellow, Nancy Mitford, Antonio Machado, Doris Lessing, Tobias Wolff, Alejandra Pizarnik, Mark Strand y muchísimos más nombres.

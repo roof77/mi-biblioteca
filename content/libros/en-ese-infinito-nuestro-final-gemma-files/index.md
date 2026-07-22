@@ -16,6 +16,8 @@ colaboradores:
 - Pilar Ramírez Tello
 editoriales:
 - La Biblioteca de Carfax
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Pilar Ramírez Tello
   rol: Translator
@@ -86,6 +88,7 @@ generos_traducidos:
 - Fantasía
 - Oscuro
 - Sobrenatural
+_hash_origen: 5f6a812e355a180202b92e24549a26c4e88a35d18b0d4ac0ccc38f0b226e8135
 ---
 
 En este volumen se recogen quince nuevas pesadillas seductoras, escalofriantes y repletas de terror existencial: «Así están las cosas», «Bombilla», «El Motel de las Marionetas», «Acércate más», «Fotograma recortado», «Higiene del sueño», «Siempre después de las tres», «Manos frías y delgadas», «Venio», «Mira arriba», «La iglesia de las montañas», «Lugares oscuros y lejanos», «La luna llena del gusano», «Aullido» y «Cuco».

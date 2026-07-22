@@ -16,6 +16,8 @@ series:
 - Historia Universal Asimov
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Los egipcios
@@ -105,6 +107,7 @@ generos_traducidos:
 - Antropología
 - Historia antigua
 - Literatura hispana
+_hash_origen: f586036ada7d23066d91d03646c6a99046e930502649298b12dfdd444daeda32
 ---
 
 La serie informalmente titulada «Historia Universal Asimov» reúne las obras dedicadas por el gran novelista y divulgador científico a la evolución política, cultural y material de la especie humana. 

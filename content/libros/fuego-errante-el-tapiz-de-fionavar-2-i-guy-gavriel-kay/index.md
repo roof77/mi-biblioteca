@@ -16,6 +16,8 @@ series:
 - The Fionavar Tapestry
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Fuego errante (El tapiz de Fionavar, #2) I'
@@ -81,6 +83,7 @@ generos_traducidos:
 - Canada
 - Aventuras
 - Mágia
+_hash_origen: a40ed3b9ee0393f104a60decc880351be9fe34a22a6f3213340f44d7e5751b71
 ---
 
 Nuestros cinco protagonistas deben hacer de nuevo la travesía desde su mundo hasta Fionavar para desempeñar sus respectivos papeles: Kimberly perturbará a los muertos en su reposo y llevará a los vivos a su destino; Dave Martyniuk portará el Cuerno y ocupará su puesto de combate en la Llanura, entre los dalreis; Paul Schafer, el Señor del Árbol del Verano, entretejerá una vez más el hilo esplendoroso de su vida en el tapiz; Jennifer Lowel se convertirá en protagonista de un destino atemporal; y Kevin Laine descubrirá por fin que su misión en la lucha es salvar del Desenmarañador a los mundos del Tejedor.

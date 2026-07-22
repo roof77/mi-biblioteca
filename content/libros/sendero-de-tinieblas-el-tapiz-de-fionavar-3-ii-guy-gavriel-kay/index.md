@@ -18,6 +18,8 @@ series:
 - The Fionavar Tapestry
 editoriales:
 - Planeta de Agostini
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Teófilo de Lozoya
   rol: Translator
@@ -98,6 +100,7 @@ generos_traducidos:
 - Arturiano
 - Mágia
 - Aventuras
+_hash_origen: ab9aa600f9996c8ff2c4f9dac180a8f0579f529b91262eaeebc8e22d7a55cc56
 ---
 
 Los jóvenes héroes de esta historia han ido adquiriendo poder y madurez a través de las aventuras vividas en Fionavar, el «primero» y más perfecto de los mundos. Ahora deben aplicar la fuerza y sabiduría asimiladas para ayudar a los ejércitos de la Luz en la definitiva batalla contra la maldad de Rakoth Maugrim y las hordas de las Tinieblas. En un fantasmal barco, conducido por el legendario guerrero, Arturo Pendragon, y por Pwill el Dos Veces Nacido, señor del Árbol del Verano, las fuerzas del Bien deben navegar hacia la pavorosa fortaleza de Starkadh, para enfrentarse allí con el Desenmarañador.

@@ -17,6 +17,8 @@ colaboradores:
 - Fernando Borrajo
 editoriales:
 - Impedimenta
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Fernando Borrajo
   rol: Translator
@@ -95,6 +97,7 @@ generos_traducidos:
 - Clásico
 - Literatura
 - Siglo XX
+_hash_origen: 3a5265de263f92700406e213c975a1504a2d6869de5dcca100bfe8858d6e7b6b
 ---
 
 Cuando Friedrich von Hardenberg, quien más tarde tomaría el nombre de Novalis, le habla de la flor azul a su querida Sophie, una niña de doce años de la que se enamora en un primer encuentro, lo hace en el tono misterioso, secreto, de quien no ha descifrado todavía el significado del que será el símbolo del romanticismo alemán. Fritz es un joven brillante, un genio. Ha estudiado dialéctica y matemáticas, es amigo del crítico Schlegel, del filósofo Fichte y del gran Goethe, y ahora ha de aceptar un trabajo que no desea como inspector de minas de sal. Escribe poesía, ha empezado una novela y, sobre todo, desea ser feliz junto a su «sabiduría», la joven Sophie, que ha nacido para estar alegre y reír sin cesar. Ninguno de los dos sabe aún que su búsqueda de la belleza y del infinito tendrá que enfrentarse a duras pruebas. Una obra exquisita en la que la pasión del romanticismo se fusiona con la templanza de una escritura magistral.

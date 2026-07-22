@@ -19,6 +19,8 @@ series:
 - The Walking Dead
 editoriales:
 - Image Comics
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Charlie Adlard
   rol: Illustrator
@@ -94,6 +96,7 @@ generos_traducidos:
 - Postapocalíptico
 - Distopía
 - Fantasía
+_hash_origen: ac6aafe4af2041f61bf989a0cb60c87643fff638bee417d237df1e45371f1a18
 ---
 
 Introducing the first eight volumes of the fan-favorite, New York Times Best Seller series collected into one massive paperback collection! Collects The Walking Dead #1-48. This is the perfect collection for any fan of the Emmy Award-winning television series on AMC: over one thousand pages chronicling the beginning of Robert Kirkman''s Eisner Award-winning continuing story of survival horror- from Rick Grimes'' waking up alone in a hospital, to him and his family seeking solace on Hershel''s farm, and the controversial introduction of Woodbury despot: The Governor. In a world ruled by the dead, we are finally forced to finally start living.

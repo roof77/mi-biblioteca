@@ -16,6 +16,8 @@ colaboradores:
 - Manuel Ortega y Gasset
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Manuel Ortega y Gasset
   rol: Translator
@@ -118,6 +120,7 @@ generos_traducidos:
 - Literatura británica
 - Ficción histórica
 - Novela
+_hash_origen: 4ff507e2727a704fac41ef077bde11d46d7ba552eda7a2232453b6310920bd8e
 ---
 
 With its scores of delightful, improbably named characters, this story of the celebrated Pickwick Club--wherein the members report on their journeys, adventures, and observations of manner--reels with joyous fantasy, infectious good humor, and a touch of the macabre.

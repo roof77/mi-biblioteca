@@ -17,6 +17,8 @@ series:
 - Meine wundervolle Buchhandlung
 editoriales:
 - Periférica
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Manolo Laguillo
   rol: Translator
@@ -88,6 +90,7 @@ generos_traducidos:
 - Memorias
 - Club de lectura
 - Humor
+_hash_origen: 3989f38f59383bb27e1951c8dce754384ae34dd601bf297712193a99f6e80267
 ---
 
 Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez años atrás, estando de vacaciones en Viena, su ciudad de origen, supo de una bonita librería de barrio que cerraba sus puertas y estaba a la venta. Lo que en principio se planteó como una especie de broma (¿por qué no la compramos nosotros?), provocó en pocas semanas un cambio radical de vida, de ciudad y de oficio. Pero no fue fácil, tuvo que luchar contra un sinfín de contratiempos; no estaba preparada para convertirse en empresaria, y tampoco lo estaba para ser al mismo tiempo librera, esposa y madre. Este libro cuenta la historia de un desafío: cómo conseguir que una librería pequeña, tradicional y de barrio se convierta en el núcleo indispensable de la vida en comunidad de una ciudad europea en el siglo XXI. Una estupenda historia sobre cómo conseguir aquello que amamos. Una historia llena de divertidas anécdotas y emociones sin fin, que logra, gracias a una escritura ágil, directa y muy empática, que todos seamos partícipes de las alegrías y los problemas de Petra. Es, además, una maravillosa descripción de la vida diaria de muchas librerías y en muchos países: un mundo en miniatura en el que, de algún modo, habitamos todos aquellos que amamos los libros.

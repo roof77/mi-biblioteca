@@ -18,6 +18,8 @@ series:
 - The Mistborn Saga
 editoriales:
 - Nova
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Rafael Marín Trechera
   rol: Translator
@@ -126,6 +128,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Aventuras
 - Jovenes adultos
+_hash_origen: 043d85f30ca3b97f4cb0ef78e5d55078a3d9f33ce75eeed5f5d67da7d3d0dd6b
 ---
 
 Durante mil años nada ha cambiado: han caído las cenizas, los skaa han sido esclavizados y el Lord Legislador ha dominado el mundo. Pero lo imposible ha sucedido. El Lord Legislador ha muerto. Sin embargo, vencer y matarlo fue la parte sencilla. El verdadero desafío será sobrevivir a las consecuencias de su caída.

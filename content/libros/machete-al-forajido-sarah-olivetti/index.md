@@ -5,6 +5,8 @@ autores:
 - Sarah Olivetti
 editoriales:
 - Proyecto Estefanía
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Machete al forajido
@@ -48,6 +50,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 2f8d0f31d71bb719d96dc7669d4cef8c854ea230449136e90d5fad7c2ab8494c
 ---
 
 

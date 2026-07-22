@@ -18,6 +18,8 @@ colaboradores:
 - Andrés Ibáñez
 editoriales:
 - Impedimenta
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: José Pazó Espinosa
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Literatura asiática
 - Humor
 - Siglo XX
+_hash_origen: ed1bbe65a4e8d29019ade91e721f652b3da540ef1c8092f9e5beac494b5a35dd
 ---
 
 Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde hace más de cien años, una de las novelas más celebradas por los lectores de aquel país. Considerada el Huckleberry Finn nipón, y comparada también con El guardián entre el centeno, narra las aventuras de Botchan, un joven tokiota descreído y cínico, alter ego de Soseki, al que mandan como profesor a una escuela rural situada en la remota isla de Shikoku. En su nuevo destino pronto se topará con una serie de insólitos personajes, como el jefe de estudios «Camisarroja» o el «Calabaza», un triste profesor de ciencias de aspecto enfermizo y ánimo sombrío. Pero sobre todo se verá obligado a hacer frente a una auténtica caterva de fieros alumnos asilvestrados, que se consagrarán a hacerle la vida imposible.

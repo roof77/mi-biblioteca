@@ -16,6 +16,8 @@ colaboradores:
 - Rodrigo Fresán
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Rodrigo Fresán
   rol: Contributor
@@ -85,6 +87,7 @@ generos_traducidos:
 - Siglo XX
 - Novela
 - Judaismo
+_hash_origen: 8c4d6afd4af22a25b5e3716bab045762c0febba83b785cef289d51a3380c281f
 ---
 
 Norman Moonbloom es un perdedor, un pacífico inadaptado que, tras alargar sus años de universidad hasta la treintena, se ve obligado a aceptar el trabajo que le ofrece su hermano como administrador de unos apartamentos en Manhattan. Durante las visitas a los inquilinos, en las que tendrá que soportar sus indignadas quejas sobre el estado de las viviendas, conocerá una variopinta galería de personajes que son, en realidad, arquetipos del Nueva York de los cincuenta. Poco a poco, Norman irá asomándose a las vidas de sus arrendatarios, descubriendo sus más íntimos deseos y penas. Su trato será el detonante de importantes cambios en la vida de Moonbloom quien, desoyendo las exigencias de rentabilidad de su hermano y las indicaciones del sentido común, se embarcará en un desesperado intento por mejorarles la vida.

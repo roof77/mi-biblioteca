@@ -18,6 +18,8 @@ colaboradores:
 - Laura Pacheco
 editoriales:
 - Duermevela
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carla Bataller Estruch
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Novella
 - Histórico
 - Ficción
+_hash_origen: 79daedae85ef54a516e52ecea4d6b14e7927edaa6213ac5fdf2e7db3e68f7e37
 ---
 
 Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y World Fantasy

@@ -20,6 +20,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gemma Gallart
   rol: Translator
@@ -105,6 +107,7 @@ generos_traducidos:
 - Ciencia ficción
 - Aventuras
 - Acción
+_hash_origen: 769c39d117909b7bf6199c904eea3468a4a48627e14ce447a90da8f7507e8341
 ---
 
 Hace tiempo, mucho tiempo, la maldad de la humanidad provocó la ruina del mundo. La Madre Tierra, cansada de la ingratitud de sus hijos, desató su cólera y quiso vengarse de ellos. Todo quedó aniquilado, arrasado; los hombres aullaban y clamaban piedad, pero la Tierra no los escuchó.

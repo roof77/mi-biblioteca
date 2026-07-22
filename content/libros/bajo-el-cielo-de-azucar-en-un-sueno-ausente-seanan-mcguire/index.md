@@ -2,6 +2,8 @@
 title: Bajo el cielo de azúcar / En un sueño ausente
 tags:
 - Fantasía
+- Sobrenatural
+- Novella
 autores:
 - Seanan McGuire
 colaboradores:
@@ -12,6 +14,8 @@ series:
 - Wayward Children
 editoriales:
 - Alianza Runas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: María Pilar San Román
   rol: Translator
@@ -78,6 +82,9 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Fantasía
+- Sobrenatural
+- Novella
+_hash_origen: c8671314a93bce5a5e6451b22bf999aaf4e037f71049ee3e37bce786fb57aa79
 ---
 
 En  Bajo el cielo de azúcar  volvemos a la Residencia para niños descarriados de Eleanor West cuando Rini aterriza en el estanque de la residencia y descubre que su madre, Sumi, murió años antes de concebirla. Ahora Rini tiene que recuperar a su madre. De lo contrario, nunca habría llegado a nacer.

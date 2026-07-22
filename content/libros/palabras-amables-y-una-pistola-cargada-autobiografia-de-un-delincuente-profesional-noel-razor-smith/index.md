@@ -7,6 +7,8 @@ colaboradores:
 - Diego de los Santos Domingo
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Diego de los Santos Domingo
   rol: Translator
@@ -61,6 +63,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 75eaa71baffaf4374016147a19e2930c03a08532857d80c03a2a16ec8a60a71a
 ---
 
 "Palabras amables y una pistola cargada" (2004) es la autobiografía del exdelincuente británico Noel «Razor» Smith (1960), quien ha pasado buena parte de su vida adulta en prisión. Un relato extraordinariamente vívido de cómo un jovencísimo gamberro del sur de Londres se convirtió, tras ser torturado y acusado injustamente por la policía, en uno de los atracadores de bancos más activos de Londres. El libro es tanto una acusación mordaz de un sistema que brutalizaba con determinación a los jóvenes delincuentes como un reconocimiento franco y sin sentimentalismos de las emociones de la vida criminal. «Con unas cuantas palabras amables y una pistola cargada llegarás más lejos que solo con unas cuantas palabras amables.» Alphonse "Scarface" Capone

@@ -19,6 +19,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Victoria Simó Perales
   rol: Translator
@@ -32,11 +34,15 @@ libro:
   titulo: 'Entrelazados (Heartstopper, #6)'
   url: https://www.goodreads.com/book/show/251710663-heartstopper-6-entrelazados
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1777658421i/251710663.jpg
-  sinopsis: "Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic\
-    \ novel series about life, love, and everything that happens in between.\r\n\r\nEveryone in school knows Nick and Charlie.\
-    \ Everyone knows they're going to be together forever.\r\n\r\nBut Charlie's busy with his bid to become head boy. And\
-    \ while Nick is preparing to leave for uni, he's starting to wonder who he'll be . . . without Charlie.\r\n\r\nContains\
-    \ discussions around mental health and eating disorders, and sexual references."
+  sinopsis: '¡La entrega final de la exitosa serie Heartstopper!
+
+    Chico conoce a chico. Los chicos se hacen amigos. Los chicos se enamoran.
+
+    La entrega final de la exitosa serie de novelas gráficas LGBTQ+ sobre la vida, el amor y todo lo que ocurre entre medio.
+
+    Todo el mundo en el colegio conoce a Nick y Charlie. Todo el mundo sabe que estarán juntos para siempre. Pero Charlie
+    está ocupado con su candidatura para convertirse en head boy. Y mientras Nick se prepara para irse a la universidad, empieza
+    a preguntarse quién será… sin Charlie.'
 autor:
   nombre: Alice Oseman
   rol: Author
@@ -88,12 +94,10 @@ generos_traducidos:
 - Ficción
 - Gay
 - Salud mentál
+_hash_origen: a1b5225996806ec18ac8c6593f95ee7f1e7abde1f74d3cb33a3babed57031087
 ---
 
-Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic novel series about life, love, and everything that happens in between.
-
-Everyone in school knows Nick and Charlie. Everyone knows they're going to be together forever.
-
-But Charlie's busy with his bid to become head boy. And while Nick is preparing to leave for uni, he's starting to wonder who he'll be . . . without Charlie.
-
-Contains discussions around mental health and eating disorders, and sexual references.
+¡La entrega final de la exitosa serie Heartstopper!
+Chico conoce a chico. Los chicos se hacen amigos. Los chicos se enamoran.
+La entrega final de la exitosa serie de novelas gráficas LGBTQ+ sobre la vida, el amor y todo lo que ocurre entre medio.
+Todo el mundo en el colegio conoce a Nick y Charlie. Todo el mundo sabe que estarán juntos para siempre. Pero Charlie está ocupado con su candidatura para convertirse en head boy. Y mientras Nick se prepara para irse a la universidad, empieza a preguntarse quién será… sin Charlie.

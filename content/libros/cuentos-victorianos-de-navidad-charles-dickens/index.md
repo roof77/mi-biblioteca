@@ -16,6 +16,8 @@ colaboradores:
 - Wilkie Collins
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Anthony Trollope
   rol: Author
@@ -107,6 +109,7 @@ generos_traducidos:
 - Navidad
 - Relatos
 - Clásico
+_hash_origen: feb3941864a830292f0433b452c957dd5c381a66b89b83b35c744bd7693eaaa7
 ---
 
 El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien dio carta de naturaleza al "espíritu navideño" y consolidó buena parte de la imagen y el carácter que asociamos a estas festividades hoy en día. Fue, asimismo, la edad de oro del cuento de Navidad, del que dejaron muestras los más destacados autores de la época, siendo los de miedo y los de misterio los que gozaron de más aceptación. En esta recopilación antológica no falta, como es natural, Charles Dickens, y junto a los suyos se recogen también magníficos relatos de Anthony Trollope, Charlotte Riddell, Arthur Conan Doyle (uno de ellos protagonizado por Sherlock Holmes), Juliana Ewing y Wilkie Collins.

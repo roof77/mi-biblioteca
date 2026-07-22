@@ -16,6 +16,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Olga Marín Sierra
   rol: Translator
@@ -111,6 +113,7 @@ generos_traducidos:
 - Clásico
 - Ficción
 - Siglo XX
+_hash_origen: 16c3bfc0fc3587914a6935c8b78897cecbc8271d668a9910fae26f1155e2ba6b
 ---
 
 Una obra maestra para todos los públicos

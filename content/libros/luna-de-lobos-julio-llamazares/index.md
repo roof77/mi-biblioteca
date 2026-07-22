@@ -15,6 +15,8 @@ autores:
 - Julio Llamazares
 editoriales:
 - Booket
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Luna de lobos
@@ -95,6 +97,7 @@ generos_traducidos:
 - Ficción Literaria
 - Histórico
 - Literatura
+_hash_origen: 9db2576bf22d557ab74d152297e534f022598dd50c7f5a4bd67b4290347183aa
 ---
 
 Recién acabada la guerra civil, un pequeño grupo de combatientes republicanos huye de las fuerzas nacionales y de la guardia Civil y se refugia en las cumbres heladas de las montañas.

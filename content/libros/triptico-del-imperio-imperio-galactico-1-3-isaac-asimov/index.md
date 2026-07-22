@@ -19,6 +19,8 @@ series:
 - Galactic Empire
 editoriales:
 - Círculo de Lectores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: M. Bosch
   rol: Translator
@@ -122,6 +124,7 @@ generos_traducidos:
 - Novela
 - Space Opera
 - Espacio
+_hash_origen: da6e01db0bcda5a6c2aade681f86c5498b76c0853a5b402d53e8143192c673a7
 ---
 
 Entre las novelas de Robots y la serie de la Fundación se encuentra la Trilogía del Imperio: tres clásicas obras de Isaac Asimov donde se trazan los inicios de la expansión humana por la Galaxia hasta llegar al auge del Imperio Galáctico con capital en Trantor.

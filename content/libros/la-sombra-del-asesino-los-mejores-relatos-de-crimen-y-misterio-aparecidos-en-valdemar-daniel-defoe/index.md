@@ -39,6 +39,8 @@ colaboradores:
 - Erckmann-Chatrian
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Wilkie Collins
   rol: Author
@@ -204,6 +206,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: c35238289f036c7085ca51d3ca42a7fbbd4d9bf3941a813f6cc29630fdd7cbe6
 ---
 
 Tras una investigación exhaustiva, el fiscal ha formulado su acusación, ilustrando cada caso y encontrando culpables a los escritores aquí reunidos. Culpables de haber perpetrado las mejores historias policiacas publicadas en Valdemar, y de dar vida a algunos de los detectives más carismáticos de la literatura de misterio (como Auguste Dupin, Sherlock Holmes, el padre Brown, J.G. Reeder o Jules de Grandin). Entre los imputados se encuentran los instigadores del crimen (Defoe, Radcliffe, De Quincey o Le Fanu) planeado por el cabecilla y cerebro de la trama, el señor Edgar Allan Poe, cuyas fechorías han sido llevadas hasta sus últimas consecuencias por diferentes cómplices (Willkie Collins, Conan Doyle, Chesterton, Edgar Wallace, Dickson Carr…). Son muchos los letrados que han defendido casos similares (Dickens, Melville, Stevenson, Conrad o Kipling), y numerosos los condenados con anterioridad por crímenes tan terroríficos (Bram Stoker, Guy de Maupassant, Robert Bloch…), así como los timadores y falsos culpables implicados en este peligroso juego (Mark Twain, Voltaire o Jardiel Poncela). 

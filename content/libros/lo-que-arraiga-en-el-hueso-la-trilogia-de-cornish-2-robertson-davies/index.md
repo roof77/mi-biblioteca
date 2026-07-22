@@ -19,6 +19,8 @@ series:
 - The Cornish Trilogy
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Concha Cardeñoso
   rol: Translator
@@ -114,6 +116,7 @@ generos_traducidos:
 - Arte
 - Contemporaneo
 - Siglo XX
+_hash_origen: 4405755828682c3c93102f181e1b3d2ec1f1da2e3a8073330274f582003e1823
 ---
 
 En Lo que arraiga en el hueso, Davies regresa a la fascinante historia de Francis Cornish, un acaudalado y misterioso mecenas y coleccionista de arte canadiense que acaba de morir. Desde las azarosas circunstancias que propician el matrimonio de sus padres pasando por su heterodoxa formación artística -iniciada en el taller de un embalsamador- o su iniciación amorosa, la novela va recorriendo las distintas etapas de su vida y dando cuenta del desarrollo de su carácter. Es así como se descubre el origen de su fabulosa fortuna y se desvela su pasado como restaurador de pintura y falsificador, habilidades que durante la segunda guerra mundial le llevarían a formar parte del espionaje británico y a participar en una trama de venta de obras de arte falsas a los nazis. Robertson Davies crea en esta novela un ingenioso relato sobre las razones, pasiones e intrigas que mueven el mundo del arte. 

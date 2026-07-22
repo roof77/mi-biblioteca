@@ -16,6 +16,8 @@ series:
 - The Iremonger Trilogy
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de Los secretos de Heap House (Iremonger, #1)'
@@ -100,6 +102,7 @@ generos_traducidos:
 - Ficción histórica
 - Niños
 - Steampunk
+_hash_origen: c9f30bbc4f403975547925c6c196d1feca07d3a77153fe7e100c4fa19e511c9d
 ---
 
 Los Iremonger son una familia peculiar.

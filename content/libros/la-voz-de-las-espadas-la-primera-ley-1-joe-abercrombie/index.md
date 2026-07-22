@@ -20,6 +20,8 @@ series:
 - The First Law
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Alejandro Colucci
   rol: Illustrator
@@ -126,6 +128,7 @@ generos_traducidos:
 - Aventuras
 - Ciencia Ficción
 - Mágia
+_hash_origen: 47922514f76b191a7184178ce558ddced3514561e9621c1889226d005304cb8d
 ---
 
 La primera novela publicada de Joe Abercrombie, ya un clásico indiscutible, en una edición espectacular ilustrada por Alejandro Colucci.

@@ -2,6 +2,8 @@
 title: Los hombres topo quieren tus ojos y otros relatos sangrientos de la Era Dorada del Pulp
 tags:
 - Pulp
+- Relatos
+- Terror
 autores:
 - Jesús Palacios
 colaboradores:
@@ -20,6 +22,8 @@ colaboradores:
 - Frederick C. Davis
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Arthur Humbolt
   rol: Author
@@ -124,6 +128,9 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Pulp
+- Relatos
+- Terror
+_hash_origen: 4d32bbb66d5cd99897de76ed755897189b85d29d83d8866e189900309590309d
 ---
 
 Hordas de ciegos asesinos dementes que sacan los ojos a sus prisioneros; sacrificios humanos ofrecidos a Satán en lo más recóndito de la América Profunda; sociedades secretas que entierran vivos a quienes se atreven a traicionarlas; cadáveres momificados alimentados con la sangre de víctimas inocentes… Basten estos delirantes esbozos argumentales para definir uno de los subgéneros literarios de la «pulp fiction» de mayor éxito en los años 30, la época dorada de las revistas «pulp» norteamericanas, un estilo conocido como «Weird Menace» («Amenaza Extraña»). Y fueron las revistas denominadas «Shudder Pulps» –una serie de publicaciones de horror y misterio en las que, durante poco más de media década, reinaron la sangre y el sexo, el terror más físico y morboso, la violencia sádica, los argumentos más retorcidos y un delicioso erotismo inevitablemente camp– las encargadas de difundir a los cuatro vientos esta nueva frontera del terror popular. 

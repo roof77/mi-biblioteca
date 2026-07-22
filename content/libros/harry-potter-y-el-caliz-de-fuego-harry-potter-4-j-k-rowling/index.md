@@ -15,6 +15,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Harry Potter y el cáliz de fuego (Harry Potter, #4)'
@@ -184,6 +186,7 @@ generos_traducidos:
 - Niños
 - Aventuras
 - Clásico
+_hash_origen: 46c84da5b58d95ed25df4010ab1a9999f9bcab428d65624a8aa9048a857b36d1
 ---
 
 Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuarto curso en Hogwarts, la famosa escuela de magia y hechicería. A sus catorce años, a Harry le gustaría ser un joven mago como los demás y dedicarse a aprender nuevos sortilegios, encontrarse con sus amigos Ron y Hermione y asistir con ellos a los Mundiales de quidditch. Sin embargo, al llegar al colegio le espera una gran sorpresa que lo obligará a enfrentarse a los desafíos más temibles de toda su vida. Si logra superarlos, habrá demostrado que ya no es un niño y que está preparado para vivir las nuevas y emocionantes experiencias que el futuro le depara.

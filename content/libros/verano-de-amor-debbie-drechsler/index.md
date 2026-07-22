@@ -11,6 +11,8 @@ autores:
 - Debbie Drechsler
 editoriales:
 - La Cúpula
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Verano de Amor
@@ -66,6 +68,7 @@ generos_traducidos:
 - Ficción
 - EEUU
 - Feminismo
+_hash_origen: dfddfd46d54596e0be4c1e8cb6dbf59867006e35754b3953d2b0c20eedb47ea3
 ---
 
 Una mudanza es siempre un tránsito y todo tránsito tiene algo de zozobra, de indeterminación.

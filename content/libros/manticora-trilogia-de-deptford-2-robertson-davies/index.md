@@ -17,6 +17,8 @@ series:
 - The Deptford Trilogy
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Mantícora (Trilogía de Deptford, #2)'
@@ -111,6 +113,7 @@ generos_traducidos:
 - Literatura canadiense
 - Siglo XX
 - Psicología
+_hash_origen: aeaf8de70cc3ffdea99217967ae50095d830231a5d39e663274171fde05b5a88
 ---
 
 La misteriosa muerte del magnate canadiense Boy Staunton -al que han encontrado ahogado dentro de su coche en el fondo del puerto de Toronto- ha trastornado a su hijo David, quien al contrario que la policía, está convencido de que su padre fue asesinado. Decidido a librarse de su obsesión, David viaja a Zúrich para psicoanalizarse en el Instituto Jung. Obligado por los psiquiatras a indagar en su memoria, David irá sacando a la luz una extraordinaria galería de personajes y recuerdos que le permitirán enfrentarse con sus propios demonios y, sobre todo, con la memoria de su padre. 

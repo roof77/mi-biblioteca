@@ -15,6 +15,8 @@ series:
 - All Creatures Great and Small
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Todas las criaturas grandes y pequeñas: Aventuras y desventuras de un veterinario en la campiña inglesa.
@@ -131,6 +133,7 @@ generos_traducidos:
 - Humor
 - Autobiografía
 - Club de lectura
+_hash_origen: 8f8343ea10608c0cc86a35648cd36455534974d10da2c8ab314339f47d2d85f3
 ---
 
 Las divertidas experiencias de un aprendiz de veterinario en la Inglaterra rural de los años treinta. Desde su publicación, estas memorias han sido el libro de referencia de millones de amantes de la naturaleza. Tiernas, divertidas y embebidas en el ambiente bucólico de la campiña inglesa, son uno de los testimonios escritos más celebrados sobre el amor por los animales, el compañerismo y la vida rural en todo su esplendor. Cálida, alegre y reconfortante. Un canto a la vida. Un clásico imprescindible. Más de 80 millones de ejemplares vendidos. Ahora también una serie en Filmin. Cuando el joven James Herriot termina la carrera de veterinaria en Glasgow y acepta su primer trabajo en una pequeña localidad de Yorkshire, no sabe muy bien dónde se está metiendo. Y es que literalmente deberá meterse dentro de una vaca, desnudo de cintura para arriba, en un establo prácticamente a oscuras y a temperaturas glaciares. Esto no lo explicaban sus libros de veterinaria. Ni tampoco que deberá ganarse uno a uno a todos los granjeros de la comarca. «Herriot se deleita en la vida, la abraza con sensibilidad y entusiasmo y escribe con gracia. Este es un libro repleto de felicidad.» THE NEW YORK TIMES

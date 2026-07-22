@@ -15,6 +15,8 @@ autores:
 - Norman Mailer
 editoriales:
 - El mundo
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Los tipos duros no bailan
@@ -89,6 +91,7 @@ generos_traducidos:
 - Thriller
 - Siglo XX
 - Contemporaneo
+_hash_origen: 1c09fdbceff9a7e9b3a5c86f6c464fae309851b253dbfeeb6d37711c9f7f3cd3
 ---
 
 Esta brillante novela, tenebrosa y de fuerza sorprendente, narra la historia de Tim Madden, escritor fracasado adicto al bourbon, los cigarrillos y las rubias casquivanas y adineradas en el escenario de arbustos y dunas de Provincetown, cargado de la crudeza y melancolía de la población fuera de temporada. Cuando se cumplen 24 días del abandono de su esposa, Tim Madden amanece con resaca, una acentuada excitación sexual y un nombre del pasado tatuado en rojo en el brazo. Apenas recuerda nada de la noche anterior. De pronto descubre que el asiento del acompañante de su Porsche está empapado de sangre y que, en un bosquecillo cercano, en un rincón semioculto de su escondrijo de marihuana, hay una cabeza rubia cercenada por el cuello.¿Será Madden un asesino? La narración se centra en la violencia física, sexual y emocional mientras asistimos a los esfuerzos de Madden por reconstruir aquella espantosa noche.

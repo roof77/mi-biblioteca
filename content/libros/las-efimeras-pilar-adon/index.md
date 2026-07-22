@@ -7,6 +7,8 @@ autores:
 - Pilar Adón
 editoriales:
 - Galaxia Gutenberg
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Las efímeras
@@ -78,6 +80,7 @@ premios:
 generos_traducidos:
 - Literatura hispana
 - España
+_hash_origen: 17db841cf02aafa4e142c9a15a0d5c4b4b089e5bb18bbb00a21432a5db5d899d
 ---
 
 Dora y Violeta Oliver, dos hermanas que mantienen una ambigua relación, viven aisladas en una casa situada a las afueras de una comunidad. Sus miembros se han ido reuniendo en el lugar en torno a una gran casa que semeja la forma de una colmena, en busca de un estilo de vida marcado por el retiro y la autosuficiencia, por la coherencia y la introspección. Hasta que un día, una de las hermanas Oliver comienza un acercamiento hacia el tímido Denis, un muchacho perseguido por un turbio pasado que se remonta varias generaciones atrás, y desaparece. 

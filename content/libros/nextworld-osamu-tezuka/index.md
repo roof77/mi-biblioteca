@@ -8,6 +8,8 @@ series:
 - Nextworld
 editoriales:
 - Ediciones Glénat España
+valoraciones:
+- 3.5 - 3.0
 cover:
   image: cover.jpg
   alt: Portada de Nextworld
@@ -58,6 +60,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Manga
+_hash_origen: 151d8263b6d5f5e656121090f8d91b2a0db336a43bdd74c94436d478cf1c7fc4
 ---
 
 Un clásico del Dios de los Manga: Osamu Tezuka

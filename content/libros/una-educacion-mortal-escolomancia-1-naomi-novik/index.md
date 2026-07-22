@@ -17,6 +17,8 @@ series:
 - The Scholomance
 editoriales:
 - Umbriel
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Patricia Sebastián Hernández
   rol: Translator
@@ -117,6 +119,7 @@ generos_traducidos:
 - Terror
 - Fantasía urbana
 - Romance
+_hash_origen: abbc4f5897a2a2e4bd72ab1c884513e360d9fb7e6f4eb4e5d59715173a93f9eb
 ---
 
 Entra en una escuela de magia diferente a cualquiera que hayas conocido antes. 

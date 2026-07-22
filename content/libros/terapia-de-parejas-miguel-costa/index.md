@@ -7,6 +7,8 @@ colaboradores:
 - Carmen Serrat-Valera
 editoriales:
 - Alianza Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carmen Serrat-Valera
   rol: Author
@@ -74,6 +76,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: e7fa07e2a9ab9523e1438ab6a7a362112bd84231d503b10d697c2ae950ce0030
 ---
 
 Frente a las actitudes vagas o moralizantes en torno a las crisis de pareja, la «terapia del comportamiento» ofrece un enfoque riguroso, estructurado y didáctico para abordar los conflictos en este ámbito. Este planteamiento no sólo busca la modificación de conductas poco adaptativas, sino que también se preocupa del entrenamiento para la comunicación y la resolución de problemas. Guiados por estos criterios y por una larga experiencia en psicología clínica, MIGUEL COSTA y CARMEN SERRAT ofrecen en TERAPIA DE PAREJAS un compendio práctico y útil dirigido tanto al público general como a los psicólogos que deseen acercarse profesionalmente a este campo.

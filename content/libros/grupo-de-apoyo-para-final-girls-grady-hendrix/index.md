@@ -15,6 +15,8 @@ colaboradores:
 - Víctor Manuel García de Isusi
 editoriales:
 - Minotauro
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Víctor Manuel García de Isusi
   rol: Translator
@@ -116,6 +118,7 @@ generos_traducidos:
 - Club de lectura
 - Contemporaneo
 - Suspense
+_hash_origen: d187eee5bb9849d1385fdcd9eab9bed7c577d47fd9b9d9a5fa0807a6163c1f5f
 ---
 
 La terrorífica novela de una de las voces más consolidadas del género, Grady Hendrix. 

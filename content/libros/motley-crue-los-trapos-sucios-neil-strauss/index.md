@@ -15,6 +15,8 @@ colaboradores:
 - Óscar Palmer Yáñez
 editoriales:
 - Es Pop Ediciones
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Tommy Lee
   rol: Author
@@ -96,6 +98,7 @@ generos_traducidos:
 - Autobiografía
 - Rock'n'Roll
 - Drogas
+_hash_origen: 8fa9d89e76fcc1ed516c025e1b9727c0266e7af4e3f2bc25eba969085a2dcaba
 ---
 
 Por fin en castellano llega la crónica definitiva de los peligros, los placeres y la decadencia del estrellato del rock and roll: whisky y actrices porno, peleas y accidentes de coche, sobredosis y muerte. Propulsados por todas las drogas que tuvieran a su alcance y espoleados por cantidades obscenas de alcohol, Mötley Crüe camparon a sus anchas durante dos décadas, dejando a su paso un reguero de mujeres corrompidas, habitaciones de hotel arrasadas, coches destrozados, representantes enloquecidos, huesos rotos y víctimas de diversa consideración. Todos estos hechos inenarrables y sus terribles consecuencias forman la espina dorsal de Los trapos sucios, un libro de referencia tanto para los fans del grupo como para todos aquellos interesados en el fenómeno del rock and roll. Narrado personalmente por Tommy, Mick, Vince y Nikki, con aportaciones puntuales de compañeros de viaje como John Corabi, varios ex representantes y un par de ejecutivos discográficos, Los trapos sucios dista mucho de ser un retrato complaciente. Divertido, sí. Patético, entrañable, depravado y repulsivo, también. En cualquier caso, fascinante y absorbente.

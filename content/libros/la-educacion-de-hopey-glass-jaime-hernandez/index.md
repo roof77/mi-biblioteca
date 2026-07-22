@@ -13,6 +13,8 @@ series:
 - Love and Rockets
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La educación de Hopey Glass
@@ -75,6 +77,7 @@ generos_traducidos:
 - Romance
 - Queer
 - Lesbianismo
+_hash_origen: 406cae0fbc46c3541baebe4b5077861165ca2946effdb96a96f00ce2ca9b2a13
 ---
 
 Maggie está casi ausente en esta última recopilación de Love and Rockets ya que Jaime Hernandez se centra en Hopey, la amiga de toda la vida de Maggie, y en su ex novio Ray. Y además, un vasto reparto de secundarios: Grace, el otro amigo de Hopey; Elmer, un electrificante autoproyecto de gánster; el callejero y endurecido Doyle; la divertida ?Ángel de Tarzana?; la madura pero aún marchosa Terry, así como la misteriosa superheroína Alarma. 

@@ -17,6 +17,8 @@ colaboradores:
 - Jordi Fibla
 editoriales:
 - Libros del Asteroide
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Jordi Fibla
   rol: Translator
@@ -108,6 +110,7 @@ generos_traducidos:
 - Gay
 - Adolescencia
 - EEUU
+_hash_origen: 44499ba33007cc0a5f2dd1aebc8bf321de5970634e990a57a1ec95cbf1958d1c
 ---
 
 James Sveck, el narrador de esta novela, es un adolescente inteligente y precoz, ha terminado el colegio y durante el verano trabaja en la galería de arte que su madre tiene en Manhattan y en la que casi nunca entra a nadie. Pese a haber sido admitido en la prestigiosa Universidad de Brown no está seguro de querer ir; lo que de verdad le gustaría es comprarse una casa en el campo y pasarse el día leyendo, sin ser molestado; detesta relacionarse con gente de su edad, a la que evita y con la que piensa que no tiene nada en común. 

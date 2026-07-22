@@ -16,6 +16,8 @@ colaboradores:
 - Ismael Attrache
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ismael Attrache
   rol: Translator
@@ -96,6 +98,7 @@ generos_traducidos:
 - Autobiografía
 - Literatura británica
 - Enfermedad mentál
+_hash_origen: 4455fbb1f7e5150020bfd52c5c336e231130eb24c822d26d6caa24ff8312cfd4
 ---
 
 «AHORA SÉ QUE LA MÚSICA CURA.»

@@ -5,6 +5,8 @@ autores:
 - Ana Diosdado
 editoriales:
 - EDITORIAL EL PÁRAMO
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Los 80 son nuestros
@@ -57,6 +59,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 0353cf77a91360b7d7aa0f8ca59b37a751948288663ca183d574b13b77af2883
 ---
 
 

@@ -17,6 +17,8 @@ series:
 - Sevenwaters
 editoriales:
 - Edhasa
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de La hija del bosque (Sieteaguas, #1)'
@@ -121,6 +123,7 @@ generos_traducidos:
 - Histórico
 - Mágia
 - Fantasia
+_hash_origen: e0f517abf8bb330a977d4104ef7c4024ca862220399e550b5c7bc8e4fd4423ad
 ---
 
 Juliet Mariller escribió una novela inolvidable. Con una prosa colorida y una imaginación desbordante, ha creado un mundo, el reino de Sieteaguas, el último enclave irlandés, que se mantiene al margen de las invasiones de sajones y britanos gracias a la protección de una impenetrable espesura. En esas sombras, afirma la leyenda, vive la dama del Bosque y es ella quien ampara a sus habitantes.

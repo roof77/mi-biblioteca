@@ -19,6 +19,8 @@ colaboradores:
 - José Ángel de Dios
 editoriales:
 - Dilatando Mentes Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Antonio Torrubia
   rol: Prólogo
@@ -105,6 +107,7 @@ generos_traducidos:
 - Histórico
 - Adultos
 - Paranormal
+_hash_origen: e35b89dc7f0d4d55fb2b771e5e9004c1d77978cc13df6cdfe05f5f1e0d34b174
 ---
 
 Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela de secundaria en medio de un futuro del todo desalentador e incierto. Toda la ciudad está copada de fábricas abandonadas que pueblan el horizonte, y la sombra de una huelga sobrevuela la rutina que gobierna sus vidas...

@@ -19,6 +19,8 @@ series:
 - Malazan Book of the Fallen
 editoriales:
 - Nova
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Miguel Antón
   rol: Translator
@@ -128,6 +130,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Mágia
 - Adultos
+_hash_origen: 7e41d4bb2e897d62ba1a9618f2cfd36e54774ad9fe3cc5c5db292cf4a39a57af
 ---
 
 Tras guerras interminables y amargas luchas internas, el descontento se ha apoderado del Imperio de Malaz. Incluso las tropas imperiales, siempre ansiosas por derramar sangre, necesitan un respiro. Sin embargo, las pretensiones expansionistas de la emperatriz Laseen no tienen límite, más aun cuando son reforzadas por sus temibles agentes de la Garra. El sargento Whiskeyjack y su escuadrón necesitan tiempo para llorar a los muertos del último asedio, pero Darujhistan, la última de las Ciudades Libres de Genabackis, los espera; en ella ha puesto la emperatriz su mirada depredadora. El Imperio no está solo en este juego. Las fuerzas siniestras conspiran dentro y fuera de las sendas mágicas, y hasta los dioses se preparan para la batalla…

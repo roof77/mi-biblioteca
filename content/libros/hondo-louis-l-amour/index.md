@@ -14,6 +14,8 @@ autores:
 - Louis L'Amour
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Hondo
@@ -101,6 +103,7 @@ generos_traducidos:
 - Romance
 - Novela
 - Histórico
+_hash_origen: 7b3eef30efaac9cdf421aae6095598c3fa9eea2833af9b2b01ec40e58ea545c5
 ---
 
 Louis L’Amour (1908-1988), el novelista más popular e influyente en la literatura western de la segunda mitad del siglo XX, escribió en torno a un centenar de novelas y más de 400 relatos, la mayoría de temática western, a lo largo de una prolífica carrera literaria. Aunque muchas de sus obras fueron llevadas al cine, ninguna alcanzó la repercusión de su segunda novela, Hondo (1953), gracias sobre todo a la adaptación al cine del mismo título que realizó John Farrow y protagonizó el incansable John Wayne.

@@ -16,6 +16,8 @@ colaboradores:
 - Alberto Colunga
 editoriales:
 - La Cúpula
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Eloíno Nácar Fúster
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Mitología
 - Cristianismo
 - Filosofía
+_hash_origen: 99254dbab120fb3eb6e00a3d7a6b2807a39cfb1a44fd01d028616271f12fad82
 ---
 
 Medirse con el libro de los libros es algo que ha tentado a muchos artistas antes y después de la invención de la imprenta. Miguel Ángel, Durero, Rembrandt, Chagall.... También existen otras propuestas de Biblias en cómic, pero no llevadas a cabo por un auténtico maestro del medio. Nunca antes un autor en la cima de su talento, Robert Crumb, cuya obra se ha dedicado incesantemente a investigar los secretos más recónditos del alma humana, somete al Génesis al escrutinio de su forma artística, el cómic, o mejor dicho comix, que es la forma insumisa norteamericana. Robert Crumb nunca cede a la tentación de alzarse ante su medio, al contrario, lo toma para elevarlo aportando la fuerza, el fervor y la libertad con los que está hecho su genio. Lo que singulariza esta versión, es la opción de una adaptación sin interpretación, sin beatería ni blasfemia y sin un distanciamiento crítico. El texto está reforzado por una detallado y épico grafismo. La autenticidad y credibilidad adquieren una atención casi cinematográfica. Bajo su pluma enérgica Adán y Eva, Noé, Abraham, Isaac, Sara y su múltiple descendencia adquieren un rostro, un cuerpo, una verdad carnal que nos los hace tan familiares que se convierten en nuestros parientes próximos, los modelos a partir de los cuales se ha fundado toda la humanidad. Trascendido por su tema, Crumb ha creado su obra magna, una novela gráfica sin parangón, la cual es a la vez íntima y panorámica, grave, bella, jubilosa, sólida y, de algún modo, el encuentro entre Gustave Doré y Cecil B. DeMille.

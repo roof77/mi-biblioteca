@@ -17,6 +17,8 @@ colaboradores:
 - Kiko Amat
 editoriales:
 - Sajalín Editores
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Montserrat Gurguí Martínez de Huete
   rol: translator
@@ -101,6 +103,7 @@ generos_traducidos:
 - Autobiografía
 - EEUU
 - Noir
+_hash_origen: 0224801c907cd36dd942c83b54c8481c41c2830ea89abf01df210a3f430ce6e3
 ---
 
 La rebeldía del joven Edward Bunker, criado en hogares de acogida, escuelas militares y reformatorios de los que continuamente escapaba por su visceral rechazo a una autoridad a menudo arbitraria, lo convirtió con dieciséis años en el preso más joven de la tristemente célebre prisión de San Quintín. Ni un coeficiente intelectual muy por encima de la media, ni la ayuda de Louise Wallis, esposa del magnate de Hollywood Hal Wallis, lograron encauzar a un joven impulsivo fascinado por los bajos fondos y la noche de Los Ángeles. Solo su pasión por la lectura ―durante los dieciocho años que pasó entre rejas leyó sin descanso―, y su perseverancia en la escritura, acabaron apartándolo de una vida destinada al crimen. Tras la publicación de su primera novela (la séptima que había escrito, No hay bestia tan feroz) en 1973, Eddie Bunker ―el señor Azul de Reservoir Dogs― no volvería a pisar el duro cemento de una cárcel y se convertiría en un escritor de culto en medio mundo, admirado por James Ellroy, William Styron, Quentin Tarantino o Steve Buscemi. La educación de un ladrón es el apasionante y sincero relato de una vida fuera de lo común, y de la ley, con un final que el recluso A20284 nunca habría imaginado.

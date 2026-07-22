@@ -17,6 +17,8 @@ colaboradores:
 - David G. Vaquero
 editoriales:
 - Obscura
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Raúl García Campos
   rol: translator
@@ -105,6 +107,7 @@ generos_traducidos:
 - Mágia
 - Ciencia Ficción
 - Alta fantasía
+_hash_origen: d828e11fe0bf7b45429ff31240f0d3e0d5980bfec60f11b07c6473e686edf9ec
 ---
 
 En la antigua ciudad de Tal Abisi opera una organización de asesinos conocida como la Cola del Gato sin Vida. Sus miembros, profesionales hábiles y discretos, trabajan por encargo al servicio de Aeril, Matrona de los Asesinos, y se deben a tres reglas inquebrantables, la tercera de las cuales establece que, una vez recibido el objetivo, el asesino debe eliminarlo sin falta o sufrir las más terribles consecuencias.

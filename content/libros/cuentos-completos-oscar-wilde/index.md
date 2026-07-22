@@ -15,6 +15,8 @@ autores:
 - Oscar Wilde
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Cuentos completos
@@ -109,6 +111,7 @@ generos_traducidos:
 - Literatura irlandesa
 - Victoriano
 - Antología
+_hash_origen: b61614858bd30a2586c9eda80c2b6a51ff8aca005b8613723b5eafc1464c9ae1
 ---
 
 Antes de alcanzar fama universal como autor de teatro y brillante conversador, Oscar Wilde ganó su prestigio inicial con la publicación de sus primeros cuentos: la aparición de "El crimen de lord Arthur Saville" y "El fantasma de Canterville" en 1887 le granjeó cierta notoriedad por su irónica manera de abordar dos géneros puramente británicos: la novela de detectives y la novela gótica. Crítico con la aristocracia y las clases altas de la sociedad inglesa o norteamericana, Wilde envolvía sus relatos en una distancia, en un humanitarismo irónico que poco tenían que ver con el naturalismo que en ese momento dominaba el panorama literario europeo.

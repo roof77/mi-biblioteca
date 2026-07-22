@@ -18,6 +18,8 @@ series:
 - The Dark Star Trilogy
 editoriales:
 - Seix Barral
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Javier Calvo
   rol: Translator
@@ -132,6 +134,7 @@ generos_traducidos:
 - Queer
 - Ciencia Ficción
 - Ciencia ficción
+_hash_origen: 516e4ffaee29748da24e126a373e0ffe479c03f4fdad46296b1945b51080a2d9
 ---
 
 El Rastreador es conocido por sus habilidades como cazador: «Tiene un buen olfato», se dice de él. Contratado para encontrar a un misterioso niño que ha desaparecido, el Rastreador rompe su propia regla de no trabajar con nadie y se encuentra de pronto como parte de un grupo que debe colaborar y apoyarse para llevar su objetivo a buen puerto. Se trata de un grupo heterogéneo, formado por personajes inusuales, cada uno con sus propios secretos, incluido un hombre capaz de cambiar de forma a su antojo conocido como el Leopardo.

@@ -7,6 +7,8 @@ autores:
 - José María Nebreda
 editoriales:
 - Valdemar
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: 'Portada de Mares Tenebrosos: Una Antología de Cuentos de Terror en el Mar'
@@ -68,6 +70,7 @@ premios:
 generos_traducidos:
 - Terror
 - Ficción
+_hash_origen: 7eccdf2724a9298df2fc280c0700f60dbf29f744746368c2f124b563a6ebb2c5
 ---
 
 El mar siempre ha sido un enclave propicio para la aventura, la exploración, lo desconocido, las grandes hazañas y también, por qué no decirlo, para el horror. No es extraño encontrar en muchos viejos mapas de mares y costas, en todas las lenguas y culturas, la enigmática expresión que nos advierte: “más allá hay monstruos”. La antología que nos ocupa está preñada de salitre, de mareas, de mástiles y velas desplegadas al viento, y de hombres, de personajes que afrontan el mar con desafío, con cobardía, con indiferencia o sorpresa, y también con horror. Mares tenebrosos es una antología que reúne veinte relatos de terror ambientados en el mar. La selección, a cargo de José María Nebreda (que también se ha ocupado de la traducción y las notas biográficas), ha procurado ser lo más variada posible: hay cuentos que se desarrollan en la costa, cerca del mar; otros en las islas desconocidas y desiertas; en las cantinas portuarias, llenas de viejos lobos de mar que narran extrañas historias; en un faro perdido entre los escollos, a decenas de kilómetros del continente; en un barco fantasma que no sabe que lo es; en otro que ha visto un espectro y siente un pánico paralizante; vagabundearemos sin rumbo, enloquecidos, en medio de la bruma más espesa e impenetrable; incluso viajaremos tierra adentro, a un pueblecito alejado del mar por una gran distancia y que, sin embargo, alberga una de las más bellas historias fantásticas sobre el mar jamás escritas. No podían faltar en esta antología autores de la talla de W.H. Hodgson, gran maestro de este peculiar género, H.P. Lovecraft o Robert E. Howard. También se han incluido autores menos conocidos por el aficionado español como John Masefield, James Anley, William Outerson, Frank Norris, Michel Bernanos y Jack Cady, autor norteamericano recientemente fallecido.

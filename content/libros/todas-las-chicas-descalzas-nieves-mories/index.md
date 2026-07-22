@@ -5,6 +5,8 @@ autores:
 - Nieves Mories
 editoriales:
 - Dilatando Mentes Editorial
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Todas las chicas descalzas
@@ -53,6 +55,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: b4e6b1601a65b69050f4d6d61db89e382c65f538ef9a10c594ad017368745fee
 ---
 
 No importa cómo las llames; sus nombres son todos los nombres.

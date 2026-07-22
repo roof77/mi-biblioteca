@@ -29,6 +29,8 @@ colaboradores:
 - Charles G. Waugh
 editoriales:
 - Valdemar
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: J. Sheridan Le Fanu
   rol: Author
@@ -137,6 +139,7 @@ generos_traducidos:
 - Relatos
 - Gótico
 - Paranormal
+_hash_origen: 86d462eb0743249014b6f8546b597558a891e7d2736decd062de3982ef660e25
 ---
 
 Bajo la mirada cómplice de la Luna, «las damas de la noche» abandonan sus fríos sepulcros, sus estériles aposentos de la nada y su cuerpo incorrupto, mortalmente bello y subyugante, se yergue en la Vida y se instala de nuevo en la Naturaleza... «La mujer Vampiro» subsiste gracias a la fuerza de los que todavía no han muerto, una fuerza que absorbe a través de su sangre, pues la sangre es vida. Debe chupar el aliento de aquellos que viven o no podrá respirar. Debe beber su sangre o morirá de hambre... Vaga en la noche, alimentándose incesantemente de los vivos, reclutando nuevos miembros con que engrosar las horrendas filas de su estirpe maldita. 

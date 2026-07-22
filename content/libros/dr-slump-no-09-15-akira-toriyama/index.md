@@ -3,6 +3,8 @@ title: Dr. Slump nº 09/15
 tags:
 - Manga
 - Comics
+- Absurdo
+- Humor
 autores:
 - Akira Toriyama
 colaboradores:
@@ -11,6 +13,8 @@ series:
 - Dr.スランプ [Dr. Slump]
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Jesús Pece
   rol: Translator
@@ -76,6 +80,9 @@ premios:
 generos_traducidos:
 - Manga
 - Comics
+- Absurdo
+- Humor
+_hash_origen: 9d8d0d538095ec33c116e459ff6ec274df4a4098db8c798cab78363403b1e41c
 ---
 
 Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de Villa Pingüino. Pero eso no es nada comparado con lo que se acerca. . . ¡Secuestros! ¡Grandes pasiones románticas! ¡Rayos que transforman las cosas en otras cosas! ¡Playas jurásicas!

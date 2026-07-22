@@ -18,6 +18,8 @@ series:
 - Blackwater
 editoriales:
 - BEAT
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Elena Cantoni
   rol: Translator
@@ -102,6 +104,7 @@ generos_traducidos:
 - Thriller
 - Gótico sureño
 - Histórico
+_hash_origen: 800dc65e7c32ce996d92db355df1ab5d8ca7d00e403256d4afe181a8002f15c4
 ---
 
 1946. Come un organismo vivente, la famiglia Caskey si sviluppa e si trasforma. Alcuni affrontano la morte, altri accolgono la vita: tra riavvicinamenti inattesi, rancori sordi e separazioni inevitabili le relazioni si evolvono. Ormai a capo della segheria e punto di riferimento del clan, Miriam lavora instancabilmente per rendere i Caskey sempre più ricchi.

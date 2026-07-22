@@ -17,6 +17,8 @@ colaboradores:
 - Raúl García Campos
 editoriales:
 - Obscura
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: David G. Vaquero
   rol: Cover Art
@@ -122,6 +124,7 @@ generos_traducidos:
 - Ucronía
 - Histórico
 - Adultos
+_hash_origen: b22f55540a78a7365bac0e57f540203d1b0a54502185c0b190cb487afe83ac22
 ---
 
 Una novela de aventuras ambientada en un Nueva Orleans steampunk de la mano de P. Djèlí Clark, uno de los más grandes autores de ficción especulativa de nuestro tiempo. 

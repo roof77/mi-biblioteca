@@ -13,6 +13,8 @@ autores:
 - George V. Higgins
 editoriales:
 - Picador
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de The Friends of Eddie Coyle
@@ -84,6 +86,7 @@ generos_traducidos:
 - Novela
 - Clásico
 - Hard boiled
+_hash_origen: 9ff00ea4287f250a04f98f6edb4c21ff83bf90dfa8a1fcafd78d22608be36d5b
 ---
 
 The classic novel from "America's best crime novelist" (Time), with a new introduction by Dennis Lehane

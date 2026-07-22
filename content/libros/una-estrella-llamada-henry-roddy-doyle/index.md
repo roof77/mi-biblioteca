@@ -19,6 +19,8 @@ series:
 - The Last Roundup
 editoriales:
 - DeBolsillo
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: MIGUEL; MARTINEZ LAGE
   rol: Translator
@@ -115,6 +117,7 @@ generos_traducidos:
 - Literatura
 - Ficción Literaria
 - Club de lectura
+_hash_origen: 226355d2fe186f4d76b782d331c3eede08934c6ade9a307e543130bbbf215d46
 ---
 
 El autor de Café irlandés inicia con esta novela una trilogía sobre la historia de su país: Irlanda. Su protagonista es un joven llamado Henry Smart, un desheredado que acabará integrándose en las filas del IRA. Son los inicios del siglo XX y al joven Henry le aguardan nuevas y sorprendentes peripecias.

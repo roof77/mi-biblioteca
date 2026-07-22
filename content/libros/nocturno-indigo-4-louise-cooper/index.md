@@ -14,6 +14,8 @@ series:
 - Indigo
 editoriales:
 - Timun Mas
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Gemma Gallart
   rol: Translator
@@ -92,6 +94,7 @@ generos_traducidos:
 - Ficción
 - Ciencia Ficción
 - Fantasía oscura
+_hash_origen: 2cef771249054d48c437486612b6c2bd3e7db099de13408f93f3cd6afc92f7f4
 ---
 
 Índigo continúa su peregrinar en busca del nuevo demonio que ha de destruir. Ahora, en compañía de una familia de cómicos, los Brabazon, se encamina hacia la ciudad de Bruhome, donde se va a celebrar la fiesta de la cosecha, pero algo maligno flota en el ambiente. A lo largo de su recorrido ven que algunos cultivos están muertos, el paisaje se vuelve cada vez más sombrío y desolado y hacen su aparición unos extraños caminantes de semblante cadavérico y un andar curiosamente rígido, que les da aspecto de sonámbulos o seres en trance.

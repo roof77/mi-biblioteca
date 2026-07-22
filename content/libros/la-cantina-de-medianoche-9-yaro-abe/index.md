@@ -9,6 +9,8 @@ series:
 - La cantina de medianoche
 editoriales:
 - Astiberri
+valoraciones:
+- 5.0 - 4.5
 colaboradores_detalle:
 - nombre: Alberto K. Fonseca Sakai
   rol: Translator
@@ -57,6 +59,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: a23883df4fa3045319ca4e51e3d47f4ed150d70a20fe0b7359f8acf64e807f7e
 ---
 
 

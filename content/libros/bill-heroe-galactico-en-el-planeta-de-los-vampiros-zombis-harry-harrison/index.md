@@ -16,6 +16,8 @@ series:
 - Bill, the Galactic Hero
 editoriales:
 - Grijalbo
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Bill, Héroe Galáctico, en el planeta de los vampiros zombis
@@ -25,13 +27,27 @@ libro:
   titulo: Bill, Héroe Galáctico, en el planeta de los vampiros zombis
   url: https://www.goodreads.com/book/show/16094131-bill-h-roe-gal-ctico-en-el-planeta-de-los-vampiros-zombis
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1358597213i/16094131.jpg
-  sinopsis: 'BILL - the perfect Starship Trooper: big, brawny, and brainwashed. Possessor of two right arms (impressive when
-    it comes to saluting) and a foot that is threatening to turn into something more suited to being an umbrella stand than
-    anything that could be squeezed into a size 11 sneaker.  BILL - a perfect recruit for the good ship Bounty, bound for
-    the Chinger war and carrying a cargo of as nice a company of homicidal misfits and maniacs as you could wish to meet outside
-    of a penitentiary asylum (which is where they''ve just come from).  BILL, THE GALACTIC HERO - he''s back, he''s bad and
-    about to meet the most hideous alien lifeform of his entire career. He''d do anything to save his skin without rocking
-    the boat - but mutiny? On the Bounty?'
+  sinopsis: 'Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto
+    peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo,
+    el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos
+    derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar
+    poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas,
+    y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados
+    rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo
+    de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables
+    y emocionantes pruebas...
+
+
+    EN EL PLANETA DE LOS VAMPIROS ZOMBIS
+
+
+    En su intrépida carrera por ir de mal en peor, Bill se encuentra a bordo de la Merced, a cargo de un grupo de angelicales
+    prisioneros (el mejor amigo que hizo era un asesino múltiple. Con hacha).
+
+
+    El capitán de la nave era peor; y no es que fuera muy malo, es que estaba loco. En esta compañía, Bill va a dar en un
+    planeta habitado por unos seres monstruosos que chupan la sangre. A pesar de que él sabe que en su vida militar pueden
+    pasarle cosas aún más espastonsas, trata de salir de allí. Y es que ya se había dicho que Bill no era muy inteligente.'
 autor:
   nombre: Harry Harrison
   rol: Author
@@ -81,6 +97,13 @@ generos_traducidos:
 - Ciencia Ficción
 - Fantasía
 - Zombies
+_hash_origen: 42287750a88d9e6e37adc3fb8bd06eb4656ca6210a0f3e9bf1a11c83e9f4356c
 ---
 
-BILL - the perfect Starship Trooper: big, brawny, and brainwashed. Possessor of two right arms (impressive when it comes to saluting) and a foot that is threatening to turn into something more suited to being an umbrella stand than anything that could be squeezed into a size 11 sneaker.  BILL - a perfect recruit for the good ship Bounty, bound for the Chinger war and carrying a cargo of as nice a company of homicidal misfits and maniacs as you could wish to meet outside of a penitentiary asylum (which is where they've just come from).  BILL, THE GALACTIC HERO - he's back, he's bad and about to meet the most hideous alien lifeform of his entire career. He'd do anything to save his skin without rocking the boat - but mutiny? On the Bounty?
+Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo, el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas, y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscar buenos pies a los soldados rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables y emocionantes pruebas...
+
+EN EL PLANETA DE LOS VAMPIROS ZOMBIS
+
+En su intrépida carrera por ir de mal en peor, Bill se encuentra a bordo de la Merced, a cargo de un grupo de angelicales prisioneros (el mejor amigo que hizo era un asesino múltiple. Con hacha).
+
+El capitán de la nave era peor; y no es que fuera muy malo, es que estaba loco. En esta compañía, Bill va a dar en un planeta habitado por unos seres monstruosos que chupan la sangre. A pesar de que él sabe que en su vida militar pueden pasarle cosas aún más espastonsas, trata de salir de allí. Y es que ya se había dicho que Bill no era muy inteligente.

@@ -1,10 +1,15 @@
 ---
 title: A partir de ahora llamadme tania. Crónica de una guerrillera simbiótica.
-tags: []
+tags:
+- Autobiografía
+- Memorias
+- Guerra
 autores:
 - Anonymous
 editoriales:
 - La Felguera Editores
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de A partir de ahora llamadme tania. Crónica de una guerrillera simbiótica.
@@ -70,7 +75,11 @@ estadisticas:
 premios:
   ganados: []
   nominaciones: []
-generos_traducidos: []
+generos_traducidos:
+- Autobiografía
+- Memorias
+- Guerra
+_hash_origen: 0551221b3675dea48c1cbc243d50bd3c9c39014de059df4f7a6315987cbe56f7
 ---
 
 Miembros del Ejército Simbiótico de Liberación (SLA), equipados con armas cargadas de cianuro y bajo el extraño símbolo de una cobra de siete cabezas, secuestraron en febrero de 1974 a Patty Hearst, la hija del magnate de la comunicación William Randolph Hearst. A medida que pasaba el tiempo, la secuestrada fue mutando hacia una nueva identidad, hasta su sorprendente aparición, escasos meses después, portando un fusil de asalto durante el atraco a un banco. Patty Hearst, tal y como ella misma anunció, había muerto: a partir de ese momento sería Tania, la histórica guerrillera que luchó junto al Che. A partir de ahora llamadme Tania. Crónica de una guerrillera simbiótica, recoge, entre otros materiales, la transcripción de las cintas que, depositadas en cabinas de teléfono o enviadas a radios piratas, ella y otros miembros del SLA grabaron y enviaron a la familia Hearst durante los meses que duró el secuestro.

@@ -15,6 +15,8 @@ autores:
 - Judith Schalansky
 editoriales:
 - Nórdica Libros
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de Atlas de islas remotas
@@ -81,6 +83,7 @@ generos_traducidos:
 - Cartografía
 - Naturaleza
 - Literatura alemana
+_hash_origen: 8a5cda1d61442a71dd1a281f4b7b3adb7378c35d1b14826936f91b6930544f66
 ---
 
 Visualmente deslumbrante y con un diseño único, este libro recopila cincuenta islas alejadas en todos los sentidos de tierra firme, de la gente, los aeropuertos y los folletos turísticos. Su autora utilizó acontecimientos históricos e informes científicos como punto de partida para cada isla que proporcionan información sobre qué distancia la separa del continente, si está habitada, sus características y las historias que han configurado su acervo local.

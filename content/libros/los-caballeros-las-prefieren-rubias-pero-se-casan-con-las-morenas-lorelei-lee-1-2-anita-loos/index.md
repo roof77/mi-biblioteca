@@ -19,6 +19,8 @@ series:
 - Lorelei Lee
 editoriales:
 - Alba Editorial
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Carlos Casas
   rol: Translator
@@ -93,6 +95,7 @@ generos_traducidos:
 - Moderno
 - Mujeres
 - Literatura
+_hash_origen: 7d366ccdb2242d64396d8e88fc41c1974deb0fc39065e3c9e3ef41bd82be5a32
 ---
 
 Aparte de ser un éxito de ventas desde el mismo día de su publicación, Los caballeros las prefieren rubias (1925) fue uno de los pocos libros que leyó James Joyce ese año, ya medio ciego, y contó con los elogios de William Faulkner y Edith Wharton: para ésta, se había escrito por fin «la gran novela americana». Anita Loos, en esta novela y su continuación, Pero se casan con las morenas (1928), narra las hazañas de una pareja de amigas, la rubia Lorelei Lee y la morena Dorothy Shaw, dos auténticas depredadoras en el marco del puritanismo y la mojigatería de la Norteamérica de la década de 1920, cuyo más característico emblema era la Ley Seca. Ambas causan estragos por donde pasan: Lorelei conquista industriales, intelectuales, aristócratas, fiscales del distrito y hasta al mismísimo doctor «Froid», al que conoce en Viena y que le recomienda cultivar, ya que no tiene ninguna, algunas inhibiciones. Dorothy, siempre con su tendencia a enamorarse de quien no le conviene, y siempre, según su amiga, menos «refinada», será en todo caso capaz de divertir al príncipe de Gales enseñándole unas cuantas palabrotas. Los fabulosos engaños de este memorable par de pícaras se leen, en los pocos momentos en que uno puede parar de reírse, como grandiosas victorias sobre una sociedad que, realmente, no merece otra cosa que ser estafada.

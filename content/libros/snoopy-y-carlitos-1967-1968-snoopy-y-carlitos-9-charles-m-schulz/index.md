@@ -14,6 +14,8 @@ series:
 - The Complete Peanuts
 editoriales:
 - Planeta Cómic
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de Snoopy y Carlitos, 1967-1968 (Snoopy y Carlitos, #9)'
@@ -116,6 +118,7 @@ generos_traducidos:
 - Ficción
 - Clásico
 - EEUU
+_hash_origen: 4e17b86629c1683b8149bdcadc0353b242b42859924c3e4afdf316536aab78fe
 ---
 
 Un cómic clásico

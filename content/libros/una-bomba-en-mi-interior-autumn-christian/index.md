@@ -17,6 +17,8 @@ colaboradores:
 - Hugo Camacho
 editoriales:
 - Orciny Press
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Hugo Camacho
   rol: Translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Ficción Literaria
 - Adultos
 - Bizarro
+_hash_origen: a91096b6bc6c785697f0d019ff6982cdce8869d52a2c882c742cb26d731fbed8
 ---
 
 Cada vez que Beverly Sykes practica el sexo con otra persona, la acomete una enorme explosión en su interior que va más allá de todo orgasmo, y siente cómo la atraviesa una energía casi insoportable. Necesita volver a esa sensación una y otra vez, pero pronto se da cuenta de que todos sus amantes empiezan a experimentar cambios drásticos… y se convierten en la mejor versión de sí mismos. ¿Qué hará a partir de entonces con ese poder que la naturaleza le ha otorgado?

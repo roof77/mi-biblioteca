@@ -17,6 +17,8 @@ series:
 - Harry Potter
 editoriales:
 - Salamandra
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Alicia Dellepiane Rawson
   rol: Translator
@@ -274,6 +276,7 @@ generos_traducidos:
 - Niños
 - Clásico
 - Aventuras
+_hash_origen: 4cd5c09666b6df6c3fd0c649a0f1f52d410f96c6b345cffe0ca2f39fb404b0e2
 ---
 
 Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el colegio interno Hogwarts de magia y hechicería.

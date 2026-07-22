@@ -5,6 +5,8 @@ autores:
 - Pablo Carbonell
 editoriales:
 - Blackie Books
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de El mundo de la tarántula
@@ -57,6 +59,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 568f35cb7bbd46b479e3fbff71d0f1937246f48bfbe5d7dc77795cab4bd32e61
 ---
 
 Los niños mienten mal, pero se emocionan bien.

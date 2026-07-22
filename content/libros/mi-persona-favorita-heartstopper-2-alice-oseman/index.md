@@ -18,6 +18,8 @@ series:
 - Heartstopper
 editoriales:
 - Crossbooks
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Victoria Simó
   rol: translator
@@ -97,6 +99,7 @@ generos_traducidos:
 - Comics
 - Ficción
 - Gay
+_hash_origen: fffbed443205623816c2c5dbd3caeb38d514f310208516d9d237b485c88c681b
 ---
 
 Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero... ¿es así? Heartstopper responde a la manera de sentir de los jóvenes reales, con una visión abierta, natural y sensible sobre el amor y la identidad sexual, sin perder nunca la delicadeza y la emoción.

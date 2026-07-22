@@ -13,6 +13,8 @@ autores:
 - Marc-Antoine Mathieu
 editoriales:
 - Ediciones Sins Entido
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Dios en persona
@@ -75,6 +77,7 @@ generos_traducidos:
 - Filosofía
 - Fantasía
 - Literatura alemana
+_hash_origen: a85ee4d7e0a212e1d0bd5104fc0898b2e7423bb2eb78fa0b20a3c07327798dd7
 ---
 
 En una cola del censo un pequeño hombre espera pacientemente su turno para ser atendido. En el momento en que le preguntansu nombre se presenta bajo el nombre de Dios, apellido Dios. No tiene domicilio ni papeles ni número de la Seguridad Social. La irrupción de este enigma metafísico "en pesona" desencadena en un enorme fenómeno mediático. Un gran proceso judicial se organiza en contra de este "Culpable Universal".Dios en persona, galardonado con el premio ACBD 2010 de la crítica en Francia, es un relato en forma de ironía sobre los procesos mediáticos y las campañas de publicidad.Marc-Antoine Mathieu muestra en esta obra magistral que las dudas acerca de la existencia de Dios nunca dejan de estar de actualidad, y que tanto los que creen como lo que no, tienen siempre algo que opinar sobre Dios.

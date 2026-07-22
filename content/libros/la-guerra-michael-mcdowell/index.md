@@ -18,6 +18,8 @@ series:
 - Blackwater
 editoriales:
 - Neri Pozza
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: Elena Cantoni
   rol: Translator
@@ -116,6 +118,7 @@ generos_traducidos:
 - Gótico sureño
 - Thriller
 - Histórico
+_hash_origen: c2c2b946c6d58b43ca1499ea22552b33ac8009372bedb81867bf9ecd84555622
 ---
 
 1938. È l’alba di una nuova èra per il clan Caskey e nulla sarà mai più come prima. La determinazione di Elinor finalmente dà i suoi frutti. I nemici di ieri diverranno gli amici di domani e i mutamenti giungeranno da luoghi inaspettati. Anche per il mondo si apre una nuova èra, portatrice però di pericolo e distruzione: il conflitto in Europa farà affluire sangue nuovo a Perdido. Nella proprietà dei Caskey, gli uomini vanno e vengono. Come marionette che non sanno di essere appese a un filo.

@@ -17,6 +17,8 @@ series:
 - Early Earth
 editoriales:
 - Impedimenta
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Olalla García
   rol: Translator
@@ -83,6 +85,7 @@ generos_traducidos:
 - Romance
 - Ficción histórica
 - Adultos
+_hash_origen: 21ab7e8a200cbdc1a507ba35286413229aaf583e4c0222d7b1c25ba98ccf5dd4
 ---
 
 ¡LECTORES! ¡ESTE LIBRO NO ES UNA AUTÉNTICA ENCICLOPEDIA!

@@ -5,6 +5,8 @@ autores:
 - Tad Williams
 editoriales:
 - Timun Mas
+valoraciones:
+- 5.0 - 4.5
 cover:
   image: cover.jpg
   alt: 'Portada de La torre del ángel verde 1  (Añoranzas y pesares, #07)'
@@ -14,19 +16,23 @@ libro:
   titulo: 'La torre del ángel verde 1  (Añoranzas y pesares, #07)'
   url: https://www.goodreads.com/book/show/48898969-la-torre-del-ngel-verde-1
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1574247855i/48898969.jpg
-  sinopsis: A novel of vast scope, detail, and complexity, To Green Angel Tower is the momentous tour-de-force finale of a
-    ground-breaking series. Replete with war, deception, adventure, sorcery, and romance, To Green Angel Tower brings to a
-    stunning and surprising conclusion Tad Williams' monumental tale of a magical conflict which fractures the very fabric
-    of time and space, turning both humans and Sithi against those of their own blood.As the evil minions of the undead Sithi
-    Storm King prepare for the kingdom-shattering culmination of their dark sorceries and King Elias is drawn ever deeper
-    into their nightmarish, spell-spun world, the loyal allies of Prince Josua desperately struggle to rally their forces
-    at The Stone of Farewell. And with time running out, the remaining members of the now-devastated League of the Scroll
-    have also gathered there to unravel mysteries from the forgotten past. For if the League can reclaim these age-old secrets
-    of magic long-buried beneath the dusts of time, they may be able to reveal to Josua and his army the only means of striking
-    down the unslayable foe.But whether or not the League is successful in its quest, the call of battle will lead the valiant
-    followers of Josua Lackhand across storm tossed seas brimming with bloodthirsty kilpa...through forests swarming with
-    those both mind- and soul-lost... through ancient caverns built by legendary Dwarrows...to the haunted halls of Asu'a
-    itself—the Sithi's greatest stronghold!
+  sinopsis: 'La Torre del Ángel Verde es el formidable final de esta magna historia que, plena de guerras, engaños, aventuras,
+    brujerías y amor, llega a un sorprendente desenlace. En ella, el poder de la magia es capaz de quebrantar el orden del
+    tiempo y el espacio, y tanto los humanos como los sitha se vuelven en contra de sus propios congéneres.
+
+    Mientras los malvados secuaces del Rey de la Tormenta se preparan para llevar a cabo la culminación de sus negras artes
+    de magia y el rey Elías se hunde cada vez más en ese tenebroso mundo de pesadilla, los fieles aliados del príncipe Josua
+    luchan desesperadamente para reunir sus fuerzas.
+
+    Por su parte, algunos miembros de la desbaratada Alianza del Pergamino se congregan para intentar descubrir misterios
+    de un pasado ya olvidados. Porque si la Liga consigue revelar antiguos secretos de la magia, enterrados bajo el polvo
+    de los siglos, quizá sea posible dar a conocer a Josua y sus hombres los únicos medios de derrotar a un enemigo de otro
+    modo indestructible.
+
+    Sin embargo, el éxito o el fracaso de la Liga en esta empresa no libera del enfrentamiento a los valientes seguidores
+    de Josua el Manco , que deben surcar mares tempestuosos infestados de sanguinarios kilpas, internarse en bosques donde
+    se ocultan mentes y espíritus atormentados, descender a remotas cavernas construidas por los legendarios dwarrows y abrirse
+    camino hasta las fantasmagóricas estancias de Asu''a, la más importante fortaleza sitha.'
 autor:
   nombre: Tad Williams
   rol: Author
@@ -66,6 +72,10 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
+_hash_origen: 211f9872655caa7bd63cbfe90731bd6d4ce4c53b364b1fbeeb82652deb4ad491
 ---
 
-A novel of vast scope, detail, and complexity, To Green Angel Tower is the momentous tour-de-force finale of a ground-breaking series. Replete with war, deception, adventure, sorcery, and romance, To Green Angel Tower brings to a stunning and surprising conclusion Tad Williams' monumental tale of a magical conflict which fractures the very fabric of time and space, turning both humans and Sithi against those of their own blood.As the evil minions of the undead Sithi Storm King prepare for the kingdom-shattering culmination of their dark sorceries and King Elias is drawn ever deeper into their nightmarish, spell-spun world, the loyal allies of Prince Josua desperately struggle to rally their forces at The Stone of Farewell. And with time running out, the remaining members of the now-devastated League of the Scroll have also gathered there to unravel mysteries from the forgotten past. For if the League can reclaim these age-old secrets of magic long-buried beneath the dusts of time, they may be able to reveal to Josua and his army the only means of striking down the unslayable foe.But whether or not the League is successful in its quest, the call of battle will lead the valiant followers of Josua Lackhand across storm tossed seas brimming with bloodthirsty kilpa...through forests swarming with those both mind- and soul-lost... through ancient caverns built by legendary Dwarrows...to the haunted halls of Asu'a itself—the Sithi's greatest stronghold!
+La Torre del Ángel Verde es el formidable final de esta magna historia que, plena de guerras, engaños, aventuras, brujerías y amor, llega a un sorprendente desenlace. En ella, el poder de la magia es capaz de quebrantar el orden del tiempo y el espacio, y tanto los humanos como los sitha se vuelven en contra de sus propios congéneres.
+Mientras los malvados secuaces del Rey de la Tormenta se preparan para llevar a cabo la culminación de sus negras artes de magia y el rey Elías se hunde cada vez más en ese tenebroso mundo de pesadilla, los fieles aliados del príncipe Josua luchan desesperadamente para reunir sus fuerzas.
+Por su parte, algunos miembros de la desbaratada Alianza del Pergamino se congregan para intentar descubrir misterios de un pasado ya olvidados. Porque si la Liga consigue revelar antiguos secretos de la magia, enterrados bajo el polvo de los siglos, quizá sea posible dar a conocer a Josua y sus hombres los únicos medios de derrotar a un enemigo de otro modo indestructible.
+Sin embargo, el éxito o el fracaso de la Liga en esta empresa no libera del enfrentamiento a los valientes seguidores de Josua el Manco , que deben surcar mares tempestuosos infestados de sanguinarios kilpas, internarse en bosques donde se ocultan mentes y espíritus atormentados, descender a remotas cavernas construidas por los legendarios dwarrows y abrirse camino hasta las fantasmagóricas estancias de Asu'a, la más importante fortaleza sitha.

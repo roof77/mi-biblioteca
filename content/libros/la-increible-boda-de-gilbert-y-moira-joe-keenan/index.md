@@ -16,6 +16,8 @@ series:
 - Gilbert Selwyn and Friends
 editoriales:
 - Dos bigotes
+valoraciones:
+- 4.5 - 4.0
 cover:
   image: cover.jpg
   alt: Portada de La increíble boda de Gilbert y Moira
@@ -86,6 +88,7 @@ generos_traducidos:
 - Novela
 - Contemporaneo
 - Nueva York
+_hash_origen: 240c8aa5222ecb3d1940ed5479bed77f949a3a8a3db4d6bcc19c2536184b0c18
 ---
 
 Gilbert Selwyn y Moira Finch tienen el placer de invitaros a la que está llamada a convertirse en la boda del año. Gilbert es un joven encantador al que el trabajo le produce una alergia incurable. Para mantener sus finanzas a flote y «saquear» los bolsillos del escandalosamente rico marido de su madre, ha concebido un plan perfecto: organizar una boda solo por los regalos.

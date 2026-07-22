@@ -19,6 +19,8 @@ series:
 - Gormenghast
 editoriales:
 - Ático de los Libros
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Ana Quijada
   rol: translator
@@ -126,6 +128,7 @@ generos_traducidos:
 - Literatura
 - Siglo XX
 - Literatura británica
+_hash_origen: 242c182a1c361982335d57e4e14a353209c289e1aae1f518a42707ba6885ccf9
 ---
 
 Soverchiato dalla cima ad artiglio e dalle giogaie scoscese dell’omonimo monte, il reame di Gormenghast ha il suo centro in un immane agglomerato tirannico con le sembianze di un castello. Qui ogni antica bellezza si è corrotta in cupa fatiscenza: le mura sono sinistre «come banchine di moli», e le costruzioni si tengono tra loro «come carcasse di navi sfasciate». E qui, intorno al piccolo Tito – divenuto il settantasettesimo conte dopo la misteriosa morte di Sepulcrio –, si muovono gli esseri inconcepibili che sono la sostanza stessa di cui è composto il castello: la gigantesca contessa Gertrude, la madre, dalle spalle affollate di uccelli e dallo spumoso strascico di gatti bianchi; l’amata sorella Fucsia dai capelli corvini, che col suo abito cremisi infiamma i corridoi grigi; il fanatico custode delle leggi, Barbacane, nano storpio che raggela il sangue col secco schiocco della sua gruccia; e il gelido Ferraguzzo, che non cessa di ascendere verso il culmine della sua bramosia di potere. Prigioniero di riti decrepiti e di trame che falciano la sua livida Corte, Tito, che pure vorrebbe sfuggire a Gormenghast, dovrà combattere per salvare dal Male il cuore del castello – e trovare se stesso: perché forse un altrove non è nemmeno pensabile, e tutto conduce a Gormenghast.

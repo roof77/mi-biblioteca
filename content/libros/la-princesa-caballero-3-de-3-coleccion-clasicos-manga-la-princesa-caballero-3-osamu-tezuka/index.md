@@ -12,6 +12,8 @@ series:
 - リボンの騎士 [Ribbon no Kishi]
 editoriales:
 - Ediciones Glénat España
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: 'Portada de La Princesa Caballero, 3 de 3 (Colección Clásicos Manga: La Princesa Caballero, #3)'
@@ -68,6 +70,7 @@ generos_traducidos:
 - Fantasía
 - Novela gráfica
 - Comics
+_hash_origen: 5ad989bbdff96b9b6b4285c719d4672b5d5ac7f036b3884d0ac7c4147c47533c
 ---
 
 Siguiendo con su recuperación de lo mejor de Tezuka, presentamos una de sus más recordadas creaciones, que además fue una piedra angular en uno de los géneros clave de la historieta japonesa, el shôjo manga: Ribon no Kishi, literalmente “el caballero del lazo”, pero más conocida entre nosotros como Choppy y la Princesa o La Princesa Caballero.

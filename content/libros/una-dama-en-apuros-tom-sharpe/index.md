@@ -17,6 +17,8 @@ colaboradores:
 - Ángela Pérez
 editoriales:
 - Anagrama
+valoraciones:
+- 4.0 - 3.5
 colaboradores_detalle:
 - nombre: José Manuel Álvarez Flórez
   rol: Translator
@@ -96,6 +98,7 @@ generos_traducidos:
 - Francia
 - Colegio
 - Siglo XX
+_hash_origen: d1263e9d91782265fdc271df7a0d5def5c7a470d74a4b402710ac36e4733a7bc
 ---
 
 Dos fanáticos de las novelas de aventuras, víctimas de la astuta trampa que les tiende un enemigo, emprenden una aventura real: la liberación de una dama que ha sido secuestrada en su castillo del sur de Francia. Y no hay aventura comparable a la de seguirles en su intento de rescate, pues Tom Sharpe vuelve a demostrar aquí que es un maestro en el desarrollo de las más enloquecidas tramas: engaños, choques automovilísticos, persecuciones, tiroteos, apariciones de la policía secreta internacional, confusiones y desastres se van sucediendo en medio de un clima de descontrol absoluto que culmina en el mayor caos imaginable. Una ejemplar sátira de la irracionalidad, en la que quizá sólo se salvan los dos chiflados protagonistas: Glodstone, prototipo de maduro romántico enamorado de una civilización desaparecida que simboliza su adorado Bentley del año 27; y Peregrine, el alumno que entiende peligrosamente al pie de la letra todo lo que dicen y que tiene unas tendencias no menos peligrosas.

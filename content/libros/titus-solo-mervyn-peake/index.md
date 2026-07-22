@@ -18,6 +18,8 @@ series:
 - Gormenghast
 editoriales:
 - Ático de los Libros
+valoraciones:
+- 3.5 - 3.0
 colaboradores_detalle:
 - nombre: Encarna Quijada
   rol: translator
@@ -100,6 +102,7 @@ generos_traducidos:
 - Ciencia Ficción
 - Siglo XX
 - Literatura
+_hash_origen: c971139fc56ec7516fb72f44abab145faed4924fe215bed70b05c97d110072bb
 ---
 
 Titus, almost 20, flees oppressive Castle Rituals. Lost in a sandstorm, helped by Muzzlehatch owner of traveling zoo and his ex-lover Juno, stranded in big city, arrested for vagrancy, he longs for home. Nobody has heard of Gormenghast, few believe. Titus wants to prove it is real.

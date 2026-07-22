@@ -17,6 +17,8 @@ colaboradores:
 - Javier Calvo
 editoriales:
 - DeBolsillo
+valoraciones:
+- 4.5 - 4.0
 colaboradores_detalle:
 - nombre: Javier Calvo
   rol: Translator
@@ -148,6 +150,7 @@ generos_traducidos:
 - Contemporaneo
 - Judaismo
 - Comics
+_hash_origen: 1fe81356697c8aebf1c1eccf4b05614988e22b531c217a75ab6b780d699356a8
 ---
 
 Joe Kavalier, un joven artista judío entrenado en las artes del escapismo del maestro Houdini, acaba de conseguir su mayor proeza: ha huido de la Praga ocupada por los nazis. Su objetivo es triunfar en América, ganar dinero rápidamente, y así poder liberar a su familia de las garras del imperio nazi.

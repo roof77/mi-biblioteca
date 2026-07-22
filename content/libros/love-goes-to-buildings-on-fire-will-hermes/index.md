@@ -14,6 +14,8 @@ autores:
 - Will Hermes
 editoriales:
 - Viking
+valoraciones:
+- 4.0 - 3.5
 cover:
   image: cover.jpg
   alt: Portada de Love Goes to Buildings on Fire
@@ -70,6 +72,7 @@ generos_traducidos:
 - Biografía
 - Historia americana
 - Punk
+_hash_origen: 194d8235839cc856541e77d72468e20f330b1ec2628e244913823cc094ab8b41
 ---
 
 Crime was everywhere, the government was broke and the city's infrastructure was collapsing, but between 1974 and 1978 virtually all forms of music were being recreated in New York City
