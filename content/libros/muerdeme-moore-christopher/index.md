@@ -15,7 +15,7 @@ autores:
 series:
 - A Love Story
 editoriales:
-- LA FACTORIA DE IDEAS
+- La Factoría de Ideas
 cover:
   image: cover.jpg
   alt: Portada de ¡Muérdeme!
@@ -43,7 +43,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/44680-a-love-story
 detalles:
-  editorial: LA FACTORIA DE IDEAS
+  editorial: La Factoría de Ideas
   formato: Paperback
   paginas: 320
   idioma: Spanish; Castilian

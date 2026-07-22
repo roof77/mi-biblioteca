@@ -18,7 +18,7 @@ colaboradores:
 series:
 - Memory, Sorrow, and Thorn
 editoriales:
-- TIMUN MAS
+- Timun Mas
 colaboradores_detalle:
 - nombre: Concepción Cardeñoso Sáenz de Miera
   rol: Translator
@@ -65,7 +65,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/49188-memory-sorrow-and-thorn
 detalles:
-  editorial: TIMUN MAS
+  editorial: Timun Mas
   formato: Paperback
   paginas: null
   idioma: Spanish; Castilian

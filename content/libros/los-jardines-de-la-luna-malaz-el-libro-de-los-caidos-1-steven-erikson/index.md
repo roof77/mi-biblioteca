@@ -18,7 +18,7 @@ colaboradores:
 series:
 - Malazan Book of the Fallen
 editoriales:
-- NOVA
+- Nova
 colaboradores_detalle:
 - nombre: Miguel Antón
   rol: Translator
@@ -62,7 +62,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/43493-malazan-book-of-the-fallen
 detalles:
-  editorial: NOVA
+  editorial: Nova
   formato: Hardcover
   paginas: 784
   idioma: Spanish; Castilian

@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Marcial Souto
 editoriales:
-- Libros del zorro rojo
+- Libros del Zorro Rojo
 colaboradores_detalle:
 - nombre: Marcial Souto
   rol: Translator
@@ -55,7 +55,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Libros del zorro rojo
+  editorial: Libros del Zorro Rojo
   formato: Hardcover
   paginas: 48
   idioma: Spanish; Castilian

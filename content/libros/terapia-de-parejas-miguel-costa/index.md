@@ -6,7 +6,7 @@ autores:
 colaboradores:
 - Carmen Serrat-Valera
 editoriales:
-- Alianza Editorial S.A.
+- Alianza Editorial
 colaboradores_detalle:
 - nombre: Carmen Serrat-Valera
   rol: Author
@@ -52,7 +52,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Alianza Editorial S.A.
+  editorial: Alianza Editorial
   formato: Paperback
   paginas: 242
   idioma: Spanish; Castilian

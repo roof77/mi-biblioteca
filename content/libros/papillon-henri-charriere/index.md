@@ -15,7 +15,7 @@ autores:
 series:
 - Papillon
 editoriales:
-- Plaza & Janés.
+- Plaza & Janés
 cover:
   image: cover.jpg
   alt: Portada de Papillon
@@ -46,7 +46,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/230271-papillon
 detalles:
-  editorial: Plaza & Janés.
+  editorial: Plaza & Janés
   formato: Hardcover
   paginas: 0
   idioma: Spanish; Castilian

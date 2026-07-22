@@ -19,7 +19,7 @@ colaboradores:
 series:
 - The First Law
 editoriales:
-- Alianza
+- Alianza Editorial
 colaboradores_detalle:
 - nombre: Alejandro Colucci
   rol: Illustrator
@@ -61,7 +61,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/43644-the-first-law
 detalles:
-  editorial: Alianza
+  editorial: Alianza Editorial
   formato: Hardcover
   paginas: 680
   idioma: Spanish; Castilian

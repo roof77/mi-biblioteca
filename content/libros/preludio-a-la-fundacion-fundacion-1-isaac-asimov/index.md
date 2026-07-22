@@ -17,7 +17,7 @@ colaboradores:
 series:
 - Foundation (Publication Order)
 editoriales:
-- Círculo de Lectores (España)
+- Círculo de Lectores
 colaboradores_detalle:
 - nombre: Albert Solé
   rol: Translator
@@ -85,7 +85,7 @@ serie:
   posicion: '6'
   url: https://www.goodreads.com/series/59386-foundation-publication-order
 detalles:
-  editorial: Círculo de Lectores (España)
+  editorial: Círculo de Lectores
   formato: Hardcover
   paginas: 512
   idioma: Spanish; Castilian

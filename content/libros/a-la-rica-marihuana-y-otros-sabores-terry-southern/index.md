@@ -14,7 +14,7 @@ tags:
 autores:
 - Terry Southern
 editoriales:
-- 'Capitán Swing libros '
+- Capitán Swing
 cover:
   image: cover.jpg
   alt: Portada de A La Rica Marihuana Y Otros Sabores
@@ -78,7 +78,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: 'Capitán Swing libros '
+  editorial: Capitán Swing
   formato: Mass Market Paperback
   paginas: 288
   idioma: English

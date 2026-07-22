@@ -16,7 +16,7 @@ colaboradores:
 - Jorge García Berlanga
 - Ernesto Giménez-Caballero
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Jorge García Berlanga
   rol: Translator
@@ -72,7 +72,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Paperback
   paginas: 288
   idioma: Spanish; Castilian

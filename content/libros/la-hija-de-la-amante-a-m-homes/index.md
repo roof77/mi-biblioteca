@@ -14,7 +14,7 @@ autores:
 colaboradores:
 - Jaime Zulaika
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Jaime Zulaika
   rol: Translator
@@ -67,7 +67,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 220
   idioma: Spanish; Castilian

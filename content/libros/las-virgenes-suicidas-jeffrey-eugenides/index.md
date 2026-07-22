@@ -16,7 +16,7 @@ autores:
 colaboradores:
 - Roser Berdagué
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Roser Berdagué
   rol: Translator
@@ -54,7 +54,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 256
   idioma: Spanish; Castilian

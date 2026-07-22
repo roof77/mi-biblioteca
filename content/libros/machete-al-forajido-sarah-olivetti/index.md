@@ -3,6 +3,8 @@ title: Machete al forajido
 tags: []
 autores:
 - Sarah Olivetti
+editoriales:
+- Proyecto Estefanía
 cover:
   image: cover.jpg
   alt: Portada de Machete al forajido
@@ -24,7 +26,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: ''
+  editorial: Proyecto Estefanía
   formato: Paperback
   paginas: null
   idioma: Spanish; Castilian

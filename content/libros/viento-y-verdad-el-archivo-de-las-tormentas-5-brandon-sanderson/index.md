@@ -18,7 +18,7 @@ colaboradores:
 series:
 - The Stormlight Archive
 editoriales:
-- Nova CF
+- Nova
 colaboradores_detalle:
 - nombre: Manu Viciano
   rol: Translator
@@ -89,7 +89,7 @@ serie:
   posicion: '5'
   url: https://www.goodreads.com/series/49075-the-stormlight-archive
 detalles:
-  editorial: Nova CF
+  editorial: Nova
   formato: Hardcover
   paginas: 1408
   idioma: Spanish; Castilian

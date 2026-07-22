@@ -14,7 +14,7 @@ autores:
 colaboradores:
 - Juan Rodolfo Wilcock
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Juan Rodolfo Wilcock
   rol: Translator
@@ -67,7 +67,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 160
   idioma: Spanish; Castilian

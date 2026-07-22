@@ -9,7 +9,7 @@ autores:
 series:
 - Colección Universo DC
 editoriales:
-- Editorial Planeta DeAgostini, S.A.
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Universo DC: Hitman Nº 1'
@@ -61,7 +61,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/66508-colecci-n-universo-dc
 detalles:
-  editorial: Editorial Planeta DeAgostini, S.A.
+  editorial: Planeta de Agostini
   formato: Paperback
   paginas: 192
   idioma: Spanish; Castilian

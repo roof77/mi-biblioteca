@@ -4,7 +4,7 @@ tags: []
 autores:
 - Félix Romeo
 editoriales:
-- Debolsillo
+- DeBolsillo
 cover:
   image: cover.jpg
   alt: 'Portada de Las cuatro novelas: Dibujos animados / Discothèque / Amarillo / Noche de los enamorados'
@@ -33,7 +33,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Debolsillo
+  editorial: DeBolsillo
   formato: Paperback
   paginas: 528
   idioma: Spanish; Castilian

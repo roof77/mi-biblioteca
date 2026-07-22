@@ -4,7 +4,7 @@ tags: []
 autores:
 - Alex Raymond
 editoriales:
-- Planeta DeAgostini Cómics
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1953-1954 nº 05/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -46,7 +46,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Planeta DeAgostini Cómics
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 208
   idioma: Spanish; Castilian

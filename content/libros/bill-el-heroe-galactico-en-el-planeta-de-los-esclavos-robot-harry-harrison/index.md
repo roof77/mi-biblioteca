@@ -15,7 +15,7 @@ autores:
 series:
 - Bill, the Galactic Hero
 editoriales:
-- Ediciones Grijalbo, S.A.
+- Grijalbo
 cover:
   image: cover.jpg
   alt: Portada de Bill, el héroe galáctico en el planeta de los esclavos robot
@@ -52,7 +52,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/40776-bill-the-galactic-hero
 detalles:
-  editorial: Ediciones Grijalbo, S.A.
+  editorial: Grijalbo
   formato: Paperback
   paginas: 227
   idioma: Spanish; Castilian

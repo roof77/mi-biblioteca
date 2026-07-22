@@ -15,7 +15,7 @@ autores:
 traductores:
 - Begoña Llovet Barquero
 editoriales:
-- Capitan Swing
+- Capitán Swing
 cover:
   image: cover.jpg
   alt: Portada de Heil Hitler, el cerdo está muerto
@@ -48,7 +48,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Capitan Swing
+  editorial: Capitán Swing
   formato: Paperback
   paginas: 224
   idioma: Spanish; Castilian

@@ -9,7 +9,7 @@ autores:
 colaboradores:
 - Rubén Masera
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Rubén Masera
   rol: Translator
@@ -78,7 +78,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Hardcover
   paginas: 142
   idioma: Spanish; Castilian

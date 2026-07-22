@@ -4,7 +4,7 @@ tags: []
 autores:
 - Various
 editoriales:
-- Planeta DeAgostini Cómics
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Green Lantern: Amanecer y Ocaso'
@@ -39,7 +39,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Planeta DeAgostini Cómics
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 192
   idioma: Spanish; Castilian

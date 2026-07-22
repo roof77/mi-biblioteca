@@ -16,7 +16,7 @@ autores:
 colaboradores:
 - Jaime Zulaika
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Jaime Zulaika
   rol: Translator
@@ -70,7 +70,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Paperback
   paginas: 280
   idioma: Spanish; Castilian

@@ -13,7 +13,7 @@ colaboradores:
 series:
 - The Complete Peanuts
 editoriales:
-- Planeta DeAgostini Cómics
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Guillermo Ruiz
   rol: Translator
@@ -78,7 +78,7 @@ serie:
   posicion: '6'
   url: https://www.goodreads.com/series/58012-the-complete-peanuts
 detalles:
-  editorial: Planeta DeAgostini Cómics
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 352
   idioma: Spanish; Castilian

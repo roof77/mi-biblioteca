@@ -15,7 +15,7 @@ autores:
 series:
 - Memory, Sorrow, and Thorn
 editoriales:
-- Timun Mas Editorial S.A.
+- Timun Mas
 cover:
   image: cover.jpg
   alt: 'Portada de La Torre del Ángel Verde (Añoranzas y pesares, #4)'
@@ -46,7 +46,7 @@ serie:
   posicion: 3 part 2
   url: https://www.goodreads.com/series/49188-memory-sorrow-and-thorn
 detalles:
-  editorial: Timun Mas Editorial S.A.
+  editorial: Timun Mas
   formato: Paperback
   paginas: 560
   idioma: Spanish; Castilian

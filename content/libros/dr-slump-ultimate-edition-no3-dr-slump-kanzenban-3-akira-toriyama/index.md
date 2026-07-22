@@ -9,7 +9,7 @@ autores:
 series:
 - Dr.スランプ [Dr. Slump]
 editoriales:
-- Planeta DeAgostini Comics
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Dr. Slump Ultimate Edition Nº3 (Dr. Slump Kanzenban, #3)'
@@ -48,7 +48,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/183097-dr-dr-slump
 detalles:
-  editorial: Planeta DeAgostini Comics
+  editorial: Planeta de Agostini
   formato: Paperback
   paginas: 241
   idioma: Spanish; Castilian

@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Benito Gómez Ibáñez
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Benito Gómez Ibáñez
   rol: Translator
@@ -71,7 +71,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 288
   idioma: Spanish; Castilian

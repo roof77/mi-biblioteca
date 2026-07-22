@@ -12,7 +12,7 @@ autores:
 series:
 - Love and Rockets
 editoriales:
-- Ediciones La Cupula
+- La Cúpula
 cover:
   image: cover.jpg
   alt: Portada de La educación de Hopey Glass
@@ -45,7 +45,7 @@ serie:
   posicion: '24'
   url: https://www.goodreads.com/series/75339-love-and-rockets
 detalles:
-  editorial: Ediciones La Cupula
+  editorial: La Cúpula
   formato: Hardcover
   paginas: 132
   idioma: Spanish; Castilian

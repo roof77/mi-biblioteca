@@ -10,7 +10,7 @@ tags:
 autores:
 - Debbie Drechsler
 editoriales:
-- Ediciones La Cúpula
+- La Cúpula
 cover:
   image: cover.jpg
   alt: Portada de Verano de Amor
@@ -38,7 +38,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Ediciones La Cúpula
+  editorial: La Cúpula
   formato: Paperback
   paginas: 148
   idioma: Spanish; Castilian

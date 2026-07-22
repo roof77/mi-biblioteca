@@ -16,7 +16,7 @@ colaboradores:
 - David G. Vaquero
 - Raúl García Campos
 editoriales:
-- Obscura Editorial, SL
+- Obscura
 colaboradores_detalle:
 - nombre: David G. Vaquero
   rol: Cover Art
@@ -61,7 +61,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Obscura Editorial, SL
+  editorial: Obscura
   formato: Paperback
   paginas: 165
   idioma: Spanish; Castilian

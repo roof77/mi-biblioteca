@@ -17,7 +17,7 @@ colaboradores:
 series:
 - Wayward Children
 editoriales:
-- Alianza
+- Alianza Editorial
 colaboradores_detalle:
 - nombre: María Pilar San Román
   rol: Translator
@@ -53,7 +53,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/165484-wayward-children
 detalles:
-  editorial: Alianza
+  editorial: Alianza Editorial
   formato: Hardcover
   paginas: 183
   idioma: Spanish; Castilian

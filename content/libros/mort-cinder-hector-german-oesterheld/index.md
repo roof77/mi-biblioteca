@@ -16,7 +16,7 @@ colaboradores:
 series:
 - Mort Cinder
 editoriales:
-- Editorial Planeta de Agostini, S.A.
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Alberto Breccia
   rol: dibujo
@@ -62,7 +62,7 @@ serie:
   posicion: 1-10
   url: https://www.goodreads.com/series/67072-mort-cinder
 detalles:
-  editorial: Editorial Planeta de Agostini, S.A.
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 224
   idioma: Spanish; Castilian

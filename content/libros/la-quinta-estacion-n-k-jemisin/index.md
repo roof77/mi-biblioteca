@@ -17,7 +17,7 @@ colaboradores:
 series:
 - The Broken Earth
 editoriales:
-- NOVA
+- Nova
 colaboradores_detalle:
 - nombre: David Tejera Expósito
   rol: Translator
@@ -51,7 +51,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/112296-the-broken-earth
 detalles:
-  editorial: NOVA
+  editorial: Nova
   formato: Paperback
   paginas: 448
   idioma: Spanish; Castilian

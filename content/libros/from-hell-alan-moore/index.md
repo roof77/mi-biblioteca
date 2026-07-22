@@ -18,7 +18,7 @@ colaboradores:
 series:
 - From Hell
 editoriales:
-- Planeta DeAgostini Comics
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Eddie Campbell
   rol: Author
@@ -62,7 +62,7 @@ serie:
   posicion: 1-11
   url: https://www.goodreads.com/series/83849-from-hell
 detalles:
-  editorial: Planeta DeAgostini Comics
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 624
   idioma: Spanish; Castilian

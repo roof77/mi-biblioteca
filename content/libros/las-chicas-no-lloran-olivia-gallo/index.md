@@ -4,7 +4,7 @@ tags: []
 autores:
 - Olivia Gallo
 editoriales:
-- ALPHA DECAY
+- Alpha Decay
 cover:
   image: cover.jpg
   alt: Portada de Las chicas no lloran
@@ -37,7 +37,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: ALPHA DECAY
+  editorial: Alpha Decay
   formato: Paperback
   paginas: 112
   idioma: Spanish; Castilian

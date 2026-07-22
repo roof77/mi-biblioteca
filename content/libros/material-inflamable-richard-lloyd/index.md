@@ -9,7 +9,7 @@ tags:
 autores:
 - Richard Lloyd
 editoriales:
-- Editorial Contra
+- Contra
 cover:
   image: cover.jpg
   alt: Portada de Material inflamable
@@ -46,7 +46,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Contra
+  editorial: Contra
   formato: Kindle Edition
   paginas: 360
   idioma: Spanish; Castilian

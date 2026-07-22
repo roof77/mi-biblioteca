@@ -14,7 +14,7 @@ autores:
 colaboradores:
 - Javier Lucini
 editoriales:
-- Sajalín
+- Sajalín Editores
 colaboradores_detalle:
 - nombre: Javier Lucini
   rol: Transaltor
@@ -49,7 +49,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Sajalín
+  editorial: Sajalín Editores
   formato: Paperback
   paginas: 180
   idioma: Spanish; Castilian

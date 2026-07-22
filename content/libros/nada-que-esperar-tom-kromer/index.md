@@ -11,7 +11,7 @@ autores:
 colaboradores:
 - Ana Crespo Bordes
 editoriales:
-- Sajalín
+- Sajalín Editores
 colaboradores_detalle:
 - nombre: Ana Crespo Bordes
   rol: Translator
@@ -59,7 +59,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Sajalín
+  editorial: Sajalín Editores
   formato: Paperback
   paginas: 218
   idioma: Spanish; Castilian

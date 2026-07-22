@@ -5,8 +5,10 @@ autores:
 - Yarō Abe
 colaboradores:
 - Alberto K. Fonseca Sakai
+series:
+- La cantina de medianoche
 editoriales:
-- ASTIBERRI EDICIONES
+- Astiberri
 colaboradores_detalle:
 - nombre: Alberto K. Fonseca Sakai
   rol: Translator
@@ -29,11 +31,11 @@ autor:
   url: https://www.goodreads.com/author/show/5765743.Yar_Abe
   bio: Yaro Abe (安倍 夜郎)
 serie:
-  nombre: null
-  posicion: null
+  nombre: La cantina de medianoche
+  posicion: '9'
   url: null
 detalles:
-  editorial: ASTIBERRI EDICIONES
+  editorial: Astiberri
   formato: Paperback
   paginas: 296
   idioma: Spanish; Castilian

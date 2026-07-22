@@ -7,7 +7,7 @@ tags:
 autores:
 - Luis Landero
 editoriales:
-- Tusquets Editores S.A.
+- Tusquets
 cover:
   image: cover.jpg
   alt: Portada de El balcón en invierno
@@ -47,7 +47,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Tusquets Editores S.A.
+  editorial: Tusquets
   formato: Paperback
   paginas: 248
   idioma: Spanish; Castilian

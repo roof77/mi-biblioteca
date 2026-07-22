@@ -15,7 +15,7 @@ autores:
 series:
 - The Fionavar Tapestry
 editoriales:
-- 'Planeta DeAgostini '
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Fuego errante (El tapiz de Fionavar, #2) II'
@@ -46,7 +46,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/49379-the-fionavar-tapestry
 detalles:
-  editorial: 'Planeta DeAgostini '
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 368
   idioma: Spanish; Castilian

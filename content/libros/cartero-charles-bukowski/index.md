@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Jorge García Berlanga
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Jorge García Berlanga
   rol: Translator
@@ -68,7 +68,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 192
   idioma: Spanish; Castilian

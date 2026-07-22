@@ -16,7 +16,7 @@ autores:
 series:
 - Sevenwaters
 editoriales:
-- EDHASA
+- Edhasa
 cover:
   image: cover.jpg
   alt: 'Portada de La hija del bosque (Sieteaguas, #1)'
@@ -58,7 +58,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/44771-sevenwaters
 detalles:
-  editorial: EDHASA
+  editorial: Edhasa
   formato: Paperback
   paginas: 572
   idioma: Spanish; Castilian

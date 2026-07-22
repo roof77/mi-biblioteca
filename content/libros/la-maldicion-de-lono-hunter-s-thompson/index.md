@@ -12,7 +12,7 @@ tags:
 autores:
 - Hunter S. Thompson
 editoriales:
-- 'Sexto Piso '
+- Sexto Piso
 cover:
   image: cover.jpg
   alt: Portada de La maldición de Lono
@@ -88,7 +88,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: 'Sexto Piso '
+  editorial: Sexto Piso
   formato: Paperback
   paginas: 208
   idioma: Spanish; Castilian

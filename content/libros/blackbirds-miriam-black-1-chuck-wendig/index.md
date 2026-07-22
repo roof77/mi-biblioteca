@@ -14,7 +14,7 @@ autores:
 series:
 - Miriam Black
 editoriales:
-- Colmena ediciones
+- Colmena Ediciones
 cover:
   image: cover.jpg
   alt: 'Portada de Blackbirds (Miriam Black, #1)'
@@ -48,7 +48,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/69709-miriam-black
 detalles:
-  editorial: Colmena ediciones
+  editorial: Colmena Ediciones
   formato: Paperback
   paginas: 344
   idioma: Spanish; Castilian

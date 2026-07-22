@@ -10,7 +10,7 @@ autores:
 series:
 - Indigo
 editoriales:
-- Timun Mas (Grupo Ceac)
+- Timun Mas
 cover:
   image: cover.jpg
   alt: 'Portada de Avatar (Indigo, #6)'
@@ -54,7 +54,7 @@ serie:
   posicion: '6'
   url: https://www.goodreads.com/series/41030-indigo
 detalles:
-  editorial: Timun Mas (Grupo Ceac)
+  editorial: Timun Mas
   formato: Hardcover
   paginas: 353
   idioma: Spanish; Castilian

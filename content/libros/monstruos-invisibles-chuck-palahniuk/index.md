@@ -13,7 +13,7 @@ tags:
 autores:
 - Chuck Palahniuk
 editoriales:
-- Plaza & Janes S.A.,Spain
+- Plaza & Janés
 cover:
   image: cover.jpg
   alt: Portada de Monstruos invisibles
@@ -58,7 +58,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Plaza & Janes S.A.,Spain
+  editorial: Plaza & Janés
   formato: Paperback
   paginas: 267
   idioma: Spanish; Castilian

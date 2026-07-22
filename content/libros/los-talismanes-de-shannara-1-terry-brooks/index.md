@@ -7,7 +7,7 @@ autores:
 series:
 - Heritage of Shannara
 editoriales:
-- Timun Mas Editorial S.A.
+- Timun Mas
 cover:
   image: cover.jpg
   alt: Portada de Los Talismanes de Shannara 1
@@ -43,7 +43,7 @@ serie:
   posicion: 4, part 1 of 2
   url: https://www.goodreads.com/series/40325-heritage-of-shannara
 detalles:
-  editorial: Timun Mas Editorial S.A.
+  editorial: Timun Mas
   formato: Paperback
   paginas: 0
   idioma: Spanish; Castilian

@@ -15,7 +15,7 @@ autores:
 series:
 - New York Trilogy
 editoriales:
-- Círculo de Lectores.
+- Círculo de Lectores
 cover:
   image: cover.jpg
   alt: Portada de La trilogía de Nueva York
@@ -48,7 +48,7 @@ serie:
   posicion: 1-3
   url: https://www.goodreads.com/series/83123-new-york-trilogy
 detalles:
-  editorial: Círculo de Lectores.
+  editorial: Círculo de Lectores
   formato: Hardcover
   paginas: 0
   idioma: Spanish; Castilian

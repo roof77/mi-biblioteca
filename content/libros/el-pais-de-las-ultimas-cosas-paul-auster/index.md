@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - María Eugenia Giocchini Suárez
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: María Eugenia Giocchini Suárez
   rol: Translator
@@ -55,7 +55,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 205
   idioma: Spanish; Castilian

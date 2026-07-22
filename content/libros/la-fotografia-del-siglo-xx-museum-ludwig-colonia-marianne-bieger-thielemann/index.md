@@ -21,7 +21,7 @@ colaboradores:
 - Thomas von Taschitzki
 - Nina Zschocke
 editoriales:
-- TASCHEN ,
+- Taschen
 colaboradores_detalle:
 - nombre: Gérard A. Goodrow
   rol: Author
@@ -69,7 +69,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: TASCHEN ,
+  editorial: Taschen
   formato: Paperback
   paginas: 760
   idioma: Spanish; Castilian

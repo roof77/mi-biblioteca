@@ -15,7 +15,7 @@ autores:
 traductores:
 - Jesús Zulaika
 editoriales:
-- Editorial Anagrama
+- Anagrama
 cover:
   image: cover.jpg
   alt: Portada de La trama nupcial
@@ -49,7 +49,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Paperback
   paginas: 531
   idioma: Spanish; Castilian

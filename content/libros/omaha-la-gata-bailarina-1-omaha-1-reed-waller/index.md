@@ -9,7 +9,7 @@ colaboradores:
 series:
 - Omaha
 editoriales:
-- ASTIBERRI EDICIONES
+- Astiberri
 colaboradores_detalle:
 - nombre: Kate Worley
   rol: Author
@@ -54,7 +54,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/89614-omaha
 detalles:
-  editorial: ASTIBERRI EDICIONES
+  editorial: Astiberri
   formato: Hardcover
   paginas: 256
   idioma: Spanish; Castilian

@@ -10,7 +10,7 @@ tags:
 autores:
 - Seth
 editoriales:
-- Random House Mondadori, S.A.
+- Random House Mondadori
 cover:
   image: cover.jpg
   alt: Portada de George Sprott, 1894-1975
@@ -51,7 +51,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Random House Mondadori, S.A.
+  editorial: Random House Mondadori
   formato: Paperback
   paginas: 64
   idioma: Spanish; Castilian

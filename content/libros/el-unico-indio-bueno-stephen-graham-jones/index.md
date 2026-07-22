@@ -18,7 +18,7 @@ colaboradores:
 series:
 - The Only Good Indians
 editoriales:
-- La biblioteca de Carfax
+- La Biblioteca de Carfax
 colaboradores_detalle:
 - nombre: Rafael Martín Coronel
   rol: Illustrator
@@ -58,7 +58,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/437501-the-only-good-indians
 detalles:
-  editorial: La biblioteca de Carfax
+  editorial: La Biblioteca de Carfax
   formato: Paperback
   paginas: 384
   idioma: Spanish; Castilian

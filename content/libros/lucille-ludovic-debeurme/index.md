@@ -16,7 +16,7 @@ colaboradores:
 series:
 - 'Lucille '
 editoriales:
-- Norma
+- Norma Editorial
 colaboradores_detalle:
 - nombre: Manel Domínguez
   rol: Translator
@@ -49,7 +49,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/148866-lucille
 detalles:
-  editorial: Norma
+  editorial: Norma Editorial
   formato: Hardcover
   paginas: 544
   idioma: Spanish; Castilian

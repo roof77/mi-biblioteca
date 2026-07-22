@@ -14,7 +14,7 @@ tags:
 autores:
 - Sara  Torres
 editoriales:
-- RESERVOIR BOOKS
+- Reservoir Books
 cover:
   image: cover.jpg
   alt: Portada de Lo que hay
@@ -62,7 +62,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: RESERVOIR BOOKS
+  editorial: Reservoir Books
   formato: Kindle Edition
   paginas: 224
   idioma: Spanish; Castilian

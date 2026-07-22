@@ -14,7 +14,7 @@ tags:
 autores:
 - Poppy Z. Brite
 editoriales:
-- LA FACTORÍA DE IDEAS
+- La Factoría de Ideas
 cover:
   image: cover.jpg
   alt: Portada de El alma del vampiro (Spanish Edition)
@@ -56,7 +56,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: LA FACTORÍA DE IDEAS
+  editorial: La Factoría de Ideas
   formato: Paperback
   paginas: 347
   idioma: Spanish; Castilian

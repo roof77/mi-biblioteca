@@ -4,7 +4,7 @@ tags: []
 autores:
 - Ana María Herrera y Ruiz de la Herrán
 editoriales:
-- ' Edimat Libros'
+- Edimat Libros
 cover:
   image: cover.jpg
   alt: Portada de Manual de cocina
@@ -30,7 +30,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: ' Edimat Libros'
+  editorial: Edimat Libros
   formato: Hardcover
   paginas: 784
   idioma: Spanish; Castilian

@@ -11,7 +11,7 @@ autores:
 colaboradores:
 - Agostina Marchi
 editoriales:
-- Caja Negra Editora
+- Caja Negra
 colaboradores_detalle:
 - nombre: Agostina Marchi
   rol: Translator
@@ -46,7 +46,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Caja Negra Editora
+  editorial: Caja Negra
   formato: Hardcover
   paginas: 416
   idioma: Spanish; Castilian

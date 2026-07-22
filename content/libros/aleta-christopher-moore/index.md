@@ -13,7 +13,7 @@ tags:
 autores:
 - Christopher Moore
 editoriales:
-- La Factoria de Ideas
+- La Factoría de Ideas
 cover:
   image: cover.jpg
   alt: Portada de Aleta
@@ -46,7 +46,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: La Factoria de Ideas
+  editorial: La Factoría de Ideas
   formato: Paperback
   paginas: 320
   idioma: Spanish; Castilian

@@ -11,9 +11,9 @@ tags:
 - Ciencia Ficción
 - Novela
 autores:
-- Stephen  King
+- Stephen King
 editoriales:
-- Circulo de lector
+- Círculo de Lectores
 cover:
   image: cover.jpg
   alt: Portada de Los ojos del dragón
@@ -29,7 +29,7 @@ libro:
     adventures, of dragons and princes and evil wizards, here is epic fantasy as only Stephen King could envision it. Stephen
     King has taken the classic fairy tale and transformed it into a masterpiece of fiction for the ages.
 autor:
-  nombre: Stephen  King
+  nombre: Stephen King
   rol: Author
   seguidores: 896522
   obras: 2132
@@ -61,7 +61,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Circulo de lector
+  editorial: Círculo de Lectores
   formato: Hardcover
   paginas: 325
   idioma: Spanish; Castilian

@@ -13,7 +13,7 @@ tags:
 autores:
 - Michael Chabon
 editoriales:
-- Debolsillo
+- DeBolsillo
 cover:
   image: cover.jpg
   alt: Portada de El sindicato de policía Yiddish
@@ -58,7 +58,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Debolsillo
+  editorial: DeBolsillo
   formato: Mass Market Paperback
   paginas: 432
   idioma: Spanish; Castilian

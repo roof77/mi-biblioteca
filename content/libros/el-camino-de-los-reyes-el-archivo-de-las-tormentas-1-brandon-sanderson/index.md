@@ -17,7 +17,7 @@ colaboradores:
 series:
 - The Stormlight Archive
 editoriales:
-- Nova Ciencia Ficción (Ediciones B)
+- Nova
 colaboradores_detalle:
 - nombre: Rafael Marín Trechera
   rol: 'Translator '
@@ -83,7 +83,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/49075-the-stormlight-archive
 detalles:
-  editorial: Nova Ciencia Ficción (Ediciones B)
+  editorial: Nova
   formato: Hardcover
   paginas: 1196
   idioma: Spanish; Castilian

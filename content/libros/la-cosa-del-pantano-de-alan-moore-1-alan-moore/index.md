@@ -16,7 +16,7 @@ colaboradores:
 series:
 - Absolute Swamp Thing by Alan Moore
 editoriales:
-- Planeta DeAgostini Comics (Vertigo Comics)
+- Plaza & Janés
 colaboradores_detalle:
 - nombre: Stephen R. Bissette
   rol: dibujo
@@ -59,7 +59,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/307388-absolute-swamp-thing-by-alan-moore
 detalles:
-  editorial: Planeta DeAgostini Comics (Vertigo Comics)
+  editorial: Plaza & Janés
   formato: Hardcover
   paginas: 432
   idioma: Spanish; Castilian

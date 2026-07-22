@@ -15,7 +15,7 @@ autores:
 series:
 - Dykes to Watch Out For
 editoriales:
-- RESERVOIR BOOKS
+- Reservoir Books
 cover:
   image: cover.jpg
   alt: Portada de Lo indispensable de Unas lesbianas de cuidado
@@ -52,7 +52,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/49513-dykes-to-watch-out-for
 detalles:
-  editorial: RESERVOIR BOOKS
+  editorial: Reservoir Books
   formato: Kindle Edition
   paginas: 404
   idioma: Spanish; Castilian

@@ -14,7 +14,7 @@ autores:
 traductores:
 - Lorenzo F. Díaz
 editoriales:
-- Ediciones La Cúpula, S.A.
+- La Cúpula
 cover:
   image: cover.jpg
   alt: Portada de Hablando del diablo
@@ -65,7 +65,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Ediciones La Cúpula, S.A.
+  editorial: La Cúpula
   formato: Hardcover
   paginas: 132
   idioma: Spanish; Castilian

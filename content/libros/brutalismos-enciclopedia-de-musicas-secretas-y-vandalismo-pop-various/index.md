@@ -1,5 +1,5 @@
 ---
-title: 'BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP'
+title: 'Brutalismos: Enciclopedia De Músicas Secretas y Vandalismo Pop'
 tags: []
 autores:
 - Various
@@ -7,11 +7,11 @@ editoriales:
 - La Felguera Editores
 cover:
   image: cover.jpg
-  alt: 'Portada de BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP'
+  alt: 'Portada de Brutalismos: Enciclopedia De Músicas Secretas y Vandalismo Pop'
 date: '2026-02-09'
 libro:
   id: 247095885
-  titulo: 'BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP'
+  titulo: 'Brutalismos: Enciclopedia De Músicas Secretas y Vandalismo Pop'
   url: https://www.goodreads.com/book/show/247095885-brutalismos
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770618862i/247095885.jpg
   sinopsis: ''

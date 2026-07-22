@@ -13,7 +13,7 @@ autores:
 series:
 - The Acme Novelty Library
 editoriales:
-- RESERVOIR BOOKS
+- Reservoir Books
 cover:
   image: cover.jpg
   alt: 'Portada de Acme: Nuestro Informe Anual Para los Accionistas'
@@ -67,7 +67,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/69134-the-acme-novelty-library
 detalles:
-  editorial: RESERVOIR BOOKS
+  editorial: Reservoir Books
   formato: Hardcover
   paginas: 112
   idioma: Spanish; Castilian

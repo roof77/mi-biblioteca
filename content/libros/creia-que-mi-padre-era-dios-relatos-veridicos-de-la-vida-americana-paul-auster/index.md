@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Cecilia Ceriani
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Cecilia Ceriani
   rol: Translator
@@ -56,7 +56,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 566
   idioma: Spanish; Castilian

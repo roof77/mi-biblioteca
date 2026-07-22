@@ -13,7 +13,7 @@ tags:
 autores:
 - Billie Holiday
 editoriales:
-- Tusquets Editores
+- Tusquets
 cover:
   image: cover.jpg
   alt: Portada de Lady sings the Blues
@@ -49,7 +49,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Tusquets Editores
+  editorial: Tusquets
   formato: Mass Market Paperback
   paginas: 232
   idioma: Spanish; Castilian

@@ -14,7 +14,7 @@ tags:
 autores:
 - James    Ross
 editoriales:
-- Sajalín editores
+- Sajalín Editores
 cover:
   image: cover.jpg
   alt: Portada de Mal dadas
@@ -51,7 +51,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Sajalín editores
+  editorial: Sajalín Editores
   formato: Paperback
   paginas: 356
   idioma: Spanish; Castilian

@@ -4,7 +4,7 @@ tags: []
 autores:
 - Félix Romeo
 editoriales:
-- Xordica Editorial
+- Xordica
 cover:
   image: cover.jpg
   alt: Portada de Todos los besos del mundo
@@ -34,7 +34,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Xordica Editorial
+  editorial: Xordica
   formato: Paperback
   paginas: 144
   idioma: Spanish; Castilian

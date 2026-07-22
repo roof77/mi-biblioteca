@@ -16,7 +16,7 @@ colaboradores:
 series:
 - My Favorite Thing Is Monsters
 editoriales:
-- RESERVOIR BOOKS
+- Reservoir Books
 colaboradores_detalle:
 - nombre: Montse Meneses Vilar
   rol: translator
@@ -50,7 +50,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/195577-my-favorite-thing-is-monsters
 detalles:
-  editorial: RESERVOIR BOOKS
+  editorial: Reservoir Books
   formato: Paperback
   paginas: 420
   idioma: Spanish; Castilian

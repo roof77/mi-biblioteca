@@ -8,7 +8,7 @@ colaboradores:
 series:
 - Modesty Blaise. Biblioteca Grandes del Cómic
 editoriales:
-- Planeta DeAgostini
+- Planeta de Agostini
 colaboradores_detalle:
 - nombre: Jim Holdaway
   rol: Illustrator
@@ -55,7 +55,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/277986-modesty-blaise-biblioteca-grandes-del-c-mic
 detalles:
-  editorial: Planeta DeAgostini
+  editorial: Planeta de Agostini
   formato: Paperback
   paginas: 176
   idioma: Spanish; Castilian

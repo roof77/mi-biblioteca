@@ -11,7 +11,7 @@ autores:
 series:
 - Taschen Basic Architecture
 editoriales:
-- TASCHEN ESPAÑA, S.A.U.
+- Taschen
 cover:
   image: cover.jpg
   alt: Portada de Mies van der Rohe (Spanish Edition)
@@ -36,7 +36,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/131202-taschen-basic-architecture
 detalles:
-  editorial: TASCHEN ESPAÑA, S.A.U.
+  editorial: Taschen
   formato: Paperback
   paginas: 96
   idioma: Spanish; Castilian

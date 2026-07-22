@@ -15,7 +15,7 @@ autores:
 series:
 - Legion of the Damned
 editoriales:
-- Salvat.
+- Salvat
 cover:
   image: cover.jpg
   alt: Portada de La Legión De Los Condenados
@@ -40,7 +40,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/88227-legion-of-the-damned
 detalles:
-  editorial: Salvat.
+  editorial: Salvat
   formato: Paperback
   paginas: 0
   idioma: Spanish; Castilian

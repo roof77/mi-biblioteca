@@ -14,7 +14,7 @@ tags:
 autores:
 - Dorothy Baker
 editoriales:
-- Editorial Contraseña
+- Contraseña
 cover:
   image: cover.jpg
   alt: Portada de Cassandra en la boda
@@ -49,7 +49,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Contraseña
+  editorial: Contraseña
   formato: Paperback
   paginas: 256
   idioma: Spanish; Castilian

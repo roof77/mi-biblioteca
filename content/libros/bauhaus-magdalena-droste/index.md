@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Bauhaus-Archiv
 editoriales:
-- TASCHEN ESPAÑA, S.A.U.
+- Taschen
 colaboradores_detalle:
 - nombre: Bauhaus-Archiv
   rol: Author
@@ -45,7 +45,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: TASCHEN ESPAÑA, S.A.U.
+  editorial: Taschen
   formato: Hardcover
   paginas: 256
   idioma: Spanish; Castilian

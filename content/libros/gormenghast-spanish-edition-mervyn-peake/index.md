@@ -18,7 +18,7 @@ colaboradores:
 series:
 - Gormenghast
 editoriales:
-- Atico de los Libros
+- Ático de los Libros
 colaboradores_detalle:
 - nombre: Ana Quijada
   rol: translator
@@ -76,7 +76,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/45757-gormenghast
 detalles:
-  editorial: Atico de los Libros
+  editorial: Ático de los Libros
   formato: Hardcover
   paginas: 608
   idioma: Spanish; Castilian

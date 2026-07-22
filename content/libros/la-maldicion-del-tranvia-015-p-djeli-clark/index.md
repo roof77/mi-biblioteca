@@ -17,7 +17,7 @@ colaboradores:
 series:
 - Dead Djinn Universe
 editoriales:
-- Duermevela Ediciones
+- Duermevela
 colaboradores_detalle:
 - nombre: Rebeca Cardeñoso
   rol: Translator
@@ -54,7 +54,7 @@ serie:
   posicion: '0.3'
   url: https://www.goodreads.com/series/299884-dead-djinn-universe
 detalles:
-  editorial: Duermevela Ediciones
+  editorial: Duermevela
   formato: Kindle Edition
   paginas: 122
   idioma: Spanish; Castilian

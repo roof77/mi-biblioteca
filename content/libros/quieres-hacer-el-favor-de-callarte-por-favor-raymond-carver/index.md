@@ -14,7 +14,7 @@ autores:
 colaboradores:
 - Jesús Zulaika Goicoechea
 editoriales:
-- Editorial Anagrama
+- Anagrama
 colaboradores_detalle:
 - nombre: Jesús Zulaika Goicoechea
   rol: Translator
@@ -59,7 +59,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 240
   idioma: Spanish; Castilian

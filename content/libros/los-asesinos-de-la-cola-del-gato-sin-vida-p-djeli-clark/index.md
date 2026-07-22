@@ -16,7 +16,7 @@ colaboradores:
 - Raúl García Campos
 - David G. Vaquero
 editoriales:
-- Obscura Editorial, SL
+- Obscura
 colaboradores_detalle:
 - nombre: Raúl García Campos
   rol: translator
@@ -58,7 +58,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Obscura Editorial, SL
+  editorial: Obscura
   formato: Paperback
   paginas: 214
   idioma: Spanish; Castilian

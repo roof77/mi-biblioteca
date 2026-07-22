@@ -12,7 +12,7 @@ autores:
 series:
 - Love and Rockets Library
 editoriales:
-- Ediciones La Cúpula, S.A.
+- La Cúpula
 cover:
   image: cover.jpg
   alt: 'Portada de Locas 1 (Love & Rockets, #1)'
@@ -51,7 +51,7 @@ serie:
   posicion: '1'
   url: https://www.goodreads.com/series/334242-love-and-rockets-library
 detalles:
-  editorial: Ediciones La Cúpula, S.A.
+  editorial: La Cúpula
   formato: Paperback
   paginas: 276
   idioma: Spanish; Castilian

@@ -13,7 +13,7 @@ tags:
 autores:
 - Eleanor Catton
 editoriales:
-- 'Siruela '
+- Siruela
 cover:
   image: cover.jpg
   alt: Portada de Las luminarias
@@ -51,7 +51,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: 'Siruela '
+  editorial: Siruela
   formato: Paperback
   paginas: 808
   idioma: Spanish; Castilian

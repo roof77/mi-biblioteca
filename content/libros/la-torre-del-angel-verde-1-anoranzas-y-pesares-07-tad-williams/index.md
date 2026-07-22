@@ -4,7 +4,7 @@ tags: []
 autores:
 - Tad Williams
 editoriales:
-- TIMUN MAS
+- Timun Mas
 cover:
   image: cover.jpg
   alt: 'Portada de La torre del ángel verde 1  (Añoranzas y pesares, #07)'
@@ -44,7 +44,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: TIMUN MAS
+  editorial: Timun Mas
   formato: Paperback
   paginas: 416
   idioma: Spanish; Castilian

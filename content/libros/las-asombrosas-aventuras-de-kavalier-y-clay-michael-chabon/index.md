@@ -16,7 +16,7 @@ autores:
 colaboradores:
 - Javier Calvo
 editoriales:
-- DEBOLSILLO
+- DeBolsillo
 colaboradores_detalle:
 - nombre: Javier Calvo
   rol: Translator
@@ -67,7 +67,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: DEBOLSILLO
+  editorial: DeBolsillo
   formato: Paperback
   paginas: 736
   idioma: Spanish; Castilian

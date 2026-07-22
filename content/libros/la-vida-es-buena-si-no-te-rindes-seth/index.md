@@ -9,7 +9,7 @@ tags:
 autores:
 - Seth
 editoriales:
-- Sinsentido
+- Ediciones Sins Entido
 cover:
   image: cover.jpg
   alt: Portada de La vida es buena si no te rindes
@@ -51,7 +51,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Sinsentido
+  editorial: Ediciones Sins Entido
   formato: Hardcover
   paginas: 196
   idioma: Spanish; Castilian

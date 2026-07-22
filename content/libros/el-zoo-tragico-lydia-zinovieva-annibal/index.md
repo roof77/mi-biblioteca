@@ -16,7 +16,7 @@ colaboradores:
 - Lidia Zinovieva-Annibal
 - Vladímir Aly
 editoriales:
-- Nevsky Prospects SL
+- Nevsky Prospects
 colaboradores_detalle:
 - nombre: Lidia Zinovieva-Annibal
   rol: Author
@@ -55,7 +55,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Nevsky Prospects SL
+  editorial: Nevsky Prospects
   formato: Paperback
   paginas: 271
   idioma: Spanish; Castilian

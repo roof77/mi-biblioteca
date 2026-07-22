@@ -9,7 +9,7 @@ tags:
 autores:
 - Antonio Escohotado
 editoriales:
-- Editorial Anagrama
+- Anagrama
 cover:
   image: cover.jpg
   alt: 'Portada de Aprendiendo de las drogas: Usos y abusos, prejuicios y desafíos'
@@ -46,7 +46,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Editorial Anagrama
+  editorial: Anagrama
   formato: Mass Market Paperback
   paginas: 256
   idioma: Spanish; Castilian

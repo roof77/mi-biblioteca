@@ -5,7 +5,7 @@ tags:
 autores:
 - Jaime Hernández
 editoriales:
-- Ediciones La Cúpula, S.A.
+- La Cúpula
 cover:
   image: cover.jpg
   alt: Portada de Locas 2
@@ -37,7 +37,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Ediciones La Cúpula, S.A.
+  editorial: La Cúpula
   formato: Paperback
   paginas: 284
   idioma: Spanish; Castilian

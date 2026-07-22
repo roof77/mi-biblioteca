@@ -12,7 +12,7 @@ tags:
 autores:
 - Kealan Patrick Burke
 editoriales:
-- 'Dilatando Mentes Editorial '
+- Dilatando Mentes Editorial
 cover:
   image: cover.jpg
   alt: Portada de Caramelo ácido
@@ -54,7 +54,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: 'Dilatando Mentes Editorial '
+  editorial: Dilatando Mentes Editorial
   formato: Paperback
   paginas: 146
   idioma: Spanish; Castilian

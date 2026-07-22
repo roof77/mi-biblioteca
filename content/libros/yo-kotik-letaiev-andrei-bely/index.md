@@ -10,7 +10,7 @@ tags:
 autores:
 - Andrei Bely
 editoriales:
-- Nevsky Prospects S.L.
+- Nevsky Prospects
 cover:
   image: cover.jpg
   alt: Portada de Yo, Kótik Letáiev
@@ -61,7 +61,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Nevsky Prospects S.L.
+  editorial: Nevsky Prospects
   formato: Paperback
   paginas: 325
   idioma: Spanish; Castilian

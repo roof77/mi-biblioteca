@@ -10,7 +10,7 @@ autores:
 series:
 - Rip Kirby
 editoriales:
-- Planeta DeAgostini Cómics
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: Portada de Rip Kirby 1947-1949 nº 02/12 (Cómics Clásicos NO) (Spanish Edition)
@@ -52,7 +52,7 @@ serie:
   posicion: '2'
   url: https://www.goodreads.com/series/80748-rip-kirby
 detalles:
-  editorial: Planeta DeAgostini Cómics
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 176
   idioma: Spanish; Castilian

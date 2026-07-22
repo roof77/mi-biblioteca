@@ -9,7 +9,7 @@ autores:
 series:
 - Indigo
 editoriales:
-- Timun Mas (Grupo Ceac)
+- Timun Mas
 cover:
   image: cover.jpg
   alt: 'Portada de Anghara (Indigo #8) II'
@@ -49,7 +49,7 @@ serie:
   posicion: '8'
   url: https://www.goodreads.com/series/41030-indigo
 detalles:
-  editorial: Timun Mas (Grupo Ceac)
+  editorial: Timun Mas
   formato: Hardcover
   paginas: 383
   idioma: Spanish; Castilian

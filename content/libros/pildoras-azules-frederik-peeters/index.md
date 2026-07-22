@@ -11,7 +11,7 @@ tags:
 autores:
 - Frederik Peeters
 editoriales:
-- Astiberri Ediciones
+- Astiberri
 cover:
   image: cover.jpg
   alt: Portada de Píldoras azules
@@ -43,7 +43,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Astiberri Ediciones
+  editorial: Astiberri
   formato: Paperback
   paginas: 200
   idioma: Spanish; Castilian

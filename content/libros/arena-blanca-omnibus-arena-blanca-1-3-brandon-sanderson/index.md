@@ -22,7 +22,7 @@ colaboradores:
 series:
 - White Sand
 editoriales:
-- Nova CF
+- Nova
 colaboradores_detalle:
 - nombre: Rik Hoskin
   rol: Illustrator
@@ -93,7 +93,7 @@ serie:
   posicion: 1-3
   url: https://www.goodreads.com/series/173736-white-sand
 detalles:
-  editorial: Nova CF
+  editorial: Nova
   formato: Hardcover
   paginas: 496
   idioma: Spanish; Castilian

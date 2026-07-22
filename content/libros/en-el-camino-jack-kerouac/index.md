@@ -13,7 +13,7 @@ tags:
 autores:
 - Jack Kerouac
 editoriales:
-- Anagrama - Salvat
+- Anagrama
 cover:
   image: cover.jpg
   alt: Portada de En el camino
@@ -59,7 +59,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Anagrama - Salvat
+  editorial: Anagrama
   formato: Hardcover
   paginas: 368
   idioma: Spanish; Castilian

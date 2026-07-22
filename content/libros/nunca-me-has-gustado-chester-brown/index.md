@@ -10,7 +10,7 @@ tags:
 autores:
 - Chester Brown
 editoriales:
-- Astiberri Ediciones
+- Astiberri
 cover:
   image: cover.jpg
   alt: Portada de Nunca me has gustado
@@ -52,7 +52,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Astiberri Ediciones
+  editorial: Astiberri
   formato: Paperback
   paginas: 190
   idioma: Spanish; Castilian

@@ -13,7 +13,7 @@ traductores:
 series:
 - '笑う吸血鬼 Warau kyūketsuki #1-2'
 editoriales:
-- Editores de Tebeos (Glenat)
+- Ediciones Glénat España
 cover:
   image: cover.jpg
   alt: Portada de La sonrisa del vampiro
@@ -53,7 +53,7 @@ serie:
   posicion: ''
   url: https://www.goodreads.com/series/409826-warau-ky-ketsuki-1-2
 detalles:
-  editorial: Editores de Tebeos (Glenat)
+  editorial: Ediciones Glénat España
   formato: Hardcover
   paginas: 512
   idioma: Spanish; Castilian

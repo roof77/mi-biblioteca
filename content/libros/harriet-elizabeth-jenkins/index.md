@@ -16,7 +16,7 @@ autores:
 colaboradores:
 - Catalina Martínez Muñoz
 editoriales:
-- Alba
+- Alba Editorial
 colaboradores_detalle:
 - nombre: Catalina Martínez Muñoz
   rol: Translator
@@ -85,7 +85,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Alba
+  editorial: Alba Editorial
   formato: Paperback
   paginas: 334
   idioma: Spanish; Castilian

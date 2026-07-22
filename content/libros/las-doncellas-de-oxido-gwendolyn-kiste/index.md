@@ -18,7 +18,7 @@ colaboradores:
 - Juan Alberto Hernández
 - José Ángel de Dios
 editoriales:
-- Dilatando Mentes
+- Dilatando Mentes Editorial
 colaboradores_detalle:
 - nombre: Antonio Torrubia
   rol: Prólogo
@@ -70,7 +70,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Dilatando Mentes
+  editorial: Dilatando Mentes Editorial
   formato: Paperback
   paginas: 304
   idioma: Spanish; Castilian

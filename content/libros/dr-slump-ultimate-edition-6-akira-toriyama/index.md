@@ -8,7 +8,7 @@ autores:
 series:
 - Dr.スランプ [Dr. Slump]
 editoriales:
-- Planeta DeAgostini
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: Portada de Dr. Slump Ultimate Edition 6
@@ -46,7 +46,7 @@ serie:
   posicion: '6'
   url: https://www.goodreads.com/series/183097-dr-dr-slump
 detalles:
-  editorial: Planeta DeAgostini
+  editorial: Planeta de Agostini
   formato: Paperback
   paginas: 248
   idioma: Spanish; Castilian

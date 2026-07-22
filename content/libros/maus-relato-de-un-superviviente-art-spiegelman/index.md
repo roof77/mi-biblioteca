@@ -16,7 +16,7 @@ autores:
 series:
 - Maus
 editoriales:
-- Planeta De Agostini
+- Planeta de Agostini
 cover:
   image: cover.jpg
   alt: 'Portada de Maus: relato de un superviviente'
@@ -70,7 +70,7 @@ serie:
   posicion: 1-2
   url: https://www.goodreads.com/series/50145-maus
 detalles:
-  editorial: Planeta De Agostini
+  editorial: Planeta de Agostini
   formato: Hardcover
   paginas: 295
   idioma: Spanish; Castilian

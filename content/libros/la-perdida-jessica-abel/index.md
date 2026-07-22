@@ -11,7 +11,7 @@ tags:
 autores:
 - Jessica Abel
 editoriales:
-- ASTIBERRI EDICIONES
+- Astiberri
 cover:
   image: cover.jpg
   alt: Portada de La Perdida
@@ -49,7 +49,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: ASTIBERRI EDICIONES
+  editorial: Astiberri
   formato: Hardcover
   paginas: 288
   idioma: Spanish; Castilian

@@ -16,7 +16,7 @@ autores:
 series:
 - Foundation (Publication Order)
 editoriales:
-- Círculo de Lectores, S.A
+- Círculo de Lectores
 cover:
   image: cover.jpg
   alt: Portada de TRILOGÍA DE LAS FUNDACIONES. Fundación. Fundación e Imperio. Segunda Fundación
@@ -77,7 +77,7 @@ serie:
   posicion: 1-3
   url: https://www.goodreads.com/series/59386-foundation-publication-order
 detalles:
-  editorial: Círculo de Lectores, S.A
+  editorial: Círculo de Lectores
   formato: Hardcover
   paginas: 796
   idioma: Spanish; Castilian

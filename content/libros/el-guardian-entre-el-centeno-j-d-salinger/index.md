@@ -16,7 +16,7 @@ autores:
 colaboradores:
 - Carmen Criado Fernández
 editoriales:
-- Alianza
+- Alianza Editorial
 colaboradores_detalle:
 - nombre: Carmen Criado Fernández
   rol: Translator
@@ -65,7 +65,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: Alianza
+  editorial: Alianza Editorial
   formato: Paperback
   paginas: 266
   idioma: Spanish; Castilian

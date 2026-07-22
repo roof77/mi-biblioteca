@@ -14,7 +14,7 @@ tags:
 autores:
 - Gabriel García Márquez
 editoriales:
-- DEBOLSILLO CONTEMPORANEA
+- DeBolsillo
 cover:
   image: cover.jpg
   alt: Portada de Del amor y otros demonios
@@ -68,7 +68,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: DEBOLSILLO CONTEMPORANEA
+  editorial: DeBolsillo
   formato: Pocket Book
   paginas: 176
   idioma: Spanish; Castilian

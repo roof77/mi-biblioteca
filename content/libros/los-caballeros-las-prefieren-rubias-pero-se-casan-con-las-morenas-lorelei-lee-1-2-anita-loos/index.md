@@ -18,7 +18,7 @@ colaboradores:
 series:
 - Lorelei Lee
 editoriales:
-- Alba
+- Alba Editorial
 colaboradores_detalle:
 - nombre: Carlos Casas
   rol: Translator
@@ -61,7 +61,7 @@ serie:
   posicion: 1-2
   url: https://www.goodreads.com/series/225278-lorelei-lee
 detalles:
-  editorial: Alba
+  editorial: Alba Editorial
   formato: Paperback
   paginas: 328
   idioma: Spanish; Castilian

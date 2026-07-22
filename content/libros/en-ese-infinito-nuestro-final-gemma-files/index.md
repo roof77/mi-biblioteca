@@ -15,7 +15,7 @@ autores:
 colaboradores:
 - Pilar Ramírez Tello
 editoriales:
-- La biblioteca de Carfax
+- La Biblioteca de Carfax
 colaboradores_detalle:
 - nombre: Pilar Ramírez Tello
   rol: Translator
@@ -51,7 +51,7 @@ serie:
   posicion: null
   url: null
 detalles:
-  editorial: La biblioteca de Carfax
+  editorial: La Biblioteca de Carfax
   formato: Paperback
   paginas: 416
   idioma: Spanish; Castilian
