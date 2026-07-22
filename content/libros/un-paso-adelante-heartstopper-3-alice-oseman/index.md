@@ -18,7 +18,7 @@ colaboradores:
 series:
 - Heartstopper
 editoriales:
-- Destino
+- Crossbooks
 colaboradores_detalle:
 - nombre: Victoria Simó
   rol: Translator
@@ -57,7 +57,7 @@ serie:
   posicion: '3'
   url: https://www.goodreads.com/series/236821-heartstopper
 detalles:
-  editorial: Destino
+  editorial: Crossbooks
   formato: Paperback
   paginas: 384
   idioma: Spanish; Castilian
