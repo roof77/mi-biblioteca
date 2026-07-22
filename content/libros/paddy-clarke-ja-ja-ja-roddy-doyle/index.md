@@ -26,10 +26,19 @@ libro:
   titulo: Paddy Clarke, ja, ja, ja
   url: https://www.goodreads.com/book/show/67725753-paddy-clarke-ja-ja-ja
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1694877748i/67725753.jpg
-  sinopsis: '"Sometimes when nothing happened it was really getting ready to happen." Irish Paddy rampages through Barrytown
-    streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad
-    boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always
-    for the better.'
+  sinopsis: 'Ganadora del Premio Booker: la ingeniosa y exuberante novela de Roddy Doyle sobre un niño que intenta entender
+    un mundo en constante cambio.
+
+
+    Es 1968. Patrick Clarke tiene diez años. Le encanta Gerónimo, Los Tres Chiflados y el olor de su bolsa de agua caliente.
+    No soporta a su hermano pequeño, Sinbad. Su mejor amigo es Kevin, y sus nombres están por todo Barrytown, escritos con
+    palos en el cemento húmedo.
+
+
+    Juegan al fútbol, a los leprosos y a saltar hasta el fondo del mar. Pero, ¿por qué nadie le ayudó cuando Charles Leavy
+    iba a matarlo? ¿Por qué su madre y su padre discuten tanto, pero actúan como si todo fuera bien? Paddy lo ve todo, pero
+    cada vez lo entiende menos. Divertidísima y conmovedora, *Paddy Clarke Ha Ha Ha* narra los triunfos, las humillaciones
+    y el desconcierto de un niño y su mundo, un lugar lleno de calidez, crueldad, confusión y amor.'
 autor:
   nombre: Roddy Doyle
   rol: Author
@@ -89,7 +98,11 @@ generos_traducidos:
 - Ficción histórica
 - Literatura
 - Siglo XX
-_hash_origen: 4a447a8a6a4cffc2971aed9122b800b6069736a6c2cb35ffb43ba3c05cfb5a20
+_hash_origen: 7e5a1a569c99d387f5b8a57a73ed709f699972a54015997fc0a9d07af909d117
 ---
 
-"Sometimes when nothing happened it was really getting ready to happen." Irish Paddy rampages through Barrytown streets with like-minded hooligans, playing cowboys, etching names in wet concrete, setting fires. The gang are not bad boys, just restless. When his parents argue, Paddy stays up all night to keep them safe. Change always comes, not always for the better.
+Ganadora del Premio Booker: la ingeniosa y exuberante novela de Roddy Doyle sobre un niño que intenta entender un mundo en constante cambio.
+
+Es 1968. Patrick Clarke tiene diez años. Le encanta Gerónimo, Los Tres Chiflados y el olor de su bolsa de agua caliente. No soporta a su hermano pequeño, Sinbad. Su mejor amigo es Kevin, y sus nombres están por todo Barrytown, escritos con palos en el cemento húmedo.
+
+Juegan al fútbol, a los leprosos y a saltar hasta el fondo del mar. Pero, ¿por qué nadie le ayudó cuando Charles Leavy iba a matarlo? ¿Por qué su madre y su padre discuten tanto, pero actúan como si todo fuera bien? Paddy lo ve todo, pero cada vez lo entiende menos. Divertidísima y conmovedora, *Paddy Clarke Ha Ha Ha* narra los triunfos, las humillaciones y el desconcierto de un niño y su mundo, un lugar lleno de calidez, crueldad, confusión y amor.

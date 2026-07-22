@@ -25,10 +25,14 @@ libro:
   titulo: Mamá
   url: https://www.goodreads.com/book/show/9829612-mam
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1355034503i/9829612.jpg
-  sinopsis: Nikki Eaton, single, thirty-one, sexually liberated, and economically self-supporting, has never particularly
-    thought of herself as a daughter. Yet, following the unexpected loss of her mother, she undergoes a remarkable transformation
-    during a tumultuous year that brings stunning horror, sorrow, illumination, wisdom, and even—from an unexpected source—a
-    nurturing love.
+  sinopsis: '«Esta es la historia de cuánto echo en falta a mi madre. Algún día, de una forma única, será también tu historia.»
+
+    A su treinta y un años, Nikki Eaton ha alcanzado la liberación sexual y la independencia económica. Nunca se ha visto
+    a sí misma como «hija», sin embargo, la inesperada muerte de su madre la llevará a una intensa transformación personal.
+    A lo largo de un año crucial se verá inmersa en la pena, pero también en la sabiduría, e incluso en un amor repentino
+    y providencial.
+
+    La «gran novelista americana», autora de La hija del sepulturero, nos deslumbra de nuevo con Mamá, su novela más conmovedora.'
 autor:
   nombre: Joyce Carol Oates
   rol: Author
@@ -86,7 +90,9 @@ generos_traducidos:
 - Familia
 - EEUU
 - Club de lectura
-_hash_origen: bf4e0a9dc0a96bf592059a4c8f23c85e3eaab35f0dc51b7f49d0ddc3f31b64ea
+_hash_origen: 334a0381d1e74f20302dfcf4ce65c624b4decbc73534f6d1e93fb5af18188051
 ---
 
-Nikki Eaton, single, thirty-one, sexually liberated, and economically self-supporting, has never particularly thought of herself as a daughter. Yet, following the unexpected loss of her mother, she undergoes a remarkable transformation during a tumultuous year that brings stunning horror, sorrow, illumination, wisdom, and even—from an unexpected source—a nurturing love.
+«Esta es la historia de cuánto echo en falta a mi madre. Algún día, de una forma única, será también tu historia.»
+A su treinta y un años, Nikki Eaton ha alcanzado la liberación sexual y la independencia económica. Nunca se ha visto a sí misma como «hija», sin embargo, la inesperada muerte de su madre la llevará a una intensa transformación personal. A lo largo de un año crucial se verá inmersa en la pena, pero también en la sabiduría, e incluso en un amor repentino y providencial.
+La «gran novelista americana», autora de La hija del sepulturero, nos deslumbra de nuevo con Mamá, su novela más conmovedora.

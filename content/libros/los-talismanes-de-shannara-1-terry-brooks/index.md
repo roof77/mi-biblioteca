@@ -19,11 +19,13 @@ libro:
   titulo: Los Talismanes de Shannara 1
   url: https://www.goodreads.com/book/show/2955467-los-talismanes-de-shannara-1
   portada: ''
-  sinopsis: Поръченията на друида Аланон привидно са изпълнени. Всички герои са се завърнали в Четирите земи. Но изведнъж
-    Четирите конника на Апокалипсиса обсаждат възстановената крепост Паранор и Уокър Бо. Огромните войски на Федерацията,
-    съюзили се с най-ужасяващите чудовища, напредват към току-що основаното кралство на Елфите и Рен. Главният преследвач
-    Ример Дал заплита сатанинска интрига, за да се добере до светлата магия на Пар. Развихря се последният, решаващ сблъсък
-    с Шадуините, битка със сенките и мрака, с предателството и жестокостта, с отровата, заплашваща да изпепели света.
+  sinopsis: Los descendientes de la casa elfa de Shannara habían cumplido su misión. Walker Boh, sirviéndose del poder de
+    las piedras élficas negras, había recuperado el perdido Alcázar de los Druidas, Paranor, y se había convertido en el último
+    druida. Wren había encontrado a los elfos desaparecidos y los había llevado de la isla de Morrowindl a las Cuatro Tierras,
+    y ahora era la reina de los elfos. Mientras tanto, Par había encontrado lo que seguramente era la legendaria Espada de
+    Shannara. Pero no todo había terminado... Las Cuatro Tierras seguían plagadas de espectros que habían envenenado todo
+    con su oscuro poder y su líder, Rimmer Dall, haría todo lo posible para que los vástagos de Shannara no pudieran poner
+    fin a la enfermedad.
 autor:
   nombre: Terry Brooks
   rol: Author
@@ -68,7 +70,7 @@ premios:
   nominaciones: []
 generos_traducidos:
 - Fantasía
-_hash_origen: edd943c8ab82267fa398d056ed0b6303b5cf6c2283c668e0a21c0520ca7d6ba3
+_hash_origen: dede94c53ec0efbb79993b33d2d87017188a701c94d51966e6a1e61a3062a3a3
 ---
 
-Поръченията на друида Аланон привидно са изпълнени. Всички герои са се завърнали в Четирите земи. Но изведнъж Четирите конника на Апокалипсиса обсаждат възстановената крепост Паранор и Уокър Бо. Огромните войски на Федерацията, съюзили се с най-ужасяващите чудовища, напредват към току-що основаното кралство на Елфите и Рен. Главният преследвач Ример Дал заплита сатанинска интрига, за да се добере до светлата магия на Пар. Развихря се последният, решаващ сблъсък с Шадуините, битка със сенките и мрака, с предателството и жестокостта, с отровата, заплашваща да изпепели света.
+Los descendientes de la casa elfa de Shannara habían cumplido su misión. Walker Boh, sirviéndose del poder de las piedras élficas negras, había recuperado el perdido Alcázar de los Druidas, Paranor, y se había convertido en el último druida. Wren había encontrado a los elfos desaparecidos y los había llevado de la isla de Morrowindl a las Cuatro Tierras, y ahora era la reina de los elfos. Mientras tanto, Par había encontrado lo que seguramente era la legendaria Espada de Shannara. Pero no todo había terminado... Las Cuatro Tierras seguían plagadas de espectros que habían envenenado todo con su oscuro poder y su líder, Rimmer Dall, haría todo lo posible para que los vástagos de Shannara no pudieran poner fin a la enfermedad.

@@ -22,17 +22,9 @@ libro:
   titulo: Roy Stuart, Vol.2
   url: https://www.goodreads.com/book/show/3247105-roy-stuart-vol-2
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347493726i/3247105.jpg
-  sinopsis: "In his second book for TASCHEN, Roy Stuart produced photos that were both finely crafted compositions and highly\
-    \ charged representations of desire, without slipping into the tired stereotypes of pornography and the degrading portrayals\
-    \ that genre normally offers up.\r\nIn his pictorial world, women are potently sexual figures who know what they want\
-    \ and are going to get it. Exploratory, experimental, they hold all the cards in the consensual power plays and fantasy\
-    \ enactments presented.\r\n\r\nThis collection of narratives and pictorials does not fail to deliver either, with its\
-    \ refreshingly honest and strikingly explicit take on the more creative areas of the sexual psyche. Playing off dream\
-    \ scenarios against shots caught on the run in the street, and portrait style nudes against group love-ins, it will satisfy\
-    \ both the connoisseur of the erotic as well as the curious newcomer. \r\n\r\nWith his trademark interest in the daily\
-    \ rituals of womankind still apparent, and his richly textured appreciation of the garments of seduction, Stuart's work\
-    \ might take a little acclimatisation. But once you let go and enter in, you will find that, along with the loosening\
-    \ of clothing, a little relaxation of one's inhibitions can go a long way."
+  sinopsis: Con su característico interés por los rituales cotidianos de las mujeres y su apreciación, llena de matices, de
+    las prendas de seducción, Stuart presenta representaciones fotográficas del deseo que no caen en los manidos estereotipos
+    de la pornografía ni en las representaciones degradantes.
 autor:
   nombre: Roy Stuart
   rol: Photographer
@@ -71,12 +63,7 @@ generos_traducidos:
 - Erotismo
 - No Ficción
 - Arte
-_hash_origen: 7394b3c7fb887408c6628c0d767ae1678e4639b41507226fc8d755e16532a30f
+_hash_origen: 7227e96e893fd26744c6e8d78e6041095f6ce1ea953421027725b35524a2e04a
 ---
 
-In his second book for TASCHEN, Roy Stuart produced photos that were both finely crafted compositions and highly charged representations of desire, without slipping into the tired stereotypes of pornography and the degrading portrayals that genre normally offers up.
-In his pictorial world, women are potently sexual figures who know what they want and are going to get it. Exploratory, experimental, they hold all the cards in the consensual power plays and fantasy enactments presented.
-
-This collection of narratives and pictorials does not fail to deliver either, with its refreshingly honest and strikingly explicit take on the more creative areas of the sexual psyche. Playing off dream scenarios against shots caught on the run in the street, and portrait style nudes against group love-ins, it will satisfy both the connoisseur of the erotic as well as the curious newcomer. 
-
-With his trademark interest in the daily rituals of womankind still apparent, and his richly textured appreciation of the garments of seduction, Stuart's work might take a little acclimatisation. But once you let go and enter in, you will find that, along with the loosening of clothing, a little relaxation of one's inhibitions can go a long way.
+Con su característico interés por los rituales cotidianos de las mujeres y su apreciación, llena de matices, de las prendas de seducción, Stuart presenta representaciones fotográficas del deseo que no caen en los manidos estereotipos de la pornografía ni en las representaciones degradantes.

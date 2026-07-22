@@ -27,18 +27,22 @@ libro:
   titulo: Lovecraft. Una Biografía
   url: https://www.goodreads.com/book/show/19492986-lovecraft-una-biograf-a
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1387171294i/19492986.jpg
-  sinopsis: "This biography relates a paradoxical, ironic literary life--that of Howard Phillips Lovecraft, who never had\
-    \ a book of stories published in his lifetime, but who became a best-selling author after death; who died in obscure poverty,\
-    \ convinced of his failure, but who is now hailed as an important writer of the 20th century; who was a self-proclaimed\
-    \ misanthrope, but who collected a circle of devoted friends who remember him fondly as one of the kindest & most delightful\
-    \ people they ever knew. The author relates his peculiar upbringing, bizarre habits & preferences, his tragicomic careers,\
-    \ his role in the development of science fiction & his posthumous triumph--revealing how this strange neurotic man transformed\
-    \ his nightmares into the wonderful stories that have made him an influential & important literary figure. \r\n Lovecraft:\
-    \ A Biography is by sf writer L. Sprague de Camp, 1st published by Doubleday in 1975. The subsequent paper edition ('76)\
-    \ from Ballantine was an abridgement, for which the author deleted some text, notes, bibliography & index. De Camp was\
-    \ reportedly unhappy about having to remove the end matter. The work, a warts-&-all examination of the horror writer,\
-    \ was the 1st major independent biography of Lovecraft. The approach has been called frank & judicious by some, unflattering\
-    \ & unbalanced by others. It's been supplanted as the definitive biography by S.T. Joshi's H.P. Lovecraft: A Life ('96)."
+  sinopsis: 'Pocos escritores han tenido una vida tan paradójica como H.P. Lovecraft, el excéntrico y solitario «escritor
+    de espantos» de Providence, considerado por todos como el gran maestro del horror sobrenatural. Sin embargo, Lovecraft
+    murió en el más completo anonimato, sin haber visto editado en vida un volumen de sus narraciones. Fue un misántropo incurable,
+    y sin embargo era apreciado por todos los que le conocieron y se vio rodeado por un círculo de fieles admiradores que
+    lucharon denodadamente para rescatar su obra del olvido. Fue un gran materialista científico enfangado en seudocientíficas
+    teorías racistas, que abandonó en sus últimos años, volviéndose una especie de demócrata liberal. Se consideraba un caballero
+    victoriano que escribía por puro placer, pero su falta de recursos económicos lo llevó a ganarse la vida penosamente haciendo
+    correcciones y revisiones de estilo para literatos de ínfima categoría, manteniendo además una abrumadora correspondencia
+    de no menos de 100.000 cartas –una cifra nada desdeñable para un aristócrata que cultiva una estudiada pose de tedio e
+    indolencia–.
+
+
+    El estudio biográfico de Sprague de Camp narra de forma fascinante los extraños hábitos de Lovecraft, su tragicómica carrera
+    literaria y conyugal, su decisivo papel en el origen del fandom de ciencia ficción y de terror, y cómo sus pesadillas,
+    sueños y neurosis llegaron a entremezclarse con el hilo narrativo de sus historias, contribuyendo a cimentar la leyenda
+    que surgió después de su muerte.'
 autor:
   nombre: L. Sprague de Camp
   rol: Author
@@ -87,8 +91,9 @@ generos_traducidos:
 - Siglo XX
 - Literatura
 - Memorias
-_hash_origen: f5f0278ba6ea3ede8fe27a281241ad283e1c504ba5195902f8f594781bebf50e
+_hash_origen: 2a8a286c461901176dabd5314b1a5eb9000bfa09f7205d9c09fd41157047c17b
 ---
 
-This biography relates a paradoxical, ironic literary life--that of Howard Phillips Lovecraft, who never had a book of stories published in his lifetime, but who became a best-selling author after death; who died in obscure poverty, convinced of his failure, but who is now hailed as an important writer of the 20th century; who was a self-proclaimed misanthrope, but who collected a circle of devoted friends who remember him fondly as one of the kindest & most delightful people they ever knew. The author relates his peculiar upbringing, bizarre habits & preferences, his tragicomic careers, his role in the development of science fiction & his posthumous triumph--revealing how this strange neurotic man transformed his nightmares into the wonderful stories that have made him an influential & important literary figure. 
- Lovecraft: A Biography is by sf writer L. Sprague de Camp, 1st published by Doubleday in 1975. The subsequent paper edition ('76) from Ballantine was an abridgement, for which the author deleted some text, notes, bibliography & index. De Camp was reportedly unhappy about having to remove the end matter. The work, a warts-&-all examination of the horror writer, was the 1st major independent biography of Lovecraft. The approach has been called frank & judicious by some, unflattering & unbalanced by others. It's been supplanted as the definitive biography by S.T. Joshi's H.P. Lovecraft: A Life ('96).
+Pocos escritores han tenido una vida tan paradójica como H.P. Lovecraft, el excéntrico y solitario «escritor de espantos» de Providence, considerado por todos como el gran maestro del horror sobrenatural. Sin embargo, Lovecraft murió en el más completo anonimato, sin haber visto editado en vida un volumen de sus narraciones. Fue un misántropo incurable, y sin embargo era apreciado por todos los que le conocieron y se vio rodeado por un círculo de fieles admiradores que lucharon denodadamente para rescatar su obra del olvido. Fue un gran materialista científico enfangado en seudocientíficas teorías racistas, que abandonó en sus últimos años, volviéndose una especie de demócrata liberal. Se consideraba un caballero victoriano que escribía por puro placer, pero su falta de recursos económicos lo llevó a ganarse la vida penosamente haciendo correcciones y revisiones de estilo para literatos de ínfima categoría, manteniendo además una abrumadora correspondencia de no menos de 100.000 cartas –una cifra nada desdeñable para un aristócrata que cultiva una estudiada pose de tedio e indolencia–.
+
+El estudio biográfico de Sprague de Camp narra de forma fascinante los extraños hábitos de Lovecraft, su tragicómica carrera literaria y conyugal, su decisivo papel en el origen del fandom de ciencia ficción y de terror, y cómo sus pesadillas, sueños y neurosis llegaron a entremezclarse con el hilo narrativo de sus historias, contribuyendo a cimentar la leyenda que surgió después de su muerte.

@@ -25,11 +25,15 @@ libro:
   titulo: Moby Dick
   url: https://www.goodreads.com/book/show/23315725-moby-dick
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1412624067i/23315725.jpg
-  sinopsis: "Widely considered one of the great American novels, Herman Melville’s masterpiece went largely unread during\
-    \ his lifetime and was out of print at the time of his death in 1891. \r\n\r\nMoby Dick features detailed descriptions\
-    \ of whale hunting and whale oil extraction as well as beautiful, incisive writing on race, class, religion, art, and\
-    \ society. The story, loosely based on a real whaling shipwreck, features the unforgettable, vengeful Captain Ahab, who\
-    \ obsessively hunts a great white whale who bit his leg off below the knee."
+  sinopsis: 'Moby Dick, la novela que William Faulkner hubiera querido escribir, va siempre acompañada del reconocimiento
+    y el elogio que merece toda construcción narrativa impecable. La lucha del capitán Ahab, su terrible obsesión y la mítica
+    persecución de la enorme ballena ha traspasado fronteras, consiguiendo así la indiscutible categoría de obra maestra de
+    la literatura universal.
+
+    Esta edición cuenta con la introducción del especialista y director del Departamento de Estudios Americanos, Andrew Delbanco,
+    autor de Melville (2005), la biografía de referencia del autor de Moby Dick. Asimismo, incorpora una serie de ilustraciones
+    tales como el mapa de la travesía, un plano del ballenero Pequod y otras curiosidades que enriquecen la experiencia de
+    la lectura y proyectan la imaginación del lector.'
 autor:
   nombre: Herman Melville
   rol: Author
@@ -143,9 +147,8 @@ generos_traducidos:
 - EEUU
 - Siglo XIX
 - Literatura clásica
-_hash_origen: e57e31880d84aa577f228e3040a1a7f17c2146924885ce12d9360a0c546b36f3
+_hash_origen: 472e72d83867165cdcc423beb1a14cd238a6f0e06e10a261191d0f3d0af937b5
 ---
 
-Widely considered one of the great American novels, Herman Melville’s masterpiece went largely unread during his lifetime and was out of print at the time of his death in 1891. 
-
-Moby Dick features detailed descriptions of whale hunting and whale oil extraction as well as beautiful, incisive writing on race, class, religion, art, and society. The story, loosely based on a real whaling shipwreck, features the unforgettable, vengeful Captain Ahab, who obsessively hunts a great white whale who bit his leg off below the knee.
+Moby Dick, la novela que William Faulkner hubiera querido escribir, va siempre acompañada del reconocimiento y el elogio que merece toda construcción narrativa impecable. La lucha del capitán Ahab, su terrible obsesión y la mítica persecución de la enorme ballena ha traspasado fronteras, consiguiendo así la indiscutible categoría de obra maestra de la literatura universal.
+Esta edición cuenta con la introducción del especialista y director del Departamento de Estudios Americanos, Andrew Delbanco, autor de Melville (2005), la biografía de referencia del autor de Moby Dick. Asimismo, incorpora una serie de ilustraciones tales como el mapa de la travesía, un plano del ballenero Pequod y otras curiosidades que enriquecen la experiencia de la lectura y proyectan la imaginación del lector.

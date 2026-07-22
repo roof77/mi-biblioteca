@@ -22,8 +22,8 @@ libro:
   titulo: ROY STUART VOL. I TD 0102094
   url: https://www.goodreads.com/book/show/84889251-roy-stuart-vol-i-td-0102094
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678281946i/84889251.jpg
-  sinopsis: In turns voyeuristic, in turns narrative, Roy Stuart's photographs, with their disarming explicitness, subvert
-    traditional moral codes and force the viewer to reevaluate his or her preconceived notions of sexuality.
+  sinopsis: Por momentos voyeurísticas, por momentos narrativas, las fotografías de Roy Stuart, con su descarada franqueza,
+    subvierten los códigos morales tradicionales y obligan al espectador a replantearse sus ideas preconcebidas sobre la sexualidad.
 autor:
   nombre: Roy Stuart
   rol: Author
@@ -62,7 +62,7 @@ generos_traducidos:
 - Erotismo
 - Arte
 - No Ficción
-_hash_origen: 2bb5f250f61898a51337be0c1727bf53ade27dd5a8e0477b0473c400828086e3
+_hash_origen: bf7337b58ac4b3a7960ac0987e6c43b7275a6e5eebd562c0d4016ff2de6882e4
 ---
 
-In turns voyeuristic, in turns narrative, Roy Stuart's photographs, with their disarming explicitness, subvert traditional moral codes and force the viewer to reevaluate his or her preconceived notions of sexuality.
+Por momentos voyeurísticas, por momentos narrativas, las fotografías de Roy Stuart, con su descarada franqueza, subvierten los códigos morales tradicionales y obligan al espectador a replantearse sus ideas preconcebidas sobre la sexualidad.

@@ -27,15 +27,18 @@ libro:
   titulo: La Roca del Adios 2
   url: https://www.goodreads.com/book/show/5961491-la-roca-del-adios-2
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1582646820i/5961491.jpg
-  sinopsis: "The second book in the trilogy that launched one of the most important fantasy writers of our time.\r\n\r\nIt\
-    \ is a time of darkness, dread, and ultimate testing for the realm of Osten Ard, for the wild magic and terrifying minions\
-    \ of the undead Sithi ruler, Ineluki the Storm King, are spreading their seemingly undefeatable evil across the kingdom.\r\
-    \n \r\nWith the very land blighted by the power of Ineluki’s wrath, the tattered remnants of a once-proud human army flee\
-    \ in search of a last sanctuary and rallying point—the Stone of Farewell, a place shrouded in mystery and ancient sorrow.\r\
-    \n \r\nAn even as Prince Josua seeks to rally his scattered forces, Simon and the surviving members of the League of the\
-    \ Scroll are desperately struggling to discover the truth behind an almost-forgotten legend, which will take them from\
-    \ the fallen citadels of humans to the secret heartland of the Sithi—where near-immortals must at last decide whether\
-    \ to ally with the race of men in a final war against those of their own blood."
+sinopsis: 'El infernal poder de Ineluki, el Rey de la Tormenta y jefe sitha no muerto, destruye el reino de Osten Ard y siembra
+  un Mal contra el que no parece haber defensa. Sólo cuando el reino esté en posesión de las tres espadas de gran poder mágico,
+  recobrará la paz, pero el camino a recorrer para reunirlas está sembrado de una maligna brujería muy difícil de superar.
+  De este modo, los maltrechos restos del anteriormente glorioso ejército de Osten Ard huyen en búsqueda de un último refugio
+  y punto de reunión: la Roca del Adiós, lugar envuelto en misterios y pesares.Por su parte, los desperdigados supervivientes
+  de la Liga del Pergamino luchan con ahínco para cumplir unas misiones que los conducirán desde las devastadas ciudades de
+  los humanos hasta las escondidas cuevas de los qanue en las montañas a través de tempestuosas aguas, de un bosque lleno
+  de tremendos, peligros que ningún ser humano podría afrontar, y del secreto mundo de los sitha, donde esos seres, poco menos
+  que inmortales, deben decidir si llegan a una alianza con los hombres en una última guerra contra los de su propia sangre.
+  En este trascendental volumen se cumple lo que se vaticinaba en El trono de huesos de dragón, ya que la novela arrastra
+  a los lectores hasta el mismo centro de una guerra aniquiladora, alimentada por una magia capaz de deformar la estructura
+  del tiempo y del espacio.'
 autor:
   nombre: Tad Williams
   rol: Author
@@ -88,13 +91,7 @@ generos_traducidos:
 - Jovenes adultos
 - Épico
 - Mágia
-_hash_origen: ae0cc6fd707d44d0e1ff501e4e08ac90fe80c546ac5d157eb9bc7561b0618731
+_hash_origen: 407da628af7daf2194975d0464b690143f027b7dc28f3f6786088c3ea070ab78
 ---
 
-The second book in the trilogy that launched one of the most important fantasy writers of our time.
 
-It is a time of darkness, dread, and ultimate testing for the realm of Osten Ard, for the wild magic and terrifying minions of the undead Sithi ruler, Ineluki the Storm King, are spreading their seemingly undefeatable evil across the kingdom.
- 
-With the very land blighted by the power of Ineluki’s wrath, the tattered remnants of a once-proud human army flee in search of a last sanctuary and rallying point—the Stone of Farewell, a place shrouded in mystery and ancient sorrow.
- 
-An even as Prince Josua seeks to rally his scattered forces, Simon and the surviving members of the League of the Scroll are desperately struggling to discover the truth behind an almost-forgotten legend, which will take them from the fallen citadels of humans to the secret heartland of the Sithi—where near-immortals must at last decide whether to ally with the race of men in a final war against those of their own blood.

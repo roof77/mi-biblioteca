@@ -31,9 +31,14 @@ libro:
   titulo: Papeles póstumos del Club Pickwick, 3 (El Libro De Bolsillo) (Spanish Edition)
   url: https://www.goodreads.com/book/show/42752212-papeles-p-stumos-del-club-pickwick-3-el-libro-de-bolsillo
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1541947227i/42752212.jpg
-  sinopsis: With its scores of delightful, improbably named characters, this story of the celebrated Pickwick Club--wherein
-    the members report on their journeys, adventures, and observations of manner--reels with joyous fantasy, infectious good
-    humor, and a touch of the macabre.
+  sinopsis: La aparición en entregas mensuales de PAPELES PÓSTUMOS DEL CLUB PICKWICK a partir de marzo de 1836 significó para
+    CHARLES DICKENS (1812-1870) su consagración como escritor y su salto a la fama. La jocosa visión de Mr. Pickwick y la
+    narración de sus divertidas peripecias constituyen a la vez una despedida de la superficie amable de la sociedad preindustrial
+    y un ingreso subrepticio en la ruidosa, prepotente y contradictoria sociedad victoriana que por entonces vivía sus albores.
+    La invención de personajes que con el paso del tiempo habrían de convertirse en arquetipos para describir comportamientos
+    cotidianos y la descripción de escenarios y ambientes, a la vez retrato de una realidad histórica y modelo de transfiguración
+    artística, son los mayores logros de esta célebre novela de Dickens, repartida en la presente edición en tres volúmenes
+    (L 5605, L 5606 y L 5607).
 autor:
   nombre: Charles Dickens
   rol: Author
@@ -120,7 +125,7 @@ generos_traducidos:
 - Literatura británica
 - Ficción histórica
 - Novela
-_hash_origen: 4ff507e2727a704fac41ef077bde11d46d7ba552eda7a2232453b6310920bd8e
+_hash_origen: ca476af6a22ba21a45ccf322122efeb4c10bc4b866e0c57e4ab3e6608b0a6a2c
 ---
 
-With its scores of delightful, improbably named characters, this story of the celebrated Pickwick Club--wherein the members report on their journeys, adventures, and observations of manner--reels with joyous fantasy, infectious good humor, and a touch of the macabre.
+La aparición en entregas mensuales de PAPELES PÓSTUMOS DEL CLUB PICKWICK a partir de marzo de 1836 significó para CHARLES DICKENS (1812-1870) su consagración como escritor y su salto a la fama. La jocosa visión de Mr. Pickwick y la narración de sus divertidas peripecias constituyen a la vez una despedida de la superficie amable de la sociedad preindustrial y un ingreso subrepticio en la ruidosa, prepotente y contradictoria sociedad victoriana que por entonces vivía sus albores. La invención de personajes que con el paso del tiempo habrían de convertirse en arquetipos para describir comportamientos cotidianos y la descripción de escenarios y ambientes, a la vez retrato de una realidad histórica y modelo de transfiguración artística, son los mayores logros de esta célebre novela de Dickens, repartida en la presente edición en tres volúmenes (L 5605, L 5606 y L 5607).

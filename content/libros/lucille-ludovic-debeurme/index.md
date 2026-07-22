@@ -32,13 +32,11 @@ libro:
   titulo: Lucille
   url: https://www.goodreads.com/book/show/2326157.Lucille
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1263133512i/2326157.jpg
-  sinopsis: Page après page, Ludovic Debeurme nous invite à suivre au quotidien Lucille et Arthur, deux adolescents pour qui
-    la vie n'est ni facile, ni douce. C'est avec justesse, émotion et pudeur qu'il va faire de nous des témoins, jamais des
-    voyeurs, de ces deux vies chahutées. À travers ce récit âpre, rigoureux et sans concession, Ludovic Debeurme ne joue pas
-    le jeu du pathos ou du désespoir, au contraire il sait avec grand talent mettre en lumière la subtilité des sentiments
-    de ses personnages, faire surgir l'énergie, la tendresse et l'amour qui pourront permettre à ces deux êtres en perdition
-    de renaître. En laissant au lecteur le temps d'appréhender ces personnages, en s'attachant à toutes les complexités de
-    leur deux personnalités, Ludocvic Debeurme réussit à nous amener à un troublant sentiment de proximité avec ceux-ci.
+  sinopsis: 'LUCILLE es un vivo retrato de uno de los problemas clave entre la juventud actual: la anorexia y el autorechazo.
+    De la mano de un joven Debeurme, consolidado ya como una de las grandes promesas de la “nouvelle B.D.” francesa, esta
+    cautivadora novela gráfica nos acerca a la vida de una adolescente cuyo mencionado problema y una baja autoestima dificultan
+    su relación con los demás. La aparición de su primer amor, un turbulento muchacho con un padre alcohólico, cambiará su
+    vida.'
 autor:
   nombre: Ludovic Debeurme
   rol: Author
@@ -98,7 +96,7 @@ generos_traducidos:
 - Jovenes adultos
 - Romance
 - Drama
-_hash_origen: e1856304dc64bc6131a9d20ea62c8e36b79ce98757ffeb74b37d0d76c8b105a4
+_hash_origen: 72582c1c51a56baeae91086dca8a381a7eb45d906eca04f48364faf35f3a037e
 ---
 
-Page après page, Ludovic Debeurme nous invite à suivre au quotidien Lucille et Arthur, deux adolescents pour qui la vie n'est ni facile, ni douce. C'est avec justesse, émotion et pudeur qu'il va faire de nous des témoins, jamais des voyeurs, de ces deux vies chahutées. À travers ce récit âpre, rigoureux et sans concession, Ludovic Debeurme ne joue pas le jeu du pathos ou du désespoir, au contraire il sait avec grand talent mettre en lumière la subtilité des sentiments de ses personnages, faire surgir l'énergie, la tendresse et l'amour qui pourront permettre à ces deux êtres en perdition de renaître. En laissant au lecteur le temps d'appréhender ces personnages, en s'attachant à toutes les complexités de leur deux personnalités, Ludocvic Debeurme réussit à nous amener à un troublant sentiment de proximité avec ceux-ci.
+LUCILLE es un vivo retrato de uno de los problemas clave entre la juventud actual: la anorexia y el autorechazo. De la mano de un joven Debeurme, consolidado ya como una de las grandes promesas de la “nouvelle B.D.” francesa, esta cautivadora novela gráfica nos acerca a la vida de una adolescente cuyo mencionado problema y una baja autoestima dificultan su relación con los demás. La aparición de su primer amor, un turbulento muchacho con un padre alcohólico, cambiará su vida.

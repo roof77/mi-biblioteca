@@ -26,10 +26,13 @@ libro:
   titulo: Los Talismanes de Shannara 2
   url: https://www.goodreads.com/book/show/2591542-los-talismanes-de-shannara-2
   portada: ''
-  sinopsis: »Walker atmete die Luft ein, schloss seine Augen und entschwebte zu einem Ort tief in sich selbst. Krieg ritt
-    jetzt vorbei, ganz scharfe Kanten und Dornen, glitzernde Rüstung und schwarze Höhlungen. Walker ignorierte das Schattenwesen.
-    Schritt für Schritt ging er den Plan durch, den er ersonnen hatte. Dieses Mal würde nichts dem Zufall überlassen bleiben.
-    Er würde erfolgreich sein, oder er würde ... «
+  sinopsis: Rimmer Dall, líder de los espectros, quiere acabar con los vástagos de Shannara, y para ello envía a los cuatro
+    jinetes contra Walker Boh; busca a un amigo de Wren Elessedil capaz de traicionarla... Y para Par Ohmsford, cuya magia
+    del cantar es cada vez más incontrolable, concibe el destino más horrible de todos. A no ser que los descendientes de
+    Shannara consigan escapar a las trampas que les tienden, y que Par descubra una forma de utilizar la Espada de Shannara,
+    los proyectos que el fantasma del druida Allanon quería que se realizaran están abocados al fracaso. En este último volumen
+    de la saga de Shannara, Terry Brooks narra el punto culminante de la lucha entre un puñado de decididos héroes y el mal
+    omnipotente que intenta acabar con ellos.
 autor:
   nombre: Terry Brooks
   rol: Author
@@ -81,7 +84,7 @@ generos_traducidos:
 - Aventuras
 - Ciencia ficción
 - Mágia
-_hash_origen: dd23063f30a34886dba6bebc0b6571513418eb33153826340fd2616f2c01e6ff
+_hash_origen: 2ae6a4a9f6af4758d8f921890b9db3eefcde9d895dd8e3e4ff8bf169b6f34dfe
 ---
 
-»Walker atmete die Luft ein, schloss seine Augen und entschwebte zu einem Ort tief in sich selbst. Krieg ritt jetzt vorbei, ganz scharfe Kanten und Dornen, glitzernde Rüstung und schwarze Höhlungen. Walker ignorierte das Schattenwesen. Schritt für Schritt ging er den Plan durch, den er ersonnen hatte. Dieses Mal würde nichts dem Zufall überlassen bleiben. Er würde erfolgreich sein, oder er würde ... «
+Rimmer Dall, líder de los espectros, quiere acabar con los vástagos de Shannara, y para ello envía a los cuatro jinetes contra Walker Boh; busca a un amigo de Wren Elessedil capaz de traicionarla... Y para Par Ohmsford, cuya magia del cantar es cada vez más incontrolable, concibe el destino más horrible de todos. A no ser que los descendientes de Shannara consigan escapar a las trampas que les tienden, y que Par descubra una forma de utilizar la Espada de Shannara, los proyectos que el fantasma del druida Allanon quería que se realizaran están abocados al fracaso. En este último volumen de la saga de Shannara, Terry Brooks narra el punto culminante de la lucha entre un puñado de decididos héroes y el mal omnipotente que intenta acabar con ellos.
