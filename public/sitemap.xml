@@ -3446,7 +3446,10 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/manualidades/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-spanish-edition-servilibro/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/masaje-el-gran-libro-de-servilibro/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/tags/masajes/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/tags/nativos-americanos/</loc>

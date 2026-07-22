@@ -1,0 +1,122 @@
+---
+title: El chico en la oscuridad
+tags:
+- Fantasía
+- Ficción
+- Terror
+- Relatos
+- Clásico
+- Gótico
+- Novella
+- Ciencia ficción
+- Ciencia Ficción
+- Literatura
+autores:
+- Mervyn Peake
+colaboradores:
+- Ana Quijada
+series:
+- Gormenghast
+editoriales:
+- Ático de los Libros
+valoraciones:
+- 4.5 - 4.0
+colaboradores_detalle:
+- nombre: Ana Quijada
+  rol: Translator
+  url: https://www.goodreads.com/author/show/3964650.Ana_Quijada
+cover:
+  image: cover.jpg
+  alt: Portada de El chico en la oscuridad
+date: '2025-04-28'
+libro:
+  id: 229242018
+  titulo: El chico en la oscuridad
+  url: https://www.goodreads.com/book/show/229242018-el-chico-en-la-oscuridad
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745783207i/229242018.jpg
+  sinopsis: 'La obra inédita en castellano que amplía el mundo de Gormenghast
+
+
+    Cansado de las opresivas tradiciones de su castillo, el joven Titus decide escapar en busca de la libertad. Sin embargo,
+    su huida lo lleva a un inquietante y sombrío territorio habitado por misteriosas y peligrosas criaturas. Allí, Titus es
+    capturado y llevado ante una bestia maligna que intenta someterlo a su voluntad.
+
+
+    Peake construye una atmósfera cargada de simbolismo y terror, donde Titus debe enfrentarse a sus propios miedos y a su
+    deseo de independencia, a la oscuridad que lo rodea y a enemigos inimaginables.
+
+
+    Es la primera vez que se traduce al castellano esta obra que amplía el ciclo de Gormenghast. En estas páginas se exploran
+    temas de identidad, poder y opresión, y aflora el estilo único y la imaginación gótica de Peake, uno de los autores más
+    influyentes en la literatura fantástica del siglo xx, a la altura de J. R. R. Tolkien y C. S. Lewis.'
+autor:
+  nombre: Mervyn Peake
+  rol: Author
+  seguidores: 1184
+  obras: 101
+  url: https://www.goodreads.com/author/show/22018.Mervyn_Peake
+  bio: 'Mervyn Laurence Peake was an English modernist writer, artist, poet and illustrator. He is best known for what are
+    usually referred to as the <i>Gormenghast books</i>, though the <i>Titus</i> books would be more accurate: the three works
+    that exist were the beginning of what Peake conceived as a lengthy cycle, following his protagonist Titus Groan from cradle
+    to grave, but Peake''s untimely death prevented completion of the cycle, which is now commonly but erroneously referred
+    to as a trilogy. They are sometimes compared to the work of his older contemporary J.R.R. Tolkien, but his surreal fiction
+    was influenced by his early love for Charles Dickens and Robert Louis Stevenson rather than Tolkien''s studies of mythology
+    and philology.<br /><br />Peake also wrote poetry and literary nonsense in verse form, short stories for adults and children
+    ("Letters from a Lost Uncle"), stage and radio plays, and <i>Mr Pye</i>, a relatively tightly-structured novel in which
+    God implicitly mocks the evangelical pretensions and cosy world-view of the eponymous hero.<br /><br />Peake first made
+    his reputation as a painter and illustrator during the 1930s and 1940s, when he lived in London, and he was commissioned
+    to produce portraits of well-known people. A collection of these drawings is still in the possession of his family. Although
+    he gained little popular success in his lifetime, his work was highly respected by his peers, and his friends included
+    Dylan Thomas and Graham Greene. His works are now included in the collections of the National Portrait Gallery and the
+    Imperial War Museum.<br />'
+serie:
+  nombre: Gormenghast
+  posicion: '2.5'
+  url: https://www.goodreads.com/series/45757-gormenghast
+detalles:
+  editorial: Ático de los Libros
+  formato: Hardcover
+  paginas: 116
+  idioma: Spanish; Castilian
+  isbn: '8419703885'
+  isbn13: '9788419703880'
+  publicacion: '2025-04-28'
+  precio_kindle_usd: null
+personajes:
+- Titus Groan
+lugares:
+- nombre: Gormenghast
+  pais: null
+  anno_ficcion: null
+estadisticas:
+  media: 4.03
+  distribucion_estrellas:
+    '5': 130
+    '4': 160
+    '3': 82
+    '2': 16
+    '1': 2
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Fantasía
+- Ficción
+- Terror
+- Relatos
+- Clásico
+- Gótico
+- Novella
+- Ciencia ficción
+- Ciencia Ficción
+- Literatura
+_hash_origen: ca6d9eba286670e8887efdb99827a066681785fd1d086e1fd56b5b7b6164c652
+---
+
+La obra inédita en castellano que amplía el mundo de Gormenghast
+
+Cansado de las opresivas tradiciones de su castillo, el joven Titus decide escapar en busca de la libertad. Sin embargo, su huida lo lleva a un inquietante y sombrío territorio habitado por misteriosas y peligrosas criaturas. Allí, Titus es capturado y llevado ante una bestia maligna que intenta someterlo a su voluntad.
+
+Peake construye una atmósfera cargada de simbolismo y terror, donde Titus debe enfrentarse a sus propios miedos y a su deseo de independencia, a la oscuridad que lo rodea y a enemigos inimaginables.
+
+Es la primera vez que se traduce al castellano esta obra que amplía el ciclo de Gormenghast. En estas páginas se exploran temas de identidad, poder y opresión, y aflora el estilo único y la imaginación gótica de Peake, uno de los autores más influyentes en la literatura fantástica del siglo xx, a la altura de J. R. R. Tolkien y C. S. Lewis.

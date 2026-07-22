@@ -16,7 +16,10 @@ libro:
   titulo: UNIVERSO DC:HITMAN Nº2 (Spanish Edition)
   url: https://www.goodreads.com/book/show/101297104-universo-dc
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678901118i/101297104.jpg
-  sinopsis: ''
+  sinopsis: La recopilación íntegra del Hitman de Garth Ennis y John McCrea por fin disponible, en el formato Universo DC
+    de libro de bolsillo cargado de páginas. En 3 entregas mensuales de 544 páginas, todo Hitman recopilado, aparte de crossover
+    como el Demon Annual 2 (no publicado en la edición del Demon de Ennis para reservarlo aquí, que es donde le toca) o la
+    más reciente JLA/Hitman. Todo completo para disfrutar de esta gamberrada del autor de Predicador.
 autor:
   nombre: Garth Ennis
   rol: Author
@@ -80,7 +83,7 @@ premios:
   ganados: []
   nominaciones: []
 generos_traducidos: []
-_hash_origen: 5061447092f08f3e628a968d3bae7682098692b41d8807fc3a8cca645c3d2668
+_hash_origen: 8169f51c91dffa8145de3e242aee0fe2a067524f0046d5d248bceb68f91566c0
 ---
 
-
+La recopilación íntegra del Hitman de Garth Ennis y John McCrea por fin disponible, en el formato Universo DC de libro de bolsillo cargado de páginas. En 3 entregas mensuales de 544 páginas, todo Hitman recopilado, aparte de crossover como el Demon Annual 2 (no publicado en la edición del Demon de Ennis para reservarlo aquí, que es donde le toca) o la más reciente JLA/Hitman. Todo completo para disfrutar de esta gamberrada del autor de Predicador.

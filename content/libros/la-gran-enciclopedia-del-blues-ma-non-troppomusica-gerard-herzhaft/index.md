@@ -1,0 +1,72 @@
+---
+title: La gran enciclopedia del blues (Ma Non Troppomusica)
+tags:
+- Música
+- Referencia
+autores:
+- Gérard Herzhaft
+editoriales:
+- Robinbook
+valoraciones:
+- 4.0 - 3.5
+cover:
+  image: cover.jpg
+  alt: Portada de La gran enciclopedia del blues (Ma Non Troppomusica)
+date: '2003-09-01'
+libro:
+  id: 24693545
+  titulo: La gran enciclopedia del blues (Ma Non Troppomusica)
+  url: https://www.goodreads.com/book/show/24693545-la-gran-enciclopedia-del-blues-ma-non-troppomusica
+  portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677811756i/24693545.jpg
+  sinopsis: 'El escritor y musicólogo Gérard Herzhaft nos ofrece un minucioso, íntegro y riguroso panorama de la música blues
+    desde sus orígenes hasta la actualidad. Todo el blues está presente en esta ambiciosa obra: las biografías de sus grandes
+    protagonistas, la historia, los estilos, los instrumentos que en su amalgama constituyeron el «sonido blues», el papel
+    de los productores, los estudiosos, los aficionados y los sellos discográficos que descubrieron e impulsaron a tantos
+    talentos.
+
+
+    Considerada, tanto en Francia como en Estados Unidos, como la obra de referencia más completa sobre el blues, La gran
+    enciclopedia del blues ha sido especialmente revisada, ampliada y puesta al día por el autor para esta edición, y se han
+    incluido referencias específicas al ámbito español.'
+autor:
+  nombre: Gérard Herzhaft
+  rol: Author
+  seguidores: 2
+  obras: 38
+  url: https://www.goodreads.com/author/show/81800.G_rard_Herzhaft
+  bio: ''
+serie:
+  nombre: null
+  posicion: null
+  url: null
+detalles:
+  editorial: Robinbook
+  formato: Paperback
+  paginas: 448
+  idioma: Spanish; Castilian
+  isbn: '8495601826'
+  isbn13: '9788495601827'
+  publicacion: '2003-09-01'
+  precio_kindle_usd: null
+personajes: []
+lugares: []
+estadisticas:
+  media: 4
+  distribucion_estrellas:
+    '5': 4
+    '4': 9
+    '3': 4
+    '2': 0
+    '1': 0
+premios:
+  ganados: []
+  nominaciones: []
+generos_traducidos:
+- Música
+- Referencia
+_hash_origen: aa2fead15c93adfd8a0ade22075bda19c504ccb75ca73a3d69d5f05222bded87
+---
+
+El escritor y musicólogo Gérard Herzhaft nos ofrece un minucioso, íntegro y riguroso panorama de la música blues desde sus orígenes hasta la actualidad. Todo el blues está presente en esta ambiciosa obra: las biografías de sus grandes protagonistas, la historia, los estilos, los instrumentos que en su amalgama constituyeron el «sonido blues», el papel de los productores, los estudiosos, los aficionados y los sellos discográficos que descubrieron e impulsaron a tantos talentos.
+
+Considerada, tanto en Francia como en Estados Unidos, como la obra de referencia más completa sobre el blues, La gran enciclopedia del blues ha sido especialmente revisada, ampliada y puesta al día por el autor para esta edición, y se han incluido referencias específicas al ámbito español.

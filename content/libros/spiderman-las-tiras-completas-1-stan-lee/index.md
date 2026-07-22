@@ -20,8 +20,10 @@ libro:
   titulo: 'Spiderman: Las tiras completas 1'
   url: https://www.goodreads.com/book/show/7514416-spiderman
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1315630777i/7514416.jpg
-  sinopsis: Collecting John Romita Sr., and Stan Lee's fantastic run of Spider-Man daily newspaper strips from 1977-1981,
-    this book pits the webbed wonder against a whole host of foes from a classic era.
+  sinopsis: 'La recopilación en formato de lujo de un clásico del cómic de todos los tiempos, las legendarias tiras de prensa
+    del trepamuros, a cargo de sus más reconocidos autores: Stan Lee, el creador del personaje, y John Romita, el responsable
+    de sus años dorados, en una cuidada edición completa y cronológica. Mary Jane, tía May, el Doctor Octopus, el Lagarto,
+    Kraven.... El glamour y en encanto de los sesenta renace en esta obra maestra aparecida en los periódicos de todo el mundo.'
 autor:
   nombre: Stan Lee
   rol: Author
@@ -63,7 +65,7 @@ premios:
 generos_traducidos:
 - Comics
 - Superheroes
-_hash_origen: a0890fc1125d53ee1fcc06e0433feecc791eee0f73cdfd9dc19f4790b5d395e8
+_hash_origen: 8e23a8aa1767dcbfbac48e51d9d3a00529f78516b245d8831c23b33594127ec2
 ---
 
-Collecting John Romita Sr., and Stan Lee's fantastic run of Spider-Man daily newspaper strips from 1977-1981, this book pits the webbed wonder against a whole host of foes from a classic era.
+La recopilación en formato de lujo de un clásico del cómic de todos los tiempos, las legendarias tiras de prensa del trepamuros, a cargo de sus más reconocidos autores: Stan Lee, el creador del personaje, y John Romita, el responsable de sus años dorados, en una cuidada edición completa y cronológica. Mary Jane, tía May, el Doctor Octopus, el Lagarto, Kraven.... El glamour y en encanto de los sesenta renace en esta obra maestra aparecida en los periódicos de todo el mundo.

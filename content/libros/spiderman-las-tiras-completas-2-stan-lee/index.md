@@ -34,10 +34,11 @@ libro:
   titulo: 'Spiderman: Las tiras completas 2'
   url: https://www.goodreads.com/book/show/12573828-spiderman
   portada: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1315630911i/12573828.jpg
-  sinopsis: What's black and white and red and blue all over? Long thought lost to avid arachnophiles, three years' worth
-    of Spider-Man's newspaper adventures - from January 1977 to January 1980 - are collected in their entirety for the first
-    time across two volumes! Spiderdom's top talents set the web-slinger up with daily doses of enemies old and new, from
-    Kraven the Hunter to the Rattler!
+  sinopsis: Segunda entrega de dos. En los años setenta, el hombre que creara al trepamuros más famoso de la historia del
+    cómic se alió una vez más con el artista que encontrara su imagen definitiva. El Spiderman más memorable renacía, de mano
+    de Stan Lee “The Man” y el sonriente John Romita, en los periódicos de todo el mundo. Este segundo tomo de las tiras de
+    prensa arácnidas completa aquella mítica etapa, en un imprescindible tomo que no puede faltar en la tebeoteca de ningún
+    aficionado.
 autor:
   nombre: Stan Lee
   rol: Author
@@ -79,7 +80,7 @@ premios:
 generos_traducidos:
 - Superheroes
 - Comics
-_hash_origen: 526693872d14218b3bcb7ad0240add98271a04339d77b3508d91385251004be6
+_hash_origen: 239744ebe0aafdd034993211fe9720defe1d041c58d41b3d448ef2473a958242
 ---
 
-What's black and white and red and blue all over? Long thought lost to avid arachnophiles, three years' worth of Spider-Man's newspaper adventures - from January 1977 to January 1980 - are collected in their entirety for the first time across two volumes! Spiderdom's top talents set the web-slinger up with daily doses of enemies old and new, from Kraven the Hunter to the Rattler!
+Segunda entrega de dos. En los años setenta, el hombre que creara al trepamuros más famoso de la historia del cómic se alió una vez más con el artista que encontrara su imagen definitiva. El Spiderman más memorable renacía, de mano de Stan Lee “The Man” y el sonriente John Romita, en los periódicos de todo el mundo. Este segundo tomo de las tiras de prensa arácnidas completa aquella mítica etapa, en un imprescindible tomo que no puede faltar en la tebeoteca de ningún aficionado.
