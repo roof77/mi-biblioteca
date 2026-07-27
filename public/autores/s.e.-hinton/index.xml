@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 04 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mi-biblioteca/autores/s.e.-hinton/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rebeldes (Spanish Edition)</title>
-      <link>http://localhost:1313/mi-biblioteca/libros/rebeldes-spanish-edition-s-e-hinton/</link>
+      <title>Rebeldes</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/rebeldes-s-e-hinton/</link>
       <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/libros/rebeldes-spanish-edition-s-e-hinton/</guid>
+      <guid>http://localhost:1313/mi-biblioteca/libros/rebeldes-s-e-hinton/</guid>
       <description>&lt;p&gt;Una novela tan impactante hoy como cuando se publicó hace cincuenta años. Una historia emocionante e inolvidable sobre chicos de barrio que luchan por salir adelante.&lt;/p&gt;</description>
     </item>
   </channel>

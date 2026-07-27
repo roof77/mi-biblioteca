@@ -308,7 +308,7 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/cl%C3%A1sico/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/el-chico-en-la-oscuridad-spanish-edition-mervyn-peake/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/el-chico-en-la-oscuridad-mervyn-peake/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/series/gormenghast/</loc>
@@ -355,6 +355,21 @@
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/series/the-long-london-quintet-/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/valoraciones/0.5---0.0/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/libros/guia-de-viajes-fantasticos-loar-gwaien/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/colaboradores/ioannes-ensis/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/autores/loar-gwaien/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/editoriales/mar%C3%ADa-estela-guti%C3%A9rrez-torres/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/tags/aventuras/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
@@ -497,7 +512,7 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/visceral-maria-fernanda-ampuero/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/gormenghast-spanish-edition-mervyn-peake/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/gormenghast-mervyn-peake/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/tags/literatura-brit%C3%A1nica/</loc>
@@ -536,7 +551,7 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/sobrenatural/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/vendimos-nuestras-almas-spanish-edition-grady-hendrix/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/vendimos-nuestras-almas-grady-hendrix/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/v%C3%ADctor-ruiz-aldana/</loc>
@@ -644,7 +659,7 @@
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/luis-dom%C3%A8nech/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/titus-groan-gormenghast-1-spanish-edition-mervyn-peake/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/titus-groan-gormenghast-1-mervyn-peake/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/edward-carey/</loc>
@@ -800,7 +815,7 @@
     <loc>http://localhost:1313/mi-biblioteca/editoriales/seix-barral/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/zorro-8-biblioteca-formentor-spanish-edition-george-saunders/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/zorro-8-biblioteca-formentor-george-saunders/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/mari%C3%B1e-p%C3%A9rez/</loc>
@@ -1037,16 +1052,13 @@
     <loc>http://localhost:1313/mi-biblioteca/series/wayward-children/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/valoraciones/0.5---0.0/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/editoriales/alba-editorial/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/antologia-de-relatos-de-miedo-clasicos-ilustrados-spanish-edition-vva/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/antologia-de-relatos-de-miedo-clasicos-ilustrados-vva/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/catalina-mart%C3%ADnez-mu%C3%B1oz/</loc>
@@ -2168,7 +2180,7 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/acci%C3%B3n/</loc>
     <lastmod>2016-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/camaradas-del-frente-edicion-espanola-sven-hassel-serie-belica-spanish-edition-sven-hassel/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/camaradas-del-frente-edicion-espanola-sven-hassel-serie-belica-sven-hassel/</loc>
     <lastmod>2016-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/tags/ficci%C3%B3n-militar/</loc>
@@ -2182,6 +2194,9 @@
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/sven-hassel/</loc>
     <lastmod>2016-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-biblioteca/libros/los-panzers-de-la-muerte-edicion-espanola-sven-hassel-serie-belica-sven-hassel/</loc>
+    <lastmod>2016-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/los-panzers-de-la-muerte-edicion-espanola-sven-hassel-serie-belica-spanish-edition-sven-hassel/</loc>
     <lastmod>2016-08-09T00:00:00+00:00</lastmod>
@@ -2264,7 +2279,7 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/ficci%C3%B3n-realista/</loc>
     <lastmod>2016-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rebeldes-spanish-edition-s-e-hinton/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rebeldes-s-e-hinton/</loc>
     <lastmod>2016-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/s.e.-hinton/</loc>
@@ -3398,7 +3413,7 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/papeles-postumos-del-club-pickwick-charles-dickens/</loc>
     <lastmod>2012-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/papeles-postumos-del-club-pickwick-3-el-libro-de-bolsillo-spanish-edition-charles-dickens/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/papeles-postumos-del-club-pickwick-3-charles-dickens/</loc>
     <lastmod>2012-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/a-la-rica-marihuana-y-otros-sabores-terry-southern/</loc>
@@ -3758,7 +3773,7 @@
     <loc>http://localhost:1313/mi-biblioteca/autores/david-gates/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/jernigan-spanish-edition-david-gates/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/jernigan-david-gates/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/marta-alcaraz/</loc>
@@ -4241,9 +4256,6 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/como-una-moto-la-vida-galopante-de-john-belushi-bob-woodward/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/como-una-moto-la-vida-galopante-de-john-belushi-papel-de-liar-spanish-edition-bob-woodward/</loc>
-    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mi-biblioteca/editoriales/global-rhythm-press/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -4544,7 +4556,7 @@
     <loc>http://localhost:1313/mi-biblioteca/autores/garth-ennis/</loc>
     <lastmod>2008-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no2-spanish-edition-garth-ennis/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-2-garth-ennis/</loc>
     <lastmod>2008-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/tags/erotismo/</loc>
@@ -4991,7 +5003,7 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/locas-3-jaime-hernandez/</loc>
     <lastmod>2006-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/ice-haven-spanish-edition-daniel-clowes/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/ice-haven-daniel-clowes/</loc>
     <lastmod>2006-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/roberto-falc%C3%B3-miramontes/</loc>
@@ -5003,7 +5015,7 @@
     <loc>http://localhost:1313/mi-biblioteca/autores/claire-zimmerman/</loc>
     <lastmod>2006-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/mies-van-der-rohe-spanish-edition-claire-zimmerman/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/mies-van-der-rohe-claire-zimmerman/</loc>
     <lastmod>2006-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/series/taschen-basic-architecture/</loc>
@@ -5135,9 +5147,6 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/cash-la-autobiografia-de-johnny-cash-memorias-johnny-cash/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/cash-la-autobiografia-de-johnny-cash-memorias-spanish-edition-johnny-cash/</loc>
-    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/el-quinto-en-discordia-trilogia-de-deptford-1-robertson-davies/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -5162,10 +5171,10 @@
     <loc>http://localhost:1313/mi-biblioteca/tags/cl%C3%A1sicos/</loc>
     <lastmod>2006-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1953-1954-no-05-12-comics-clasicos-no-spanish-edition-alex-raymond/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1953-1954-no-05-12-alex-raymond/</loc>
     <lastmod>2006-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1954-1956-no-06-12-comics-clasicos-no-spanish-edition-alex-raymond/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1954-1956-no-06-12-alex-raymond/</loc>
     <lastmod>2006-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/pussey-daniel-clowes/</loc>
@@ -5231,7 +5240,7 @@
     <loc>http://localhost:1313/mi-biblioteca/series/the-fionavar-tapestry/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1951-1953-no-04-12-comics-clasicos-no-spanish-edition-alex-raymond/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1951-1953-no-04-12-alex-raymond/</loc>
     <lastmod>2005-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/guy-de-maupassant/</loc>
@@ -5240,7 +5249,7 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/la-casa-tellier-y-otros-cuentos-eroticos-guy-de-maupassant/</loc>
     <lastmod>2005-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1949-1951-no-03-12-comics-clasicos-no-spanish-edition-alex-raymond/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1949-1951-no-03-12-alex-raymond/</loc>
     <lastmod>2005-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/jim-heimann/</loc>
@@ -5264,7 +5273,7 @@
     <loc>http://localhost:1313/mi-biblioteca/autores/edward-lewis-wallant/</loc>
     <lastmod>2005-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/los-inquilinos-de-moonbloom-spanish-edition-edward-lewis-wallant/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/los-inquilinos-de-moonbloom-edward-lewis-wallant/</loc>
     <lastmod>2005-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/rodrigo-fres%C3%A1n/</loc>
@@ -5294,7 +5303,7 @@
     <loc>http://localhost:1313/mi-biblioteca/series/rip-kirby/</loc>
     <lastmod>2005-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1947-1949-no-02-12-comics-clasicos-no-spanish-edition-alex-raymond/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-1947-1949-no-02-12-alex-raymond/</loc>
     <lastmod>2005-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/rip-kirby-no-01-12-1946-1947-alex-raymond/</loc>
@@ -5426,7 +5435,7 @@
     <loc>http://localhost:1313/mi-biblioteca/editoriales/b-e-s-pub-co/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/el-alma-del-vampiro-spanish-edition-poppy-z-brite/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/el-alma-del-vampiro-poppy-z-brite/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/libros/la-princesa-caballero-3-de-3-coleccion-clasicos-manga-la-princesa-caballero-3-osamu-tezuka/</loc>
@@ -5483,7 +5492,7 @@
     <loc>http://localhost:1313/mi-biblioteca/autores/g%C3%A9rard-herzhaft/</loc>
     <lastmod>2003-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/la-gran-enciclopedia-del-blues-ma-non-troppomusica-spanish-edition-gerard-herzhaft/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/la-gran-enciclopedia-del-blues-ma-non-troppomusica-gerard-herzhaft/</loc>
     <lastmod>2003-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/editoriales/robinbook/</loc>
@@ -5900,7 +5909,7 @@
     <loc>http://localhost:1313/mi-biblioteca/libros/lost-highway-david-lynch/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-spanish-edition-kenneth-anger/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/hollywood-babilonia-ii-kenneth-anger/</loc>
     <lastmod>1996-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/colaboradores/antonio-resines/</loc>
@@ -6326,7 +6335,7 @@
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/felix-gornam/</loc>
   </url><url>
-    <loc>http://localhost:1313/mi-biblioteca/libros/heroe-hero-spanish-edition-felix-gornam/</loc>
+    <loc>http://localhost:1313/mi-biblioteca/libros/heroe-hero-felix-gornam/</loc>
   </url><url>
     <loc>http://localhost:1313/mi-biblioteca/autores/joe-matt/</loc>
   </url><url>

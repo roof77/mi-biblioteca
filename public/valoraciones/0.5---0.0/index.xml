@@ -6,8 +6,16 @@
     <description>Recent content in 0.5 - 0.0 on Mi biblioteca</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mi-biblioteca/valoraciones/0.5---0.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía de viajes fantásticos</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/guia-de-viajes-fantasticos-loar-gwaien/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mi-biblioteca/libros/guia-de-viajes-fantasticos-loar-gwaien/</guid>
+      <description>&lt;p&gt;El libro que tienes en tus manos es una muestra de cómo les habitantes de los márgenes de las redes corporativas pueden unirse para llevar a cabo un sueño. Loar escríbió las historias. Ensis se ofreció a ilustrarlas. Toñi, Pilar, Josu y Estela pasaban por ahí. Y trescientas personas dieron su apoyo en una campaña de micromecenazgo que solo se publicitó en el Fediverso.&lt;/p&gt;
+&lt;p&gt;A través de doscientos dieciocho microrrelatos, Loar Gwaien nos presenta, de la mano de le viajere, las principales ciudades de las Tierras Emergidas, sus habitantes y sus costumbres. Las veintidós ilustraciones originales de loannes Ensis abren una ventana que nos muestra una parte de este mundo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A propósito de Cora</title>
       <link>http://localhost:1313/mi-biblioteca/libros/a-proposito-de-cora-david-narganes-robas/</link>
@@ -37,10 +45,10 @@
       <description>&lt;p&gt;¿Seguro que sabes lo que es sentirse seguro? Decúbrelo con Snoopy y los Peanuts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>UNIVERSO DC:HITMAN Nº2 (Spanish Edition)</title>
-      <link>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no2-spanish-edition-garth-ennis/</link>
+      <title>Universo DC: Hitman nº 2</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-2-garth-ennis/</link>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no2-spanish-edition-garth-ennis/</guid>
+      <guid>http://localhost:1313/mi-biblioteca/libros/universo-dc-hitman-no-2-garth-ennis/</guid>
       <description>&lt;p&gt;La recopilación íntegra del Hitman de Garth Ennis y John McCrea por fin disponible, en el formato Universo DC de libro de bolsillo cargado de páginas. En 3 entregas mensuales de 544 páginas, todo Hitman recopilado, aparte de crossover como el Demon Annual 2 (no publicado en la edición del Demon de Ennis para reservarlo aquí, que es donde le toca) o la más reciente JLA/Hitman. Todo completo para disfrutar de esta gamberrada del autor de Predicador.&lt;/p&gt;</description>
     </item>
     <item>
@@ -81,10 +89,10 @@ Al principio, episodio especial publicado en 1966 como introducción para aquell
       <description></description>
     </item>
     <item>
-      <title>Heroe/ Hero (Spanish Edition)</title>
-      <link>http://localhost:1313/mi-biblioteca/libros/heroe-hero-spanish-edition-felix-gornam/</link>
+      <title>Heroe / Hero</title>
+      <link>http://localhost:1313/mi-biblioteca/libros/heroe-hero-felix-gornam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mi-biblioteca/libros/heroe-hero-spanish-edition-felix-gornam/</guid>
+      <guid>http://localhost:1313/mi-biblioteca/libros/heroe-hero-felix-gornam/</guid>
       <description></description>
     </item>
   </channel>
